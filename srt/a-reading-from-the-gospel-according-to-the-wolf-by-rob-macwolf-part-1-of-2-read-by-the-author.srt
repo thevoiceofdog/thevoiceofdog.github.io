@@ -1,0 +1,2359 @@
+0
+00:16:36,690 --> 00:16:38,880:
+,nwot edisrevir llams a ni pu dnuow dah eH
+
+1
+00:12:41,159 --> 00:12:43,440:
+,tellaw sih fo tuo drac eht dehsif eh
+
+2
+00:08:35,549 --> 00:08:36,900:
+,ecitcarp koot tI
+
+3
+00:04:14,279 --> 00:04:15,960:
+,pu tnew sworbeye sih
+
+4
+00:27:58,469 --> 00:28:00,329:
+,tsae dedaeh saw niart ehT
+
+5
+00:06:24,809 --> 00:06:28,440:
+,esidarap fo etsaterof ynit a ekiL .kcap eht fO
+
+6
+00:05:47,429 --> 00:05:50,640:
+,tegrof ton tsum dniknam taht rebmemer I taht sgniht roF
+
+7
+00:22:50,400 --> 00:22:52,770:
+.ssorca klaw ot yaw oN
+
+8
+00:01:45,480 --> 00:01:48,633:
+.dworc ylenol eht gnoma stsohg fo ecnad eht ni ti tlef evah I
+
+9
+00:05:10,529 --> 00:05:16,679:
+.rewsna ot woh nwonk evah t’ndluow eH .llew sa tsuJ
+
+10
+00:24:49,380 --> 00:24:51,209:
+,yarp ot mih thguat dah
+
+11
+00:01:00,270 --> 00:01:03,779:
+,kcen sih fo kcab eht ot gniod saw nus eht tahw yb desoppus eh ,tsaehtroN
+
+12
+00:15:09,090 --> 00:15:10,650:
+,seenk sih ot despalloc
+
+13
+00:10:55,530 --> 00:10:58,169:
+,desoppus eh ,kcap a ekam ot stros lla kooT
+
+14
+00:01:42,029 --> 00:01:45,480:
+.sduolc eht no sniatnuom eht fo snoitcelfer ni ti nees evah I
+
+15
+00:03:36,360 --> 00:03:38,639:
+sadacic htiw dellif ydaerla saw thgin ehT
+
+16
+00:10:51,419 --> 00:10:55,530:
+.detcepsus t’ndaH .huH
+
+17
+00:06:12,269 --> 00:06:15,480:
+.seninac prahs hcus htiw dedeen ybab a tahw
+
+18
+00:20:46,949 --> 00:20:50,369:
+.gnivael saw sub eht
+
+19
+00:23:48,479 --> 00:23:51,420:
+,ti t’nsaw ,dnalrevir eht fo traeh eht ni
+
+20
+00:15:01,200 --> 00:15:04,289:
+noitcidsiruj eht fo tuo eb tsum eh erus saw eh nehw dna
+
+21
+00:25:07,050 --> 00:25:09,119:
+,thgin siht ni saw esle gnihtemoS
+
+22
+00:15:16,380 --> 00:15:20,969:
+,tnemeganaM ecalupoP namuhartxE fo uaeruB eht morf ,DI sih fo renroc mottob eht ni
+
+23
+00:09:58,830 --> 00:10:01,080:
+.enohp eht morf gninruter nam eht dias
+
+24
+00:24:29,550 --> 00:24:31,319:
+mih ot gnineppah saw gnihtemoS
+
+25
+00:29:58,020 --> 00:30:02,430:
+eciov taht draeh ,srae sih ekorts wap taht tlef
+
+26
+00:30:04,770 --> 00:30:08,040:
+,emoh tsal ta saw eh
+
+27
+00:27:23,160 --> 00:27:27,089:
+ssom dna seert dna niar htaenrednu repeed llits dna
+
+28
+00:21:17,670 --> 00:21:20,400:
+.mih ediseb hsart eht ni
+
+29
+00:27:27,089 --> 00:27:31,170:
+.reverof maor ot secaps etinifni dna
+
+30
+00:21:30,839 --> 00:21:36,630:
+,meht rednu enilosag dna latem hguone htiw od thgim elpoep fo sdnik eseht tahw etamitserednu reveN
+
+31
+00:29:43,979 --> 00:29:45,660:
+,hguorht deppets reveN
+
+32
+00:00:24,180 --> 00:00:30,959:
+.flesmih rohtua eht yb uoy rof daeR ,owt fo owt trap
+
+33
+00:01:05,550 --> 00:01:07,620:
+,gniog saw eh erehw dna mih neewteb erew yehT
+
+34
+00:01:03,779 --> 00:01:05,550:
+.tnuocca on fo saw taht tub
+
+35
+00:29:22,410 --> 00:29:25,829:
+,dnuos ro thgis detcepxenu na yb esool deltsoj
+
+36
+00:27:36,959 --> 00:27:40,619:
+.dniheb morf mih dedrehpehs yltnelis
+
+37
+00:04:12,000 --> 00:04:14,279:
+etib eht tuoba trap eht ot tog eh nehw dna
+
+38
+00:22:02,729 --> 00:22:04,170:
+daeh sti gnikahs
+
+39
+00:13:29,269 --> 00:13:31,080:
+”,skramer trams ekam t’noD“
+
+40
+00:30:53,454 --> 00:30:54,775:
+,tnaem dah ti tahw
+
+41
+00:02:16,589 --> 00:02:18,750:
+rekcurt eht htiw elttil a klat ot deganam eh tuB
+
+42
+00:15:56,909 --> 00:15:58,979:
+?eh t’nsaw ,ti tsap saw eh won dnA
+
+43
+00:29:25,829 --> 00:29:27,750:
+siht yfitset dluow eh tub
+
+44
+00:13:11,789 --> 00:13:14,786:
+lamina gnikcinap eht no pirg a peek ot gnithgif
+
+45
+00:19:21,900 --> 00:19:26,339:
+modllarht ni setareneged roop eseht sah taht nomed eht tuB
+
+46
+00:12:16,799 --> 00:12:18,570:
+,namow decaf-drah A
+
+47
+00:03:57,119 --> 00:03:59,130:
+ruoy fi ,etunim a uoy evig nac I sseug I
+
+48
+00:03:09,509 --> 00:03:15,270:
+,peels ot mih llul yawhgih no sleehw fo muh eht tel ,snialp ot nrut edistuo tresed eht tel
+
+49
+00:01:58,620 --> 00:02:02,550:
+.edir a thguac eh ,thgin eht dna sniatnuom eht htob fo edis rehto eht nO
+
+50
+00:14:19,289 --> 00:14:20,969:
+,emit gnol a mih ta dekool ehS
+
+51
+00:01:18,599 --> 00:01:20,519:
+.llew yltcefrep wenk eH
+
+52
+00:31:28,344 --> 00:31:29,755:
+.goD fo ecioV eht ot
+
+53
+00:11:41,055 --> 00:11:45,150:
+mih fo tnorf ni dellup dah rac s’firrehs etihw dna kcalb eht niaga teef sih ot delbmarcs d’eh emit eht yb dna
+
+54
+00:24:13,079 --> 00:24:17,550:
+,taht seod ti uoy llet lliw yrtnuoc eht ni thgin ta klaw a rof seog ohw enoyna flesmih dlot eh dnA
+
+55
+00:19:52,319 --> 00:19:54,420:
+denimreted ,yawa gniklaw ydaerla saw eh tuB
+
+56
+00:00:57,209 --> 00:01:00,270:
+.sniatnuom tnatsid eht fo seenk derettahs eht dehcaer yeht litnu
+
+57
+00:10:09,960 --> 00:10:12,960:
+.yad eno ,uoy rof kcaP taerG eht ni ecalp a s’erehT
+
+58
+00:19:37,260 --> 00:19:40,949:
+sevlowerew ,ma’am ,reh erussa dluoc eh taht gniyas htiw
+
+59
+00:00:16,379 --> 00:00:18,809:
+.yrellag yrruFoS sih no
+
+60
+00:14:16,380 --> 00:14:19,289:
+?og ot eerf eh saW
+
+61
+00:21:07,877 --> 00:21:09,930:
+.mih ot ti dnah ot tnaeM
+
+62
+00:08:04,649 --> 00:08:07,980:
+.elbat eht ta tis ot yrt t’ndiD .olleh dias eH
+
+63
+00:00:01,799 --> 00:00:04,139:
+.goD fo ecioV eht ot gninetsil er'uoY
+
+64
+00:27:12,660 --> 00:27:17,670:
+,sey ,gnirewoprevo eb ot sa gnorts os ,floW .mih dnuora lla saw llems eht tuB
+
+65
+00:11:45,150 --> 00:11:47,580:
+,sthgil eht morf seye sih dleihs ot dah eh dna
+
+66
+00:01:33,870 --> 00:01:39,000:
+.taht enod d’eh emit tsrif eht eb t’ndluow ti tub ,thgin lla sniatnuom eht hguorht gniklaw naem dluow ebyam tahT
+
+67
+00:07:05,776 --> 00:07:08,549:
+.neeb ecno d’yeht tahw t’nerew srae sih dna
+
+68
+00:06:05,549 --> 00:06:08,850:
+namuh tub gnihtyna gnieb fo tcepsus ot esuac yna dah evah dluow ydobon
+
+69
+00:12:52,950 --> 00:12:54,809:
+,pih reh no saw nug reh
+
+70
+00:10:30,119 --> 00:10:34,229:
+.dluoc eh taht dnif dluow allef eht thguoht eh dias dna kcab delims eH
+
+71
+00:15:47,880 --> 00:15:50,609:
+?enod eb ot ereht saw esle tahW
+
+72
+00:07:47,910 --> 00:07:51,000:
+.gnirewsna regnol on ,nellus ylrettib
+
+73
+00:09:47,886 --> 00:09:50,489:
+.ecaep eb d’ereht
+
+74
+00:19:40,949 --> 00:19:45,869:
+.gnihtyna ro snatas ro snomed yna htiw od ot gnihton dnA .laer erew
+
+75
+00:10:45,989 --> 00:10:48,659:
+,dehctam erow nemow eht sgnir eht deciton eH
+
+76
+00:04:25,470 --> 00:04:30,839:
+.denrut eb ot ksa t’ndid sitruC .t’ndid eh os
+
+77
+00:02:32,039 --> 00:02:34,589:
+,egnarts lufrewop gnihtyna nees reve eh dah dnA
+
+78
+00:20:20,640 --> 00:20:30,119:
+’!reganam ruoy
+
+79
+00:25:32,931 --> 00:25:37,890:
+.aedi dab a t’nsaw taht tuB
+
+80
+00:19:26,339 --> 00:19:29,339:
+”!od yeht kniht meht sekam
+
+81
+00:18:12,900 --> 00:18:15,510:
+miH tpecca enoyreve taht
+
+82
+00:08:16,950 --> 00:08:18,750:
+,tcatnoc eye edam eh oS
+
+83
+00:29:36,719 --> 00:29:38,640:
+.rood taht nepo dehsup reveN
+
+84
+00:21:24,209 --> 00:21:27,420:
+.rac dezisrevo reh otni kcab deltsub ehs esuaceb
+
+85
+00:04:44,579 --> 00:04:47,790:
+eht fo llac eht raeh did reven sitruC fi ,ton fI
+
+86
+00:21:28,890 --> 00:21:30,839:
+.gnidliub eht fo renroc kcirb eht dnuora
+
+87
+00:26:00,180 --> 00:26:03,689:
+.retaw yddum eht llems dluoc eh litnu ,seert eht otni
+
+88
+00:06:22,799 --> 00:06:24,809:
+.flow eht fo dellems yeht yltsom tub
+
+89
+00:12:04,320 --> 00:12:09,479:
+yhtrow dnuof eb em tel eeht ot emoc ot ruoh ym eb siht fi ro ,skcaP llA fo rehtaF draugefas ym eb
+
+90
+00:30:32,094 --> 00:30:33,744:
+tsehc gnivaeh sih
+
+91
+00:26:31,709 --> 00:26:36,989:
+.senob sih ot nwod mih wenk dog sih ,sediseb dna
+
+92
+00:11:16,890 --> 00:11:21,090:
+.ediba stnias fo senob eht erehw tsevrah ythgim a lleterof I
+
+93
+00:04:47,790 --> 00:04:52,980:
+.mih ot dellac reve ydobon esuaceb eb t’ndluow ti tsael ta ,kcap
+
+94
+00:00:05,340 --> 00:00:07,920:
+fo strap owt fo tsrif eht si
+
+95
+00:03:07,800 --> 00:03:09,509:
+,taes eht ni kcab dexaler dna
+
+96
+00:00:10,859 --> 00:00:12,210:
+,floWcaM boR yb
+
+97
+00:23:57,119 --> 00:24:00,359:
+sdniw tnereffid fo leef eht ,sllems eht ,sthgis ehT
+
+98
+00:21:39,420 --> 00:21:44,121:
+.elbissop sa ylkciuq sa evael dna tuo llup ot tnaw ot demees tsuj ehs tuB
+
+99
+00:23:09,390 --> 00:23:12,390:
+,tsew erom elim a ro tsae erom elim a naht rehtar
+
+100
+00:24:42,780 --> 00:24:49,380:
+krap VR eht evael niaga reven dluow taht reliart pu taeb eht ni nam dlo eht nehw ,syad dlo eht morf rebmemer dluoc eh ekil
+
+101
+00:27:10,619 --> 00:27:12,660:
+.levarg yddum eht ni
+
+102
+00:16:51,750 --> 00:16:54,150:
+,lleW .noitats dnuohyerg a saw egde eht tA
+
+103
+00:14:27,390 --> 00:14:31,830:
+”.yawhgih a no ciffart gnitcurtsbo rof“ ,dias ehs
+
+104
+00:05:23,579 --> 00:05:28,019:
+.rettiuq a tey ton si ti tuB ,tihs fo lluf s’taht dlrow a fo yraew suordnow si luos yM
+
+105
+00:31:11,125 --> 00:31:15,324:
+.flesmih rohtua eht yb uoy rof daeR floWcaM boR yb
+
+106
+00:14:58,049 --> 00:15:01,200:
+,dluoc eh sa tsaf sa gniklaw detrats ,nwod daeh sih tup eH
+
+107
+00:06:37,260 --> 00:06:39,959:
+ylimaf eno eb dluow dnikflow lla nehw
+
+108
+00:21:44,121 --> 00:21:48,270:
+.elgna siht morf mih ees dluoc esle ydobon ,lleh eht tahW
+
+109
+00:02:02,550 --> 00:02:04,860:
+elbatrofmoc saw taes regnessap kcurt imes ehT
+
+110
+00:29:16,020 --> 00:29:17,910:
+.derob elttil a neve dna
+
+111
+00:05:34,470 --> 00:05:38,910:
+.eb ot dedeen eh erehw mih gnirb ot ecnedivorp detsurt eH .enif saw tahT
+
+112
+00:21:56,430 --> 00:21:59,339:
+,sgel owt no ,flow eht ta
+
+113
+00:03:44,714 --> 00:03:47,184:
+,sitruC dias ”,pleW“
+
+114
+00:00:40,766 --> 00:00:43,110:
+.tey regnol elttil a tsal ll’I
+
+115
+00:29:03,030 --> 00:29:06,959:
+,tsap pihw snwot sionillI tnatsid fo sthgil eht dehctaw dna
+
+116
+00:20:54,689 --> 00:20:59,969:
+.drac xedni na fo ezis eht tuoba ,koob cimoc elttil a ekil dekool tI
+
+117
+00:15:50,609 --> 00:15:52,932:
+.dias eh ,no sserP
+
+118
+00:05:54,178 --> 00:05:58,709:
+.tesnus erom eno tsael ta ees lliw seye eniM
+
+119
+00:25:09,119 --> 00:25:11,790:
+,suoregnad ,evila gnihtemos
+
+120
+00:02:55,830 --> 00:02:57,149:
+,enod stfihs ym gnitteg
+
+121
+00:10:01,080 --> 00:10:03,479:
+.gnorw gnihton ,delims eh ,oN
+
+122
+00:04:15,960 --> 00:04:23,339:
+elbatirahcnu neeb ev’dluow ti tuB .hgual a neeb evah thgim taht taorht sih fo kcab eht ni esion llams a edam eh dna ,yltfed
+
+123
+00:01:23,550 --> 00:01:25,440:
+.rewsna ot rehtob t’ndid eh os
+
+124
+00:06:08,893 --> 00:06:12,269:
+derednow dna ,deliaw ti sa hteet elttil eht ta ylesolc yrev dekool yeht sselnu
+
+125
+00:12:51,090 --> 00:12:52,950:
+,aremac a gniraew t’nsaw ehs
+
+126
+00:17:52,260 --> 00:17:53,729:
+ehT nahT REGNORTS‘
+
+127
+00:16:40,409 --> 00:16:47,669:
+,thgilb eht erofeb syad dlo eht ni smle neeb evah dluow taht seert yldnips fo wor a dna hsif a fo eutats ssalgrebif giB
+
+128
+00:25:43,469 --> 00:25:48,209:
+?tniop a evorp ro eelf ro egarof naht rehtar ,ti fo yoj
+
+129
+00:19:34,949 --> 00:19:37,260:
+flesmih detnetnoc eH
+
+130
+00:15:24,450 --> 00:15:26,099:
+,dessap sraet eht ecnO
+
+131
+00:07:14,130 --> 00:07:18,329:
+,revo uoy wercs t’ndid taht ,detsal taht ,diap taht sboj ehT
+
+132
+00:04:30,839 --> 00:04:36,000:
+si taht ,efil siht ni—kcap eht ni ecalp sih dnif ot tnaem saw eh fI .ko saw tahT
+
+133
+00:02:36,300 --> 00:02:40,919:
+,renroc yreve dnuora dlrow suordnow erom ,reurt ,redliw a erew ereht fi sa tlef ro
+
+134
+00:13:50,070 --> 00:13:54,180:
+,gninrom siht pooc rieht morf nekcihc a elots taht tsaeb eht detroper evah eno on tel esaelp—
+
+135
+00:03:19,320 --> 00:03:22,110:
+,nur ro edih deen erom on eh erehw
+
+136
+00:15:31,919 --> 00:15:34,710:
+.egamirglip siht no dedeennu
+
+137
+00:02:57,149 --> 00:03:03,750:
+”.naem I tahw wonk uoy fi ,emit ot emit morf ssendnik a owt ro rekihhctih a od I fi tuo dnif ynapmoc eht nittel ton dna
+
+138
+00:18:17,760 --> 00:18:20,939:
+sokcis cinatas eseht esiwrehto esuaceb
+
+139
+00:14:46,859 --> 00:14:51,119:
+”.DI ruoy tegrof t’noD“ .llew sa wenk eH
+
+140
+00:29:00,959 --> 00:29:03,030:
+foor racxob eht no tas eh sa tuB
+
+141
+00:09:04,590 --> 00:09:07,739:
+.uoy gnipleh eno eht m’I ,reh dlot eh ,ma’am oN
+
+142
+00:07:08,549 --> 00:07:11,040:
+,scificeps eht raeh ot deen t’ndid eh tuB
+
+143
+00:10:43,409 --> 00:10:45,989:
+.lufepoh erom ylbaredisnoc
+
+144
+00:23:23,430 --> 00:23:25,020:
+.tfel sih no erehwemoS
+
+145
+00:03:59,130 --> 00:04:04,889:
+”.em ta tohs a gnikat tsael ta tuohtiw yaw ruoy no eb uoy tel annog t’nia ecneicsnoc
+
+146
+00:30:23,010 --> 00:30:29,994:
+ti dessaP .wollip a sa gnihtolc sih fo eldnub eht htiw foor racxob eht no kcab sih yal eh sa ti fo gnileef eht ot no dleh eH
+
+147
+00:29:06,959 --> 00:29:09,660:
+.mih ot emac erom gnihtemos
+
+148
+00:18:15,510 --> 00:18:17,760:
+,roivaS lanosreP rieht sa
+
+149
+00:04:04,889 --> 00:04:08,369:
+.rekcurt eht dlot eh oS
+
+150
+00:31:16,344 --> 00:31:19,795:
+.sdne yenruoj eht woh tuo dnif ot
+
+151
+00:13:26,940 --> 00:13:29,269:
+?reciffo ,wal eht tsniaga taht sI
+
+152
+00:19:17,560 --> 00:19:21,900:
+!flow a otni snrut reve yllautca ydobon os
+
+153
+00:13:03,390 --> 00:13:04,968:
+,noitseuq eht detaepeR
+
+154
+00:23:14,160 --> 00:23:16,589:
+?eugra ot eh saw ohw dna
+
+155
+00:29:13,500 --> 00:29:16,020:
+suoicsnoc ylluf deniamer eH
+
+156
+00:23:25,020 --> 00:23:29,790:
+,ylerus ,ereht segdirb eb d’ereht dna esolc saw ti rehtie tub ,raf woh erus t’nsaw eH
+
+157
+00:23:12,390 --> 00:23:14,160:
+,nosaer a dah ecnedivorp neht
+
+158
+00:04:56,040 --> 00:05:01,320:
+,edir eht gnidnes rof sknaht dedda htiw ,ecnedivorp ot kcap eht ot gnimoc rof-depoh-eb-ot sih fo dna
+
+159
+00:28:13,949 --> 00:28:15,479:
+,knab levarg eht pu dehsad eH
+
+160
+00:20:04,949 --> 00:20:08,974:
+.gnitfihs morf peek ot nwod pmalc ot evah mih edam ,pots mih edam ti tub
+
+161
+00:24:02,099 --> 00:24:05,579:
+,revir eht morf dimuh dna looc ,htuos eht morf yrd dna mraw—
+
+162
+00:29:27,750 --> 00:29:29,790:
+.deneppah reven dah
+
+163
+00:06:39,959 --> 00:06:42,269:
+,tesnus nmutua gnitsalreve na rednu
+
+164
+00:31:08,635 --> 00:31:11,125:
+,floW eht ot gnidroccA lepsoG eht morf gnidaeR A
+
+165
+00:07:45,836 --> 00:07:47,910:
+,enohp eht ot gninetsil tsuj
+
+166
+00:07:51,000 --> 00:07:55,049:
+.pu gnuh neeb evah neve thgim llac eht elbissoP
+
+167
+00:11:22,919 --> 00:11:26,760:
+.edit gnisir a sgnirb ti dna
+
+168
+00:24:51,209 --> 00:24:54,089:
+,eman namuh sih morf eerf mih tes dah
+
+169
+00:05:01,320 --> 00:05:02,880:
+,htron ecaf sih denrut dna
+
+170
+00:13:36,299 --> 00:13:40,979:
+”!llew sa gninrom siht wodniw nekorb a detroper hcruhC pihswolleF tsriF
+
+171
+00:17:25,469 --> 00:17:27,839:
+ll’uoy swen tnatropmi tsom eht
+
+172
+00:07:11,040 --> 00:07:14,130:
+.ydaerla yrots eht fo snoitairav ynam oot wenk eh
+
+173
+00:07:37,049 --> 00:07:38,850:
+.meht htiw epoh koot dna
+
+174
+00:14:52,919 --> 00:14:54,570:
+deklats dna denrut
+
+175
+00:09:54,344 --> 00:09:58,830:
+”?retsim ,ereh gnorw gnihtemoS .olleh hU“
+
+176
+00:27:49,410 --> 00:27:50,910:
+ti drawot pets a koot eh nehw tuB
+
+177
+00:06:17,640 --> 00:06:19,440:
+.ylnialp ti llems dluoc eH
+
+178
+00:00:30,959 --> 00:00:34,229:
+droL eht fo gnimoc eht fo yrolg eht nees evah seye eniM
+
+179
+00:26:51,359 --> 00:26:54,771:
+.spetstoof on draeh eH .enif saw tahT
+
+180
+00:30:45,919 --> 00:30:48,444:
+?lanosrep oot ti saw rO
+
+181
+00:02:12,029 --> 00:02:13,800:
+emehpsalb t’ntsum
+
+182
+00:20:42,660 --> 00:20:46,949:
+,reh dniheB .mih ton ,reh
+
+183
+00:10:21,960 --> 00:10:25,839:
+.eb ot deen yeht erehw kcap ruoy teg ot meht esU
+
+184
+00:00:47,520 --> 00:00:51,479:
+.dnim on ti diap eh dna sseltneler dna sselicrem saw daehrevo nus ehT
+
+185
+00:22:56,189 --> 00:22:59,670:
+.ot desoppus saw eh  naem t’ndid ti od dluoc eh esuac tsuj tuB
+
+186
+00:04:36,000 --> 00:04:40,619:
+,yhw ,tiurf raeb dluow taht ytisoiruc fo dees a eb dluow noitasrevnoc siht neht—
+
+187
+00:19:12,750 --> 00:19:17,490:
+,ngised tcefrep s’doG htiw erefretni t’nac yeht esruoc fo tub ,yzarc
+
+188
+00:31:15,324 --> 00:31:16,344:
+emit txen ni enuT
+
+189
+00:07:40,410 --> 00:07:43,559:
+?rehtegot kcap a dloh ot tfel ereht saw tahw
+
+190
+00:19:04,890 --> 00:19:08,080:
+.oooon hO ”!yporhtnacyl ro
+
+191
+00:05:06,029 --> 00:05:07,320:
+mih ot derrucco tI
+
+192
+00:20:11,969 --> 00:20:15,150:
+!ereh attuo uoy tsac I dna nataS fo
+
+193
+00:07:21,390 --> 00:07:23,549:
+.seye gniyrp ynam oot daH
+
+194
+00:15:43,590 --> 00:15:45,780:
+,rehto eht fo tnorf ni toof eno
+
+195
+00:22:54,630 --> 00:22:56,189:
+.dluoc flow a tbuod oN
+
+196
+00:26:05,640 --> 00:26:07,050:
+dna thgit pu meht dellor
+
+197
+00:18:08,099 --> 00:18:10,349:
+“ dias ehs erehw trap eht ot ydaerla saw dna
+
+198
+00:25:11,790 --> 00:25:15,420:
+.yloh dna ,yldlrowrehto
+
+199
+00:23:42,390 --> 00:23:46,589:
+.adaveN fo ssenredliw noen eht ecnis gniod neeb d’eh ekil tsuJ
+
+200
+00:30:10,560 --> 00:30:13,020:
+?tfel evah reve ot
+
+201
+00:29:52,739 --> 00:29:58,020:
+,eenk taht no daeh s’flow sih dial ,erif taht yb riahc taht ot enog tsap eht ni reve dah eh fI
+
+202
+00:15:34,710 --> 00:15:35,880:
+,koot ti tahw s’tahT
+
+203
+00:24:00,359 --> 00:24:02,099:
+mih tsniaga gnihsurb
+
+204
+00:23:31,319 --> 00:23:34,410:
+.tsrif egdirb rehtona ot emoc d’eh dna
+
+205
+00:26:56,819 --> 00:27:02,339:
+,meht raeh dluoc ydobon erehw nwo sih htiw emit ni yltcefrep dednal sllaftoof s’dog os
+
+206
+00:21:20,400 --> 00:21:22,859:
+,gnirats erew elpoep dezilaer evah tsum namow eht won yb dnA
+
+207
+00:00:04,139 --> 00:00:05,340:
+yrots s'yadot dnA
+
+208
+00:12:36,510 --> 00:12:39,630:
+.gnihtyna dias t’ndah eh fi sa ,detaeper ehs
+
+209
+00:21:27,420 --> 00:21:28,890:
+,ylitsah ,pu dekcab eH
+
+210
+00:24:05,579 --> 00:24:09,719:
+tsewhtron eht morf senob dlo ekil dehcrap dna dloc
+
+211
+00:16:47,669 --> 00:16:51,750:
+.yresrun lacol eht morf revotfel neeb dah revetahw tsuj erew yeht won tub
+
+212
+00:00:51,479 --> 00:00:55,889:
+,stnemgarf ecnef nettogrof-gnol dna deew dna levarg fo rennam lla htiw delbmut ,sdnas ehT
+
+213
+00:27:31,170 --> 00:27:36,959:
+dog sih yaw eht lla dna ,ysatsce fo etats a ni epol gnitae-elim a deklaw eH
+
+214
+00:19:57,510 --> 00:19:59,430:
+-dna ,ti dah d’eh elihw
+
+215
+00:08:54,030 --> 00:08:57,882:
+.xaler neht ,psag reh was eH
+
+216
+00:22:17,189 --> 00:22:19,920:
+,tuctrohs a gniredisnoc rof thgir mih devreS
+
+217
+00:01:20,519 --> 00:01:23,550:
+,lacirotehr gnieb ylno saw ngis eht fo tsohg eht detcepsus eh tuB
+
+218
+00:13:08,520 --> 00:13:11,789:
+,niaga dias eh ,reciffo ,hguorht gnissap ylno m’I
+
+219
+00:17:13,500 --> 00:17:18,963:
+?ylerus ,elihw a edor dna tekcit a thguob eh fi thgirla eb d’tI
+
+220
+00:16:25,020 --> 00:16:30,989:
+.mraw peek ot gninaem er’uoy fi
+
+221
+00:11:33,510 --> 00:11:36,390:
+?morf detrats d’eh erehw gniredisnoc cinori taht t’nsaw dna
+
+222
+00:03:15,270 --> 00:03:17,850:
+,rof depoh eh dlrow eht mih wohs peels tel
+
+223
+00:12:43,440 --> 00:12:47,940:
+,ksam a saw wenk eh erutcip a dna dezingocer regnol on eh eman a dias taht eno eht
+
+224
+00:24:54,089 --> 00:24:58,109:
+dog sih fo ecneserp eht otni mih thguorb tsrif dah
+
+225
+00:09:15,419 --> 00:09:18,690:
+.tbuod yawa yrrac dluow mutnemom sepoh ni
+
+226
+00:00:55,889 --> 00:00:57,209:
+yawa raf dehcterts
+
+227
+00:28:41,459 --> 00:28:49,806:
+.sih teem ot denrut yeht nehw sthgildaeh ekil dezalb seye ehT .thgil lacaidoz
+
+228
+00:25:48,209 --> 00:25:52,199:
+,yloh saw ,thgin siht ,klaw siht nosaer revetahw rof fi dnA
+
+229
+00:11:12,900 --> 00:11:14,789:
+.gnipeew tnelis htiw tew era yehT
+
+230
+00:08:36,900 --> 00:08:40,200:
+.gnihtaerb sa larutan sa saw ti denrael uoy ecno tub
+
+231
+00:28:19,859 --> 00:28:24,900:
+,sdik ,emoh ta siht yrt t’nod ,ecaf sih morf sehcni ,tsap dehsalf smaeb eltsert leets ehT
+
+232
+00:03:24,839 --> 00:03:29,100:
+.ycrem taerg s’dog sih ni ,kcaP enO
+
+233
+00:01:07,620 --> 00:01:09,120:
+,decaf eh tahw erew yeht os
+
+234
+00:11:01,950 --> 00:11:05,099:
+meht rof deyarp eH .ot deen uoy fi
+
+235
+00:18:59,130 --> 00:19:01,650:
+ytilauxesomoh ro
+
+236
+00:02:48,248 --> 00:02:51,795:
+,siht ezisahpme ot detnaw sitruC dna ”,yltsom tuB“
+
+237
+00:07:35,459 --> 00:07:37,049:
+,esolc tog uoy sa noos sa
+
+238
+00:01:29,940 --> 00:01:33,870:
+.ecnatsid eht ni mih gnizilatnat llits sniatnuom esoht tsap tog eh retfa
+
+239
+00:20:30,119 --> 00:20:33,750:
+,stsif otni pu dellab sdnah reh dah ehs kcab kool deltrats a tohs eh nehW
+
+240
+00:11:39,869 --> 00:11:41,017:
+,seenk sih ot llef
+
+241
+00:23:03,869 --> 00:23:07,050:
+tnenitnoc elohw eht ot tlit elbissop tsethgils eht
+
+242
+00:26:36,989 --> 00:26:43,829:
+.flow tnargav dlo ynwarcs eno naht ees ot ewa fo lluf erom thgis a evah d’yeht ,llew ,ereht SAW esle enoyna fi dnA
+
+243
+00:13:31,080 --> 00:13:36,299:
+!ytinummoc siht fo nerdlihc eht fo ytefas eht tuoba erac ot neppah I“ ,deppans ehs
+
+244
+00:09:01,080 --> 00:09:04,590:
+.noitpircsed dnoyeb derit dna tfos saw eciov reH
+
+245
+00:15:10,650 --> 00:15:14,700:
+deciton t’ndah rehtie ehs taht sknaht evag sraet deifirret hguorht dna
+
+246
+00:10:58,169 --> 00:11:01,950:
+,ksam namuh ruoy dniheb edih nac uoy flow eht tsuj naht erom s’ereht dna
+
+247
+00:30:19,109 --> 00:30:23,010:
+.esimorp a saw sihT
+
+248
+00:25:58,829 --> 00:26:00,180:
+,daor eht ffo deppets eH
+
+249
+00:06:02,850 --> 00:06:05,549:
+,yhw ,smra s’rehtom ni gnimaercs ,tnafni eht nevE
+
+250
+00:28:56,969 --> 00:29:00,959:
+.efil siht ni ton ,erom rof ksa ot demuserp evah ton dluow eH
+
+251
+00:17:23,189 --> 00:17:25,469:
+tuoba klat ot tnemom a evah uoy od“
+
+252
+00:25:17,459 --> 00:25:23,579:
+.keew eht fo syad dna setad ekil sgniht namuh fo kcart tpek llits yromem sih fo strap revetahw gnihcraes ,skcart sih ni deppots eH
+
+253
+00:13:14,849 --> 00:13:17,092:
+?og ot eerf I mA .edisni
+
+254
+00:02:34,589 --> 00:02:36,300:
+,erehwon fo elddim eht ni tuo
+
+255
+00:19:55,920 --> 00:19:57,510:
+drow tsal eht ekat tsuj
+
+256
+00:27:20,400 --> 00:27:23,160:
+,evots eht no gnitrofmoc dna mraw gnihtemos dna
+
+257
+00:19:54,420 --> 00:19:55,920:
+,tcatnoc eye ekam ot ton
+
+258
+00:16:30,989 --> 00:16:34,229:
+namow a tem eh ,sdnalrevir eht fo tsdim eht ni erehwemoS
+
+259
+00:13:54,225 --> 00:13:56,777:
+,em deyarteb evah regnuh fo ssenkaew ym ton tel
+
+260
+00:20:51,599 --> 00:20:54,689:
+.nworht d’ehs tcejbo eht pu dekcip dna tneb eh
+
+261
+00:13:44,400 --> 00:13:47,609:
+.os dias eh fi ,erac t’ndluow ehs detcepsus eh dna
+
+262
+00:02:43,949 --> 00:02:48,195:
+.nialpxe ylthgir t’ndluoc eh owt ro gniht a nees d’eh sa wolla dluow sitruC ,seY
+
+263
+00:23:46,589 --> 00:23:48,479:
+thgin mraw a saw ti tuB
+
+264
+00:26:43,829 --> 00:26:46,079:
+,mih htiw deklaw dog siH
+
+265
+00:30:36,505 --> 00:30:38,244:
+denniht evoba sduolc eht sa
+
+266
+00:20:35,400 --> 00:20:37,410:
+.dereviuq spil reH
+
+267
+00:28:06,270 --> 00:28:09,719:
+.sih ton tub ,hguone tsaf neeb ev'dluoc smrof namuh emoS
+
+268
+00:23:02,400 --> 00:23:03,869:
+os setalp cinotcet eht epahs ot
+
+269
+00:07:29,339 --> 00:07:31,529:
+,gnitfird skcap tfel tahT
+
+270
+00:13:21,299 --> 00:13:26,940:
+.nur ot detnaw eh dna rebbur dezinacluv dna redwopnug dna hcaelb ekil dellems ehs
+
+271
+00:02:04,860 --> 00:02:08,550:
+nevaeh llits saw ti tub ,eson namuh a ot yldneirfnu dellems evah dluow ylbaborp dna
+
+272
+00:20:00,900 --> 00:20:03,420:
+.daeh sih fo kcab eht no
+
+273
+00:25:23,579 --> 00:25:30,869:
+.tfihs ot evah t’ndid eh ,sselnoom saw thgin eht ,oN ?lluf ehs saW
+
+274
+00:06:56,549 --> 00:06:58,144:
+,enohpyap a revo noitasrevnoc A
+
+275
+00:11:21,090 --> 00:11:22,919:
+gnisir si noom tsevrah a roF
+
+276
+00:30:48,444 --> 00:30:50,665:
+,gnisufnoc eb dluoc tI
+
+277
+00:10:03,479 --> 00:10:05,880:
+.dias eh ,kcap lufrednow a tog uoY
+
+278
+00:28:49,806 --> 00:28:56,969:
+.yawa dna revir eht ssorca mih erob niart eht sa hsinav ecneserp eht tlef eH
+
+279
+00:24:17,550 --> 00:24:19,469:
+t’ndid ti ,ti ot laiceps gnihton saw ereht
+
+280
+00:05:58,709 --> 00:06:00,209:
+,meht ta kool ot nwonk evah t’ndluow uoY
+
+281
+00:19:32,880 --> 00:19:34,949:
+.enog saw eh emit tsap saw tI
+
+282
+00:09:50,489 --> 00:09:54,344:
+.ecno ta lla raeh ot tol a saw ti ecneirepxe morf wenk eH
+
+283
+00:17:08,880 --> 00:17:13,500:
+.setteragic eht ot txen dna noitceles yrettol ffo-hctarcs eht evoba
+
+284
+00:09:32,492 --> 00:09:35,820:
+.sgnilbis flow rieht yb dniheb tfel eb t’ndluow yeht
+
+285
+00:14:05,417 --> 00:14:10,710:
+dereviled ma I sdnah esohw otni resucca eht siht ot ssentiw enrob evah ton mih tel
+
+286
+00:30:17,369 --> 00:30:19,109:
+.yromem on saw sihT
+
+287
+00:10:36,960 --> 00:10:41,400:
+.egamirglip siht detrats eh nehw dniheb sgniht namuh tfel d’eH
+
+288
+00:15:04,289 --> 00:15:07,140:
+niaga raf sa tsuj klaw flesmih edam eh
+
+289
+00:14:37,142 --> 00:14:39,359:
+.noitcidsiruj ym fo tuo dedaeh er’uoy tuB“
+
+290
+00:29:49,527 --> 00:29:52,739:
+.swodniw eht hguorht tesnus eht
+
+291
+00:08:51,239 --> 00:08:54,030:
+.kcab pils ti tel neht
+
+292
+00:21:09,930 --> 00:21:13,890:
+.dluoc ehs erofeb yawa deklaw d’eh yrgnA
+
+293
+00:30:13,020 --> 00:30:17,369:
+.rissoN ?won ereh eb oT
+
+294
+00:12:09,479 --> 00:12:11,789:
+,dias ylno eh duol tuo tub—
+
+295
+00:26:27,209 --> 00:26:31,709:
+,eh naht elbirret erom dna retaerg dna reithgim flow a saw dog tub
+
+296
+00:07:57,540 --> 00:08:04,649:
+.ybab eht hsuh ot deganam dah ,triks eht ni ,rehto ehT .deipucco dik eht peek ot gniyrt saw ,snaej eulb eht ni ,nemow eht fo enO
+
+297
+00:18:26,609 --> 00:18:29,550:
+tcetorp nac ew yaw ylno eht s’tI
+
+298
+00:12:54,809 --> 00:12:56,760:
+,t’ndid ehs fi neve ,wenk eh dna
+
+299
+00:07:00,929 --> 00:07:02,880:
+.eciov ruoy ni pu gniwohs
+
+300
+00:16:11,880 --> 00:16:15,929:
+.mrots gnisnaelc a sgnirb ti dna gnisir si noom tsevrah eht roF
+
+301
+00:22:12,420 --> 00:22:17,189:
+.toof no tsae eunitnoc ot krap dedoow eht hguorht kcud ot ydaer dna
+
+302
+00:21:15,959 --> 00:21:17,670:
+yletarebiled ti deppord dna
+
+303
+00:18:48,869 --> 00:18:54,329:
+”!snomed fo stros lla yb dessessop teg elpoeP“ .raed hO
+
+304
+00:28:32,160 --> 00:28:35,280:
+.yks thgin eht tsniaga kcalb repeed ylthgilS
+
+305
+00:15:07,140 --> 00:15:09,090:
+,daor eht ffo delbmuts eh erofeb
+
+306
+00:12:49,770 --> 00:12:51,090:
+ees dluoc eh esuaceB
+
+307
+00:29:32,640 --> 00:29:36,719:
+.foor eht fo skaep eht ni swodniw hgih ,skcirb yssom dna sgol tuc erauqs
+
+308
+00:27:46,290 --> 00:27:49,410:
+.erofeb hcum sa enod d’eH .ti gnissorc tuoba smlauq on dah eH
+
+309
+00:31:00,775 --> 00:31:05,905:
+.taht htiw ecaep ta eb dluoc eH
+
+310
+00:22:48,270 --> 00:22:50,400:
+.revir ippississiM eht saw ereht
+
+311
+00:19:01,650 --> 00:19:04,890:
+msiripmav neve ro tfarchctiw ro
+
+312
+00:25:15,420 --> 00:25:17,459:
+?noom eht ti saw ,tiaW
+
+313
+00:08:18,750 --> 00:08:21,299:
+,elims yhtrowtsurt a delims
+
+314
+00:15:58,979 --> 00:16:01,289:
+.rehtruf yna mih truh t’ndluoc tI
+
+315
+00:14:51,119 --> 00:14:52,919:
+,sdnah sih otni ti devohs ehS
+
+316
+00:22:32,473 --> 00:22:37,380:
+.erif lanif eht etingi dloc tsom snrub ecnaegnev esohW eH teL
+
+317
+00:29:29,790 --> 00:29:32,640:
+,mih dewohs ti egdol eht ot neeb reven dah eh roF
+
+318
+00:01:12,599 --> 00:01:15,729:
+mih deksa redluohs gnipeew-rat s’yawhgih eht yb ngis dedaf ehT
+
+319
+00:18:44,040 --> 00:18:48,869:
+”!noitan siht fo lortnoc ekat ot gniyrT !thgim
+
+320
+00:14:25,710 --> 00:14:27,390:
+”,ni uoy ekat dluoc I“
+
+321
+00:11:38,520 --> 00:11:39,869:
+,delbmuts dna depmuj eH
+
+322
+00:06:49,280 --> 00:06:52,109:
+.tnafni na ,dlihc a
+
+323
+00:23:51,420 --> 00:23:57,119:
+?ti si ,thgin rehto yna ekil gniklaw tsuj reve si thgindim tsap gniklaw tuo er’uoy nehw thgin on dna
+
+324
+00:27:05,130 --> 00:27:07,410:
+kcab dekool eh fi erus saw eh os
+
+325
+00:00:34,229 --> 00:00:37,830:
+hguohT .deroda srehtaferof ruo taht ratla dna htrae fo dog eht fO
+
+326
+00:24:31,319 --> 00:24:33,300:
+.htob ro ecalp siht ot ro
+
+327
+00:16:54,150 --> 00:17:02,909:
+,mih ot defashcuov neeb dah flow eht fo ssenlluf eht erofeb neve dna ,noitats sag a edistuo hcneb a tsuj ,gnidliub a t’nsaw erehT .yllaer ,pots a
+
+328
+00:09:35,820 --> 00:09:38,760:
+,yhtrow erew ohw snamuh ot evig ot ,won ,srieht saw ti sA
+
+329
+00:29:09,660 --> 00:29:13,500:
+.ecneirepxe ydob fo tuo on ,ecnart on ,noisiv on saw tI
+
+330
+00:27:07,410 --> 00:27:09,359:
+,tes eno ylno ees dluow eh
+
+331
+00:03:22,110 --> 00:03:24,839:
+emoceb dah lla esuaceb emoclew eb dluow lla erehw
+
+332
+00:07:31,529 --> 00:07:35,459:
+taeh yawhgih eht ni swodahs-retaw ekil dehsinav taht sboj gnisahc
+
+333
+00:18:05,520 --> 00:18:08,099:
+hctip reh fo tsom hguorht deirruh dah ehs
+
+334
+00:23:16,589 --> 00:23:19,890:
+,yrtnuoc eht fo trap siht htiw railimaf yltcaxe t’nsaw eH
+
+335
+00:10:19,109 --> 00:10:21,960:
+.owt ro ytnewt a ,seitfif ,sderdnuH
+
+336
+00:11:14,789 --> 00:11:16,890:
+.edisni peed deretaw era yehT
+
+337
+00:11:50,909 --> 00:11:54,960:
+”?ereh ssenisub ruoy si tahw riS“
+
+338
+00:20:18,195 --> 00:20:20,640:
+ot kaeps ot tnaw I‘ yas ot derreferp evah d’ehs ekil dednuos taht
+
+339
+00:20:03,420 --> 00:20:04,949:
+,truh ot hguone yvaeh t’nsaw tI
+
+340
+00:10:41,400 --> 00:10:43,409:
+,elbat cincip eht ta meht tfel eH
+
+341
+00:17:59,640 --> 00:18:05,520:
+-fo drow eht daerps ot gniyrt osla m’I ,ma’am uoy knaht on yas ot woh derebmemer dna gnitoof sih dnuof d’eh emit eht yb dnA
+
+342
+00:15:53,060 --> 00:15:56,909:
+.dias eh ,ti tsap teg ll’uoy dna gniklaw peeK
+
+343
+00:08:21,299 --> 00:08:23,760:
+redlo siH .eno meht evag dna
+
+344
+00:01:48,633 --> 00:01:52,500:
+.dewobnu gniw s’rorret yb sevorg elppa ni ti detsat evah I
+
+345
+00:15:35,880 --> 00:15:38,190:
+.flesmih ot dias eh
+
+346
+00:03:06,720 --> 00:03:07,800:
+tnih eht koot eH
+
+347
+00:23:07,050 --> 00:23:09,390:
+,ereh tsuj htuos revir eht tnes
+
+348
+00:17:38,670 --> 00:17:40,920:
+,saw eh sa dlo sa tsomla saw ehS
+
+349
+00:17:27,839 --> 00:17:34,920:
+,yenruoj siht detrats eh nehw ,sgniht fo tol a tcepxe ot flesmih thguat d’eH ”?raeh reve
+
+350
+00:12:47,940 --> 00:12:49,770:
+.revo ti dednah dna
+
+351
+00:18:22,530 --> 00:18:26,609:
+!em dna uoy ekil snaciremA thgirpu tneced nopu yerp ot
+
+352
+00:25:54,780 --> 00:25:58,829:
+?flesmih sa ,ot thguo eh sa
+
+353
+00:24:37,050 --> 00:24:38,819:
+ydob ruoy fo gnileef eht ekil
+
+354
+00:08:42,000 --> 00:08:45,030:
+nworb namuh morf ,eye sih tsuj
+
+355
+00:20:40,310 --> 00:20:42,660:
+fo serutcip gnikat eb ot demees yeht ylikcul tub
+
+356
+00:14:13,320 --> 00:14:16,380:
+?detserra gnieb eh saw tub ,niaga neppah t’ndluow ti depoh eh
+
+357
+00:13:40,979 --> 00:13:44,400:
+,wenk eh ,hcruhc a raen erehwyna neeb t’ndah eH
+
+358
+00:12:30,964 --> 00:12:33,886:
+?detserra gnieb I ma ,reciffo ,rof tahW
+
+359
+00:02:40,919 --> 00:02:43,949:
+?dnuof eb dluoc ti retne ot yaw eht ylno fi
+
+360
+00:12:00,434 --> 00:12:04,320:
+,lirep fo ruoh siht ni em dnefed tseW tsomrettU eht ni droL ho—
+
+361
+00:17:53,729 --> 00:17:59,640:
+.ralloc eht ot dennip galf naciremA lemane ynit a htiw ’MOM EGAREVA
+
+362
+00:04:40,619 --> 00:04:44,579:
+.flowerew gnilliw a tem txen sitruC revenehw
+
+363
+00:25:30,869 --> 00:25:32,931:
+.t’nsaw ti ,taht ekil tlef siht sa hcum sA
+
+364
+00:08:48,221 --> 00:08:51,239:
+,nees dah triks eht ni rehtom eht erus saw
+
+365
+00:22:19,920 --> 00:22:27,069:
+.erised fo sworra dna dlog gninrub fo wob ym gnirb oS  .desoppus eh
+
+366
+00:19:50,099 --> 00:19:52,319:
+.deralf slirtson reH
+
+367
+00:29:48,000 --> 00:29:49,450:
+,thgilerif eht nees
+
+368
+00:01:15,779 --> 00:01:18,599:
+”?ytinretE dnepS uoY lliW erehW“
+
+369
+00:28:00,329 --> 00:28:02,280:
+,egdirb eht erofeb dewols dah ti dna
+
+370
+00:15:38,190 --> 00:15:41,880:
+,tog uoy sworros dna sfeirg revetahw htiw laed tsuJ
+
+371
+00:19:59,430 --> 00:20:00,900:
+mih tih gnihtemoS
+
+372
+00:28:24,900 --> 00:28:27,660:
+,llew ,ees dluoc eh meht neewteb ni tub
+
+373
+00:12:18,570 --> 00:12:22,559:
+,mrofinu nworb psirc a ni spil gnivorppasid dna nub ednolb thgit
+
+374
+00:26:03,689 --> 00:26:05,640:
+,sehtolc sih ffo deppirts eH
+
+375
+00:30:33,744 --> 00:30:36,505:
+evreserp dna eziromem ot
+
+376
+00:10:48,659 --> 00:10:51,419:
+.erab erew sregnif s’nam eht
+
+377
+00:11:54,960 --> 00:11:57,481:
+,dias eh ,reciffo ,gnihtoN
+
+378
+00:12:33,886 --> 00:12:36,510:
+”,DI ruoy ees ot deen I“
+
+379
+00:09:44,340 --> 00:09:47,733:
+neht dna ,kcap eno eb d’ereht dna ,meht nioj dna
+
+380
+00:16:19,679 --> 00:16:25,020:
+,retlehs gnikat eb tseb d’uoy oS nrolrof eht rof ,taf eht rof gnignahc-a era yeht ,semit eht dnA
+
+381
+00:10:25,839 --> 00:10:30,119:
+.derettups nam eht ”,tpecca t’nac I“
+
+382
+00:26:18,930 --> 00:26:27,209:
+,desoppus eh ,deifirret neeb evah dluow yeht daor eht nwod niaga ffo tes dna sdoow eht fo tuo pu kcab emac tahw gnihctaw neeb dah dog sih tub enoyna fI
+
+383
+00:30:41,454 --> 00:30:45,856:
+?enoemos ot klat ot ecnahc a dah eh emit txen yrots siht esu eh dluohS
+
+384
+00:20:59,969 --> 00:21:02,291:
+dias dna roloc elgnis a ni detnirp saw tnorf ehT
+
+385
+00:21:51,780 --> 00:21:53,699:
+s’flah dna dnoces a tog ehs
+
+386
+00:11:57,578 --> 00:12:00,434:
+yllacitnarf gniyarp saw eh dnim sih ni dna
+
+387
+00:18:29,550 --> 00:18:37,949:
+.ehcadaeh a mih evig ot nugeb dah eson sih gnidnilb enilosag fo llems ehT ”!seitinummoc ruo
+
+388
+00:17:04,589 --> 00:17:06,449:
+:eb dluow stekcit eht erehw wonk ot
+
+389
+00:02:24,932 --> 00:02:27,839:
+,yhW ?daor eht no neeb sitruC dah gnol woH
+
+390
+00:12:22,559 --> 00:12:26,871:
+.sthgil der dna eulb fo tsrub lufniap eht fo tuo mih drawot deklats
+
+391
+00:30:02,430 --> 00:30:04,770:
+,emoclew saw eh mih llet
+
+392
+00:07:02,880 --> 00:07:05,731:
+,etatsretni eht fo raor eht revo ton ,ereh morf raeh t’ndluoc eH
+
+393
+00:15:20,969 --> 00:15:24,450:
+.tnaem ti tahw nwonk t’ndah ro
+
+394
+00:15:29,340 --> 00:15:31,919:
+,nedrub rehtona dniheb tfel d’eh ekiL
+
+395
+00:24:58,109 --> 00:25:02,069:
+,gniveirg morf tser dnif dna ,kcap eht htiw nur luos sih yam—
+
+396
+00:23:34,410 --> 00:23:38,310:
+.htron deklaw eh oS
+
+397
+00:27:53,400 --> 00:27:55,500:
+.oot did eh esruoc fo oS
+
+398
+00:12:59,760 --> 00:13:01,590:
+.DI eht ta dekool ehS
+
+399
+00:08:13,980 --> 00:08:16,950:
+.tey mih tsurt ot nosaer yna evah t’ndid yeht
+
+400
+00:26:46,079 --> 00:26:51,359:
+.kaeps ton did doG .erus saw eh
+
+401
+00:01:52,500 --> 00:01:54,449:
+.rednuht tnatsid sa tfos si tI
+
+402
+00:06:15,480 --> 00:06:17,640:
+.meht wonk ot kool ot deen t’ndid eH
+
+403
+00:15:41,880 --> 00:15:43,590:
+,meht hguorht no sserp tsuj
+
+404
+00:11:47,580 --> 00:11:50,851:
+:dednamed taht eciov detrotsid-enohpagem a saw ereht dna
+
+405
+00:22:37,380 --> 00:22:40,380:
+,kcurts daeh-hctam eht nees evah seye eniM
+
+406
+00:03:53,850 --> 00:03:57,119:
+.erom peels eht dedeen uoy ekil em ot dekool tub
+
+407
+00:08:27,750 --> 00:08:29,790:
+ti dellac eH .kcirt eht htiw pu emoc dah—
+
+408
+00:05:38,910 --> 00:05:44,429:
+.ylimaf flowerew a otni nar eh ytiC amohalkO fo tsew syaw emos pots tser a nI
+
+409
+00:27:09,359 --> 00:27:10,619:
+,deddap dna dewalc
+
+410
+00:02:08,550 --> 00:02:12,029:
+,eb dluoc htrae elbeef siht no gnihtyna sa ti ot raen sa ,llew—
+
+411
+00:20:09,030 --> 00:20:11,969:
+noinim a era uoY !uoy hsinomda I“
+
+412
+00:00:37,830 --> 00:00:40,766:
+droffa nac I n’erom si dnal desimorp taht litnu tsal ot
+
+413
+00:14:31,830 --> 00:14:37,142:
+.gnihton dias eH .sthgil gnihsalf htiw mih gnidnilb eno eht saw noitcerid yna ni rac ylno ehT
+
+414
+00:30:50,665 --> 00:30:53,454:
+,ti fo gnileef eht sdrow otni tup ot drah oot
+
+415
+00:30:57,505 --> 00:31:00,775:
+.mih rof tnaem tsuj neeb dah siht ebyaM
+
+416
+00:12:11,789 --> 00:12:16,799:
+?enoyna dedneffo t’nevah I epoh I ,reciffo gniklaw ylno m’I
+
+417
+00:18:56,939 --> 00:18:59,130:
+noitaniccav fo snomed“
+
+418
+00:07:55,049 --> 00:07:57,540:
+.elbat cincip eht dehcaorppa dna dnim sih pu edam eH
+
+419
+00:07:18,329 --> 00:07:21,390:
+.sbrubus eht ro ,seitic eht ot esolc oot erew esoht
+
+420
+00:27:43,890 --> 00:27:46,290:
+.egdirb yawliar eht
+
+421
+00:16:38,880 --> 00:16:40,409:
+.ecalp hguone tnasaelp
+
+422
+00:11:29,460 --> 00:11:33,510:
+,adaveN dellac nwot a tsap ruoh na flah tuoba ,tsae gnidaeh saw eH
+
+423
+00:03:03,750 --> 00:03:06,720:
+.tnaem sitruC tahw wonk did eH
+
+424
+00:25:02,069 --> 00:25:07,050:
+.mih saw ti htob ot yaw eht wonk ot devresed enoyna fi rof
+
+425
+00:18:41,854 --> 00:18:43,935:
+cinatas fo secrof ehT“
+
+426
+00:11:06,831 --> 00:11:12,900:
+.ebirt ym lla fo sluos eht ni detnalp era htarw fo separg ehT  .snialp eht
+
+427
+00:28:09,719 --> 00:28:11,400:
+?ees uoy ,ecnedivorP
+
+428
+00:04:08,369 --> 00:04:10,199:
+,denetsil rekcurt eht dnA
+
+429
+00:05:50,640 --> 00:05:54,127:
+.erudne lliw I ,teg reven ll’I sgniht eht rof nodnaba tsum I evol roF
+
+430
+00:05:07,320 --> 00:05:10,529:
+.eman sih rof deksa reven dah sitruC taht
+
+431
+00:21:13,890 --> 00:21:15,959:
+,lla retfa ,tcatnoc eye edam eH
+
+432
+00:00:07,920 --> 00:00:10,859:
+,floW eht ot gnidroccA lepsoG eht morf gnidaeR A
+
+433
+00:03:29,100 --> 00:03:32,729:
+.yawa ,ocixeM weN fo tser eht dna ,yad eht tpels eH
+
+434
+00:24:41,040 --> 00:24:42,780:
+,peelsa llaf uoy erofeb tsuj
+
+435
+00:13:56,832 --> 00:14:02,250:
+,etib eht dna kcap eht tuoba mih dlot I tahw detroper evah ton mih tel ,krap eht ni ot deklat I allef gnuoy eht
+
+436
+00:09:07,739 --> 00:09:09,419:
+taht uoy llet reve enoyna diD
+
+437
+00:03:38,639 --> 00:03:44,714:
+.shtom fo yxalag yredwop nwo sti dah thgilteerts negolah thgirb-godnus yreve dna
+
+438
+00:06:42,269 --> 00:06:46,859:
+.dluoc eh fi ,meht pleh ot ebyaM .dnah ta saw
+
+439
+00:28:02,280 --> 00:28:06,270:
+.ti thguac evah t’ndluoc eh detfihs neeb ydaerla t’ndah eh fi llits tub
+
+440
+00:17:18,963 --> 00:17:23,113:
+,edisni pets ot denrut eh sa namow a dias ”,em esucxE“
+
+441
+00:07:38,850 --> 00:07:40,410:
+,epoh tuohtiw dnA
+
+442
+00:27:50,910 --> 00:27:53,400:
+.pots a ot emoc dog tlef eh
+
+443
+00:22:45,371 --> 00:22:48,270:
+,iruossiM fo edis rehto eht ot tog eh nehW
+
+444
+00:02:22,320 --> 00:02:24,932:
+.sitruC uoy teem ot ecin s’ti ,dias eh ,lleW
+
+445
+00:18:37,949 --> 00:18:41,854:
+.gninetsil t’nsaw ehs tub ,dluoc eh sa yletilop sa nodrap reh deggeb eH
+
+446
+00:20:37,410 --> 00:20:40,266:
+,tuo senohp rieht dah yeht ,gnirats erew noitats sag eht ni elpoeP
+
+447
+00:19:45,869 --> 00:19:50,099:
+.denediw seye reH .yad dooG
+
+448
+00:09:18,690 --> 00:09:21,599:
+,ecnedivorp fo tnemurtsni eht saw flowerew eht woh tuoba meht dlot eH
+
+449
+00:14:02,250 --> 00:14:05,366:
+,niereht ecalp a fo reffo ym ta esneffo on nekat evah mih tel
+
+450
+00:03:32,729 --> 00:03:36,360:
+.sitruC ot gnidrocca saxeT nrehtron ni ,pots a ta pu dellup kcurt ehT
+
+451
+00:19:29,339 --> 00:19:32,880:
+.esrow gnitteg saw ehcadaeh taht ,hO
+
+452
+00:01:09,120 --> 00:01:12,599:
+.ti fo thguoht nus eht tahw dnim uoy reven
+
+453
+00:21:59,339 --> 00:22:02,729:
+,gnissarah neeb d’ehs retfird sselemoh eht saw sa desserd
+
+454
+00:11:26,760 --> 00:11:29,460:
+.wal eht fo luofa nar eh iruossiM nI
+
+455
+00:00:18,809 --> 00:00:24,180:
+,floWcaM boR yb ,floW eht ot gnidroccA lepsoG eht morf gnidaeR A yojne esaelP
+
+456
+00:03:17,850 --> 00:03:19,320:
+,dlrow desimorp eht
+
+457
+00:00:14,640 --> 00:00:16,379:
+seirots eht fo erom dnif nac uoy dna
+
+458
+00:28:15,479 --> 00:28:17,640:
+,rac xob eht fo edis eht no reddal a thguac
+
+459
+00:05:30,899 --> 00:05:34,470:
+.thgindim retfa emit emos tsae denrut htron dewollof eh daor ehT
+
+460
+00:31:19,795 --> 00:31:26,364:
+.stsacdop ruoy teg uoy reverehw wohs eht dnif ro god.ecioveht ta bew eht no seirots erom dnif nac uoy syawla sA
+
+461
+00:24:09,719 --> 00:24:13,079:
+.ynomrah a dna mhtyhr a otni denrut—
+
+462
+00:22:59,670 --> 00:23:02,400:
+,oga snoe ,tif nees dah ecnedivorp fI
+
+463
+00:01:28,199 --> 00:01:29,940:
+,gnilliw dog ,worromoT
+
+464
+00:07:23,549 --> 00:07:26,820:
+ylimaf a htiw eno ton yllaicepse ,flowerew a rof efas toN
+
+465
+00:14:54,570 --> 00:14:58,049:
+.rac dauqs eht ot
+
+466
+00:14:20,969 --> 00:14:25,645:
+.etteragic a gniffuns fi sa levarg edisdaor eht otni elostoob eno detsiwt
+
+467
+00:28:38,520 --> 00:28:41,459:
+tniaf eht tsniaga elbisiv elzzum
+
+468
+00:16:01,289 --> 00:16:02,789:
+,won thgirla saw eH
+
+469
+00:28:17,640 --> 00:28:19,859:
+.retaw eht dessorc ti sa no gnuh
+
+470
+00:08:45,030 --> 00:08:48,150:
+eh os dnoces a ti dleH .dlog flow ot
+
+471
+00:08:29,790 --> 00:08:35,549:
+.kcab s’rekrowesac .M.P.E fo .B a dniheb thgir ti enod ecno daH .kniw flow eht
+
+472
+00:02:18,750 --> 00:02:20,275:
+.mih demialc peels erofeb
+
+473
+00:30:29,994 --> 00:30:32,094:
+dna dnim gnicar sih neewteb
+
+474
+00:08:12,750 --> 00:08:13,980:
+,thgir lla saw tahT
+
+475
+00:06:31,320 --> 00:06:35,609:
+,egaruoc rieht pu peek ot meht llet ot meht ot mih dediug dah ,ylraelc ,ecnedivorP
+
+476
+00:27:40,619 --> 00:27:43,890:
+dehcaer eh erofeb ,setunim ylno neeb evah thgim ti ,sruoh neeb evah thgim tI
+
+477
+00:29:17,910 --> 00:29:22,410:
+,doohdlihc fo renroc nettogrof a morf ,yromem mid a ekil saw tI
+
+478
+00:17:34,920 --> 00:17:38,670:
+.siht etapicitna ot thguoht t’ndah eh tub
+
+479
+00:21:22,859 --> 00:21:24,209:
+,ylevitroppus ton dna
+
+480
+00:28:27,660 --> 00:28:32,160:
+.seert eht naht regraL .epahs a tsuj
+
+481
+00:30:54,775 --> 00:30:57,505:
+.ti tnaem dah ti yhw
+
+482
+00:17:50,010 --> 00:17:52,202:
+dias taht trihstaews yffulf a erow ehS
+
+483
+00:06:00,209 --> 00:06:02,850:
+.llew sksam rieht erow lla yeht
+
+484
+00:14:10,710 --> 00:14:13,320:
+,emahs a saw taht saw dias eh lla tub—
+
+485
+00:10:05,880 --> 00:10:09,960:
+.meht hguorht teg lliw uoy tub hguorht og ot tog uoy semit eht riaf t’nsi ti dnA
+
+486
+00:22:27,069 --> 00:22:32,473:
+.rehgih esir dniw dliw siht dna dlofnu sduolc dedworc eht tel oS
+
+487
+00:27:55,500 --> 00:27:58,469:
+.eltsihw eht draeh eh neht dnA
+
+488
+00:18:10,349 --> 00:18:12,900:
+tnatropmi os s’ti yhw s’taht dna-
+
+489
+00:00:12,210 --> 00:00:14,640:
+,yalp riaf ylno si tuobanrut eugra dluow ohw
+
+490
+00:16:02,789 --> 00:16:11,880:
+.no sserp ot teef sih ot flesmih dellup eh ,htgnel tA .flesmih ot netsil ot seirt wef a koot tI ?thgiR ?thgir
+
+491
+00:06:28,440 --> 00:06:31,320:
+.tcelgen gnol hguorht elats dna ruos enog
+
+492
+00:05:02,880 --> 00:05:06,029:
+.niaga ecno yawhgih eht dna thgin eht ot
+
+493
+00:09:21,599 --> 00:09:24,840:
+,dlrow namuh eht fo eow eht odnu ot ereh
+
+494
+00:07:43,559 --> 00:07:45,760:
+,eromyna yrgna t’nsaw nam ehT
+
+495
+00:02:20,275 --> 00:02:22,320:
+.sitruC saw eman s’rekcurt ehT
+
+496
+00:07:26,820 --> 00:07:29,339:
+.tuoba yrrow ot nerdlihc dna
+
+497
+00:02:53,789 --> 00:02:55,830:
+,eludehcs no snur gnikam tuoba erac I
+
+498
+00:30:38,244 --> 00:30:41,454:
+.tuo emac srats eht dna
+
+499
+00:06:52,109 --> 00:06:56,549:
+.dlo oot tib elttil a tsuj dna llams oot tib elttil a tsuj rac A
+
+500
+00:15:45,780 --> 00:15:47,880:
+.flesmih ot dias eh
+
+501
+00:25:37,890 --> 00:25:43,469:
+eht rof tsuj ,flesmih eb ot tsuj flesmih eb ot nettog d’eh ecnis emit gnol gnol a neeb ti t’ndaH
+
+502
+00:18:20,939 --> 00:18:22,530:
+ngier eerf evah lliw
+
+503
+00:12:26,935 --> 00:12:29,280:
+”,DI ruoy ees ot deen I“
+
+504
+00:03:49,949 --> 00:03:53,789:
+,ekam ot detnaw uoy hctip tolip-yks atros emos dah uoy esoppus I
+
+505
+00:31:05,905 --> 00:31:08,635:
+fo strap owt fo tsrif eht saw sihT
+
+506
+00:28:11,400 --> 00:28:13,949:
+.renialp eb ot ti ksa t’ndluoC
+
+507
+00:19:07,426 --> 00:19:12,750:
+sdnuos eno tsal taht wonk I woN“ ...oooon
+
+508
+00:06:58,195 --> 00:07:00,929:
+morf ti peek ot nac uoy regna eht lla gniwollaws er’uoy erehw dnik eht
+
+509
+00:17:02,909 --> 00:17:04,589:
+eseht fo hguone nees d’eh
+
+510
+00:08:40,200 --> 00:08:42,000:
+,eye sih detfihs eH
+
+511
+00:24:25,560 --> 00:24:27,390:
+,gniklaw tsuj t’nsaw ti ,oN
+
+512
+00:00:43,110 --> 00:00:47,520:
+.drow ym evah uoy taht nO
+
+513
+00:10:12,960 --> 00:10:19,109:
+.sllib fo lufdnah a mih dednah dna tekcop ytsud sih ni gud eH .ereH
+
+514
+00:03:47,309 --> 00:03:49,949:
+.syaw trap ew erehw s’sihT“
+
+515
+00:04:23,339 --> 00:04:25,470:
+,mih ta gnihgual saw sitruC kniht ot
+
+516
+00:15:14,700 --> 00:15:16,380:
+”W“ elbuod elttil eht
+
+517
+00:01:54,449 --> 00:01:58,620:
+.duol yrev eb noos lliw tI
+
+518
+00:15:26,099 --> 00:15:29,340:
+.desnaelC .rethgil tlef eh
+
+519
+00:21:53,699 --> 00:21:56,430:
+wodniw edis regnessap reh hguorht kool doog
+
+520
+00:01:25,440 --> 00:01:28,199:
+.retaL .srewsna sih htiw od ot sgniht tnatropmi erom dah eH
+
+521
+00:16:34,229 --> 00:16:36,690:
+.sevlowerew ni eveileb t’ndid ohw
+
+522
+00:09:26,159 --> 00:09:32,492:
+os nerdlihc namuh sih ot etib tsrif eht fo tfig eht nevig dah dog-flow eht woh denialpxe eH .gnimoc saw
+
+523
+00:26:09,180 --> 00:26:14,040:
+,htab mraw a otni gnippils ekil ,ylisae ,ylhtoomS
+
+524
+00:23:40,319 --> 00:23:42,390:
+.thgin rehto yna ekil tsuJ
+
+525
+00:16:15,929 --> 00:16:19,679:
+.mrof ekat sdaehrednuht eht sa enozo eht tlems sah eson yM
+
+526
+00:13:01,590 --> 00:13:03,390:
+.kcab ti evig t’ndiD
+
+527
+00:08:58,020 --> 00:09:01,080:
+.dias ehs ”?uoy pleh I naC“
+
+528
+00:21:48,270 --> 00:21:51,780:
+,renroc eht denrut ehs sa ,tuo llup did ehs nehw oS
+
+529
+00:27:02,339 --> 00:27:05,130:
+stnirptoof nwo sih ni yltcefrep dednal yeht dna
+
+530
+00:29:45,660 --> 00:29:48,000:
+,mih dniheb yltneg rood eht desolc
+
+531
+00:26:07,050 --> 00:26:09,180:
+.tleb sih htiw meht deit
+
+532
+00:23:38,310 --> 00:23:40,319:
+.gniklaw tsuj saw ti tsrif tA
+
+533
+00:02:13,800 --> 00:02:16,589:
+.luos sih fo stoor eht ot yraew saw eh dna—
+
+534
+00:02:27,839 --> 00:02:32,039:
+.rehtona ro ynapmoc eno rof ,won sraey evif tuoba daor eht no neeb dah sitruC
+
+535
+00:17:40,920 --> 00:17:44,969:
+.VUS etihw gib reh pu gnillif morf yawa deppets tsuj dah dna
+
+536
+00:11:36,390 --> 00:11:38,520:
+.sneris draeh eh nehW
+
+537
+00:26:54,822 --> 00:26:56,819:
+,desoppus eh ,kcap a ni gnitnuh ot desU
+
+538
+00:30:08,040 --> 00:30:10,560:
+luos sih ni ti dah evah eh dluoc
+
+539
+00:05:20,302 --> 00:05:23,579:
+.ti fo kcis naht erom era dna ecnelis eht draeh evah srae eniM
+
+540
+00:22:07,199 --> 00:22:12,420:
+,niaga ksam namuh sih dniheb neddih ydaerla saw eh tohsrae fo tuo erew serit gnilaeuqs eht emit eht yB
+
+541
+00:02:51,869 --> 00:02:53,789:
+.dnim on me yap t’nod I“
+
+542
+00:04:52,980 --> 00:04:56,040:
+,mih ot edutitarg fo ,sitruC fo rettam eht dettimmoc eH
+
+543
+00:23:29,790 --> 00:23:31,319:
+esolc t’nsaw ti ro
+
+544
+00:12:56,760 --> 00:12:59,760:
+.ti esu ot dediced ehs fi neppah dluow tahw
+
+545
+00:04:10,199 --> 00:04:12,000:
+,tsom naht yletilop erom
+
+546
+00:26:14,040 --> 00:26:18,930:
+.ksam namuh sih ffo koot eh
+
+547
+00:17:44,969 --> 00:17:50,010:
+.nworb krad erew sworbeye reh tub etihw yrevlis dehcaelb saw riah reH
+
+548
+00:24:27,390 --> 00:24:29,550:
+.revir eht yb daor a tsuj t’nsaw ti dna
+
+549
+00:22:04,170 --> 00:22:07,199:
+.tsugsid lufworros ni
+
+550
+00:24:19,469 --> 00:24:25,560:
+.ti eveileb t’ndid eh wenk dnA .gnihtyna NAEM
+
+551
+00:09:38,760 --> 00:09:44,340:
+etiB eht tpecca dluow ,eno yb eno ,snamuh eht lla yademoS .deksa ohw
+
+552
+00:06:35,609 --> 00:06:37,260:
+,kcap taerg eht fo yad eht
+
+553
+00:11:05,099 --> 00:11:06,750:
+hguorht niaga htron deklaw eh sa
+
+554
+00:29:38,640 --> 00:29:43,979:
+.dog sih fo tnecs eht niaga dellems ,nihtiw ssenkrad gnimoclew eht nees reveN
+
+555
+00:17:06,449 --> 00:17:08,880:
+,retnuoc eht dniheb ,edisni
+
+556
+00:21:36,630 --> 00:21:39,420:
+.hsiloof kool meht edam ev'uoy fi
+
+557
+00:18:54,329 --> 00:18:56,871:
+,ssensselhtaerb gningief ,no tnew ehs
+
+558
+00:06:46,859 --> 00:06:49,211:
+,nemow owt ,nam A .meht dehctaw eH
+
+559
+00:27:17,670 --> 00:27:20,400:
+ekomsdoow dna esnecni saw htaenrednu tub
+
+560
+00:09:09,419 --> 00:09:12,510:
+?yloh gnihtemos fo trap erew uoy
+
+561
+00:22:40,380 --> 00:22:45,371:
+.erit yeht tsal ta erofeb
+
+562
+00:09:12,510 --> 00:09:15,419:
+,no desserp eh os ,sworbeye delzzup emos werd tahT
+
+563
+00:28:35,280 --> 00:28:38,520:
+,ffurcs ,srae fo eniltuo erem ehT
+
+564
+00:08:23,823 --> 00:08:27,750:
+ssenredliw sseldne s’kcap eht ni eerf nur luos sih yam—rehtorb
+
+565
+00:14:40,530 --> 00:14:46,859:
+”.ti rof gnitsub m’I ssa esohw wonk I gnissim seog mug gniwehc fo kcits a sa hcum os emit txen eht ro
+
+566
+00:05:16,679 --> 00:05:20,302:
+.tirw secaf dnasuoht a nopu riapsed daer evah seye eniM
+
+567
+00:06:19,440 --> 00:06:22,799:
+,tsol dna ,deirrow dna ,derit dellems yehT
+
+568
+00:12:39,630 --> 00:12:41,159:
+,tsugsid taerg htiw ,oS
+
+569
+00:12:29,280 --> 00:12:30,964:
+.mih ta dereens ehs
+
+570
+00:22:52,770 --> 00:22:54,630:
+.ti miws dluoc namuh a ebyaM
+
+571
+00:05:44,429 --> 00:05:47,429:
+,tey eryp eno tsael ta no eldnik tsum I taht semalf roF
+
+572
+00:21:02,339 --> 00:21:07,774:
+.ti gnidloh neeb ydaerla evah tsum ehS ’?UOY SNWO OHW‘
+
+573
+00:20:50,369 --> 00:20:51,599:
+,noitangiser taerg htiW
+
+574
+00:01:39,000 --> 00:01:42,029:
+.deklaw eh sa flesmih ot demmuh eH
+
+575
+00:08:07,980 --> 00:08:12,750:
+.pu denethgiarts yeht sa resolc dlihc evitcepser rieht llup htob meht dehctaW
+
+576
+00:13:05,039 --> 00:13:08,520:
+”?aera siht ni ssenisub ruoy si tahW“
+
+577
+00:25:52,199 --> 00:25:54,780:
+ti ni eb ot evresed eh t’ndid
+
+578
+00:09:24,840 --> 00:09:26,159:
+kcap taerg a taht dna
+
+579
+00:05:28,019 --> 00:05:30,899:
+,til sah ti taht semalf roF
+
+580
+00:20:33,750 --> 00:20:35,400:
+.tuo tsurht nihc reh
+
+581
+00:10:34,229 --> 00:10:36,960:
+.ffuts eht rof esu erom yna dah EH ekil t’nsaW
+
+582
+00:24:38,819 --> 00:24:41,040:
+ydob ruoy ylluf ton gnieb
+
+583
+00:31:26,364 --> 00:31:28,344:
+gninetsil rof uoy knaht dnA
+
+584
+00:13:47,609 --> 00:13:50,070:
+degnahc dnim sih ni reyarp ehT
+
+585
+00:14:39,359 --> 00:14:40,530:
+,gniklaw peek uoy oS
+
+586
+00:23:19,890 --> 00:23:23,430:
+.htron ,llew ,eb dluow siuoL .tS wenk eh tub
+
+587
+00:20:15,150 --> 00:20:18,157:
+enot a ni ,dias ehS ”!rail s’nataS er'uoy sevorp tsuj ti gniyneD !egadnob ni uoy sah nataS
+
+588
+00:13:17,092 --> 00:13:21,299:
+”,adaveN ni kcab loohcs a yb gnissap dethgis erew uoY“
+
+589
+00:24:33,300 --> 00:24:37,050:
+,gnihtyreve fo ytilanimil eht fo ,ti fo elgnit eht leef dluoc eH

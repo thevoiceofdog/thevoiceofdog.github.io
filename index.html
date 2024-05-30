@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+        <script type="text/javascript" src="browser.js"></script>
+        <link rel='stylesheet' type='text/css' href='browser.css'/>
+    </head>
+    <body>
+        <div class='sidebar'>
+            <h3>Events</h3>
+            <ul id='tags_event'></ul>
+            <h3>Genres</h3>
+            <ul id='tags_genre'></ul>
+            <h3>Authors</h3>
+            <ul id='tags_by'></ul>
+            <h3>Narrators</h3>
+            <ul id='tags_narrator'></ul>
+        </div>
+        <div id='player'>
+            <div id='transcript'></div>
+            <div id='audio'><audio controls></audio></div>
+            <div>Now playing: <span id='playingtitle'>(no episode selected)</span></div>
+        </div>
+        <div id='main'>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,102 @@
+body {
+    font-family: serif;
+    background-color: rgb(255, 249, 232);
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(50, 50, 107);
+}
+
+.sidebar {
+    height: 100%;
+    width: 250px;
+    margin-right: 20px;
+    padding-left: 20px;
+    overflow-y: scroll;
+    position: fixed;
+    background-color: rgb(197, 197, 184);
+}
+
+#main {
+    margin-left: 270px;
+    padding: 20px;
+}
+
+a {
+    cursor: pointer;
+}
+
+#epsummary h2 {
+    cursor: pointer;
+}
+
+#player {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 270px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+#player audio {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#playingtitle {
+    font-style: italic;
+}
+
+#transcript {
+    color: #444;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    overflow-y: scroll;
+    max-height: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#transcript span.highlight {
+    color: #ddd;
+}
+
+
+.showtags {
+    list-style:none;
+    padding-left: 0px;
+}
+
+.showtags li {
+    display: inline;
+    background-color: #fcc;
+    padding: 0.25em;
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.showtags a {
+    color: black;
+    text-decoration: none;
+    font-style: italic;
+}
+
+li.tag_genre {
+    background-color: #fec;
+}
+
+li.tag_by {
+    background-color: rgb(215, 244, 215);
+}
+
+li.tag_narrator {
+    background-color: rgb(224, 224, 254);
+}

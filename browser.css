@@ -28,6 +28,7 @@ a {
 #main {
     margin-left: 270px;
     padding: 20px;
+    padding-bottom: 300px;
 }
 
 a {
@@ -105,6 +106,7 @@ a {
 .showtags {
     list-style:none;
     padding-left: 0px;
+    line-height: 200%;
 }
 
 .showtags li {
@@ -115,12 +117,14 @@ a {
     padding-right: 0.6em;
     border-radius: 20px;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .showtags a {
     color: black;
     text-decoration: none;
     font-style: italic;
+    white-space: nowrap;
 }
 
 li.tag_genre {

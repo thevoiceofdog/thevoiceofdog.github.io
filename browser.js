@@ -28,7 +28,7 @@ function gotIndex(response) {
     Object.keys(index.tagnames).sort().forEach(tag => {
         let tagsplit = tag.split(":", 2)
         let tagcat = tagsplit[0]
-        $("#tags_" + tagcat).append($("<li>").append($("<a>").text(index.tagnames[tag]).click(() => { openTag(tag) })))
+        $("#tags_" + tagcat).append($(`<li><a onclick='openTag("${tag}")'>${index.tagnames[tag]}</a></li> `))
     })
 
     window.onpopstate = runQuery
@@ -86,13 +86,26 @@ function epSummary(ep) {
     let tags = $("<ul class='showtags'>")
     ep.tags.forEach(tag => {
         let tagsplit = tag.split(":", 2)
-        let li = $("<li>").addClass("tag_" + tagsplit[0])
-        li.append($("<a>").text(tagName(tag))).click(() => { openTag(tag) })
-        tags.append(li)
-        
+        if (tagsplit[0] != 'warning') {
+            tags.append($(`<li class='tag_${tagsplit[0]}'><a onclick='openTag("${tag}")'>${tagName(tag)}</a> </li>'`))        
+        }
     });
     el.append(tags)
     el.append($("<div class='shownotes'>").html(ep.shownotes))
+    var hasWarning = false
+    ep.tags.forEach(tag => {
+        let tagsplit = tag.split(":", 2)
+        if (tagsplit[0] == 'warning') {
+            if (!hasWarning) {
+                el.append("<i>Content warnings:</i> ")
+                hasWarning = true;
+                el.append($(`<i>${tagName(tag).toLowerCase()}</i>'`))
+            }
+            else {
+                el.append($(`<i>, ${tagName(tag).toLowerCase()}</i>'`))
+            }
+        }
+    });
     return el
 }
 

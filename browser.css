@@ -48,6 +48,31 @@ a {
     color: white;
 }
 
+#player #maxbutton {
+    float:right;
+    padding: 10px;
+    cursor: pointer;
+    margin: 0px;
+}
+#player.maximized #maxbutton {
+    display: none;
+}
+
+#player #minbutton {
+    float: right;
+    padding: 10px;
+    display: none;
+    cursor: pointer;
+}
+#player.maximized #minbutton {
+    display: block;
+}
+
+#player.maximized {
+    left: 0px;
+    top: 0px;
+}
+
 #player audio {
     width: 100%;
     margin-bottom: 10px;
@@ -66,6 +91,10 @@ a {
     max-height: 200px;
     padding-left: 5%;
     padding-right: 5%;
+}
+
+#player.maximized #transcript {
+    max-height: 90%;
 }
 
 #transcript span.highlight {

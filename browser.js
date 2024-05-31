@@ -8,6 +8,13 @@ $(function() {
             gotIndex(response)
         }
     });
+
+    $("#maxbutton").click(() => {
+        $("#player").addClass("maximized")
+    })
+    $("#minbutton").click(() => {
+        $("#player").removeClass("maximized")
+    })
 })
 
 function gotIndex(response) {
@@ -139,7 +146,7 @@ function gotSRT(text) {
             "span": span
         })
     }
-    window.cards.sort((a,b) => { return a.start > b.start })
+    window.cards.sort((a,b) => { return a.start - b.start })
     window.cards.forEach( card => {
         el.append(card.span)
     })

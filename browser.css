@@ -10,6 +10,11 @@ a {
     color: rgb(50, 50, 107);
 }
 
+.playbutton {
+    cursor: pointer;
+    float: right;
+}
+
 .sidebar {
     height: 100%;
     width: 250px;

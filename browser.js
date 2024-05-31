@@ -66,7 +66,16 @@ function tagName(x) {
 
 function epSummary(ep) {
     let el = $("<div class='epsummary'>")
-    el.append($("<h2>").text(ep.title).click(() => { playEpisode(ep.slug) }))
+    el.append(
+        $("<span class='playbutton'>")
+        .text("Play episode ▷")
+        .click(() => { playEpisode(ep.slug) })
+    )
+    el.append(
+        $("<h2>")
+        .text(ep.title)
+        .click(() => { playEpisode(ep.slug) })
+    )
     let tags = $("<ul class='showtags'>")
     ep.tags.forEach(tag => {
         let tagsplit = tag.split(":", 2)

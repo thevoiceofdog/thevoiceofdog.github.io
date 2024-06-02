@@ -96,7 +96,7 @@ function epSummary(ep) {
         }
     });
     el.append(tags)
-    el.append($("<div class='shownotes'>").html(ep.shownotes))
+    el.append($("<div class='shownotes'>").html(ep.shownotes.replace(/\{\{[^\}]+\}\}/g, "")))
     var hasWarning = false
     ep.tags.forEach(tag => {
         let tagsplit = tag.split(":", 2)

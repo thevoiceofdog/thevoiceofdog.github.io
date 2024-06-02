@@ -1,5 +1,5 @@
 body {
-    font-family: serif;
+    font-family: Helvetica, Arial, sans-serif;
     background-color: rgb(255, 249, 232);
     padding: 0px;
     margin: 0px;
@@ -35,8 +35,16 @@ a {
     cursor: pointer;
 }
 
-#epsummary h2 {
+.epsummary h2 {
     cursor: pointer;
+}
+
+.epsummary {
+    margin-bottom: 30px;
+}
+
+.shownotes {
+    margin-left: 30px;
 }
 
 #player {

@@ -61,8 +61,12 @@ function runQuery() {
         })
     }
     else {
-        $("#main").append($("<h1>").text("This week's episode"))
+        $("#main").append($("<h1>This week's story</h1>"))
         $("#main").append(epSummary(index.episodes[0]))
+        $("#main").append($("<h1>More recent stories</h1>"))
+        index.episodes.slice(1).forEach((ep) => {
+            $("#main").append(epSummary(ep))
+        })
     }
     $("body").scrollTop(0)
 }
@@ -85,6 +89,7 @@ function epSummary(ep) {
     )
     let tags = $("<ul class='showtags'>")
     ep.tags.forEach(tag => {
+        if (tag == 'check-tags') return;
         let tagsplit = tag.split(":", 2)
         if (tagsplit[0] != 'warning') {
             tags.append($(`<li class='tag_${tagsplit[0]}'><a onclick='openTag("${tag}")'>${tagName(tag)}</a> </li>'`))        
@@ -111,6 +116,11 @@ function epSummary(ep) {
 
 function openTag(tag) {
     history.pushState({},"","?tag=" + tag)
+    runQuery()
+}
+
+function openHome() {
+    history.pushState({},"","?")
     runQuery()
 }
 

@@ -82,13 +82,11 @@
             "slug": "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:action/adventure",
+                "plot:drama",
                 "setting:western",
-                "mood:spooky",
-                "warning:gore",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "mood:eldritch",
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cSing in Me, Holy One, and Through Me\u201d by Rob MacWolf (part 2 of 2)"
         },
@@ -100,12 +98,11 @@
             "slug": "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:western",
                 "mood:eldritch",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cSing in Me, Holy One, and Through Me\u201d by Rob MacWolf (part 1 of 2)"
         },
@@ -913,7 +910,7 @@
                 "mood:spooky",
                 "warning:gore",
                 "event:ghost-of-dog",
-                "narrator:yuugen",
+                "narrator:yuugenshou",
                 "by:rob-macwolf"
             ],
             "title": "\u201cA Lesson in Hauntings\u201d by Rob MacWolf (read by Yuugen)"
@@ -1628,7 +1625,6 @@
             "slug": "18-the-salt-and-the-wound-by-pascal-farful",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "mood:romance",
                 "content:lgbtq+",
@@ -1637,8 +1633,9 @@
                 "warning:drugs/alcohol",
                 "warning:nsfw",
                 "event:pride-month",
-                "by:pascal-farful",
-                "narrator:takom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "warning:violence",
+                "by:pascal-farful"
             ],
             "title": "[18+] \u201cThe Salt and The Wound\u201d by Pascal Farful (read by Ta'kom)"
         },
@@ -3425,7 +3422,6 @@
             "slug": "a-pride-at-pride-by-darius-davis",
             "summary": "",
             "tags": [
-                "check-tags",
                 "content:lgbtq+",
                 "content:queer",
                 "content:adult",
@@ -3438,8 +3434,8 @@
                 "mood:romance",
                 "warning:nsfw",
                 "event:pride-month",
-                "by:darius-davis",
-                "narrator:bp-rugger"
+                "narrator:b-p-rugger",
+                "by:darius-davis"
             ],
             "title": "\u201cA Pride at Pride\u201d by Darius Davis (read by B.P. Rugger)"
         },
@@ -3647,7 +3643,6 @@
             "slug": "going-both-ways-by-mikasiwolf-18",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "mood:romance",
                 "content:bisexual",
@@ -3655,8 +3650,8 @@
                 "content:lgbtq+",
                 "warning:nsfw",
                 "event:pride-month",
-                "by:mikasiwolf",
-                "narrator:crimson-rauri"
+                "narrator:crimson-ruari",
+                "by:mikasiwolf"
             ],
             "title": "\u201cGoing both Ways\u201d by MikasiWolf [18+] (read by Crimson Ruari)"
         },
@@ -4128,12 +4123,9 @@
             "slug": "the-session-by-khaki-and-friends",
             "summary": "",
             "tags": [
-                "check-tags",
-                "setting:fantasy",
-                "mood:romance",
+                "narrator:friends-of-the-fireplace",
                 "by:khaki",
-                "by:friends",
-                "narrator:the-friends-of-the-fireplace-khaki"
+                "by:friends"
             ],
             "title": "\u201cThe Session\u201d by Khaki and friends"
         },
@@ -4180,11 +4172,10 @@
             "slug": "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
             "summary": "",
             "tags": [
-                "check-tags",
                 "mood:spooky",
                 "warning:gore",
-                "by:buddy-goodboy",
-                "narrator:huskyteer-one-for-all"
+                "narrator:huskyteer",
+                "by:buddy-goodboy"
             ],
             "title": "\u201cEx Marks the Spot\u201d by Buddy Goodboy (read by Huskyteer)"
         },
@@ -4591,16 +4582,16 @@
             "slug": "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family",
+                "saga",
                 "content:lgbtq+",
                 "content:queer",
                 "content:adult",
                 "warning:nsfw",
-                "by:pascal-farful",
-                "narrator:bp-rugger"
+                "narrator:b-p-rugger",
+                "by:pascal-farful"
             ],
             "title": "\u201cA Very Fucking Christmas\u201d by Pascal Farful [18+] (read by B. P. Rugger)"
         },
@@ -5530,12 +5521,11 @@
             "slug": "daydreaming-by-dirt-coyote-read-by-b-p-rugger",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:mystery",
                 "setting:historical",
                 "mood:humor/satire",
-                "by:dirt-coyote",
-                "narrator:b-p-ruger"
+                "narrator:b-p-rugger",
+                "by:dirt-coyote"
             ],
             "title": "\u201cDaydreaming\u201d by Dirt Coyote (read by B. P. Rugger)"
         },
@@ -5981,12 +5971,9 @@
             "slug": "where-stories-are-told-by-khaki-and-friends",
             "summary": "",
             "tags": [
-                "check-tags",
-                "setting:fantasy",
-                "mood:gothic",
+                "narrator:friends-of-the-fireplace",
                 "by:khaki",
-                "by:friends",
-                "narrator:rob-macwolf"
+                "by:friends"
             ],
             "title": "\u201cWhere Stories Are Told\u201d by Khaki and Friends"
         },
@@ -6140,13 +6127,12 @@
             "slug": "a-lazy-monday-by-kayode-lycaon",
             "summary": "",
             "tags": [
-                "check-tags",
                 "setting:contemporary",
                 "mood:romance",
                 "content:adult",
                 "warning:nsfw",
-                "by:kayode-lycaon",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kayod-lycaon"
             ],
             "title": "\u201cA Lazy Monday\u201d by Kayode Lycaon [18+]"
         },
@@ -6641,14 +6627,13 @@
             "slug": "date-night-by-kayode-lycaon",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:contemporary",
                 "mood:romance",
                 "warning:self-harm",
                 "warning:drugs/alcohol",
-                "by:kayode-lycaon",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kayod-lycaon"
             ],
             "title": "\u201cDate Night\u201d by Kayode Lycaon [18+]"
         },
@@ -9014,7 +8999,6 @@
         "by:kandrel": "Author: Kandrel",
         "by:katlina-sommerberg": "Author: Katlina Sommerberg",
         "by:kayod-lycaon": "Author: Kayod\u00e9 Lycaon",
-        "by:kayode-lycaon": "Author: Kayode Lycaon",
         "by:kenneth-grahame": "Author: Kenneth Grahame",
         "by:kergiby": "Author: Kergiby",
         "by:khaki": "Author: Khaki",
@@ -9122,6 +9106,7 @@
         "event:poetry-month": "Poetry Month",
         "event:pride-month": "Pride Month",
         "mood:eldritch": "Eldritch",
+        "mood:family": "mood:family",
         "mood:family saga": "Family Saga",
         "mood:gothic": "Gothic",
         "mood:horror": "Horror",
@@ -9134,18 +9119,15 @@
         "mood:thriller/suspense": "Thriller/Suspense",
         "narrator:altivo-overo": "Narrator: Altivo Overo",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
-        "narrator:b-p-ruger": "Narrator: B. P. Ruger",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
-        "narrator:bp-rugger": "Narrator: BP Rugger",
         "narrator:carrizo": "Narrator: Carrizo",
-        "narrator:crimson-rauri": "Narrator: Crimson Rauri",
         "narrator:crimson-ruari": "Narrator: Crimson Ruari",
         "narrator:cross": "Narrator: Cross",
         "narrator:dirt-coyote": "Narrator: Dirt Coyote",
         "narrator:dralen": "Narrator: Dralen",
+        "narrator:friends-of-the-fireplace": "narrator:friends of the fireplace",
         "narrator:herrwozzeck": "Narrator: HerrWozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
-        "narrator:huskyteer-one-for-all": "Narrator: Huskyteer: one for all",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
         "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
         "narrator:icefang": "Narrator: Icefang",
@@ -9161,12 +9143,8 @@
         "narrator:rob-macwolf": "Narrator: Rob MacWolf",
         "narrator:solomon-harries": "Narrator: Solomon Harries",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
-        "narrator:ta-kon-ironhoof": "Narrator: Ta\u2019kon Ironhoof",
-        "narrator:takom-ironhoof": "Narrator: Takom Ironhoof",
         "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
-        "narrator:the-friends-of-the-fireplace-khaki": "Narrator: the friends of the fireplace: Khaki",
         "narrator:william-dingo": "Narrator: William Dingo",
-        "narrator:yuugen": "narrator:yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
         "narrator:zilch-woofs": "Narrator: Zilch Woofs",
         "plot:action/adventure": "Action/Adventure",
@@ -9177,6 +9155,7 @@
         "plot:mystery": "Mystery",
         "plot:poem": "Poem",
         "plot:slice-of-life": "Slice of Life",
+        "saga": "saga",
         "setting:contemporary": "Contemporary",
         "setting:fantasy": "Fantasy",
         "setting:historical": "Historical",
@@ -9599,9 +9578,7 @@
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
-            "dark-garden-lake-by-kayode-lycaon-part-1"
-        ],
-        "by:kayode-lycaon": [
+            "dark-garden-lake-by-kayode-lycaon-part-1",
             "a-lazy-monday-by-kayode-lycaon",
             "date-night-by-kayode-lycaon"
         ],
@@ -10042,8 +10019,6 @@
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
             "18-what-are-the-odds-by-takom-ironhoof",
-            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
-            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
@@ -10128,7 +10103,6 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "always-seen-but-never-known-by-domus-vocis",
             "fair-and-square-by-madison-scott-clary",
-            "18-the-salt-and-the-wound-by-pascal-farful",
             "anniversary-by-spottystuff",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "herd-and-understood-by-lauren-rivers",
@@ -10218,7 +10192,6 @@
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari",
             "last-day-by-dirt-coyote",
             "the-homecoming-of-daniel-usherswell-by-rob-macwolf",
-            "a-pride-at-pride-by-darius-davis",
             "how-it-pans-out-by-kergiby",
             "rekindling-by-al-song-part-2-of-2",
             "rekindling-by-al-song-part-1-of-2",
@@ -10228,7 +10201,6 @@
             "same-as-me-by-nighteyes-dayspring",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2",
-            "going-both-ways-by-mikasiwolf-18",
             "missives-by-madison-scott-clary",
             "born-to-be-wild-by-coda",
             "fathers-to-sons-by-mikasiwolf-part-2-of-2",
@@ -10255,10 +10227,8 @@
             "heraclitan-bird-songs-a-poem-by-michel-vincent-corbeaux",
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
-            "the-session-by-khaki-and-friends",
             "precious-cargo-by-herr-wozzeck-part-2-of-2",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
-            "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
             "satan-dearie-by-b-p-rugger-18",
             "making-a-delivery-by-thomas-faux-steele-red-by-rob-macwolf",
             "making-it-fit-by-nighteyes-dayspring-18",
@@ -10281,7 +10251,6 @@
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2",
             "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
-            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "ham-by-killick",
             "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
@@ -10329,7 +10298,6 @@
             "followers-of-the-jackal-by-domus-vocis-part-1-of-2-read-by-crimson-ruari-18",
             "speak-to-me-of-summer-by-harry-part-2-of-2",
             "speak-to-me-of-summer-by-harry-part-1-of-2",
-            "daydreaming-by-dirt-coyote-read-by-b-p-rugger",
             "procyon-prowling-by-altivo-overo-read-by-crimson-ruari",
             "tearing-ole-by-j-z-belexes-mixdown",
             "spring-rain-by-sakarafox",
@@ -10355,7 +10323,6 @@
             "the-engineers-curse-by-tehrasha-darkon-part-2-of-2",
             "the-engineers-curse-by-tehrasha-darkon-part-1-of-2",
             "one-seat-empty-by-dukeferret",
-            "where-stories-are-told-by-khaki-and-friends",
             "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
             "glory-of-the-gods-by-nighteyes-dayspring-part-1-of-2",
             "hostage-by-reid-minnich",
@@ -10364,7 +10331,6 @@
             "im-just-your-stud-by-dirt-coyote-part-2-of-2",
             "im-just-your-stud-by-dirt-coyote-part-1-of-2",
             "cease-fire-by-nachtfangen",
-            "a-lazy-monday-by-kayode-lycaon",
             "urban-mystic-by-aelius-part-2-of-2",
             "urban-mystic-by-aelius-part-1-of-2",
             "oiled-leather-by-royce-day-18",
@@ -10392,7 +10358,6 @@
             "tempus-imperfectum-by-al-song-part-2-of-3",
             "tempus-imperfectum-by-al-song-part-1-of-3",
             "winter-snow-by-tanner-silverpaw",
-            "date-night-by-kayode-lycaon",
             "samovar-by-altivo-overo",
             "the-library-by-metassus",
             "feelish-sheepish-by-alice-clawford-18",
@@ -10945,6 +10910,7 @@
             "missives-by-madison-scott-clary"
         ],
         "mood:eldritch": [
+            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "the-ice-cream-war-by-thomas-faux-steele",
             "the-first-shall-not-be-last-by-nalz",
@@ -10955,6 +10921,9 @@
             "how-menander-got-his-name-by-altivo-overo",
             "don-t-forget-your-comic-books-by-alison-cybe",
             "no-peas-in-my-garden-by-dan-leinir-turthra-jensen"
+        ],
+        "mood:family": [
+            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
         ],
         "mood:family saga": [
             "winterfall-beyond-the-white-by-lauren-rivers",
@@ -10975,7 +10944,6 @@
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
-            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "ham-by-killick",
             "red-delicious-by-buddy-goodboy",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
@@ -11041,7 +11009,6 @@
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-1-of-2",
             "followers-of-the-jackal-by-domus-vocis-part-1-of-2-read-by-crimson-ruari-18",
             "do-not-disturb-by-psydrosis",
-            "where-stories-are-told-by-khaki-and-friends",
             "cease-fire-by-nachtfangen",
             "urban-mystic-by-aelius-part-2-of-2",
             "a-rock-among-millions-by-skunkbomb",
@@ -11181,7 +11148,6 @@
             "mouse-your-house-by-field-t-mouse-18",
             "heraclitan-bird-songs-a-poem-by-michel-vincent-corbeaux",
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen",
-            "the-session-by-khaki-and-friends",
             "precious-cargo-by-herr-wozzeck-part-2-of-2",
             "making-it-fit-by-nighteyes-dayspring-18",
             "reunion-by-ardy-hart-18",
@@ -11286,7 +11252,6 @@
             "bad-dog-by-rob-baird"
         ],
         "mood:spooky": [
-            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "the-labyrinth-by-sky-mckinnon",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
@@ -11409,30 +11374,24 @@
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "growth-by-madison-scott-clary-read-by-ardy-hart"
         ],
-        "narrator:b-p-ruger": [
-            "daydreaming-by-dirt-coyote-read-by-b-p-rugger"
-        ],
         "narrator:b-p-rugger": [
             "fair-and-square-by-madison-scott-clary",
-            "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
-            "game-night-by-ian-madison-keller-read-by-b-p-rugger"
-        ],
-        "narrator:bp-rugger": [
             "a-pride-at-pride-by-darius-davis",
-            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
+            "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
+            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
+            "game-night-by-ian-madison-keller-read-by-b-p-rugger",
+            "daydreaming-by-dirt-coyote-read-by-b-p-rugger"
         ],
         "narrator:carrizo": [
             "same-as-me-by-nighteyes-dayspring",
             "anarchy-by-vixyy-fox-read-by-carrizo"
-        ],
-        "narrator:crimson-rauri": [
-            "going-both-ways-by-mikasiwolf-18"
         ],
         "narrator:crimson-ruari": [
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari",
+            "going-both-ways-by-mikasiwolf-18",
             "a-town-called-yesterday-by-rob-macwolf-read-by-crimson-ruari",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",
@@ -11477,13 +11436,15 @@
             "forever-forever-forever-by-dirt-coyote-read-by-dralen",
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen"
         ],
+        "narrator:friends-of-the-fireplace": [
+            "the-session-by-khaki-and-friends",
+            "where-stories-are-told-by-khaki-and-friends"
+        ],
         "narrator:huskyteer": [
+            "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
             "ride-of-a-lifetime-by-pascal-farful-read-by-huskyteer",
             "the-zeroth-protocol-by-huskyteer"
-        ],
-        "narrator:huskyteer-one-for-all": [
-            "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer"
         ],
         "narrator:ian-madison-keller": [
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author"
@@ -11899,7 +11860,6 @@
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-2-of-2",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-1-of-2",
-            "where-stories-are-told-by-khaki-and-friends",
             "rest-less-a-poem-by-rob-macwolf",
             "samovar-by-altivo-overo",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
@@ -11927,32 +11887,25 @@
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
+            "18-the-salt-and-the-wound-by-pascal-farful",
             "the-painful-yearning-by-cardigan",
             "herd-and-understood-by-lauren-rivers",
             "keep-to-the-path-by-dirt-coyote-part-2-of-2",
             "keep-to-the-path-by-dirt-coyote-part-1-of-2",
             "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof"
         ],
-        "narrator:takom-ironhoof": [
-            "18-the-salt-and-the-wound-by-pascal-farful"
-        ],
         "narrator:tempe-o-kun": [
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
-        ],
-        "narrator:the-friends-of-the-fireplace-khaki": [
-            "the-session-by-khaki-and-friends"
         ],
         "narrator:william-dingo": [
             "the-reason-why-by-j-s-hawthorne",
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo"
         ],
-        "narrator:yuugen": [
-            "a-lesson-in-hauntings-by-rob-macwolf"
-        ],
         "narrator:yuugenshou": [
             "memory-by-et-al-",
-            "and-then-there-is-destruction-by-taylor-fox"
+            "and-then-there-is-destruction-by-taylor-fox",
+            "a-lesson-in-hauntings-by-rob-macwolf"
         ],
         "narrator:zilch-woofs": [
             "rekindling-by-al-song-part-2-of-2",
@@ -11960,7 +11913,6 @@
         ],
         "plot:action/adventure": [
             "love-like-echoed-fire-by-js-hawthorne",
-            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "memory-by-et-al-",
             "winterfall-beyond-the-white-by-lauren-rivers",
             "outfoxed-by-hania",
@@ -12068,6 +12020,7 @@
         ],
         "plot:drama": [
             "18-what-are-the-odds-by-takom-ironhoof",
+            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "the-eavesdropper-by-ritter",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
@@ -12300,6 +12253,9 @@
             "dear-concerned-estranged-a-poem-by-rob-macwolf-read-by-madison-scott-clary",
             "jackll-do-a-poem-by-altivo-overo"
         ],
+        "saga": [
+            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
+        ],
         "setting:contemporary": [
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "18-when-in-rome-by-ziegenbock",
@@ -12393,7 +12349,6 @@
             "what-was-your-first-spell-by-dirt-coyote-part-1-of-2",
             "diamond-in-the-rat-by-roan-rosser-part-1-of-2",
             "a-dragons-dilemma-by-evan-drake",
-            "the-session-by-khaki-and-friends",
             "satan-dearie-by-b-p-rugger-18",
             "the-winter-coat-by-brathor-cyr",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
@@ -12401,7 +12356,6 @@
             "this-poem-is-haunted-by-rob-macwolf-read-by-madison-scott-clary",
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "a-dragons-tale-by-evan-drake",
-            "where-stories-are-told-by-khaki-and-friends",
             "a-gentle-rustling-of-leaves-by-nenekiri-bookwyrm",
             "urban-mystic-by-aelius-part-2-of-2",
             "urban-mystic-by-aelius-part-1-of-2",
@@ -12725,7 +12679,6 @@
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf"
         ],
         "warning:gore": [
-            "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
@@ -12998,6 +12951,7 @@
         ],
         "warning:violence": [
             "of-heart-and-stone-by-solomon-harries",
+            "18-the-salt-and-the-wound-by-pascal-farful",
             "ethane-horizons-by-joel-kreissman",
             "urban-mystic-by-aelius-part-2-of-2",
             "urban-mystic-by-aelius-part-1-of-2",

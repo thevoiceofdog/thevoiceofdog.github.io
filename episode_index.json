@@ -4561,8 +4561,7 @@
             "tags": [
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family",
-                "saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "content:queer",
                 "content:adult",
@@ -9099,7 +9098,6 @@
         "event:poetry-month": "Poetry Month",
         "event:pride-month": "Pride Month",
         "mood:eldritch": "Eldritch",
-        "mood:family": "mood:family",
         "mood:family-saga": "Family Saga",
         "mood:gothic": "Gothic",
         "mood:horror": "Horror",
@@ -9118,14 +9116,14 @@
         "narrator:cross": "Narrator: Cross",
         "narrator:dirt-coyote": "Narrator: Dirt Coyote",
         "narrator:dralen": "Narrator: Dralen",
-        "narrator:friends-of-the-fireplace": "narrator:friends of the fireplace",
-        "narrator:gar-sahoni-atkins": "narrator:gar sahoni atkins",
+        "narrator:friends-of-the-fireplace": "Narrator: Friends Of The Fireplace",
+        "narrator:gar-sahoni-atkins": "Gar \"Sahoni\" Atkins",
         "narrator:herrwozzeck": "Narrator: HerrWozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
         "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
         "narrator:icefang": "Narrator: Icefang",
-        "narrator:kai": "narrator:kai",
+        "narrator:kai": "Narrator: Kai",
         "narrator:kergiby": "Narrator: Kergiby",
         "narrator:khaki": "Narrator: Khaki",
         "narrator:killick": "Narrator: Killick",
@@ -9135,7 +9133,7 @@
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
         "narrator:rob-macwolf": "Narrator: Rob MacWolf",
-        "narrator:solomon-harries": "narrator:solomon harries",
+        "narrator:solomon-harries": "Narrator: Solomon Harries",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
         "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
         "narrator:william-dingo": "Narrator: William Dingo",
@@ -9149,7 +9147,6 @@
         "plot:mystery": "Mystery",
         "plot:poem": "Poem",
         "plot:slice-of-life": "Slice of Life",
-        "saga": "saga",
         "setting:contemporary": "Contemporary",
         "setting:fantasy": "Fantasy",
         "setting:historical": "Historical",
@@ -10903,9 +10900,6 @@
             "don-t-forget-your-comic-books-by-alison-cybe",
             "no-peas-in-my-garden-by-dan-leinir-turthra-jensen"
         ],
-        "mood:family": [
-            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
-        ],
         "mood:family-saga": [
             "the-eavesdropper-by-ritter",
             "herd-and-understood-by-lauren-rivers",
@@ -10921,6 +10915,7 @@
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
+            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "ham-by-killick",
             "red-delicious-by-buddy-goodboy",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
@@ -12236,9 +12231,6 @@
         ],
         "plot:slice-of-life": [
             "winterfall-beyond-the-white-by-lauren-rivers"
-        ],
-        "saga": [
-            "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
         ],
         "setting:contemporary": [
             "18-front-roe-by-b-p-rugger",

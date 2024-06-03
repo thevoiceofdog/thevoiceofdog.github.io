@@ -225,11 +225,10 @@
             "slug": "a-poetic-definition-by-rob-macwolf",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
                 "event:poetry-month",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cA Poetic Definition\u201d by Rob MacWolf (read by Ta'kom Ironhoof)"
         },
@@ -577,14 +576,12 @@
             "slug": "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:epic",
-                "setting:stone-age",
-                "mood:spooky",
-                "warning:gore",
+                "plot:drama",
+                "setting:fantasy",
+                "content:lgbtq+",
                 "event:holiday",
-                "by:friends-of-the-fireplace",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:friends-of-the-fireplace"
             ],
             "title": "\u201cFireside Meeting After the Holiday Feast\u201d by Friends of the Fireplace (part 2 of 2)"
         },
@@ -596,14 +593,12 @@
             "slug": "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:spooky",
                 "content:lgbtq+",
                 "event:holiday",
-                "by:friends-of-the-fireplace",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:friends-of-the-fireplace"
             ],
             "title": "\u201cFireside Meeting After the Holiday Feast\u201d by Friends of the Fireplace (part 1 of 2)"
         },
@@ -737,13 +732,9 @@
             "slug": "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "setting:military",
-                "mood:spooky",
                 "event:fireside-meeting",
-                "by:friends-of-the-fireplace",
-                "narrator:rob-macwolf"
+                "narrator:friends-of-the-fireplace",
+                "by:friends-of-the-fireplace"
             ],
             "title": "\u201cFireside Meeting at the Rearguard Bivouac\u201d by Friends of the Fireplace"
         },
@@ -944,14 +935,14 @@
             "slug": "the-sight-by-j-s-hawthorne-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:crime/police",
                 "setting:fantasy",
-                "mood:spooky",
+                "mood:gothic",
                 "warning:gore",
+                "warning:trauma",
                 "event:ghost-of-dog",
-                "by:j-s-hawthorne",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cThe Sight\u201d by J.S. Hawthorne (part 2 of 2)"
         },
@@ -963,15 +954,14 @@
             "slug": "the-sight-by-j-s-hawthorne-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:crime/police",
-                "setting:historical",
-                "mood:spooky",
+                "setting:fantasy",
+                "mood:gothic",
                 "warning:gore",
                 "warning:trauma",
                 "event:ghost-of-dog",
-                "by:j-s-hawthorne",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cThe Sight\u201d by J.S. Hawthorne (part 1 of 2)"
         },
@@ -1033,13 +1023,12 @@
             "slug": "the-presence-between-the-pages-by-madison-scott-clary",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:historical",
+                "setting:fantasy",
                 "mood:spooky",
                 "event:ghost-of-dog",
-                "by:madison-scott-clary",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cThe Presence Between the Pages\u201d by Madison Scott-Clary"
         },
@@ -1239,13 +1228,13 @@
             "slug": "18-shell-game-by-kandrel-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "setting:western",
-                "mood:humor/satire",
+                "setting:sci-fi",
+                "mood:gothic",
+                "setting:political/espionage",
                 "content:adult",
                 "warning:nsfw",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "[18+] \u201cShell Game\u201d by Kandrel (part 2 of 2)"
         },
@@ -1257,13 +1246,13 @@
             "slug": "18-shell-game-by-kandrel-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "setting:historical",
+                "setting:sci-fi",
                 "mood:gothic",
+                "setting:political/espionage",
                 "content:adult",
                 "warning:nsfw",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "[18+] \u201cShell Game\u201d by Kandrel (part 1 of 2)"
         },
@@ -1275,12 +1264,12 @@
             "slug": "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "mood:family-saga",
+                "plot:epic",
+                "setting:historical",
+                "mood:legend",
                 "warning:gore",
-                "by:gar-sahoni-atkins",
-                "narrator:rob-macwolf"
+                "narrator:gar-sahoni-atkins",
+                "by:gar-sahoni-atkins"
             ],
             "title": "\u201cExile from the Land of Giant Turtles\u201d by Gar \u201cSahoni\u201d Atkins (read by the Author)"
         },
@@ -1323,13 +1312,13 @@
             "slug": "18-playing-the-numbers-by-kergiby",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
+                "setting:contemporary",
                 "mood:romance",
                 "content:adult",
                 "warning:nsfw",
-                "by:kergiby",
-                "narrator:rob-macwolf"
+                "narrator:dirt-coyote",
+                "by:kergiby"
             ],
             "title": "[18+] \u201cPlaying the Numbers\u201d by Kergiby (read by Dirt Coyote)"
         },
@@ -1462,12 +1451,11 @@
             "slug": "whip-lash-by-herr-wozzeck-18",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
                 "content:adult",
                 "warning:nsfw",
-                "by:herr-wozzeck",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:herr-wozzeck"
             ],
             "title": "[18+] \u201cWhip Lash\u201d by Herr Wozzeck (read by Dralen)"
         },
@@ -1512,14 +1500,13 @@
             "slug": "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
                 "content:lgbtq+",
                 "content:queer",
                 "content:gay",
                 "event:pride-month",
-                "by:nenekiri-bookwyrm",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cOde to the Gay Bar I Was Too Chickenshit to Go To\u201d by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -1717,6 +1704,7 @@
             "slug": "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
             "summary": "",
             "tags": [
+                "plot:mystery",
                 "setting:fantasy",
                 "mood:romance",
                 "content:lgbtq+",
@@ -1738,16 +1726,17 @@
             "slug": "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
+                "plot:mystery",
                 "setting:fantasy",
-                "mood:speculative",
-                "content:adult",
+                "mood:romance",
                 "content:lgbtq+",
+                "content:queer",
+                "content:adult",
                 "warning:nsfw",
                 "event:pride-month",
+                "narrator:dirt-coyote",
                 "by:kristina-orrery-tracer",
-                "by:ko-bunny",
-                "narrator:dirt-coyote"
+                "by:ko-bunny"
             ],
             "title": "[18+] \u201cThe Witch of Whatcom County\u201d by Kristina \u201cOrrery\u201d Tracer and Ko Bunny (read by Dirt Coyote, part 1 of 2)"
         },
@@ -2216,14 +2205,13 @@
             "slug": "ethane-horizons-by-joel-kreissman",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:epic",
-                "setting:military",
-                "mood:spooky",
+                "plot:action/adventure",
+                "setting:sci-fi",
+                "mood:thriller/suspense",
                 "warning:gore",
                 "warning:violence",
-                "by:joel-kreissman",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:joel-kreissman"
             ],
             "title": "\u201cEthane Horizons\u201d by Joel Kreissman"
         },
@@ -2235,11 +2223,10 @@
             "slug": "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "mood:family-saga",
-                "by:ian-madison-keller",
-                "narrator:rob-macwolf"
+                "narrator:dirt-coyote",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cSuddenly Chihuahua\u201d by Ian Madison Keller (Read by Dirt Coyote, part 2 of 2)"
         },
@@ -2251,12 +2238,10 @@
             "slug": "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:mystery",
+                "plot:drama",
                 "setting:contemporary",
-                "mood:spooky",
-                "by:ian-madison-keller",
-                "narrator:rob-macwolf"
+                "narrator:dirt-coyote",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cSuddenly Chihuahua\u201d by Ian Madison Keller (Read by Dirt Coyote, part 1 of 2)"
         },
@@ -2268,11 +2253,9 @@
             "slug": "sea-of-stars-by-itoma-the-fuzzy",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "mood:romance",
-                "by:itoma-the-fuzzy",
-                "narrator:khaki"
+                "plot:epic",
+                "narrator:khaki",
+                "by:itoma-the-fuzzy"
             ],
             "title": "\u201cSea of Stars\u201d by Itoma the Fuzzy"
         },
@@ -2306,13 +2289,11 @@
             "slug": "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:military",
+                "setting:political/espionage",
                 "mood:gothic",
-                "warning:gore",
-                "by:kayod-lycaon",
-                "narrator:ardy-hart"
+                "narrator:ardy-hart",
+                "by:kayod-lycaon"
             ],
             "title": "\u201cDark Garden Lake\u201d by Kayod\u00e9 Lycaon (Read by Ardy Hart, part 2 of 2)"
         },
@@ -2324,12 +2305,11 @@
             "slug": "dark-garden-lake-by-kayode-lycaon-part-1",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:military",
+                "setting:political/espionage",
                 "mood:gothic",
-                "by:kayod-lycaon",
-                "narrator:ardy-hart"
+                "narrator:ardy-hart",
+                "by:kayod-lycaon"
             ],
             "title": "\u201cDark Garden Lake\u201d by Kayod\u00e9 Lycaon (Read by Ardy Hart, part 1 of 2)"
         },
@@ -2363,11 +2343,9 @@
             "slug": "lost-inside-the-blue-line-by-harry-a-wozzeck",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:epic",
-                "setting:stone-age",
-                "by:harry-a-wozzeck",
-                "narrator:khaki"
+                "plot:excerpt",
+                "narrator:khaki",
+                "by:harry-a-wozzeck"
             ],
             "title": "Excerpt from \u201cLost Inside the Blue Line\u201d by Harry A. Wozzeck"
         },
@@ -2818,7 +2796,7 @@
                 "plot:crime/police",
                 "setting:political/espionage",
                 "mood:spooky",
-                "by:tiberius-rings",
+                "by:tiberiusrings",
                 "narrator:rob-macwolf"
             ],
             "title": "\u201cGhost Unlaid Forbear Thee\u201d by Tiberius Rings & Fruitz (part 2 of 2)"
@@ -2836,7 +2814,7 @@
                 "setting:indigenous",
                 "mood:spooky",
                 "event:ghost-of-dog",
-                "by:tiberius-rings",
+                "by:tiberiusrings",
                 "narrator:rob-macwolf"
             ],
             "title": "\u201cGhost Unlaid Forbear Thee\u201d by Tiberius Rings & Fruitz (part 1 of 2)"
@@ -9084,7 +9062,6 @@
         "by:tempe-o-kun": "Author: Tempe O'Kun",
         "by:thomas-faux-steele": "Author: Thomas \u201cFaux\u201d Steele",
         "by:thurston-howl": "Author: Thurston Howl",
-        "by:tiberius-rings": "Author: Tiberius Rings",
         "by:tiberiusrings": "Author: TiberiusRings",
         "by:tj-minde": "Author: TJ Minde",
         "by:todd-aldrington": "Author: Todd Aldrington",
@@ -9143,6 +9120,7 @@
         "narrator:dirt-coyote": "Narrator: Dirt Coyote",
         "narrator:dralen": "Narrator: Dralen",
         "narrator:friends-of-the-fireplace": "narrator:friends of the fireplace",
+        "narrator:gar-sahoni-atkins": "narrator:gar sahoni atkins",
         "narrator:herrwozzeck": "Narrator: HerrWozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
@@ -9975,13 +9953,11 @@
         "by:thurston-howl": [
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18"
         ],
-        "by:tiberius-rings": [
-            "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-2-of-2",
-            "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-1-of-2"
-        ],
         "by:tiberiusrings": [
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
+            "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-2-of-2",
+            "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-1-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2"
         ],
@@ -10044,7 +10020,6 @@
             "memory-by-et-al-",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
-            "a-poetic-definition-by-rob-macwolf",
             "comfortable-by-sophie-katz",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "and-then-there-is-destruction-by-taylor-fox",
@@ -10061,13 +10036,10 @@
             "18-snaggin-by-gar-sahoni-atkins",
             "three-tales-of-ukkabal-by-ritter",
             "tailsock-tier-by-field-t-mouse",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "1725-by-packwolf-lupestripe",
             "the-toy-aisle-by-sofox",
             "savannah-friends-by-darius-davis",
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf",
-            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "18-the-darkest-place-by-kohitsuji",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "rites-of-wood-and-bone-by-utunu",
@@ -10075,9 +10047,6 @@
             "18-downward-dog-by-scribbles-monhagen",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "conspiracy-by-darius-davis",
-            "the-sight-by-j-s-hawthorne-part-2-of-2",
-            "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "the-presence-between-the-pages-by-madison-scott-clary",
             "move-x-to-y2k-by-chase-anderson",
             "18-when-in-rome-by-ziegenbock",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
@@ -10085,23 +10054,16 @@
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
             "hunter-on-the-shelves-by-leuna",
-            "18-shell-game-by-kandrel-part-2-of-2",
-            "18-shell-game-by-kandrel-part-1-of-2",
-            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "18-playing-the-numbers-by-kergiby",
             "traveler-in-the-last-wood-by-kohitsuji",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "too-important-to-be-forgotten-by-splicerwolf",
-            "whip-lash-by-herr-wozzeck-18",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
             "morning-of-by-madison-scott-clary",
-            "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "fair-and-square-by-madison-scott-clary",
             "anniversary-by-spottystuff",
-            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "herd-and-understood-by-lauren-rivers",
             "reflections-by-sakarafox-rob-macwolf",
             "18-pack-by-mikasiwolf",
@@ -10123,15 +10085,8 @@
             "grenadine-by-partvoid",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "forest-by-nenekiri-bookwyrm",
-            "ethane-horizons-by-joel-kreissman",
-            "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
-            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
-            "sea-of-stars-by-itoma-the-fuzzy",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
-            "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
-            "dark-garden-lake-by-kayode-lycaon-part-1",
             "18-free-samples-by-dirt-coyote",
-            "lost-inside-the-blue-line-by-harry-a-wozzeck",
             "requiem-by-pascal-farful",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
@@ -10649,6 +10604,7 @@
         "content:lgbtq+": [
             "love-like-echoed-fire-by-js-hawthorne",
             "18-snaggin-by-gar-sahoni-atkins",
+            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "rites-of-wood-and-bone-by-utunu",
             "18-the-ringmasters-welcome-by-pascal-farful",
@@ -10743,6 +10699,7 @@
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
+            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "herd-and-understood-by-lauren-rivers",
             "18-the-ace-of-hearts-by-domus-vocis",
             "18-pack-by-mikasiwolf",
@@ -10954,7 +10911,6 @@
         ],
         "mood:family-saga": [
             "the-eavesdropper-by-ritter",
-            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "herd-and-understood-by-lauren-rivers",
             "the-things-i-ask-myself-by-rob-macwolf",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
@@ -10995,6 +10951,9 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
+            "the-sight-by-j-s-hawthorne-part-2-of-2",
+            "the-sight-by-j-s-hawthorne-part-1-of-2",
+            "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "rune-weaver-by-aelius-part-2-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -11059,7 +11018,6 @@
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "18-front-roe-by-b-p-rugger",
             "merry-christmas-professor-nemesis-by-buddy-goodboy",
-            "18-shell-game-by-kandrel-part-2-of-2",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
             "18-free-samples-by-dirt-coyote",
@@ -11093,6 +11051,7 @@
             "three-tales-of-ukkabal-by-ritter",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
+            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
@@ -11126,6 +11085,7 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "the-painful-yearning-by-cardigan",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
+            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "le-premiere-jour-damour-by-herr-wozzeck-part-2-of-2",
             "le-premier-jour-damour-by-herr-wozzeck-part-1-of-2",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
@@ -11133,7 +11093,6 @@
             "herman-by-coda",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "forest-by-nenekiri-bookwyrm",
-            "sea-of-stars-by-itoma-the-fuzzy",
             "requiem-by-pascal-farful",
             "perfection-of-the-visionary-courier-by-al-song-part-2-of-2-read-by-dirt-coyote-18",
             "perfection-of-the-visionary-courier-by-al-song-part-1-of-2-18",
@@ -11255,7 +11214,6 @@
             "the-toy-aisle-by-sofox",
             "genre-clade-by-domus-vocis",
             "on-bein-bear-by-sparky",
-            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "18-the-ace-of-hearts-by-domus-vocis",
             "a-failed-reality-by-akronia",
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
@@ -11276,9 +11234,6 @@
             "the-labyrinth-by-sky-mckinnon",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
-            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "rites-of-wood-and-bone-by-utunu",
             "18-downward-dog-by-scribbles-monhagen",
@@ -11287,8 +11242,6 @@
             "18-the-ringmasters-welcome-by-pascal-farful",
             "a-lesson-in-hauntings-by-rob-macwolf",
             "conspiracy-by-darius-davis",
-            "the-sight-by-j-s-hawthorne-part-2-of-2",
-            "the-sight-by-j-s-hawthorne-part-1-of-2",
             "distant-cousins-by-alex-katz",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
@@ -11305,8 +11258,6 @@
             "18-pack-by-mikasiwolf",
             "18-my-initiation-to-the-wolf-way-by-tannihn",
             "grenadine-by-partvoid",
-            "ethane-horizons-by-joel-kreissman",
-            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
@@ -11386,6 +11337,7 @@
             "run-by-dirt-coyote-part-1-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "loup-garou-the-moon-by-michel-vincent-corbeaux",
+            "ethane-horizons-by-joel-kreissman",
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2",
             "tokyo-tension-by-crimson-ruari",
             "colour-me-terrified-by-b-p-rugger-18",
@@ -11438,11 +11390,14 @@
             "conspiracy-by-darius-davis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
+            "18-playing-the-numbers-by-kergiby",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
+            "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
+            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "perfection-of-the-visionary-courier-by-al-song-part-2-of-2-read-by-dirt-coyote-18",
             "perfection-of-the-visionary-courier-by-al-song-part-1-of-2-18",
             "18-under-the-bed-by-todd-aldrington",
@@ -11464,8 +11419,12 @@
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen"
         ],
         "narrator:friends-of-the-fireplace": [
+            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "the-session-by-khaki-and-friends",
             "where-stories-are-told-by-khaki-and-friends"
+        ],
+        "narrator:gar-sahoni-atkins": [
+            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
         ],
         "narrator:huskyteer": [
             "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
@@ -11803,7 +11762,6 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "1725-by-packwolf-lupestripe",
             "the-toy-aisle-by-sofox",
-            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "18-downward-dog-by-scribbles-monhagen",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
@@ -11815,8 +11773,6 @@
             "18-when-in-rome-by-ziegenbock",
             "genre-clade-by-domus-vocis",
             "hunter-on-the-shelves-by-leuna",
-            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "18-playing-the-numbers-by-kergiby",
             "traveler-in-the-last-wood-by-kohitsuji",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
@@ -11840,8 +11796,6 @@
             "grenadine-by-partvoid",
             "forest-by-nenekiri-bookwyrm",
             "ethane-horizons-by-joel-kreissman",
-            "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
-            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "18-free-samples-by-dirt-coyote",
             "emotional-support-wolf-by-nighteyes-dayspring",
             "chump-change-by-alex-katz",
@@ -11961,6 +11915,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "le-premier-jour-damour-by-herr-wozzeck-part-1-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
+            "ethane-horizons-by-joel-kreissman",
             "the-gift-by-darius-davis-read-by-takom-ironhoof",
             "riddles-with-a-raven-by-casimir-laski",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
@@ -12054,9 +12009,9 @@
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "18-front-roe-by-b-p-rugger",
             "tailsock-tier-by-field-t-mouse",
+            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "the-toy-aisle-by-sofox",
-            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "a-lesson-in-hauntings-by-rob-macwolf",
             "the-presence-between-the-pages-by-madison-scott-clary",
@@ -12064,7 +12019,6 @@
             "genre-clade-by-domus-vocis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
-            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-playing-the-numbers-by-kergiby",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -12081,7 +12035,7 @@
             "herman-by-coda",
             "the-things-i-ask-myself-by-rob-macwolf",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
-            "sea-of-stars-by-itoma-the-fuzzy",
+            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-1",
             "18-free-samples-by-dirt-coyote",
@@ -12188,16 +12142,15 @@
         "plot:epic": [
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "savannah-friends-by-darius-davis",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "on-bein-bear-by-sparky",
+            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
-            "ethane-horizons-by-joel-kreissman",
-            "lost-inside-the-blue-line-by-harry-a-wozzeck",
+            "sea-of-stars-by-itoma-the-fuzzy",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
             "a-dragons-dilemma-by-evan-drake",
@@ -12220,14 +12173,16 @@
         "plot:excerpt": [
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
+            "lost-inside-the-blue-line-by-harry-a-wozzeck",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "friends-and-collies-by-ursus-arctos"
         ],
         "plot:mystery": [
             "18-the-creation-of-water-by-leuna",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
+            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
+            "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
-            "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "a-simple-guide-to-sugar-free-lemonade-by-arthur-felice-by-dirt-coyote",
             "last-day-by-dirt-coyote",
@@ -12301,6 +12256,7 @@
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
             "hunter-on-the-shelves-by-leuna",
             "on-bein-bear-by-sparky",
+            "18-playing-the-numbers-by-kergiby",
             "too-important-to-be-forgotten-by-splicerwolf",
             "always-seen-but-never-known-by-domus-vocis",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
@@ -12375,13 +12331,16 @@
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "merry-christmas-professor-nemesis-by-buddy-goodboy",
+            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
+            "the-sight-by-j-s-hawthorne-part-1-of-2",
             "distant-cousins-by-alex-katz",
+            "the-presence-between-the-pages-by-madison-scott-clary",
             "rune-weaver-by-aelius-part-2-of-2",
             "rune-weaver-by-aelius-part-1-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
@@ -12431,11 +12390,9 @@
             "18-snaggin-by-gar-sahoni-atkins",
             "18-the-darkest-place-by-kohitsuji",
             "conspiracy-by-darius-davis",
-            "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "the-presence-between-the-pages-by-madison-scott-clary",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
-            "18-shell-game-by-kandrel-part-1-of-2",
+            "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "traveler-in-the-last-wood-by-kohitsuji",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "anniversary-by-spottystuff",
@@ -12552,10 +12509,6 @@
         ],
         "setting:military": [
             "savannah-friends-by-darius-davis",
-            "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
-            "ethane-horizons-by-joel-kreissman",
-            "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
-            "dark-garden-lake-by-kayode-lycaon-part-1",
             "the-reason-why-by-j-s-hawthorne",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "fathers-to-sons-by-mikasiwolf-part-2-of-2",
@@ -12580,10 +12533,14 @@
             "to-find-you-by-kandrel-18"
         ],
         "setting:political/espionage": [
+            "18-shell-game-by-kandrel-part-2-of-2",
+            "18-shell-game-by-kandrel-part-1-of-2",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "the-painful-yearning-by-cardigan",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
+            "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
+            "dark-garden-lake-by-kayode-lycaon-part-1",
             "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-2-of-2",
             "secession-by-madison-scott-clary-read-by-the-author",
             "missives-by-madison-scott-clary",
@@ -12617,7 +12574,10 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "setting:sci-fi": [
+            "18-shell-game-by-kandrel-part-2-of-2",
+            "18-shell-game-by-kandrel-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
+            "ethane-horizons-by-joel-kreissman",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "silence-and-sword-by-royce-day-part-2-of-2",
             "finding-a-lost-inventor-by-katlina-sommerberg",
@@ -12629,11 +12589,9 @@
             "edge-of-the-universe-by-domus-vocis"
         ],
         "setting:stone-age": [
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
-            "lost-inside-the-blue-line-by-harry-a-wozzeck",
             "weasels-of-the-apocalypse-by-ben-goodridge-part-2-of-2",
             "weasels-of-the-apocalypse-by-ben-goodridge-part-1-of-2",
             "nudging-the-sky-by-utunu",
@@ -12653,7 +12611,6 @@
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "three-tales-of-ukkabal-by-ritter",
             "a-lesson-in-hauntings-by-rob-macwolf",
-            "18-shell-game-by-kandrel-part-2-of-2",
             "herd-and-understood-by-lauren-rivers",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
             "the-gift-by-darius-davis-read-by-takom-ironhoof",
@@ -12728,7 +12685,6 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
-            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "of-heart-and-stone-by-solomon-harries",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
@@ -12755,7 +12711,6 @@
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "ethane-horizons-by-joel-kreissman",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
-            "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "perfection-of-the-visionary-courier-by-al-song-part-1-of-2-18",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
@@ -12983,6 +12938,7 @@
             "cleaning-up-by-kyell-gold"
         ],
         "warning:trauma": [
+            "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "anniversary-by-spottystuff",

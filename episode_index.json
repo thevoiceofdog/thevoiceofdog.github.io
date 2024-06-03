@@ -440,7 +440,7 @@
             "tags": [
                 "check-tags",
                 "plot:epic",
-                "setting:indigenous",
+                "setting:historical",
                 "mood:spooky",
                 "warning:gore",
                 "by:kayod-lycaon",
@@ -1517,17 +1517,19 @@
             "slug": "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:action/adventure",
-                "mood:gothic",
+                "plot:drama",
+                "setting:contemporary",
                 "content:queer",
                 "content:lgbtq+",
                 "content:gay",
-                "content:transsexual",
-                "warning:self-harm",
+                "content:transgender",
+                "content:lesbian",
+                "content:pansexual",
+                "content:asexual",
+                "warning:police-violence",
                 "event:pride-month",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThere's a Place in the Great Pack For You\u201d by Rob MacWolf (read by the author, part 2 of 2)"
         },
@@ -1539,16 +1541,14 @@
             "slug": "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:action/adventure",
-                "setting:political/espionage",
-                "mood:spooky",
+                "plot:drama",
+                "setting:contemporary",
                 "content:lgbtq+",
                 "content:queer",
                 "content:gay",
-                "event:holiday",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "event:pride-month",
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThere's a Place in the Great Pack For You\u201d by Rob MacWolf (read by the author, part 1 of 2)"
         },
@@ -1751,7 +1751,7 @@
                 "plot:drama",
                 "setting:western",
                 "mood:family-saga",
-                "content:transsexual",
+                "content:transgender",
                 "content:queer",
                 "content:lgbtq+",
                 "event:pride-month",
@@ -1937,7 +1937,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "setting:indigenous",
+                "setting:stone-age",
                 "mood:spooky",
                 "content:adult",
                 "warning:nsfw",
@@ -2135,12 +2135,11 @@
             "slug": "the-things-i-ask-myself-by-rob-macwolf",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "mood:family-saga",
+                "plot:poem",
+                "mood:romance",
                 "event:poetry-month",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Things I Ask Myself\u201d by Rob MacWolf"
         },
@@ -2555,7 +2554,6 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "setting:indigenous",
                 "mood:gothic",
                 "by:madison-scott-clary",
                 "narrator:madison-scott-clary"
@@ -2571,7 +2569,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "setting:indigenous",
+                "setting:historical",
                 "mood:spooky",
                 "by:madison-scott-clary",
                 "narrator:khaki"
@@ -2810,7 +2808,6 @@
             "tags": [
                 "check-tags",
                 "plot:crime/police",
-                "setting:indigenous",
                 "mood:spooky",
                 "event:ghost-of-dog",
                 "by:tiberiusrings",
@@ -3376,13 +3373,12 @@
             "slug": "the-homecoming-of-daniel-usherswell-by-rob-macwolf",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
-                "mood:spooky",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "event:pride-month",
-                "by:rob-macwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Homecoming of Daniel Usherswell\u201d by Rob MacWolf"
         },
@@ -3424,7 +3420,7 @@
                 "content:queer",
                 "content:gay",
                 "content:bisexual",
-                "content:transsexual",
+                "content:transgender",
                 "content:asexual",
                 "plot:drama",
                 "mood:romance",
@@ -4079,12 +4075,11 @@
             "slug": "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family-saga",
-                "by:rob-macwolf",
-                "narrator:william-dingo"
+                "mood:legend",
+                "narrator:william-dingo",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Man Whose Life Ran Away\u201d by Rob MacWolf (read by William Dingo)"
         },
@@ -4844,7 +4839,7 @@
                 "check-tags",
                 "plot:drama",
                 "mood:gothic",
-                "content:transsexual",
+                "content:transgender",
                 "event:ghost-of-dog",
                 "by:madison-scott-clary",
                 "narrator:rob-macwolf"
@@ -4933,13 +4928,14 @@
             "slug": "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "summary": "",
             "tags": [
-                "check-tags",
-                "mood:gothic",
+                "mood:family-saga",
+                "setting:fantasy",
+                "setting:contemporary",
                 "content:adult",
                 "warning:nsfw",
                 "warning:trauma",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Green Night\u201d by Rob MacWolf (part 2 of 2, read by the author) [18+]"
         },
@@ -4952,6 +4948,8 @@
             "summary": "",
             "tags": [
                 "mood:family-saga",
+                "setting:fantasy",
+                "setting:contemporary",
                 "content:adult",
                 "warning:nsfw",
                 "warning:drugs/alcohol",
@@ -5965,7 +5963,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "setting:indigenous",
+                "setting:historical",
                 "mood:eldritch",
                 "content:adult",
                 "warning:nsfw",
@@ -5984,7 +5982,6 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "setting:indigenous",
                 "mood:eldritch",
                 "content:adult",
                 "warning:nsfw",
@@ -6940,7 +6937,7 @@
             "tags": [
                 "check-tags",
                 "plot:epic",
-                "setting:indigenous",
+                "setting:stone-age",
                 "mood:legend",
                 "warning:gore",
                 "by:mikasiwolf",
@@ -7166,16 +7163,13 @@
             "slug": "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "summary": "<p><em><strong>[18+] Early fall, a werewolf pack, in mourning, on the highway. From campground to crossroad, they chase not just their grief, but a question.</strong></em></p>\n<p><strong>Today\u2019s story is \u201c</strong><a href=\"https://www.pillowfort.social/posts/1574178\"><u><strong>The Last Journey Of Theodore Vulcek, Leader, Beloved Husband, and Pack Brother</strong></u></a><strong>\u201d by </strong><a href=\"https://twitter.com/GuyWhoWroteThis\"><u><strong>Rob MacWolf</strong></u></a><strong>, and you can find more of his writing and bad jokes on his </strong><a href=\"https://www.pillowfort.social/AjaniOnTheSpot\"><u><strong>Pillowfort page</strong></u></a><strong>.</strong></p>\n<p><strong>Read for you by the author himself.</strong></p>\n",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:western",
                 "mood:spooky",
                 "content:adult",
                 "warning:nsfw",
                 "warning:drugs/alcohol",
-                "event:holiday",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Last Journey Of Theodore Vulcek, Leader, Beloved Husband, and Pack Brother\u201d by Rob MacWolf [18+]"
         },
@@ -7224,7 +7218,7 @@
             "tags": [
                 "check-tags",
                 "plot:action/adventure",
-                "setting:indigenous",
+                "setting:stone-age",
                 "mood:spooky",
                 "warning:gore",
                 "by:utunu",
@@ -7490,7 +7484,7 @@
                 "setting:contemporary",
                 "mood:gothic",
                 "content:queer",
-                "content:transsexual",
+                "content:transgender",
                 "by:madison-keller",
                 "narrator:khaki"
             ],
@@ -8457,7 +8451,7 @@
                 "plot:drama",
                 "setting:historical",
                 "mood:humor/satire",
-                "content:transsexual",
+                "content:transgender",
                 "warning:gore",
                 "warning:violence",
                 "by:madison-scott-clary",
@@ -9088,7 +9082,8 @@
         "content:pansexual": "Pansexual",
         "content:polyamory": "Polyamory",
         "content:queer": "Queer",
-        "content:transsexual": "Trans",
+        "content:transgender": "Trans",
+        "content:transsexual": "Transsexual",
         "event:fireside-meeting": "Fireside Meeting",
         "event:ghost-of-dog": "Ghost of Dog",
         "event:holiday": "Holiday",
@@ -10051,8 +10046,6 @@
             "too-important-to-be-forgotten-by-splicerwolf",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
             "morning-of-by-madison-scott-clary",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "fair-and-square-by-madison-scott-clary",
             "anniversary-by-spottystuff",
             "herd-and-understood-by-lauren-rivers",
@@ -10072,7 +10065,6 @@
             "the-dogs-assure-me-by-madison-scott-clary",
             "a-failed-reality-by-akronia",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
-            "the-things-i-ask-myself-by-rob-macwolf",
             "grenadine-by-partvoid",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "forest-by-nenekiri-bookwyrm",
@@ -10129,7 +10121,6 @@
             "screw-the-looking-glass-by-zack-loup",
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari",
             "last-day-by-dirt-coyote",
-            "the-homecoming-of-daniel-usherswell-by-rob-macwolf",
             "how-it-pans-out-by-kergiby",
             "rekindling-by-al-song-part-2-of-2",
             "rekindling-by-al-song-part-1-of-2",
@@ -10164,7 +10155,6 @@
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "heraclitan-bird-songs-a-poem-by-michel-vincent-corbeaux",
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen",
-            "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "precious-cargo-by-herr-wozzeck-part-2-of-2",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "satan-dearie-by-b-p-rugger-18",
@@ -10206,7 +10196,6 @@
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
-            "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",
@@ -10325,7 +10314,6 @@
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18",
             "unseelie-pie-by-bill-ricardi",
             "rabbit-food-by-altivo-overo",
-            "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "missed-feelings-by-tj-minde-18",
             "the-adventurers-by-kandrel",
             "water-by-utunu-part-2-of-2",
@@ -10539,6 +10527,7 @@
         ],
         "content:asexual": [
             "eat-your-heart-your-feelings-or-both-by-leuna",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "18-the-ace-of-hearts-by-domus-vocis",
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
             "a-pride-at-pride-by-darius-davis",
@@ -10590,6 +10579,9 @@
             "6-unbelievable-facts-about-unicorns-that-will-completely-blow-your-mind-by-ryan-campbell",
             "of-his-flesh-the-mystery-sing-by-b-p-rugger-18",
             "agent-friendzone-by-kyell-gold"
+        ],
+        "content:lesbian": [
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "content:lgbtq+": [
             "love-like-echoed-fire-by-js-hawthorne",
@@ -10674,6 +10666,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "content:pansexual": [
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "a-pride-at-pride-by-darius-davis"
         ],
         "content:polyamory": [
@@ -10733,14 +10726,16 @@
             "of-his-flesh-the-mystery-sing-by-b-p-rugger-18",
             "agent-friendzone-by-kyell-gold"
         ],
-        "content:transsexual": [
+        "content:transgender": [
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "herd-and-understood-by-lauren-rivers",
-            "a-pride-at-pride-by-darius-davis",
             "how-it-pans-out-by-kergiby",
             "the-hand-of-god-by-madison-scott-clary-read-by-b-p-rugger",
             "bucking-the-trend-by-madison-keller",
             "the-fool-by-madison-scott-clary"
+        ],
+        "content:transsexual": [
+            "a-pride-at-pride-by-darius-davis"
         ],
         "event:fireside-meeting": [
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
@@ -10792,7 +10787,6 @@
             "1725-by-packwolf-lupestripe",
             "the-toy-aisle-by-sofox",
             "hunter-on-the-shelves-by-leuna",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "18-love-before-breakfast-by-field-t-mouse",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
             "18-victor-tremblay-in-because-the-night-by-pascal-farful",
@@ -10816,7 +10810,6 @@
             "morning-coffee-by-lauren-rivers",
             "fourth-man-left-outside-by-rob-macwolf",
             "variables-by-roland-jovaik-part-2-of-2",
-            "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "giving-thanks-by-kergiby",
             "no-peas-in-my-garden-by-dan-leinir-turthra-jensen",
             "lone-by-significantotter",
@@ -10850,6 +10843,7 @@
             "morning-of-by-madison-scott-clary",
             "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "always-seen-but-never-known-by-domus-vocis",
             "fair-and-square-by-madison-scott-clary",
             "18-the-salt-and-the-wound-by-pascal-farful",
@@ -10898,21 +10892,21 @@
         "mood:family-saga": [
             "the-eavesdropper-by-ritter",
             "herd-and-understood-by-lauren-rivers",
-            "the-things-i-ask-myself-by-rob-macwolf",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
             "18-under-the-bed-by-todd-aldrington",
             "silence-and-sword-by-royce-day-part-1-of-2",
             "what-was-your-first-spell-by-dirt-coyote-part-1-of-2",
+            "the-homecoming-of-daniel-usherswell-by-rob-macwolf",
             "fathers-to-sons-by-mikasiwolf-part-2-of-2",
             "fathers-to-sons-by-mikasiwolf-part-1-of-2",
             "a-strong-dominant-hand-by-drakolf-grimm-diretooth-18",
-            "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "ham-by-killick",
             "red-delicious-by-buddy-goodboy",
+            "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "background-noise-by-ezen-baklattan",
             "the-other-side-of-the-mirror-by-kidra-part-1-of-2",
@@ -10944,7 +10938,6 @@
             "18-shell-game-by-kandrel-part-1-of-2",
             "rune-weaver-by-aelius-part-2-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
@@ -10967,7 +10960,6 @@
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
             "the-hand-of-god-by-madison-scott-clary-read-by-b-p-rugger",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
-            "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
             "furta-sacra-by-rose-lacroix",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-2-of-2",
@@ -11042,6 +11034,7 @@
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
+            "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "thoughts-chelonian-a-poem-by-altivo-overo-read-by-madison-scott-clary",
             "hero-worship-by-metassus-read-by-madison-scott-clary",
@@ -11078,6 +11071,7 @@
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
             "18-love-before-breakfast-by-field-t-mouse",
             "herman-by-coda",
+            "the-things-i-ask-myself-by-rob-macwolf",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "forest-by-nenekiri-bookwyrm",
             "requiem-by-pascal-farful",
@@ -11241,7 +11235,6 @@
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "too-important-to-be-forgotten-by-splicerwolf",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "18-pack-by-mikasiwolf",
             "18-my-initiation-to-the-wolf-way-by-tannihn",
             "grenadine-by-partvoid",
@@ -11270,7 +11263,6 @@
             "diamond-in-the-rat-by-roan-rosser-part-2-of-2",
             "the-tower-by-danny-wolf",
             "a-dragons-dilemma-by-evan-drake",
-            "the-homecoming-of-daniel-usherswell-by-rob-macwolf",
             "the-reason-why-by-j-s-hawthorne",
             "bare-assed-broadway-by-ashe-valisca-part-1-of-2-18",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
@@ -11899,8 +11891,6 @@
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "le-premier-jour-damour-by-herr-wozzeck-part-1-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
             "ethane-horizons-by-joel-kreissman",
@@ -12011,6 +12001,8 @@
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "always-seen-but-never-known-by-domus-vocis",
             "18-the-salt-and-the-wound-by-pascal-farful",
             "the-painful-yearning-by-cardigan",
@@ -12021,7 +12013,6 @@
             "18-my-initiation-to-the-wolf-way-by-tannihn",
             "18-love-before-breakfast-by-field-t-mouse",
             "herman-by-coda",
-            "the-things-i-ask-myself-by-rob-macwolf",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
             "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
@@ -12215,6 +12206,7 @@
             "the-red-mare-by-amethyst-mare",
             "the-dogs-assure-me-by-madison-scott-clary",
             "a-failed-reality-by-akronia",
+            "the-things-i-ask-myself-by-rob-macwolf",
             "grenadine-by-partvoid",
             "forest-by-nenekiri-bookwyrm",
             "cheshire-cat-by-rob-macwolf",
@@ -12240,6 +12232,8 @@
             "on-bein-bear-by-sparky",
             "18-playing-the-numbers-by-kergiby",
             "too-important-to-be-forgotten-by-splicerwolf",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "always-seen-but-never-known-by-domus-vocis",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "run-by-dirt-coyote-part-2-of-2",
@@ -12279,6 +12273,8 @@
             "ham-by-killick",
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
+            "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
+            "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "background-noise-by-ezen-baklattan",
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
@@ -12341,6 +12337,8 @@
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "this-poem-is-haunted-by-rob-macwolf-read-by-madison-scott-clary",
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
+            "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
+            "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "a-dragons-tale-by-evan-drake",
             "a-gentle-rustling-of-leaves-by-nenekiri-bookwyrm",
             "urban-mystic-by-aelius-part-2-of-2",
@@ -12368,6 +12366,7 @@
         "setting:historical": [
             "love-like-echoed-fire-by-js-hawthorne",
             "18-the-creation-of-water-by-leuna",
+            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
             "18-the-darkest-place-by-kohitsuji",
@@ -12384,6 +12383,7 @@
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "requiem-by-pascal-farful",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
+            "unseeing-by-madison-scott-clary-part-1-of-2-read-by-the-author-herself",
             "darker-things-than-man-by-casimir-laski",
             "fantastic-feast-by-darius-davis",
             "confluence-by-ziegenbock-18",
@@ -12421,6 +12421,7 @@
             "event-horizon-by-arcane-reno",
             "the-pwca-by-holly-a-morrison-18",
             "lamb-of-god-by-stephen-coghlan",
+            "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
             "cease-fire-by-nachtfangen",
             "galician-sled-by-crimson-ruari-part-2-of-2",
             "galician-sled-by-crimson-ruari-part-1-of-2",
@@ -12453,17 +12454,6 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18",
             "earning-his-stripes-by-faolan-18",
             "gibbous-moon-waning-by-altivo-overo"
-        ],
-        "setting:indigenous": [
-            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
-            "18-my-initiation-to-the-wolf-way-by-tannihn",
-            "unseeing-by-madison-scott-clary-part-2-of-2-read-by-the-author-herself",
-            "unseeing-by-madison-scott-clary-part-1-of-2-read-by-the-author-herself",
-            "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-1-of-2",
-            "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
-            "glory-of-the-gods-by-nighteyes-dayspring-part-1-of-2",
-            "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
-            "water-by-utunu-part-2-of-2"
         ],
         "setting:medieval": [
             "the-death-of-kellas-by-sky-mckinnon",
@@ -12518,7 +12508,6 @@
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "the-painful-yearning-by-cardigan",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
@@ -12572,6 +12561,7 @@
         "setting:stone-age": [
             "rites-of-wood-and-bone-by-utunu",
             "reflections-by-sakarafox-rob-macwolf",
+            "18-my-initiation-to-the-wolf-way-by-tannihn",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "weasels-of-the-apocalypse-by-ben-goodridge-part-2-of-2",
@@ -12583,7 +12573,9 @@
             "speak-to-me-of-summer-by-harry-part-1-of-2",
             "the-river-in-the-mist-by-dwale-part-2-of-2",
             "the-river-in-the-mist-by-dwale-part-1-of-2",
+            "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
             "kenyak-s-saga-by-mikasiwolf-part-1-of-2",
+            "water-by-utunu-part-2-of-2",
             "water-by-utunu-part-1-of-2"
         ],
         "setting:western": [
@@ -12609,7 +12601,6 @@
             "endless-winter-by-js-hawthorne",
             "blind-date-blues-by-ian-madison-keller-2-of-2",
             "blind-date-blues-by-ian-madison-keller-1-of-2",
-            "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "missed-feelings-by-tj-minde-18",
             "a-leap-forward-by-mikasiwolf-part-3-of-3",
             "a-leap-forward-by-mikasiwolf-part-2-of-3",
@@ -12869,6 +12860,7 @@
         ],
         "warning:police-violence": [
             "18-the-creation-of-water-by-leuna",
+            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "the-shadows-seize-vengeance-by-pascal-farful",
             "what-was-your-first-spell-by-dirt-coyote-part-1-of-2",
@@ -12904,7 +12896,6 @@
         ],
         "warning:self-harm": [
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
-            "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",

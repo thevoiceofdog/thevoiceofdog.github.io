@@ -786,15 +786,14 @@
             "slug": "rites-of-wood-and-bone-by-utunu",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:action/adventure",
-                "setting:post-apocalyptic",
+                "plot:mystery",
+                "setting:stone-age",
                 "mood:spooky",
                 "content:lgbtq+",
                 "warning:gore",
                 "event:ghost-of-dog",
-                "by:utunu",
-                "narrator:leuna"
+                "narrator:leuna",
+                "by:utunu"
             ],
             "title": "\u201cRites of Wood and Bone\u201d by Utunu (read by Leuna)"
         },
@@ -989,7 +988,7 @@
             "slug": "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "summary": "",
             "tags": [
-                "plot:thriller/suspense",
+                "mood:thriller/suspense",
                 "setting:contemporary",
                 "mood:spooky",
                 "event:ghost-of-dog",
@@ -1006,7 +1005,7 @@
             "slug": "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "summary": "",
             "tags": [
-                "plot:thriller/suspense",
+                "mood:thriller/suspense",
                 "setting:contemporary",
                 "mood:spooky",
                 "event:ghost-of-dog",
@@ -9150,7 +9149,6 @@
         "plot:mystery": "Mystery",
         "plot:poem": "Poem",
         "plot:slice-of-life": "Slice of Life",
-        "plot:thriller/suspense": "plot:thriller/suspense",
         "saga": "saga",
         "setting:contemporary": "Contemporary",
         "setting:fantasy": "Fantasy",
@@ -10042,7 +10040,6 @@
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf",
             "18-the-darkest-place-by-kohitsuji",
             "eat-your-heart-your-feelings-or-both-by-leuna",
-            "rites-of-wood-and-bone-by-utunu",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
             "18-downward-dog-by-scribbles-monhagen",
             "18-the-ringmasters-welcome-by-pascal-farful",
@@ -11332,6 +11329,8 @@
         ],
         "mood:thriller/suspense": [
             "the-fox-and-the-unicorns-by-chase-anderson",
+            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
+            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "move-x-to-y2k-by-chase-anderson",
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
@@ -11900,7 +11899,6 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
-            "rites-of-wood-and-bone-by-utunu",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
@@ -12179,6 +12177,7 @@
         ],
         "plot:mystery": [
             "18-the-creation-of-water-by-leuna",
+            "rites-of-wood-and-bone-by-utunu",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
@@ -12237,10 +12236,6 @@
         ],
         "plot:slice-of-life": [
             "winterfall-beyond-the-white-by-lauren-rivers"
-        ],
-        "plot:thriller/suspense": [
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-1-of-2"
         ],
         "saga": [
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
@@ -12561,7 +12556,6 @@
         ],
         "setting:post-apocalyptic": [
             "winterfall-beyond-the-white-by-lauren-rivers",
-            "rites-of-wood-and-bone-by-utunu",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
@@ -12589,6 +12583,7 @@
             "edge-of-the-universe-by-domus-vocis"
         ],
         "setting:stone-age": [
+            "rites-of-wood-and-bone-by-utunu",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",

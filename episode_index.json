@@ -793,6 +793,7 @@
             "tags": [
                 "check-tags",
                 "plot:action/adventure",
+                "setting:post-apocalyptic",
                 "mood:spooky",
                 "content:lgbtq+",
                 "warning:gore",
@@ -994,16 +995,12 @@
             "slug": "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "content:pansexual",
-                "plot:drama",
-                "setting:western",
-                "mood:gothic",
-                "warning:drugs/alcohol",
-                "warning:gore",
+                "plot:thriller/suspense",
+                "setting:contemporary",
+                "mood:spooky",
                 "event:ghost-of-dog",
-                "by:domus-vocis",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:domus-vocis"
             ],
             "title": "\u201cGoodbye, New Mexico\u201d by Domus Vocis (part 2 of 2)"
         },
@@ -1015,13 +1012,12 @@
             "slug": "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "setting:historical",
-                "mood:gothic",
+                "plot:thriller/suspense",
+                "setting:contemporary",
+                "mood:spooky",
                 "event:ghost-of-dog",
-                "by:domus-vocis",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:domus-vocis"
             ],
             "title": "\u201cGoodbye, New Mexico\u201d by Domus Vocis (part 1 of 2)"
         },
@@ -1086,12 +1082,11 @@
             "slug": "genre-clade-by-domus-vocis",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:historical",
+                "setting:post-self",
                 "mood:speculative",
-                "by:domus-vocis",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:domus-vocis"
             ],
             "title": "\u201cGenre Clade\u201d by Domus Vocis"
         },
@@ -1359,13 +1354,12 @@
             "slug": "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "setting:stone-age",
-                "mood:family-saga",
+                "plot:action/adventure",
+                "setting:post-apocalyptic",
+                "mood:spooky",
                 "warning:gore",
-                "by:dirt-coyote",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:dirt-coyote"
             ],
             "title": "\"Monsters of the Daylight\" by Dirt Coyote (read by Ta'kom, part 2 of 2)"
         },
@@ -1377,13 +1371,12 @@
             "slug": "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "setting:historical",
+                "plot:action/adventure",
+                "setting:post-apocalyptic",
                 "mood:spooky",
                 "warning:gore",
-                "by:dirt-coyote",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:dirt-coyote"
             ],
             "title": "\"Monsters of the Daylight\" by Dirt Coyote (read by Ta'kom, part 1 of 2)"
         },
@@ -1576,7 +1569,6 @@
             "slug": "always-seen-but-never-known-by-domus-vocis",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:contemporary",
                 "mood:romance",
@@ -1584,8 +1576,8 @@
                 "content:queer",
                 "content:gay",
                 "event:pride-month",
-                "by:domus-vocis",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:domus-vocis"
             ],
             "title": "\u201cAlways Seen, But Never Known\u201d by Domus Vocis"
         },
@@ -1783,15 +1775,16 @@
             "slug": "run-by-dirt-coyote-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:mystery",
+                "plot:drama",
                 "setting:contemporary",
-                "mood:romance",
+                "mood:thriller/suspense",
                 "content:lgbtq+",
-                "warning:queerphobia",
+                "warning:drugs/alcohol",
+                "warning:trauma",
+                "warning:self-harm",
                 "event:pride-month",
-                "by:dirt-coyote",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:dirt-coyote"
             ],
             "title": "\u201cRun\u201d by Dirt Coyote (read by Kergiby, part 2 of 2)"
         },
@@ -1803,17 +1796,16 @@
             "slug": "run-by-dirt-coyote-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "setting:historical",
-                "mood:romance",
+                "setting:contemporary",
+                "mood:thriller/suspense",
                 "content:lgbtq+",
                 "warning:drugs/alcohol",
                 "warning:trauma",
                 "warning:self-harm",
                 "event:pride-month",
-                "by:dirt-coyote",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:dirt-coyote"
             ],
             "title": "\u201cRun\u201d by Dirt Coyote (read by Kergiby, part 1 of 2)"
         },
@@ -4665,6 +4657,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
+                "setting:post-self",
                 "mood:romance",
                 "by:madison-scott-clary",
                 "narrator:madison-scott-clary"
@@ -4712,7 +4705,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "setting:historical",
+                "setting:post-self",
                 "mood:romance",
                 "by:madison-scott-clary",
                 "narrator:madison-scott-clary"
@@ -5168,7 +5161,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "setting:contemporary",
+                "setting:post-self",
                 "mood:romance",
                 "content:adult",
                 "warning:nsfw",
@@ -9145,6 +9138,7 @@
         "plot:mystery": "Mystery",
         "plot:poem": "Poem",
         "plot:slice-of-life": "Slice of Life",
+        "plot:thriller/suspense": "plot:thriller/suspense",
         "saga": "saga",
         "setting:contemporary": "Contemporary",
         "setting:fantasy": "Fantasy",
@@ -9154,6 +9148,7 @@
         "setting:military": "Military",
         "setting:political/espionage": "Political/Espionage",
         "setting:post-apocalyptic": "Post-apocalyptic",
+        "setting:post-self": "Post-self",
         "setting:renaissance": "Renaissance",
         "setting:sci-fi": "Sci-fi",
         "setting:stone-age": "Stone Age",
@@ -10048,12 +10043,9 @@
             "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "the-presence-between-the-pages-by-madison-scott-clary",
             "move-x-to-y2k-by-chase-anderson",
             "18-when-in-rome-by-ziegenbock",
-            "genre-clade-by-domus-vocis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
@@ -10064,8 +10056,6 @@
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-playing-the-numbers-by-kergiby",
             "traveler-in-the-last-wood-by-kohitsuji",
-            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
-            "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "too-important-to-be-forgotten-by-splicerwolf",
@@ -10075,13 +10065,10 @@
             "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
-            "always-seen-but-never-known-by-domus-vocis",
             "fair-and-square-by-madison-scott-clary",
             "anniversary-by-spottystuff",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "herd-and-understood-by-lauren-rivers",
-            "run-by-dirt-coyote-part-2-of-2",
-            "run-by-dirt-coyote-part-1-of-2",
             "18-the-ace-of-hearts-by-domus-vocis",
             "reflections-by-sakarafox-rob-macwolf",
             "18-pack-by-mikasiwolf",
@@ -10710,7 +10697,6 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "content:pansexual": [
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "a-pride-at-pride-by-darius-davis"
         ],
         "content:polyamory": [
@@ -10902,7 +10888,6 @@
         "mood:family-saga": [
             "the-eavesdropper-by-ritter",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "herd-and-understood-by-lauren-rivers",
             "the-things-i-ask-myself-by-rob-macwolf",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
@@ -10943,8 +10928,6 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "rune-weaver-by-aelius-part-2-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -11077,8 +11060,6 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "the-painful-yearning-by-cardigan",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
-            "run-by-dirt-coyote-part-2-of-2",
-            "run-by-dirt-coyote-part-1-of-2",
             "le-premiere-jour-damour-by-herr-wozzeck-part-2-of-2",
             "le-premier-jour-damour-by-herr-wozzeck-part-1-of-2",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
@@ -11244,11 +11225,14 @@
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
             "distant-cousins-by-alex-katz",
+            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
+            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "the-presence-between-the-pages-by-madison-scott-clary",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
             "hunter-on-the-shelves-by-leuna",
             "traveler-in-the-last-wood-by-kohitsuji",
+            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "too-important-to-be-forgotten-by-splicerwolf",
@@ -11331,6 +11315,8 @@
         "mood:thriller/suspense": [
             "the-fox-and-the-unicorns-by-chase-anderson",
             "move-x-to-y2k-by-chase-anderson",
+            "run-by-dirt-coyote-part-2-of-2",
+            "run-by-dirt-coyote-part-1-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "loup-garou-the-moon-by-michel-vincent-corbeaux",
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2",
@@ -11901,6 +11887,8 @@
             "rune-weaver-by-aelius-part-2-of-2",
             "rune-weaver-by-aelius-part-1-of-2",
             "traveler-in-the-last-wood-by-kohitsuji",
+            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
+            "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
@@ -12005,8 +11993,6 @@
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "a-lesson-in-hauntings-by-rob-macwolf",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "the-presence-between-the-pages-by-madison-scott-clary",
             "move-x-to-y2k-by-chase-anderson",
             "genre-clade-by-domus-vocis",
@@ -12014,8 +12000,6 @@
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-playing-the-numbers-by-kergiby",
-            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
-            "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
@@ -12023,6 +12007,7 @@
             "18-the-salt-and-the-wound-by-pascal-farful",
             "the-painful-yearning-by-cardigan",
             "herd-and-understood-by-lauren-rivers",
+            "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "le-premiere-jour-damour-by-herr-wozzeck-part-2-of-2",
             "18-my-initiation-to-the-wolf-way-by-tannihn",
@@ -12174,7 +12159,6 @@
         "plot:mystery": [
             "18-the-creation-of-water-by-leuna",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
-            "run-by-dirt-coyote-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
@@ -12232,12 +12216,18 @@
         "plot:slice-of-life": [
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
+        "plot:thriller/suspense": [
+            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
+            "goodbye-new-mexico-by-domus-vocis-part-1-of-2"
+        ],
         "saga": [
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
         ],
         "setting:contemporary": [
             "18-front-roe-by-b-p-rugger",
             "eat-your-heart-your-feelings-or-both-by-leuna",
+            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
+            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "18-when-in-rome-by-ziegenbock",
             "taco-tuesday-by-dirt-coyote",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
@@ -12248,6 +12238,7 @@
             "always-seen-but-never-known-by-domus-vocis",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "run-by-dirt-coyote-part-2-of-2",
+            "run-by-dirt-coyote-part-1-of-2",
             "18-the-ace-of-hearts-by-domus-vocis",
             "18-love-before-breakfast-by-field-t-mouse",
             "herman-by-coda",
@@ -12284,7 +12275,6 @@
             "background-noise-by-ezen-baklattan",
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
-            "masseur-with-benefits-by-fayinga-18",
             "hey-buddy-by-dirt-coyote-read-by-kergiby",
             "one-seat-empty-by-dukeferret",
             "hostage-by-reid-minnich",
@@ -12373,17 +12363,13 @@
             "18-the-darkest-place-by-kohitsuji",
             "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "the-presence-between-the-pages-by-madison-scott-clary",
-            "genre-clade-by-domus-vocis",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "traveler-in-the-last-wood-by-kohitsuji",
-            "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
             "anniversary-by-spottystuff",
-            "run-by-dirt-coyote-part-1-of-2",
             "le-premier-jour-damour-by-herr-wozzeck-part-1-of-2",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
@@ -12410,7 +12396,6 @@
             "reunion-by-ardy-hart-18",
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "red-delicious-by-buddy-goodboy",
-            "jump-by-madison-scott-clary-read-by-the-author-herself",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
@@ -12551,8 +12536,17 @@
         ],
         "setting:post-apocalyptic": [
             "winterfall-beyond-the-white-by-lauren-rivers",
+            "rites-of-wood-and-bone-by-utunu",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
-            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2"
+            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
+            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
+            "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2"
+        ],
+        "setting:post-self": [
+            "genre-clade-by-domus-vocis",
+            "qoheleth-by-madison-scott-clary-an-excerpt-read-by-the-author-herself",
+            "jump-by-madison-scott-clary-read-by-the-author-herself",
+            "masseur-with-benefits-by-fayinga-18"
         ],
         "setting:sci-fi": [
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -12568,7 +12562,6 @@
         ],
         "setting:stone-age": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
-            "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
@@ -12592,7 +12585,6 @@
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "three-tales-of-ukkabal-by-ritter",
             "a-lesson-in-hauntings-by-rob-macwolf",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "18-shell-game-by-kandrel-part-2-of-2",
             "herd-and-understood-by-lauren-rivers",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
@@ -12630,10 +12622,10 @@
             "drunk-spider-ii-by-frances-pauli",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "conspiracy-by-darius-davis",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "18-the-salt-and-the-wound-by-pascal-farful",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
+            "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
@@ -12678,7 +12670,6 @@
             "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "hunter-on-the-shelves-by-leuna",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
@@ -12882,7 +12873,6 @@
         ],
         "warning:queerphobia": [
             "18-the-salt-and-the-wound-by-pascal-farful",
-            "run-by-dirt-coyote-part-2-of-2",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
             "18-victor-tremblay-in-because-the-night-by-pascal-farful",
             "18-under-the-bed-by-todd-aldrington",
@@ -12910,6 +12900,7 @@
         "warning:self-harm": [
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
+            "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "victor-tremblay-in-paper-blood-by-pascal-farful-part-1-of-2",
@@ -12926,6 +12917,7 @@
             "the-sight-by-j-s-hawthorne-part-1-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "anniversary-by-spottystuff",
+            "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",

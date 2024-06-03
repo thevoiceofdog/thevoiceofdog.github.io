@@ -64,13 +64,12 @@
             "slug": "18-what-are-the-odds-by-takom-ironhoof",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "mood:romance",
+                "mood:humor/satire",
                 "content:adult",
                 "warning:nsfw",
-                "by:ta-kom-ironhoof",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:ta-kom-ironhoof"
             ],
             "title": "[18+] \u201cWhat Are The Odds\u201d by Ta\u2019kom Ironhoof (read by the Author and Solomon)"
         },
@@ -210,11 +209,10 @@
             "slug": "agricola-avarice-by-michel-vincent-corbeaux",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
                 "event:poetry-month",
-                "by:michel-vincent-corbeaux",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries",
+                "by:michel-vincent-corbeaux"
             ],
             "title": "\u201cAgricola & Avarice\u201d by Michel-Vincent Corbeaux (read by Solomon Harries)"
         },
@@ -324,13 +322,10 @@
             "slug": "winterfall-beyond-the-white-by-lauren-rivers",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:action/adventure",
-                "setting:medieval",
-                "mood:family saga",
-                "warning:drugs/alcohol",
-                "by:lauren-rivers",
-                "narrator:solomon-harries"
+                "plot:slice-of-life",
+                "setting:post-apocalyptic",
+                "narrator:solomon-harries",
+                "by:lauren-rivers"
             ],
             "title": "\u201cWinterfall: Beyond The White\u201d by Lauren Rivers (read by Solomon Harries)"
         },
@@ -359,14 +354,13 @@
             "slug": "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:action/adventure",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:humor/satire",
                 "warning:drugs/alcohol",
+                "narrator:solomon-harries",
                 "by:lappi-t-fox",
-                "by:geo-holms",
-                "narrator:solomon-harries"
+                "by:geo-holms"
             ],
             "title": "\u201cA Gnollble Quest\u201d by Lappi T. Fox  and Geo Holms (read by Solomon Harries)"
         },
@@ -430,7 +424,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:medieval",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:ritter",
                 "narrator:dralen"
             ],
@@ -533,13 +527,13 @@
             "slug": "18-front-roe-by-b-p-rugger",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
-                "mood:romance",
+                "setting:contemporary",
+                "mood:humor/satire",
                 "content:adult",
                 "warning:nsfw",
-                "by:b-p-rugger",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:b-p-rugger"
             ],
             "title": "[18+] \u201cFront Roe\u201d by B. P. Rugger (read by the author)"
         },
@@ -551,9 +545,10 @@
             "slug": "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "summary": "",
             "tags": [
-                "check-tags",
-                "by:buddy-goodboy",
-                "narrator:solomon-harries"
+                "setting:fantasy",
+                "mood:humor/satire",
+                "narrator:solomon-harries",
+                "by:buddy-goodboy"
             ],
             "title": "\u201cMerry Christmas, Professor Nemesis\u201d by Buddy Goodboy (read by Solomon Harries)"
         },
@@ -702,13 +697,13 @@
             "slug": "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:mystery",
-                "setting:political/espionage",
-                "mood:spooky",
+                "plot:excerpt",
+                "plot:epic",
+                "setting:fantasy",
+                "mood:legend",
                 "warning:gore",
-                "by:joaqu-n-baldwin",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:joaqu-n-baldwin"
             ],
             "title": "Excerpt from \u201cWolf of Withervale\u201d by Joaqu\u00edn Baldwin (read by Solomon Harries, part 2 of 2)"
         },
@@ -720,13 +715,13 @@
             "slug": "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:excerpt",
-                "setting:historical",
+                "plot:epic",
+                "setting:fantasy",
                 "mood:legend",
                 "warning:gore",
-                "by:joaqu-n-baldwin",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:joaqu-n-baldwin"
             ],
             "title": "Excerpt from \u201cWolf of Withervale\u201d by Joaqu\u00edn Baldwin (read by Solomon Harries, part 1 of 2)"
         },
@@ -850,12 +845,12 @@
             "slug": "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:action/adventure",
-                "mood:gothic",
+                "setting:post-apocalyptic",
+                "mood:spooky",
                 "event:ghost-of-dog",
-                "by:lauren-rivers",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:lauren-rivers"
             ],
             "title": "\u201cWinterfall: The Dark Mile\u201d by Lauren Rivers (read by Solomon Harries, part 2 of 2)"
         },
@@ -867,11 +862,12 @@
             "slug": "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "mood:gothic",
+                "plot:action/adventure",
+                "setting:post-apocalyptic",
+                "mood:spooky",
                 "event:ghost-of-dog",
-                "by:lauren-rivers",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:lauren-rivers"
             ],
             "title": "\u201cWinterfall: The Dark Mile\u201d by Lauren Rivers (read by Solomon Harries, part 1 of 2)"
         },
@@ -982,11 +978,11 @@
             "slug": "distant-cousins-by-alex-katz",
             "summary": "",
             "tags": [
-                "check-tags",
+                "setting:fantasy",
                 "mood:spooky",
                 "event:ghost-of-dog",
-                "by:alex-katz",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:alex-katz"
             ],
             "title": "\u201cDistant Cousins\u201d by Alex Katz (read by Solomon Harries)"
         },
@@ -1107,11 +1103,10 @@
             "slug": "taco-tuesday-by-dirt-coyote",
             "summary": "",
             "tags": [
-                "check-tags",
                 "setting:contemporary",
                 "mood:romance",
-                "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries",
+                "by:dirt-coyote"
             ],
             "title": "\"Taco Tuesday\" by Dirt Coyote (read by Solomon Harries)"
         },
@@ -1197,10 +1192,9 @@
             "slug": "the-starling-master-by-rob-macwolf",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:poem",
-                "by:rob-macwolf",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Starling Master\u201d by Rob MacWolf (read by Solomon Harries)"
         },
@@ -1229,12 +1223,11 @@
             "slug": "on-bein-bear-by-sparky",
             "summary": "",
             "tags": [
-                "check-tags",
-                "plot:drama",
-                "setting:fantasy",
-                "mood:thriller/suspense",
-                "by:sparky",
-                "narrator:solomon-harries"
+                "plot:epic",
+                "setting:contemporary",
+                "mood:speculative",
+                "narrator:solomon-harries",
+                "by:sparky"
             ],
             "title": "\u201cOn Bein\u2019 Bear\u201d by Sparky (read by Solomon Harries)"
         },
@@ -1284,7 +1277,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:gore",
                 "by:gar-sahoni-atkins",
                 "narrator:rob-macwolf"
@@ -1299,12 +1292,11 @@
             "slug": "rune-weaver-by-aelius-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:action/adventure",
-                "setting:historical",
+                "setting:fantasy",
                 "mood:gothic",
-                "by:aelius",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries",
+                "by:aelius"
             ],
             "title": "\u201cRune Weaver\u201d by Aelius (read by Solomon Harries, part 2 of 2)"
         },
@@ -1316,11 +1308,10 @@
             "slug": "rune-weaver-by-aelius-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:action/adventure",
-                "setting:historical",
-                "by:aelius",
-                "narrator:solomon-harries"
+                "setting:fantasy",
+                "narrator:solomon-harries",
+                "by:aelius"
             ],
             "title": "\u201cRune Weaver\u201d by Aelius (read by Solomon Harries, part 1 of 2)"
         },
@@ -1371,7 +1362,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:stone-age",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:gore",
                 "by:dirt-coyote",
                 "narrator:ta-kom-ironhoof"
@@ -1440,12 +1431,11 @@
             "slug": "ghost-in-the-machine-by-celtic-kitsune",
             "summary": "",
             "tags": [
-                "check-tags",
                 "plot:drama",
                 "setting:sci-fi",
                 "mood:gothic",
-                "by:celtic-kitsune",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries",
+                "by:celtic-kitsune"
             ],
             "title": "\u201cGhost in the Machine\u201d by Celtic Kitsune (read by Solomon Harries)"
         },
@@ -1775,7 +1765,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:western",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:transsexual",
                 "content:queer",
                 "content:lgbtq+",
@@ -2162,7 +2152,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "mood:family saga",
+                "mood:family-saga",
                 "event:poetry-month",
                 "by:rob-macwolf",
                 "narrator:rob-macwolf"
@@ -2250,7 +2240,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:ian-madison-keller",
                 "narrator:rob-macwolf"
             ],
@@ -2520,7 +2510,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:adult",
                 "warning:nsfw",
                 "warning:queerphobia",
@@ -2637,7 +2627,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:medieval",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:royce-day",
                 "narrator:rob-macwolf"
             ],
@@ -2997,7 +2987,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:police-violence",
                 "by:dirt-coyote",
                 "narrator:khaki"
@@ -3702,7 +3692,7 @@
                 "check-tags",
                 "plot:epic",
                 "setting:military",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:nsfw",
                 "by:mikasiwolf",
                 "narrator:khaki"
@@ -3720,7 +3710,7 @@
                 "check-tags",
                 "plot:epic",
                 "setting:military",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "by:mikasiwolf",
                 "narrator:khaki"
@@ -3970,7 +3960,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:adult",
                 "content:lgbtq+",
                 "content:queer",
@@ -4109,7 +4099,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:rob-macwolf",
                 "narrator:william-dingo"
             ],
@@ -4372,7 +4362,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "content:queer",
                 "content:gay",
@@ -4394,7 +4384,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:gay",
                 "content:lgbtq+",
                 "content:queer",
@@ -4417,7 +4407,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:k-c-shaw",
                 "narrator:nenekiri-bookwyrm"
             ],
@@ -4606,7 +4596,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:queerphobia",
                 "by:killick",
                 "narrator:khaki"
@@ -4707,7 +4697,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:buddy-goodboy",
                 "narrator:khaki"
             ],
@@ -4975,7 +4965,7 @@
             "tags": [
                 "check-tags",
                 "setting:stone-age",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:adult",
                 "warning:nsfw",
                 "warning:drugs/alcohol",
@@ -5075,7 +5065,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:contemporary",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:ezen-baklattan",
                 "narrator:khaki"
             ],
@@ -5306,7 +5296,7 @@
                 "check-tags",
                 "plot:action/adventure",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:kidra",
                 "narrator:khaki"
             ],
@@ -5323,7 +5313,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:adult",
                 "warning:nsfw",
                 "by:field-t-mouse",
@@ -5431,7 +5421,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:military",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:cheesefighter",
                 "narrator:khaki"
             ],
@@ -5490,7 +5480,7 @@
                 "check-tags",
                 "plot:action/adventure",
                 "setting:stone-age",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:harry",
                 "narrator:khaki"
             ],
@@ -5507,7 +5497,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:stone-age",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:harry",
                 "narrator:khaki"
             ],
@@ -5708,7 +5698,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:western",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "content:queer",
                 "by:fopfox",
@@ -6057,7 +6047,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "content:queer",
                 "by:nenekiri-bookwyrm",
@@ -6326,7 +6316,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:western",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:madison-keller",
                 "narrator:khaki"
             ],
@@ -6909,7 +6899,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:mog-moogle",
                 "narrator:khaki"
             ],
@@ -7410,7 +7400,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:western",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:mikasiwolf",
                 "narrator:khaki"
             ],
@@ -7485,7 +7475,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "content:queer",
                 "content:gay",
@@ -7690,7 +7680,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:historical",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:adult",
                 "warning:queerphobia",
                 "warning:nsfw",
@@ -7757,7 +7747,7 @@
             "tags": [
                 "check-tags",
                 "plot:drama",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:drugs/alcohol",
                 "warning:trauma",
                 "by:dan-leinir-turthra-jensen",
@@ -7990,7 +7980,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:fantasy",
-                "mood:family saga",
+                "mood:family-saga",
                 "warning:gore",
                 "by:nighteyes-dayspring",
                 "narrator:khaki"
@@ -8008,7 +7998,7 @@
                 "check-tags",
                 "plot:mystery",
                 "setting:political/espionage",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:skunkbomb",
                 "narrator:khaki"
             ],
@@ -8401,7 +8391,7 @@
                 "check-tags",
                 "plot:drama",
                 "setting:western",
-                "mood:family saga",
+                "mood:family-saga",
                 "content:lgbtq+",
                 "by:ocean-tigrox",
                 "narrator:khaki"
@@ -8781,7 +8771,7 @@
                 "check-tags",
                 "plot:crime/police",
                 "setting:political/espionage",
-                "mood:family saga",
+                "mood:family-saga",
                 "by:domus-vocis",
                 "narrator:khaki"
             ],
@@ -9107,7 +9097,7 @@
         "event:pride-month": "Pride Month",
         "mood:eldritch": "Eldritch",
         "mood:family": "mood:family",
-        "mood:family saga": "Family Saga",
+        "mood:family-saga": "Family Saga",
         "mood:gothic": "Gothic",
         "mood:horror": "Horror",
         "mood:humor/satire": "Humor/Satire",
@@ -9141,7 +9131,7 @@
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
         "narrator:rob-macwolf": "Narrator: Rob MacWolf",
-        "narrator:solomon-harries": "Narrator: Solomon Harries",
+        "narrator:solomon-harries": "narrator:solomon harries",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
         "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
         "narrator:william-dingo": "Narrator: William Dingo",
@@ -9163,6 +9153,7 @@
         "setting:medieval": "Medieval",
         "setting:military": "Military",
         "setting:political/espionage": "Political/Espionage",
+        "setting:post-apocalyptic": "Post-apocalyptic",
         "setting:renaissance": "Renaissance",
         "setting:sci-fi": "Sci-fi",
         "setting:stone-age": "Stone Age",
@@ -10018,23 +10009,19 @@
             "love-like-echoed-fire-by-js-hawthorne",
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
-            "18-what-are-the-odds-by-takom-ironhoof",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
             "memory-by-et-al-",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
-            "agricola-avarice-by-michel-vincent-corbeaux",
             "a-poetic-definition-by-rob-macwolf",
             "comfortable-by-sophie-katz",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "and-then-there-is-destruction-by-taylor-fox",
             "better-things-are-possible-by-nenekiri-bookwyrm",
             "the-labyrinth-by-sky-mckinnon",
-            "winterfall-beyond-the-white-by-lauren-rivers",
             "outfoxed-by-hania",
-            "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
@@ -10044,8 +10031,6 @@
             "the-fox-and-the-unicorns-by-chase-anderson",
             "18-snaggin-by-gar-sahoni-atkins",
             "three-tales-of-ukkabal-by-ritter",
-            "18-front-roe-by-b-p-rugger",
-            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "tailsock-tier-by-field-t-mouse",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -10053,47 +10038,36 @@
             "the-toy-aisle-by-sofox",
             "savannah-friends-by-darius-davis",
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf",
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "18-the-darkest-place-by-kohitsuji",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "rites-of-wood-and-bone-by-utunu",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
             "18-downward-dog-by-scribbles-monhagen",
-            "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
-            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "distant-cousins-by-alex-katz",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "the-presence-between-the-pages-by-madison-scott-clary",
             "move-x-to-y2k-by-chase-anderson",
             "18-when-in-rome-by-ziegenbock",
             "genre-clade-by-domus-vocis",
-            "taco-tuesday-by-dirt-coyote",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
-            "the-starling-master-by-rob-macwolf",
             "hunter-on-the-shelves-by-leuna",
-            "on-bein-bear-by-sparky",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "rune-weaver-by-aelius-part-2-of-2",
-            "rune-weaver-by-aelius-part-1-of-2",
             "18-playing-the-numbers-by-kergiby",
             "traveler-in-the-last-wood-by-kohitsuji",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
-            "ghost-in-the-machine-by-celtic-kitsune",
             "too-important-to-be-forgotten-by-splicerwolf",
             "whip-lash-by-herr-wozzeck-18",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
@@ -10925,9 +10899,7 @@
         "mood:family": [
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
         ],
-        "mood:family saga": [
-            "winterfall-beyond-the-white-by-lauren-rivers",
-            "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
+        "mood:family-saga": [
             "the-eavesdropper-by-ritter",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
@@ -10971,8 +10943,6 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
-            "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
-            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
@@ -11036,6 +11006,10 @@
         ],
         "mood:humor/satire": [
             "18-the-creation-of-water-by-leuna",
+            "18-what-are-the-odds-by-takom-ironhoof",
+            "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
+            "18-front-roe-by-b-p-rugger",
+            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
@@ -11068,6 +11042,7 @@
         ],
         "mood:legend": [
             "three-tales-of-ukkabal-by-ritter",
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
@@ -11085,10 +11060,8 @@
         "mood:romance": [
             "love-like-echoed-fire-by-js-hawthorne",
             "the-death-of-kellas-by-sky-mckinnon",
-            "18-what-are-the-odds-by-takom-ironhoof",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
-            "18-front-roe-by-b-p-rugger",
             "1725-by-packwolf-lupestripe",
             "savannah-friends-by-darius-davis",
             "18-when-in-rome-by-ziegenbock",
@@ -11235,6 +11208,7 @@
         "mood:speculative": [
             "the-toy-aisle-by-sofox",
             "genre-clade-by-domus-vocis",
+            "on-bein-bear-by-sparky",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "18-the-ace-of-hearts-by-domus-vocis",
             "a-failed-reality-by-akronia",
@@ -11258,11 +11232,12 @@
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "rites-of-wood-and-bone-by-utunu",
             "18-downward-dog-by-scribbles-monhagen",
+            "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
+            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "a-lesson-in-hauntings-by-rob-macwolf",
             "conspiracy-by-darius-davis",
@@ -11356,7 +11331,6 @@
         "mood:thriller/suspense": [
             "the-fox-and-the-unicorns-by-chase-anderson",
             "move-x-to-y2k-by-chase-anderson",
-            "on-bein-bear-by-sparky",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "loup-garou-the-moon-by-michel-vincent-corbeaux",
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2",
@@ -11756,7 +11730,6 @@
             "rain-by-leuna",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
-            "agricola-avarice-by-michel-vincent-corbeaux",
             "a-poetic-definition-by-rob-macwolf",
             "comfortable-by-sophie-katz",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
@@ -11788,15 +11761,12 @@
             "move-x-to-y2k-by-chase-anderson",
             "18-when-in-rome-by-ziegenbock",
             "genre-clade-by-domus-vocis",
-            "taco-tuesday-by-dirt-coyote",
             "hunter-on-the-shelves-by-leuna",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "rune-weaver-by-aelius-part-2-of-2",
             "18-playing-the-numbers-by-kergiby",
             "traveler-in-the-last-wood-by-kohitsuji",
             "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
-            "ghost-in-the-machine-by-celtic-kitsune",
             "too-important-to-be-forgotten-by-splicerwolf",
             "morning-of-by-madison-scott-clary",
             "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
@@ -11867,6 +11837,7 @@
         ],
         "narrator:solomon-harries": [
             "18-what-are-the-odds-by-takom-ironhoof",
+            "agricola-avarice-by-michel-vincent-corbeaux",
             "winterfall-beyond-the-white-by-lauren-rivers",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "merry-christmas-professor-nemesis-by-buddy-goodboy",
@@ -11876,9 +11847,12 @@
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "distant-cousins-by-alex-katz",
+            "taco-tuesday-by-dirt-coyote",
             "the-starling-master-by-rob-macwolf",
             "on-bein-bear-by-sparky",
-            "rune-weaver-by-aelius-part-1-of-2"
+            "rune-weaver-by-aelius-part-2-of-2",
+            "rune-weaver-by-aelius-part-1-of-2",
+            "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "narrator:ta-kom-ironhoof": [
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
@@ -11914,7 +11888,6 @@
         "plot:action/adventure": [
             "love-like-echoed-fire-by-js-hawthorne",
             "memory-by-et-al-",
-            "winterfall-beyond-the-white-by-lauren-rivers",
             "outfoxed-by-hania",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
@@ -11922,6 +11895,7 @@
             "of-heart-and-stone-by-solomon-harries",
             "rites-of-wood-and-bone-by-utunu",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
+            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "conspiracy-by-darius-davis",
             "rune-weaver-by-aelius-part-2-of-2",
@@ -12038,7 +12012,6 @@
             "genre-clade-by-domus-vocis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
-            "on-bein-bear-by-sparky",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-playing-the-numbers-by-kergiby",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
@@ -12165,6 +12138,9 @@
             "18-snaggin-by-gar-sahoni-atkins",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "savannah-friends-by-darius-davis",
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
+            "on-bein-bear-by-sparky",
             "blank-verse-essay-on-intentionality-in-queer-fiction-by-rob-macwolf-read-by-madison-scott-clary",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
@@ -12190,13 +12166,13 @@
             "to-find-you-by-kandrel-18"
         ],
         "plot:excerpt": [
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "friends-and-collies-by-ursus-arctos"
         ],
         "plot:mystery": [
             "18-the-creation-of-water-by-leuna",
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "run-by-dirt-coyote-part-2-of-2",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
@@ -12253,16 +12229,21 @@
             "dear-concerned-estranged-a-poem-by-rob-macwolf-read-by-madison-scott-clary",
             "jackll-do-a-poem-by-altivo-overo"
         ],
+        "plot:slice-of-life": [
+            "winterfall-beyond-the-white-by-lauren-rivers"
+        ],
         "saga": [
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger"
         ],
         "setting:contemporary": [
+            "18-front-roe-by-b-p-rugger",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "18-when-in-rome-by-ziegenbock",
             "taco-tuesday-by-dirt-coyote",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
             "while-the-lights-were-out-by-brathor-cyr-part-1-of-2",
             "hunter-on-the-shelves-by-leuna",
+            "on-bein-bear-by-sparky",
             "too-important-to-be-forgotten-by-splicerwolf",
             "always-seen-but-never-known-by-domus-vocis",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
@@ -12334,11 +12315,16 @@
         "setting:fantasy": [
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "the-fox-and-the-unicorns-by-chase-anderson",
+            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
+            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
-            "on-bein-bear-by-sparky",
+            "distant-cousins-by-alex-katz",
+            "rune-weaver-by-aelius-part-2-of-2",
+            "rune-weaver-by-aelius-part-1-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
@@ -12384,7 +12370,6 @@
             "18-the-creation-of-water-by-leuna",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
             "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
@@ -12394,8 +12379,6 @@
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-1-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
-            "rune-weaver-by-aelius-part-2-of-2",
-            "rune-weaver-by-aelius-part-1-of-2",
             "traveler-in-the-last-wood-by-kohitsuji",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
             "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
@@ -12492,7 +12475,6 @@
         ],
         "setting:medieval": [
             "the-death-of-kellas-by-sky-mckinnon",
-            "winterfall-beyond-the-white-by-lauren-rivers",
             "outfoxed-by-hania",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
@@ -12545,7 +12527,6 @@
             "to-find-you-by-kandrel-18"
         ],
         "setting:political/espionage": [
-            "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-1-of-2",
             "the-painful-yearning-by-cardigan",
@@ -12567,6 +12548,11 @@
             "always-tomorrow-by-frances-pauli",
             "bounty-hunter-uncle-by-domus-vocis",
             "secret-by-toledo"
+        ],
+        "setting:post-apocalyptic": [
+            "winterfall-beyond-the-white-by-lauren-rivers",
+            "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
+            "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2"
         ],
         "setting:sci-fi": [
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -12642,7 +12628,6 @@
         ],
         "warning:drugs/alcohol": [
             "drunk-spider-ii-by-frances-pauli",
-            "winterfall-beyond-the-white-by-lauren-rivers",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "conspiracy-by-darius-davis",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",

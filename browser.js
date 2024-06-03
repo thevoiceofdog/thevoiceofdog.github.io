@@ -24,11 +24,14 @@ function gotIndex(response) {
         eps[ep.slug] = ep
     })
 
+    window.tagcats = {}
+
     // Sidebar
-    Object.keys(index.tagnames).sort().forEach(tag => {
-        let tagsplit = tag.split(":", 2)
-        let tagcat = tagsplit[0]
-        $("#tags_" + tagcat).append($(`<li><a onclick='openTag("${tag}")'>${index.tagnames[tag]}</a></li> `))
+    Object.keys(index.categories).forEach(tagcat => {
+        index.categories[tagcat].forEach(tag => {
+            window.tagcats[tag] = tagcat
+            $("#tags_" + tagcat.replace(/[^a-z0-9]/g, "")).append($(`<li><a onclick='openTag("${tag}")'>${index.tagnames[tag]}</a></li> `))
+        })
     })
 
     window.onpopstate = runQuery
@@ -75,6 +78,18 @@ function tagName(x) {
     return index.tagnames[x] || x
 }
 
+tagsort = {
+    "event": 0,
+    "plot": 10,
+    "setting": 20,
+    "mood": 30,
+    "content": 35,
+    "by": 40,
+    "narrator": 50,
+}
+
+dateformatter = Intl.DateTimeFormat(undefined, { "dateStyle": "full" })
+
 function epSummary(ep) {
     let el = $("<div class='epsummary'>")
     el.append(
@@ -87,30 +102,35 @@ function epSummary(ep) {
         .text(ep.title)
         .click(() => { playEpisode(ep.slug) })
     )
-    let tags = $("<ul class='showtags'>")
-    ep.tags.forEach(tag => {
-        if (tag == 'check-tags') return;
-        let tagsplit = tag.split(":", 2)
-        if (tagsplit[0] != 'warning') {
-            tags.append($(`<li class='tag_${tagsplit[0]}'><a onclick='openTag("${tag}")'>${tagName(tag)}</a> </li>'`))        
-        }
-    });
-    el.append(tags)
+    el.append($(`<i class='pubdate'>Published on ${dateformatter.format(new Date(ep.published_date))}</i>`))
+    if (ep.tags) {
+        let tags = $("<ul class='showtags'>")
+        ep.tags.sort((a,b) => { return (tagsort[tagcats[a]] ?? 100) - (tagsort[tagcats[b]] ?? 100)}).forEach(tag => {
+            if (tag == 'check-tags') return;
+            let tagcat = tagcats[tag]
+            if (tagcat != 'warning') {
+                tags.append($(`<li class='tag_${tagcat}'><a onclick='openTag("${tag}")'>${tagName(tag)}</a> </li>'`))        
+            }
+        });
+        el.append(tags)
+    }
     el.append($("<div class='shownotes'>").html(ep.shownotes.replace(/\{\{[^\}]+\}\}/g, "")))
-    var hasWarning = false
-    ep.tags.forEach(tag => {
-        let tagsplit = tag.split(":", 2)
-        if (tagsplit[0] == 'warning') {
-            if (!hasWarning) {
-                el.append("<i>Content warnings:</i> ")
-                hasWarning = true;
-                el.append($(`<i>${tagName(tag).toLowerCase()}</i>'`))
+    if (ep.tags) {
+        var hasWarning = false
+        ep.tags.forEach(tag => {
+            let tagcat = tagcats[tag]
+            if (tagcat == 'warning') {
+                if (!hasWarning) {
+                    el.append("<i>Content warnings:</i> ")
+                    hasWarning = true;
+                    el.append($(`<i>${tagName(tag).toLowerCase()}</i>'`))
+                }
+                else {
+                    el.append($(`<i>, ${tagName(tag).toLowerCase()}</i>'`))
+                }
             }
-            else {
-                el.append($(`<i>, ${tagName(tag).toLowerCase()}</i>'`))
-            }
-        }
-    });
+        });
+    }
     return el
 }
 

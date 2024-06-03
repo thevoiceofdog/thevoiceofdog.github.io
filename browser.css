@@ -13,6 +13,7 @@ a {
 .playbutton {
     cursor: pointer;
     float: right;
+    clear: right;
 }
 
 .sidebar {
@@ -39,12 +40,18 @@ a {
     cursor: pointer;
 }
 
+.pubdate {
+    color: #888;
+    float: right;
+}
+
 .epsummary {
     margin-bottom: 30px;
 }
 
 .shownotes {
     margin-left: 30px;
+    clear: right;
 }
 
 #player {
@@ -135,14 +142,30 @@ a {
     white-space: nowrap;
 }
 
-li.tag_genre {
+li.tag_event {
+    background-color: rgb(255, 255, 255);
+}
+
+li.tag_plot {
+    background-color: #fcc;
+}
+
+li.tag_setting {
     background-color: #fec;
 }
 
-li.tag_by {
+li.tag_mood {
+    background-color: rgb(255, 254, 204);
+}
+
+li.tag_content {
     background-color: rgb(215, 244, 215);
 }
 
+li.tag_by {
+    background-color:  rgb(224, 224, 254);
+}
+
 li.tag_narrator {
-    background-color: rgb(224, 224, 254);
+    background-color:  rgb(245, 224, 254);
 }

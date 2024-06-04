@@ -215,6 +215,7 @@
             "romance",
             "speculative",
             "spooky",
+            "survival",
             "thriller/suspense"
         ],
         "narrator": [
@@ -320,14 +321,14 @@
             "slug": "love-like-echoed-fire-by-js-hawthorne",
             "summary": "",
             "tags": [
-                "check-tags",
                 "action/adventure",
-                "historical",
+                "sci-fi",
                 "romance",
-                "lgbtq+",
+                "survival",
+                "lesbian",
                 "pride-month",
-                "by:js-hawthorne",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:js-hawthorne"
             ],
             "title": "\u201cLove Like Echoed Fire\u201d by JS Hawthorne"
         },
@@ -857,10 +858,10 @@
             "slug": "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "summary": "",
             "tags": [
-                "fantasy",
-                "humor/satire",
-                "narrator:solomon-harries",
-                "by:buddy-goodboy"
+                "check-tags",
+                "holiday",
+                "by:buddy-goodboy",
+                "narrator:solomon-harries"
             ],
             "title": "\u201cMerry Christmas, Professor Nemesis\u201d by Buddy Goodboy (read by Solomon Harries)"
         },
@@ -2376,7 +2377,7 @@
                 "check-tags",
                 "mystery",
                 "stone-age",
-                "gothic",
+                "survival",
                 "adult",
                 "nsfw",
                 "by:sakarafox",
@@ -5430,7 +5431,7 @@
                 "check-tags",
                 "crime/police",
                 "contemporary",
-                "spooky",
+                "survival",
                 "gore",
                 "by:ian-madison-keller",
                 "narrator:khaki"
@@ -5979,7 +5980,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "speculative",
+                "survival",
                 "by:arcane-reno",
                 "narrator:khaki"
             ],
@@ -6504,7 +6505,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "romance",
+                "survival",
                 "adult",
                 "nsfw",
                 "by:crimson-ruari",
@@ -6522,7 +6523,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "romance",
+                "survival",
                 "adult",
                 "nsfw",
                 "by:crimson-ruari",
@@ -7268,7 +7269,7 @@
                 "check-tags",
                 "epic",
                 "stone-age",
-                "legend",
+                "survival",
                 "by:mikasiwolf",
                 "narrator:khaki"
             ],
@@ -7549,7 +7550,7 @@
                 "check-tags",
                 "epic",
                 "stone-age",
-                "gothic",
+                "survival",
                 "gore",
                 "by:utunu",
                 "narrator:khaki"
@@ -7623,6 +7624,7 @@
                 "check-tags",
                 "action/adventure",
                 "historical",
+                "survival",
                 "by:mikasiwolf",
                 "narrator:khaki"
             ],
@@ -7794,7 +7796,7 @@
             "tags": [
                 "check-tags",
                 "contemporary",
-                "gothic",
+                "survival",
                 "queer",
                 "transgender",
                 "by:madison-keller",
@@ -8362,6 +8364,7 @@
             "tags": [
                 "check-tags",
                 "historical",
+                "survival",
                 "by:domus-vocis",
                 "narrator:khaki"
             ],
@@ -8877,7 +8880,7 @@
                 "check-tags",
                 "epic",
                 "military",
-                "legend",
+                "survival",
                 "by:bill-ricardi",
                 "narrator:khaki"
             ],
@@ -9469,6 +9472,7 @@
         "speculative": "Speculative",
         "spooky": "Spooky",
         "stone-age": "Stone Age",
+        "survival": "Survival",
         "thriller/suspense": "Thriller/Suspense",
         "transgender": "Trans",
         "trauma": "Trauma",
@@ -10511,7 +10515,6 @@
         ],
         "check-tags": [
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
-            "love-like-echoed-fire-by-js-hawthorne",
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
@@ -10535,6 +10538,7 @@
             "the-fox-and-the-unicorns-by-chase-anderson",
             "18-snaggin-by-gar-sahoni-atkins",
             "three-tales-of-ukkabal-by-ritter",
+            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "tailsock-tier-by-field-t-mouse",
             "1725-by-packwolf-lupestripe",
             "the-toy-aisle-by-sofox",
@@ -11319,7 +11323,6 @@
         "fantasy": [
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "the-fox-and-the-unicorns-by-chase-anderson",
-            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
@@ -11550,7 +11553,6 @@
             "rune-weaver-by-aelius-part-2-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
             "reflections-by-sakarafox-rob-macwolf",
-            "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-1",
             "unseeing-by-madison-scott-clary-part-2-of-2-read-by-the-author-herself",
@@ -11589,8 +11591,6 @@
             "to-catch-the-lightning-by-royce-day-part-1-of-2",
             "the-pack-by-kandrel",
             "the-adventurers-by-kandrel",
-            "water-by-utunu-part-1-of-2",
-            "bucking-the-trend-by-madison-keller",
             "a-close-port-of-call-by-altivo-overo",
             "somewhere-in-the-cypress-by-crimson-ruari",
             "the-charitable-pact-of-a-soft-hearted-fool-by-slip-wolf",
@@ -11604,7 +11604,6 @@
         ],
         "historical": [
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
-            "love-like-echoed-fire-by-js-hawthorne",
             "18-the-creation-of-water-by-leuna",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
@@ -11697,6 +11696,7 @@
         ],
         "holiday": [
             "18-the-creation-of-water-by-leuna",
+            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "tailsock-tier-by-field-t-mouse",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -11738,7 +11738,6 @@
             "18-what-are-the-odds-by-takom-ironhoof",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "18-front-roe-by-b-p-rugger",
-            "merry-christmas-professor-nemesis-by-buddy-goodboy",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
             "18-free-samples-by-dirt-coyote",
@@ -11782,18 +11781,16 @@
             "hero-worship-by-metassus-read-by-madison-scott-clary",
             "you-are-our-lifeboat-by-dan-leinir-turthra-jensen-part-2-of-2",
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
-            "kenyak-s-saga-by-mikasiwolf-part-1-of-2",
             "the-hadfield-robbery-by-pascal-farful",
-            "the-fox-and-the-lion-cosplayer-by-jaden-drackus",
-            "the-fastest-blade-by-bill-ricardi"
+            "the-fox-and-the-lion-cosplayer-by-jaden-drackus"
         ],
         "lesbian": [
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
+            "love-like-echoed-fire-by-js-hawthorne",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
-            "love-like-echoed-fire-by-js-hawthorne",
             "18-snaggin-by-gar-sahoni-atkins",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -12944,8 +12941,6 @@
             "im-just-your-stud-by-dirt-coyote-part-1-of-2",
             "a-lazy-monday-by-kayode-lycaon",
             "the-first-snow-waltz-by-vixyy-fox",
-            "galician-sled-by-crimson-ruari-part-2-of-2",
-            "galician-sled-by-crimson-ruari-part-1-of-2",
             "gigs-by-madison-scott-clary",
             "the-conqueror-by-spottystuff",
             "the-river-in-the-mist-by-dwale-part-1-of-2",
@@ -13000,6 +12995,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "love-like-echoed-fire-by-js-hawthorne",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
@@ -13042,7 +13038,6 @@
             "wild-thing-by-dirt-coyote-part-1-of-2-18",
             "the-other-side-of-the-mirror-by-kidra-part-2-of-2",
             "hey-buddy-by-dirt-coyote-read-by-kergiby",
-            "event-horizon-by-arcane-reno",
             "you-are-our-lifeboat-by-dan-leinir-turthra-jensen-part-1-of-2",
             "aurora-borealis-by-blouie-the-blue-heeler",
             "edge-of-the-universe-by-domus-vocis",
@@ -13119,7 +13114,6 @@
             "this-poem-is-haunted-by-rob-macwolf-read-by-madison-scott-clary",
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
-            "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "tearing-ole-by-j-z-belexes-mixdown",
             "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
             "jaeger-by-anhedral-part-1-of-2-read-by-crimson-ruari",
@@ -13169,6 +13163,20 @@
             "kenyak-s-saga-by-mikasiwolf-part-1-of-2",
             "water-by-utunu-part-2-of-2",
             "water-by-utunu-part-1-of-2"
+        ],
+        "survival": [
+            "love-like-echoed-fire-by-js-hawthorne",
+            "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
+            "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
+            "event-horizon-by-arcane-reno",
+            "galician-sled-by-crimson-ruari-part-2-of-2",
+            "galician-sled-by-crimson-ruari-part-1-of-2",
+            "kenyak-s-saga-by-mikasiwolf-part-1-of-2",
+            "water-by-utunu-part-1-of-2",
+            "a-part-of-the-machine-by-mikasiwolf",
+            "bucking-the-trend-by-madison-keller",
+            "somewhere-in-the-white-void-by-domus-vocis",
+            "the-fastest-blade-by-bill-ricardi"
         ],
         "thriller/suspense": [
             "the-fox-and-the-unicorns-by-chase-anderson",

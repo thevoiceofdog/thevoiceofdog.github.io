@@ -207,11 +207,12 @@
             "check-tags"
         ],
         "mood": [
+            "cozy",
             "eldritch",
             "family-saga",
             "gothic",
             "horror",
-            "humor/satire",
+            "humor",
             "legend",
             "literary",
             "romance",
@@ -255,7 +256,7 @@
         ],
         "plot": [
             "action/adventure",
-            "crime/police",
+            "crime",
             "drama",
             "epic",
             "excerpt",
@@ -279,9 +280,7 @@
             "western"
         ],
         "uncategorized": [
-            "cozy",
-            "crime",
-            "humor"
+            "autobiography"
         ],
         "warning": [
             "blood",
@@ -371,7 +370,7 @@
                 "check-tags",
                 "mystery",
                 "historical",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "police-violence",
@@ -407,7 +406,7 @@
             "summary": "",
             "tags": [
                 "drama",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "narrator:solomon-harries",
@@ -457,6 +456,7 @@
             "tags": [
                 "contemporary",
                 "cozy",
+                "autobiography",
                 "poem",
                 "poetry-month",
                 "narrator:ta-kom-ironhoof",
@@ -582,11 +582,11 @@
             "slug": "comfortable-by-sophie-katz",
             "summary": "",
             "tags": [
-                "check-tags",
                 "poem",
                 "poetry-month",
-                "by:sophie-katz",
-                "narrator:rob-macwolf"
+                "romance",
+                "narrator:rob-macwolf",
+                "by:sophie-katz"
             ],
             "title": "\u201cComfortable\u201d by Sophie Katz"
         },
@@ -698,7 +698,7 @@
             "tags": [
                 "action/adventure",
                 "fantasy",
-                "humor/satire",
+                "humor",
                 "drugs/alcohol",
                 "narrator:solomon-harries",
                 "by:lappi-t-fox",
@@ -817,7 +817,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "fantasy",
                 "thriller/suspense",
                 "by:chase-anderson",
@@ -870,7 +870,7 @@
             "tags": [
                 "drama",
                 "contemporary",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "narrator:rob-macwolf",
@@ -1278,7 +1278,7 @@
             "slug": "the-sight-by-j-s-hawthorne-part-2-of-2",
             "summary": "",
             "tags": [
-                "crime/police",
+                "crime",
                 "fantasy",
                 "gothic",
                 "gore",
@@ -1297,7 +1297,7 @@
             "slug": "the-sight-by-j-s-hawthorne-part-1-of-2",
             "summary": "",
             "tags": [
-                "crime/police",
+                "crime",
                 "fantasy",
                 "gothic",
                 "gore",
@@ -1966,7 +1966,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "romance",
                 "lgbtq+",
@@ -1986,7 +1986,7 @@
             "summary": "",
             "tags": [
                 "mystery",
-                "humor/satire",
+                "humor",
                 "lgbtq+",
                 "queer",
                 "gay",
@@ -2158,7 +2158,7 @@
                 "lgbtq+",
                 "queer",
                 "adult",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "speculative",
                 "nsfw",
@@ -2301,7 +2301,7 @@
                 "check-tags",
                 "action/adventure",
                 "historical",
-                "humor/satire",
+                "humor",
                 "blood",
                 "by:slip-wolf",
                 "narrator:rob-macwolf"
@@ -2317,7 +2317,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "thriller/suspense",
                 "police-violence",
@@ -2665,7 +2665,7 @@
                 "check-tags",
                 "drama",
                 "contemporary",
-                "humor/satire",
+                "humor",
                 "lgbtq+",
                 "queer",
                 "gay",
@@ -2755,7 +2755,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "western",
                 "spooky",
                 "blood",
@@ -2773,7 +2773,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "spooky",
                 "blood",
@@ -3053,7 +3053,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "spooky",
                 "police-violence",
                 "ghost-of-dog",
@@ -3135,7 +3135,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "political/espionage",
                 "spooky",
                 "by:tiberiusrings",
@@ -3152,7 +3152,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "spooky",
                 "ghost-of-dog",
                 "by:tiberiusrings",
@@ -3270,7 +3270,7 @@
             "tags": [
                 "check-tags",
                 "contemporary",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "queerphobia",
@@ -3323,7 +3323,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "spooky",
                 "drugs/alcohol",
                 "blood",
@@ -3341,7 +3341,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "spooky",
                 "blood",
@@ -3398,7 +3398,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "spooky",
                 "by:roan-rosser",
@@ -3417,7 +3417,7 @@
                 "check-tags",
                 "drama",
                 "fantasy",
-                "humor/satire",
+                "humor",
                 "by:roan-rosser",
                 "narrator:khaki"
             ],
@@ -3464,7 +3464,7 @@
             "tags": [
                 "check-tags",
                 "action/adventure",
-                "humor/satire",
+                "humor",
                 "blood",
                 "by:casimir-laski",
                 "narrator:khaki"
@@ -3605,7 +3605,7 @@
             "tags": [
                 "check-tags",
                 "political/espionage",
-                "humor/satire",
+                "humor",
                 "by:madison-scott-clary",
                 "narrator:khaki"
             ],
@@ -4050,7 +4050,7 @@
             "tags": [
                 "check-tags",
                 "excerpt",
-                "humor/satire",
+                "humor",
                 "by:ursus-arctos",
                 "narrator:khaki"
             ],
@@ -4176,7 +4176,7 @@
                 "check-tags",
                 "drama",
                 "political/espionage",
-                "humor/satire",
+                "humor",
                 "lgbtq+",
                 "queer",
                 "queerphobia",
@@ -4211,7 +4211,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "humor/satire",
+                "humor",
                 "queerphobia",
                 "blood",
                 "nsfw",
@@ -4467,7 +4467,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "spooky",
                 "blood",
@@ -5057,7 +5057,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "by:harry",
@@ -5464,7 +5464,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "spooky",
                 "blood",
@@ -5482,7 +5482,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "gothic",
                 "self-harm",
@@ -5554,9 +5554,9 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "sci-fi",
-                "humor/satire",
+                "humor",
                 "adult",
                 "nsfw",
                 "by:earbender",
@@ -5693,7 +5693,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "gothic",
                 "by:rob-macwolf",
@@ -5771,7 +5771,7 @@
                 "check-tags",
                 "asexual",
                 "adult",
-                "crime/police",
+                "crime",
                 "historical",
                 "eldritch",
                 "nsfw",
@@ -5791,7 +5791,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "western",
                 "gothic",
                 "gay",
@@ -5847,7 +5847,7 @@
             "tags": [
                 "mystery",
                 "historical",
-                "humor/satire",
+                "humor",
                 "narrator:b-p-rugger",
                 "by:dirt-coyote"
             ],
@@ -6189,7 +6189,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "spooky",
                 "lgbtq+",
@@ -6264,7 +6264,7 @@
             "tags": [
                 "check-tags",
                 "sci-fi",
-                "humor/satire",
+                "humor",
                 "by:tehrasha-darkon",
                 "narrator:khaki"
             ],
@@ -6347,7 +6347,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
                 "spooky",
                 "by:reid-minnich",
@@ -7009,7 +7009,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "gothic",
                 "adult",
                 "nsfw",
@@ -7128,7 +7128,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "humor/satire",
+                "humor",
                 "self-harm",
                 "by:j-b-rockwell",
                 "narrator:khaki"
@@ -7215,7 +7215,7 @@
             "summary": "<p>Set in the bustling metropolis of 1920s Hanoi, a French detective on vacation must explore the city in search of his stolen wallet.</p>\n<p>Today\u2019s story is &nbsp;\u201cOne Day in Hanoi\u201d by <a href=\"https://furrywritersguild.com/writers/thomas-faux-steele/\"><u>Thomas \u201cFaux\u201d Steele</u></a>. Faux is a Virginian author who enjoys writing in many genres, including romance, erotica, science fiction, and fantasy. He\u2019s an arctic fox whose works have been published in numerous conbooks and anthologies including FANG 7, Boldly Going Forward, and the upcoming anthology The Furry Game Show Network, distributed by <a href=\"https://www.weaselpress.com/\"><u>Weasel Press</u></a>. You can find more of his work on <a href=\"http://www.furaffinity.net/user/fauxhammer\"><u>FurAffinity</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "military",
                 "romance",
                 "by:thomas-faux-steele",
@@ -7343,7 +7343,7 @@
             "summary": "Today\u2019s story is the first of two parts of \"To Catch the Lightning\" by Royce Day, which will soon be available in Armoured Fox Press' upcoming Swordmasters anthology, edited by Tarl Hoch.\nRead for you by Khaki, your faithful fireside companion.\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "military",
                 "gothic",
                 "by:royce-day",
@@ -7411,8 +7411,8 @@
             "summary": "<p>Sam the Beaver\u2019s date with Oscar is going badly, as he tries too hard to be manly at the carnival games. Then she loses her hat to the wind, and he chases after it over her objections.</p>\n<p>Today\u2019s story is the first of two parts of \u201c<a href=\"https://www.amazon.com/Well-Its-Your-Cow-Anecdotal-ebook/dp/B07J4S3VTV\"><u>Blind Date Blues</u></a>\u201d by <a href=\"http://madisonkeller.net/\"><u>Ian Madison Keller</u></a>, who who has won a Coyotl Award and two LEO Literary Awards, and his newest book is <a href=\"https://www.goalpublications.com/store/p108/ritual-of-the-ancients-paperback.html\"><u>Ritual of the Ancients</u></a> by <a href=\"https://www.goalpublications.com/\"><u>Fanged Fiction</u></a> and you can find more of his stories on his <a href=\"https://madisonkeller.net/\"><u>webpage</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
-                "humor/satire",
+                "crime",
+                "humor",
                 "by:ian-madison-keller",
                 "narrator:khaki"
             ],
@@ -7428,7 +7428,7 @@
             "tags": [
                 "check-tags",
                 "western",
-                "humor/satire",
+                "humor",
                 "by:ian-madison-keller",
                 "narrator:khaki"
             ],
@@ -7696,7 +7696,7 @@
             "summary": "<p>In a world where Parkour traceurs live on the roofs, away from the discrimination and persecution of life of the ground, Lesaut the african civet was tasked be the community leader to mentor a newcomer by the name of Snoss. Lesaut was however concerned due to an experience in his past. As Lesaut shows him the way to his rooftop home they would stay for the night, Snoss seems like he has plenty to hide about his past, however\u2026</p>\n<p>Today\u2019s story is the third part of \u201cA Leap Forward\u201d by <a href=\"https://twitter.com/mikasiwolf?lang=en\">MikasiWolf</a>, who is a Wolf Mercenary writer.</p>\n<p>\"A Leap Forward\u201d had formerly appeared in <a href=\"https://www.goalpublications.com/store/p94/claw-the-way-to-victory-paperback.html\">Claw the Way to Victory</a> by Goal Publications (formerly published by Jaffa Books), and <a href=\"https://www.rabbitvalley.com/item.php?item=9809&amp;return_url=https%3A%2F%2Fwww.rabbitvalley.com%2Fsearch.php%3Fsearch_text%3DFurry%2BTrash%26return_number%3D25%26page%3D0\">Furry Trash</a> by <a href=\"https://www.rabbitvalley.com/\">Rabbit Valley Press</a> and you can find links to more of his stories on his <a href=\"https://en.wikifur.com/wiki/MikasiWolf\">Wikifur</a> or <a href=\"https://www.furaffinity.net/user/mikasiwolf/\">Furaffinity</a> page.</p>\n<p>This is the conclusion of a three-part story.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "romance",
                 "blood",
@@ -7714,9 +7714,9 @@
             "summary": "<p>In a world where Parkour traceurs live on the roofs, away from the discrimination and persecution of life of the ground, Lesaut the African civet was tasked be the community leader to mentor a newcomer by the name of Snoss. Lesaut was however concerned due to an experience in his past. As Lesaut shows him the way to his rooftop home they would stay for the night, Snoss seems like he has plenty to hide about his past, however\u2026</p>\n<p>Today\u2019s story is the second part of &nbsp;\u201cA Leap Forward\u201d by <a href=\"https://twitter.com/mikasiwolf?lang=en\">MikasiWolf</a>, who is a Wolf Mercenary writer.</p>\n<p>\"A Leap Forward\u201d had formerly appeared in <a href=\"https://www.goalpublications.com/store/p94/claw-the-way-to-victory-paperback.html\">Claw the Way to Victory</a> by Goal Publications (formerly published by Jaffa Books), and <a href=\"https://www.rabbitvalley.com/item.php?item=9809&amp;return_url=https%3A%2F%2Fwww.rabbitvalley.com%2Fsearch.php%3Fsearch_text%3DFurry%2BTrash%26return_number%3D25%26page%3D0\">Furry Trash</a> by <a href=\"https://www.rabbitvalley.com/\">Rabbit Valley Press</a> and you can find links to more of his stories on his <a href=\"https://en.wikifur.com/wiki/MikasiWolf\">Wikifur</a> or <a href=\"https://www.furaffinity.net/user/mikasiwolf/\">Furaffinity</a> page.</p>\n<p>This is a story in three parts, which will conclude next time.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
-                "humor/satire",
+                "humor",
                 "by:mikasiwolf",
                 "narrator:khaki"
             ],
@@ -7859,7 +7859,7 @@
             "summary": "<p>Today\u2019s story is \u201cCleaning Up\u201d by friend-of-the-fireplace Kyell Gold, who has won twelve Ursa Major awards and a Coyotl Award for his stories and novels, and his acclaimed novel \"<a href=\"https://www.amazon.com/Out-Position-Kyell-Gold-ebook/dp/B003PPDAXQ\"><u>Out of Position</u></a>\" co-won the Rainbow Award for Best Gay Novel of 2009. He helped create <a href=\"http://www.rawr.community/\"><u>RAWR</u></a>, the first residential furry writing workshop, and has instructed at each of its sessions through 2019.</p>\n<p>He lives in California and is currently staying home with his partners and dog. More information about him and his books is available at <a href=\"http://www.kyellgold.com/\"><u>www.kyellgold.com</u></a>, and you can follow him on Twitter at @<a href=\"http://www.twitter.com/KyellGold\"><u>KyellGold</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "romance",
                 "self-harm",
@@ -7879,7 +7879,7 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "humor/satire",
+                "humor",
                 "by:huskyteer",
                 "narrator:khaki"
             ],
@@ -8097,7 +8097,7 @@
             "summary": "<p><em>Chad and his bandmates discuss sex, settling on an unusual metaphor.</em></p>\n<p>Today\u2019s story is \u201cLike Playing a Volkswagen\u201d by <a href=\"https://twitter.com/TJMinde\"><u>TJ Minde</u></a>, a Leo Literary Award Winner who\u2019s been published in FANG, Heat, and a number of other anthologies in the fandom. His story first appeared in Red Ferret Press\u2019 <a href=\"https://www.weaselpress.com/shop/furnicate-18\"><u>\u201cFurnicate\u201d</u></a> magazine.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "humor/satire",
+                "humor",
                 "by:tj-minde",
                 "narrator:khaki"
             ],
@@ -8178,7 +8178,7 @@
             "tags": [
                 "check-tags",
                 "epic",
-                "humor/satire",
+                "humor",
                 "by:alison-cybe",
                 "narrator:khaki"
             ],
@@ -8262,7 +8262,7 @@
             "summary": "<p><em><strong>Even with faster than light gates, getting through them can take time. A freighter captain and jumpgate keeper pass that time with friendly banter.</strong></em></p>\n<p>Today's story is \u201c<a href=\"https://www.sofurry.com/view/1028772\"><u>Gate-Keeper</u></a>\u201d by <a href=\"https://twitter.com/crimsonsign\"><u>Crimson Ruari</u></a>, who has short stories in <a href=\"https://sofawolf.com/products/heat-14?sku=H-14\"><u>Heat 14</u></a> and <a href=\"https://furplanet.com/shop/item.aspx?itemid=1001\"><u>CLAW 1</u></a><a href=\"http://publisher/\"><u> </u></a>and you can find more of his stories on <a href=\"https://crimsonruari.sofurry.com/\"><u>crimsonruari.sofurry.com</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "humor/satire",
+                "humor",
                 "by:crimson-ruari",
                 "narrator:khaki"
             ],
@@ -8277,7 +8277,7 @@
             "summary": "<p><em><strong>A little civil disobedience can be cathartic. Even better if you can avoid the cops in doing so.</strong></em></p>\n<p>Today's story is \u201c<a href=\"https://www.furaffinity.net/view/35918906/\"><u>Little Light Show</u></a>\u201d by <a href=\"https://twitter.com/frixmargen\"><u>W.R. Frixmargen</u></a>, who spawns sci-fi and madness of various sorts, and <a href=\"https://www.goalpublications.com/store/p105/give-yourself-a-hand-digital.html\"><u>who wrote Oak Branch in Give Yourself a Hand</u></a> by <a href=\"https://www.goalpublications.com/\"><u>Goal Publications</u></a>, and you can find more of his stories on his <a href=\"https://www.furaffinity.net/user/wrfrixmargen/\"><u>Furaffinity page</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "romance",
                 "by:w-r-frixmargen",
                 "narrator:khaki"
@@ -8346,7 +8346,7 @@
             "summary": "<p><em>In a world of darkness, where danger lurks around every corner, a young rabbit has to confront the most terrifying experience possible - shopping for underwear!</em></p>\n<p>Today\u2019s story is \u201cI Never Wear Underwear\u201d by <a href=\"https://twitter.com/cyberawolf\"><u>Alison Cybe</u></a>, who is a tabletop RPG writer for multiple companies, and author of <a href=\"https://deepheartsya.com/i-was-a-gay-teenage-zombie/\"><u>\u201cI was a gay teenage zombie\u201d</u></a> by <a href=\"https://deepheartsya.com/\"><u>Deep Hearts Press</u></a><a href=\"http://publisher/\"><u> </u></a>and you can find more of their stories on their <a href=\"http://www.cybeswebsite.com/\"><u>webpage</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "humor/satire",
+                "humor",
                 "by:alison-cybe",
                 "narrator:khaki"
             ],
@@ -8601,7 +8601,7 @@
                 "check-tags",
                 "drama",
                 "western",
-                "humor/satire",
+                "humor",
                 "by:altivo-overo",
                 "narrator:khaki"
             ],
@@ -8644,7 +8644,7 @@
             "summary": "<p>Today\u2019s story is \u201cHot Dog\u201d by<a href=\"https://twitter.com/bengoodridge\"> Ben Goodridge</a>, who wrote \u201cAkela\u201d for Goal Publications and \u201cFound: One Apocalypse\u201d for Furplanet, and you can find more of his stories on <a href=\"www.ben-goodridge.com\">www.ben-goodridge.com</a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "fantasy",
                 "spooky",
                 "by:ben-goodridge",
@@ -8662,7 +8662,7 @@
             "tags": [
                 "check-tags",
                 "drama",
-                "humor/satire",
+                "humor",
                 "by:metassus",
                 "narrator:khaki"
             ],
@@ -8772,7 +8772,7 @@
             "summary": "<p>[18+] Today\u2019s story is \u201cAdrenaline High\u201d by Kandrel, who really wishes his future dystopias would stop coming true. &nbsp;The story was originally published in Feral by FurPlanet, and you can find more of Kandrel\u2019s stories on <a href=\"//www.foxyonline.com\">www.foxyonline.com</a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "spooky",
                 "adult",
@@ -8793,7 +8793,7 @@
                 "check-tags",
                 "drama",
                 "historical",
-                "humor/satire",
+                "humor",
                 "transgender",
                 "blood",
                 "violence",
@@ -8811,9 +8811,9 @@
             "summary": "<p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/17437754/\"><u>Nobody\u2019s Home</u></a>\u201d by <a href=\"https://twitter.com/PascalFarful\"><u>Pascal Farful</u></a>, who spends much of his time as a fursuiter and musician, but is occasionally known to pick up a pen and paper, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/pascalfarful/\"><u>his FurAffinity page</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "contemporary",
-                "humor/satire",
+                "humor",
                 "by:pascal-farful",
                 "narrator:khaki"
             ],
@@ -8941,7 +8941,7 @@
             "summary": "<p>Today's story is \u201c<a href=\"https://www.furaffinity.net/view/23688712/\"><u>The Aviatrix</u></a>\u201d by <a href=\"https://twitter.com/DarkEndWrites\"><u>Dark End</u></a>, editor at Sofawolf Press. You can find more of his stories on his <a href=\"https://www.furaffinity.net/user/darkend/\"><u>FurAffinity</u></a>, <a href=\"https://dark-end.sofurry.com/\"><u>SoFurry</u></a>, or <a href=\"https://www.patreon.com/user?u=7280553&amp;fan_landing=true\"><u>Patreon</u></a> page.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "gothic",
                 "by:dark-end",
                 "narrator:khaki"
@@ -9088,7 +9088,7 @@
                 "check-tags",
                 "mystery",
                 "political/espionage",
-                "humor/satire",
+                "humor",
                 "holiday",
                 "by:frances-pauli",
                 "narrator:khaki"
@@ -9104,7 +9104,7 @@
             "summary": "<p>Today\u2019s story is \u201cBounty Hunter Uncle\u201d by<strong> Domus Vocis</strong>, who loves to write furry and regular fiction on DeviantArt or Patreon, and you can find his debut novel \"<strong>The Adventures of Peter Gray</strong>\", on Amazon Kindle.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "political/espionage",
                 "family-saga",
                 "holiday",
@@ -9155,7 +9155,7 @@
             "summary": "<p>Wolf Jay has a thing for raccoon boys. Hearing about a raccoon underclassman who wishes he could be a wolf, Jay invents a secret society and pledges Francis to fulfill his desires in spirit, if not in body. What happens if Francis admits to an actual attraction?</p>\n<p>Today\u2019s story is in the first of two: <strong>Gibbous Moon Waning</strong>, by <strong>Altivo Overo</strong>, who thinks he's a Renaissance horse.&nbsp;</p>\n<p>Or was that just a wooden-headed carousel horse? No matter.&nbsp;</p>\n<p>He writes, draws, and makes music from time to time, and has stories published in print format as well as on the internet. You can find him on <a href=\"https://www.furaffinity.net/user/altivo\">Fur Affinity</a>, <a href=\"https://www.weasyl.com/~altivo\">Weasyl</a>, and <a href=\"https://aminoapps.com/c/furry-amino/page/user/altivo/42kV_d0wi5fNWqxwrzdb3LxWWKweDlnX4r2\">Furry Amino</a> as \"Altivo,\" and on Amazon under <a href=\"https://www.amazon.com/Altivo-Overo/e/B002O5EDWK/ref=ntt_dp_epwbk_5\">Altivo Overo</a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "historical",
                 "romance",
                 "by:altivo-overo",
@@ -9225,7 +9225,7 @@
             "summary": "Today on The Voice of Dog we're reading https://www.sofurry.com/view/316964 (Bad dog!) by Robert Baird, who is a writer, mapmaker, and general tinkerer-with-worlds who has been at his craft since 2003. Deep space is his dwelling place but, rents being what they are, he keeps a flat in Berlin, Germany.\r\n\n\r\n\nYou can find him on the internet at http://writing.dog/ (http://writing.dog), which is just an amazing web address.\r\n\nRead for you by https://twitter.com/khakidoggy (Khaki), your faithful fireside companion.",
             "tags": [
                 "check-tags",
-                "crime/police",
+                "crime",
                 "fantasy",
                 "speculative",
                 "drugs/alcohol",
@@ -9239,6 +9239,7 @@
         "action/adventure": "Action/Adventure",
         "adult": "Adult",
         "asexual": "Asexual",
+        "autobiography": "Autobiography",
         "bisexual": "Bisexual",
         "blood": "Blood",
         "by:aelius": "Author: Aelius",
@@ -9420,15 +9421,14 @@
         "contemporary": "Contemporary",
         "cozy": "Cozy",
         "crime": "Crime",
-        "crime/police": "Crime",
         "drama": "Drama",
         "drugs/alcohol": "Drugs/Alcohol",
         "eating-disorders": "Eating Disorders",
         "eldritch": "Eldritch",
         "epic": "Epic",
         "excerpt": "Excerpt",
-        "f/f": "f/f",
-        "f/m": "f/m",
+        "f/f": "F/F",
+        "f/m": "F/M",
         "family-saga": "Family Saga",
         "fantasy": "Fantasy",
         "fireside-meeting": "Fireside Meeting",
@@ -9439,16 +9439,15 @@
         "historical": "Historical",
         "holiday": "Holiday",
         "horror": "Horror",
-        "humor": "Humor",
-        "humor/satire": "Humor/Satire",
+        "humor": "humor",
         "indigenous": "Indigenous",
         "kid-friendly": "Kid-friendly",
         "legend": "Legend",
         "lesbian": "Lesbian",
         "lgbtq+": "LGBTQ+",
         "literary": "Literary",
-        "m/f": "m/f",
-        "m/m": "m/m",
+        "m/f": "M/F",
+        "m/m": "M/M",
         "medieval": "Medieval",
         "military": "Military",
         "mystery": "Mystery",
@@ -9704,6 +9703,9 @@
             "followers-of-the-jackal-by-domus-vocis-part-2-of-2-read-by-crimson-ruari-18",
             "monkeyshines-by-j-b-rockwell-part-1-of-2",
             "let-them-have-cake-by-spottystuff"
+        ],
+        "autobiography": [
+            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson"
         ],
         "bisexual": [
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
@@ -10627,7 +10629,6 @@
             "memory-by-et-al-",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
-            "comfortable-by-sophie-katz",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "and-then-there-is-destruction-by-taylor-fox",
             "better-things-are-possible-by-nenekiri-bookwyrm",
@@ -11118,9 +11119,6 @@
             "distant-cousins-by-alex-katz"
         ],
         "crime": [
-            "chump-change-by-alex-katz"
-        ],
-        "crime/police": [
             "the-fox-and-the-unicorns-by-chase-anderson",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
@@ -11129,6 +11127,7 @@
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
+            "chump-change-by-alex-katz",
             "the-shadows-seize-vengeance-by-pascal-farful",
             "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-2-of-2",
             "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-1-of-2",
@@ -11793,9 +11792,6 @@
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author"
         ],
         "humor": [
-            "chump-change-by-alex-katz"
-        ],
-        "humor/satire": [
             "18-the-creation-of-water-by-leuna",
             "18-what-are-the-odds-by-takom-ironhoof",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
@@ -11803,6 +11799,7 @@
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
             "18-free-samples-by-dirt-coyote",
+            "chump-change-by-alex-katz",
             "overnight-flight-bui-lay-by-significantotter-part-1-of-2-18",
             "diamond-in-the-rat-by-roan-rosser-part-1-of-2",
             "riddles-with-a-raven-by-casimir-laski",
@@ -12925,6 +12922,7 @@
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
             "the-death-of-kellas-by-sky-mckinnon",
+            "comfortable-by-sophie-katz",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
             "1725-by-packwolf-lupestripe",

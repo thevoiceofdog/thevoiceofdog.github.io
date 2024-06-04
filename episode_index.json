@@ -34,7 +34,8 @@
             "by:cheesefighter",
             "by:coda",
             "by:crimson-ruari",
-            "by:dan-e",
+            "by:dan-elan",
+            "by:dan-lan",
             "by:dan-leinir-turthra-jensen",
             "by:daniel",
             "by:danny-wolf",
@@ -277,7 +278,13 @@
             "stone-age",
             "western"
         ],
+        "uncategorized": [
+            "cozy",
+            "crime",
+            "humor"
+        ],
         "warning": [
+            "blood",
             "drugs/alcohol",
             "eating-disorders",
             "gore",
@@ -299,14 +306,15 @@
             "slug": "your-family-and-mine-by-alex-t-dragonson",
             "summary": "",
             "tags": [
-                "check-tags",
-                "drama",
                 "fantasy",
                 "family-saga",
                 "lgbtq+",
                 "pride-month",
-                "by:alex-t-dragonson",
-                "narrator:cross"
+                "f/f",
+                "nonbinary",
+                "cozy",
+                "narrator:cross",
+                "by:alex-t-dragonson"
             ],
             "title": "\"Your Family and Mine\" by Alex T. Dragonson (read by Cross)"
         },
@@ -447,11 +455,12 @@
             "slug": "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "summary": "",
             "tags": [
-                "check-tags",
+                "contemporary",
+                "cozy",
                 "poem",
                 "poetry-month",
-                "by:alex-t-dragonson",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:alex-t-dragonson"
             ],
             "title": "\"Distant, Quantifiable Victory\", a poem by Alex T. Dragonson (read by Ta'kom Ironhoof)"
         },
@@ -709,7 +718,7 @@
                 "action/adventure",
                 "medieval",
                 "romance",
-                "gore",
+                "blood",
                 "by:pascal-farful",
                 "narrator:rob-macwolf"
             ],
@@ -775,7 +784,7 @@
                 "epic",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "by:kayod-lycaon",
                 "narrator:rob-macwolf"
             ],
@@ -793,7 +802,7 @@
                 "drama",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "by:kayod-lycaon",
                 "narrator:rob-macwolf"
             ],
@@ -845,7 +854,6 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "western",
                 "legend",
                 "by:ritter",
                 "narrator:rob-macwolf"
@@ -1086,7 +1094,7 @@
                 "gothic",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "ghost-of-dog",
                 "by:kohitsuji",
                 "narrator:ta-kom-ironhoof"
@@ -1106,7 +1114,7 @@
                 "drama",
                 "contemporary",
                 "spooky",
-                "gore",
+                "blood",
                 "ghost-of-dog",
                 "by:leuna",
                 "narrator:rob-macwolf"
@@ -1254,7 +1262,7 @@
                 "action/adventure",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "drugs/alcohol",
                 "ghost-of-dog",
                 "by:darius-davis",
@@ -1310,6 +1318,7 @@
             "tags": [
                 "fantasy",
                 "spooky",
+                "cozy",
                 "ghost-of-dog",
                 "narrator:solomon-harries",
                 "by:alex-katz"
@@ -1480,7 +1489,7 @@
                 "historical",
                 "spooky",
                 "adult",
-                "gore",
+                "blood",
                 "nsfw",
                 "self-harm",
                 "trauma",
@@ -1532,7 +1541,7 @@
                 "check-tags",
                 "contemporary",
                 "spooky",
-                "gore",
+                "blood",
                 "holiday",
                 "by:leuna",
                 "narrator:rob-macwolf"
@@ -1669,7 +1678,7 @@
                 "action/adventure",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "by:kohitsuji",
                 "narrator:rob-macwolf"
             ],
@@ -1721,7 +1730,7 @@
                 "action/adventure",
                 "medieval",
                 "spooky",
-                "gore",
+                "blood",
                 "by:thomas-faux-steele",
                 "narrator:rob-macwolf"
             ],
@@ -1739,7 +1748,7 @@
                 "drama",
                 "historical",
                 "romance",
-                "gore",
+                "blood",
                 "by:thomas-faux-steele",
                 "narrator:rob-macwolf"
             ],
@@ -1772,7 +1781,7 @@
                 "check-tags",
                 "contemporary",
                 "spooky",
-                "gore",
+                "blood",
                 "by:splicerwolf",
                 "narrator:rob-macwolf"
             ],
@@ -2085,7 +2094,6 @@
             "tags": [
                 "check-tags",
                 "drama",
-                "western",
                 "family-saga",
                 "transgender",
                 "queer",
@@ -2173,7 +2181,7 @@
                 "gothic",
                 "lgbtq+",
                 "drugs/alcohol",
-                "gore",
+                "blood",
                 "pride-month",
                 "by:sakarafox",
                 "narrator:dirt-coyote"
@@ -2194,7 +2202,7 @@
                 "queer",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "pride-month",
                 "by:mikasiwolf",
                 "narrator:rob-macwolf"
@@ -2276,7 +2284,7 @@
                 "spooky",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "by:tannihn",
                 "narrator:khaki"
             ],
@@ -2294,7 +2302,7 @@
                 "action/adventure",
                 "historical",
                 "humor/satire",
-                "gore",
+                "blood",
                 "by:slip-wolf",
                 "narrator:rob-macwolf"
             ],
@@ -2507,7 +2515,7 @@
                 "epic",
                 "fantasy",
                 "romance",
-                "gore",
+                "blood",
                 "by:packwolf-lupestripe",
                 "narrator:khaki"
             ],
@@ -2604,7 +2612,7 @@
                 "mystery",
                 "political/espionage",
                 "spooky",
-                "gore",
+                "blood",
                 "self-harm",
                 "trauma",
                 "eating-disorders",
@@ -2750,7 +2758,7 @@
                 "crime/police",
                 "western",
                 "spooky",
-                "gore",
+                "blood",
                 "by:pascal-farful",
                 "narrator:khaki"
             ],
@@ -2768,7 +2776,7 @@
                 "crime/police",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "holiday",
                 "by:pascal-farful",
                 "narrator:khaki"
@@ -2854,9 +2862,12 @@
             "slug": "chump-change-by-alex-katz",
             "summary": "",
             "tags": [
-                "check-tags",
-                "by:alex-katz",
-                "narrator:rob-macwolf"
+                "fantasy",
+                "crime",
+                "humor",
+                "western",
+                "narrator:rob-macwolf",
+                "by:alex-katz"
             ],
             "title": "\u201cChump Change\u201d by Alex Katz"
         },
@@ -2872,7 +2883,7 @@
                 "epic",
                 "sci-fi",
                 "spooky",
-                "gore",
+                "blood",
                 "drugs/alcohol",
                 "fireside-meeting",
                 "by:friends-of-the-fireplace",
@@ -2970,7 +2981,7 @@
             "tags": [
                 "check-tags",
                 "spooky",
-                "gore",
+                "blood",
                 "ghost-of-dog",
                 "by:james-stone",
                 "narrator:rob-macwolf"
@@ -2988,7 +2999,7 @@
                 "check-tags",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "ghost-of-dog",
                 "by:casimir-laski",
                 "narrator:ianus-j-wolf"
@@ -3009,7 +3020,7 @@
                 "spooky",
                 "lgbtq+",
                 "queer",
-                "gore",
+                "blood",
                 "ghost-of-dog",
                 "by:darius-davis",
                 "narrator:khaki"
@@ -3315,7 +3326,7 @@
                 "crime/police",
                 "spooky",
                 "drugs/alcohol",
-                "gore",
+                "blood",
                 "by:pascal-farful",
                 "narrator:rob-macwolf"
             ],
@@ -3333,7 +3344,7 @@
                 "crime/police",
                 "contemporary",
                 "spooky",
-                "gore",
+                "blood",
                 "drugs/alcohol",
                 "self-harm",
                 "by:pascal-farful",
@@ -3454,7 +3465,7 @@
                 "check-tags",
                 "action/adventure",
                 "humor/satire",
-                "gore",
+                "blood",
                 "by:casimir-laski",
                 "narrator:khaki"
             ],
@@ -3471,7 +3482,7 @@
                 "check-tags",
                 "medieval",
                 "spooky",
-                "gore",
+                "blood",
                 "by:danny-wolf",
                 "narrator:rob-macwolf"
             ],
@@ -3634,7 +3645,7 @@
                 "epic",
                 "fantasy",
                 "spooky",
-                "gore",
+                "blood",
                 "queerphobia",
                 "by:evan-drake",
                 "narrator:rob-macwolf"
@@ -3653,7 +3664,7 @@
                 "drama",
                 "contemporary",
                 "gothic",
-                "gore",
+                "blood",
                 "holiday",
                 "by:zack-loup",
                 "narrator:rob-macwolf"
@@ -3821,7 +3832,7 @@
                 "military",
                 "spooky",
                 "lgbtq+",
-                "gore",
+                "blood",
                 "queerphobia",
                 "pride-month",
                 "by:j-s-hawthorne",
@@ -4148,7 +4159,7 @@
                 "action/adventure",
                 "medieval",
                 "romance",
-                "gore",
+                "blood",
                 "by:ian-madison-keller",
                 "narrator:b-p-rugger"
             ],
@@ -4202,7 +4213,7 @@
                 "historical",
                 "humor/satire",
                 "queerphobia",
-                "gore",
+                "blood",
                 "nsfw",
                 "by:dirt-coyote",
                 "narrator:dirt-coyote"
@@ -4457,9 +4468,9 @@
             "tags": [
                 "check-tags",
                 "crime/police",
-                "western",
+                "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "by:herr-wozzeck",
                 "narrator:rob-macwolf"
             ],
@@ -4557,7 +4568,7 @@
                 "spooky",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "by:alice-clawford",
                 "narrator:ta-kom-ironhoof"
             ],
@@ -4593,7 +4604,7 @@
                 "fantasy",
                 "spooky",
                 "adult",
-                "gore",
+                "blood",
                 "nsfw",
                 "holiday",
                 "by:brathor-cyr",
@@ -4807,8 +4818,9 @@
                 "check-tags",
                 "spooky",
                 "adult",
-                "gore",
                 "nsfw",
+                "blood",
+                "gore",
                 "by:piggucaz",
                 "narrator:khaki"
             ],
@@ -5229,7 +5241,7 @@
                 "action/adventure",
                 "military",
                 "gothic",
-                "gore",
+                "blood",
                 "holiday",
                 "by:huskyteer",
                 "narrator:huskyteer"
@@ -5455,7 +5467,7 @@
                 "crime/police",
                 "contemporary",
                 "spooky",
-                "gore",
+                "blood",
                 "by:ian-madison-keller",
                 "narrator:khaki"
             ],
@@ -5508,7 +5520,7 @@
                 "check-tags",
                 "medieval",
                 "gothic",
-                "gore",
+                "blood",
                 "queerphobia",
                 "by:rose-lacroix",
                 "narrator:khaki"
@@ -5652,7 +5664,7 @@
             "tags": [
                 "check-tags",
                 "poem",
-                "by:dan-e",
+                "by:dan-lan",
                 "narrator:khaki"
             ],
             "title": "\u201cThe Hare\u201d a poem by Dan E\u0301lan"
@@ -5867,7 +5879,7 @@
                 "mystery",
                 "historical",
                 "spooky",
-                "gore",
+                "blood",
                 "trauma",
                 "drugs/alcohol",
                 "by:j-z-belexes",
@@ -5885,7 +5897,7 @@
             "tags": [
                 "check-tags",
                 "action/adventure",
-                "western",
+                "stone-age",
                 "eldritch",
                 "by:sakarafox",
                 "narrator:khaki"
@@ -5919,7 +5931,7 @@
                 "mystery",
                 "military",
                 "spooky",
-                "gore",
+                "blood",
                 "drugs/alcohol",
                 "by:anhedral",
                 "narrator:crimson-ruari"
@@ -6058,7 +6070,7 @@
                 "check-tags",
                 "fantasy",
                 "spooky",
-                "gore",
+                "blood",
                 "by:evan-drake",
                 "narrator:khaki"
             ],
@@ -6108,7 +6120,7 @@
                 "check-tags",
                 "medieval",
                 "spooky",
-                "gore",
+                "blood",
                 "by:sean-duroc-silva",
                 "narrator:khaki"
             ],
@@ -6178,7 +6190,7 @@
             "tags": [
                 "check-tags",
                 "crime/police",
-                "western",
+                "historical",
                 "spooky",
                 "lgbtq+",
                 "adult",
@@ -6220,7 +6232,7 @@
                 "spooky",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "by:marcus-heckinberry",
                 "narrator:khaki"
             ],
@@ -6478,7 +6490,7 @@
                 "fantasy",
                 "spooky",
                 "violence",
-                "gore",
+                "blood",
                 "by:aelius",
                 "narrator:khaki"
             ],
@@ -6585,7 +6597,7 @@
                 "romance",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "by:spottystuff",
                 "narrator:khaki"
             ],
@@ -6603,7 +6615,7 @@
                 "action/adventure",
                 "stone-age",
                 "spooky",
-                "gore",
+                "blood",
                 "violence",
                 "by:dwale",
                 "narrator:khaki"
@@ -6654,7 +6666,6 @@
             "tags": [
                 "check-tags",
                 "action/adventure",
-                "western",
                 "romance",
                 "lgbtq+",
                 "queer",
@@ -6759,9 +6770,9 @@
             "tags": [
                 "check-tags",
                 "epic",
-                "western",
+                "fantasy",
                 "romance",
-                "gore",
+                "blood",
                 "by:js-hawthorne",
                 "narrator:khaki"
             ],
@@ -6796,7 +6807,7 @@
                 "check-tags",
                 "military",
                 "spooky",
-                "gore",
+                "blood",
                 "by:reid-minnich",
                 "narrator:khaki"
             ],
@@ -6817,7 +6828,7 @@
                 "lgbtq+",
                 "queer",
                 "gay",
-                "gore",
+                "blood",
                 "by:darius-davis",
                 "narrator:khaki"
             ],
@@ -7171,7 +7182,7 @@
                 "drama",
                 "contemporary",
                 "romance",
-                "gore",
+                "blood",
                 "holiday",
                 "by:roland-jovaik",
                 "narrator:khaki"
@@ -7385,7 +7396,7 @@
                 "check-tags",
                 "spooky",
                 "lgbtq+",
-                "gore",
+                "blood",
                 "by:sakarafox",
                 "narrator:khaki"
             ],
@@ -7401,7 +7412,6 @@
             "tags": [
                 "check-tags",
                 "crime/police",
-                "western",
                 "humor/satire",
                 "by:ian-madison-keller",
                 "narrator:khaki"
@@ -7458,7 +7468,7 @@
                 "action/adventure",
                 "fantasy",
                 "spooky",
-                "gore",
+                "blood",
                 "by:bill-ricardi",
                 "narrator:khaki"
             ],
@@ -7516,7 +7526,7 @@
             "summary": "[18+] After Brandon expresses missing a man in his bed, his girlfriend Naedean gets an idea how to help.\nToday\u2019s story is \u201cMissed Feelings\u201d by TJ Minde, a Leo Literary Award Winner who\u2019s been published in FANG, Heat, and a number of other anthologies in the fandom. His story first appeared in Armoured Fox Press\u2019 \u201cFoxers or Beariefs\u201d anthology, available now.\nRead for you by Khaki, your faithful fireside companion.\n",
             "tags": [
                 "check-tags",
-                "western",
+                "contemporary",
                 "romance",
                 "adult",
                 "nsfw",
@@ -7554,7 +7564,7 @@
                 "action/adventure",
                 "stone-age",
                 "spooky",
-                "gore",
+                "blood",
                 "by:utunu",
                 "narrator:khaki"
             ],
@@ -7572,7 +7582,7 @@
                 "epic",
                 "stone-age",
                 "gothic",
-                "gore",
+                "blood",
                 "by:utunu",
                 "narrator:khaki"
             ],
@@ -7687,9 +7697,9 @@
             "tags": [
                 "check-tags",
                 "crime/police",
-                "western",
+                "historical",
                 "romance",
-                "gore",
+                "blood",
                 "by:mikasiwolf",
                 "narrator:khaki"
             ],
@@ -7705,7 +7715,7 @@
             "tags": [
                 "check-tags",
                 "crime/police",
-                "western",
+                "historical",
                 "humor/satire",
                 "by:mikasiwolf",
                 "narrator:khaki"
@@ -7722,7 +7732,7 @@
             "tags": [
                 "check-tags",
                 "drama",
-                "western",
+                "historical",
                 "family-saga",
                 "by:mikasiwolf",
                 "narrator:khaki"
@@ -7779,7 +7789,7 @@
             "summary": "<p>Today\u2019s story is \u201cHow Menander Got His Name\u201d by Altivo Overo (@Altivo on Twitter), who is a horse of many colors if you only see in black and white, and you can find more of his stories on FurAffinity, Weasyl, Furry Amino, or right here on The Voice of Dog.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "western",
+                "historical",
                 "eldritch",
                 "nsfw",
                 "by:altivo-overo",
@@ -7885,7 +7895,7 @@
             "tags": [
                 "check-tags",
                 "mystery",
-                "western",
+                "contemporary",
                 "romance",
                 "adult",
                 "nsfw",
@@ -8119,7 +8129,7 @@
                 "check-tags",
                 "medieval",
                 "gothic",
-                "gore",
+                "blood",
                 "by:metassus",
                 "narrator:khaki"
             ],
@@ -8203,7 +8213,7 @@
                 "mystery",
                 "military",
                 "gothic",
-                "gore",
+                "blood",
                 "violence",
                 "by:huskyteer",
                 "narrator:huskyteer"
@@ -8219,9 +8229,8 @@
             "summary": "<p><strong>In today's parable, an old vixen finds a new way of seeing life, the universe, and everything, thanks to an unexpected visitor.</strong></p>\n<p>Today\u2019s story is \u201cBeyond Mundane Horizons\u201d by friend-of-the-fireplace Altivo Overo, which will be read for you by the author himself.</p>\n<p>Altivo is a horse who stubbornly believes that there is potential for good in every sentient being and a golden side to every cloud in the sky. You can find his stories and art at FurAffinity, Weasyl, or Furry Amino as \"Altivo\" and at Goodreads or Amazon under \"Altivo Overo.\"</p>\n",
             "tags": [
                 "check-tags",
-                "western",
+                "historical",
                 "gothic",
-                "gore",
                 "by:altivo-overo",
                 "narrator:altivo-overo"
             ],
@@ -8305,7 +8314,7 @@
                 "drama",
                 "fantasy",
                 "family-saga",
-                "gore",
+                "blood",
                 "by:nighteyes-dayspring",
                 "narrator:khaki"
             ],
@@ -8417,7 +8426,7 @@
                 "check-tags",
                 "spooky",
                 "lgbtq+",
-                "gore",
+                "blood",
                 "by:metassus",
                 "narrator:khaki"
             ],
@@ -8519,7 +8528,6 @@
             "summary": "<p>Today\u2019s story is \u201c<a href=\"https://www.deviantart.com/toledo-the-horse/art/Fuzzy-Memory-367149806\"><u>Fuzzy Memory</u></a>\u201d by friend-of-the-fireplace <a href=\"https://twitter.com/ToledoTheHorse\"><u>Toledo</u></a>, who is a horse who writes when inspiration strikes hard enough to brave the prospect of plunking out a story on a giant keyboard with a single hoof. You can find more of his writing \u2014 as well as his visual art \u2014 in his FurAffinity or DeviantArt galleries. On DA he's <a href=\"https://www.deviantart.com/toledo-the-horse\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Toledo-The-Horse</a>, and on FA he's the oh-so-obvious &nbsp;'<a href=\"https://www.furaffinity.net/user/out-of-the-boks\" rel=\"ugc noopener noreferrer\" target=\"_blank\">out-of-the-boks'</a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "western",
                 "by:toledo-the-horse",
                 "narrator:khaki"
             ],
@@ -8539,7 +8547,7 @@
                 "lgbtq+",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "drugs/alcohol",
                 "by:b-p-rugger",
                 "narrator:khaki"
@@ -8734,7 +8742,6 @@
             "tags": [
                 "check-tags",
                 "drama",
-                "western",
                 "romance",
                 "by:toledo-the-horse",
                 "narrator:khaki"
@@ -8788,7 +8795,7 @@
                 "historical",
                 "humor/satire",
                 "transgender",
-                "gore",
+                "blood",
                 "violence",
                 "by:madison-scott-clary",
                 "narrator:khaki"
@@ -9025,7 +9032,7 @@
                 "spooky",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "queerphobia",
                 "by:kandrel",
                 "narrator:khaki"
@@ -9062,7 +9069,7 @@
                 "fantasy",
                 "spooky",
                 "adult",
-                "gore",
+                "blood",
                 "nsfw",
                 "violence",
                 "by:ryan-campbell",
@@ -9169,7 +9176,7 @@
                 "spooky",
                 "adult",
                 "nsfw",
-                "gore",
+                "blood",
                 "queerphobia",
                 "by:nighteyes-dayspring",
                 "narrator:khaki"
@@ -9233,6 +9240,7 @@
         "adult": "Adult",
         "asexual": "Asexual",
         "bisexual": "Bisexual",
+        "blood": "Blood",
         "by:aelius": "Author: Aelius",
         "by:akronia": "Author: Akronia",
         "by:al-song": "Author: Al Song",
@@ -9266,7 +9274,8 @@
         "by:cheesefighter": "Author: Cheesefighter",
         "by:coda": "Author: Coda",
         "by:crimson-ruari": "Author: Crimson Ruari",
-        "by:dan-e": "Author: Dan E",
+        "by:dan-elan": "Author: Dan \u00c9lan",
+        "by:dan-lan": "Author: Dan \u00c9lan",
         "by:dan-leinir-turthra-jensen": "Author: Dan Leinir Turthra Jensen",
         "by:daniel": "Author: Daniel",
         "by:danny-wolf": "Author: Danny Wolf",
@@ -9409,6 +9418,8 @@
         "by:ziegenbock": "Author: Ziegenbock",
         "check-tags": "Tags Unverified",
         "contemporary": "Contemporary",
+        "cozy": "Cozy",
+        "crime": "Crime",
         "crime/police": "Crime",
         "drama": "Drama",
         "drugs/alcohol": "Drugs/Alcohol",
@@ -9428,6 +9439,7 @@
         "historical": "Historical",
         "holiday": "Holiday",
         "horror": "Horror",
+        "humor": "Humor",
         "humor/satire": "Humor/Satire",
         "indigenous": "Indigenous",
         "kid-friendly": "Kid-friendly",
@@ -9699,6 +9711,74 @@
             "how-it-pans-out-by-kergiby",
             "going-both-ways-by-mikasiwolf-18"
         ],
+        "blood": [
+            "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
+            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
+            "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
+            "18-the-darkest-place-by-kohitsuji",
+            "eat-your-heart-your-feelings-or-both-by-leuna",
+            "conspiracy-by-darius-davis",
+            "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
+            "hunter-on-the-shelves-by-leuna",
+            "traveler-in-the-last-wood-by-kohitsuji",
+            "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
+            "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
+            "too-important-to-be-forgotten-by-splicerwolf",
+            "reflections-by-sakarafox-rob-macwolf",
+            "18-pack-by-mikasiwolf",
+            "18-my-initiation-to-the-wolf-way-by-tannihn",
+            "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
+            "the-year-of-the-dragon-by-packwolf-lupestripe",
+            "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
+            "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
+            "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
+            "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
+            "cat-problems-by-james-stone",
+            "darker-things-than-man-by-casimir-laski",
+            "the-gift-by-darius-davis-read-by-takom-ironhoof",
+            "victor-tremblay-in-paper-blood-by-pascal-farful-part-2-of-2",
+            "victor-tremblay-in-paper-blood-by-pascal-farful-part-1-of-2",
+            "riddles-with-a-raven-by-casimir-laski",
+            "the-tower-by-danny-wolf",
+            "a-dragons-dilemma-by-evan-drake",
+            "screw-the-looking-glass-by-zack-loup",
+            "the-reason-why-by-j-s-hawthorne",
+            "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
+            "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author",
+            "precious-cargo-by-herr-wozzeck-part-1-of-2",
+            "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof",
+            "the-winter-coat-by-brathor-cyr",
+            "tending-to-a-beast-by-piggucaz-18",
+            "jenny-burnt-tail-by-huskyteer-read-by-the-author",
+            "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
+            "furta-sacra-by-rose-lacroix",
+            "tearing-ole-by-j-z-belexes-mixdown",
+            "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
+            "a-dragons-tale-by-evan-drake",
+            "second-chance-by-sean-duroc-silva-part-1-of-2",
+            "please-dont-fail-me-for-this-by-marcus-heckinberry",
+            "urban-mystic-by-aelius-part-1-of-2",
+            "the-conqueror-by-spottystuff",
+            "the-river-in-the-mist-by-dwale-part-2-of-2",
+            "endless-winter-by-js-hawthorne",
+            "chinchilla-attack-by-reid-minnich",
+            "familiar-encounter-by-darius-davis",
+            "variables-by-roland-jovaik-part-2-of-2",
+            "a-well-deserved-rest-by-sakarafox",
+            "unseelie-pie-by-bill-ricardi",
+            "water-by-utunu-part-2-of-2",
+            "water-by-utunu-part-1-of-2",
+            "a-leap-forward-by-mikasiwolf-part-3-of-3",
+            "at-the-inn-whitewash-by-metassus",
+            "the-zeroth-protocol-by-huskyteer",
+            "the-tomb-guardian-by-nighteyes-dayspring",
+            "snowed-in-by-metassus",
+            "colour-me-terrified-by-b-p-rugger-18",
+            "the-fool-by-madison-scott-clary",
+            "to-find-you-by-kandrel-18",
+            "eagle-s-splendour-by-ryan-campbell",
+            "loving-you-is-wrong-by-nighteyes-dayspring-18"
+        ],
         "by:aelius": [
             "rune-weaver-by-aelius-part-2-of-2",
             "rune-weaver-by-aelius-part-1-of-2",
@@ -9849,7 +9929,7 @@
             "somewhere-in-the-cypress-by-crimson-ruari",
             "gate-keeper-by-crimson-ruari"
         ],
-        "by:dan-e": [
+        "by:dan-lan": [
             "the-hare-a-poem-by-dan-elan"
         ],
         "by:dan-leinir-turthra-jensen": [
@@ -10539,11 +10619,9 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
-            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
             "memory-by-et-al-",
@@ -10617,7 +10695,6 @@
             "18-victor-tremblay-in-because-the-night-by-pascal-farful",
             "18-under-the-bed-by-todd-aldrington",
             "emotional-support-wolf-by-nighteyes-dayspring",
-            "chump-change-by-alex-katz",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "unseeing-by-madison-scott-clary-part-2-of-2-read-by-the-author-herself",
             "unseeing-by-madison-scott-clary-part-1-of-2-read-by-the-author-herself",
@@ -10942,6 +11019,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "18-front-roe-by-b-p-rugger",
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
@@ -11022,15 +11100,25 @@
             "sound-check-by-k-c-shaw",
             "tokyo-tension-by-crimson-ruari",
             "you-can-watch-me-dance-by-dirt-coyote",
+            "missed-feelings-by-tj-minde-18",
             "giving-thanks-by-kergiby",
             "foxing-for-pizza-by-nighteyes-dayspring-18",
             "bucking-the-trend-by-madison-keller",
+            "bluebucks-by-televassi-18",
             "somewhere-in-the-cypress-by-crimson-ruari",
             "catch-me-if-you-can-by-altivo-overo",
             "lone-by-significantotter",
             "nobody-s-home-by-pascal-farful",
             "a-little-distraction-by-field-t-mouse-18",
             "counter-culture-by-televassi"
+        ],
+        "cozy": [
+            "your-family-and-mine-by-alex-t-dragonson",
+            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
+            "distant-cousins-by-alex-katz"
+        ],
+        "crime": [
+            "chump-change-by-alex-katz"
         ],
         "crime/police": [
             "the-fox-and-the-unicorns-by-chase-anderson",
@@ -11073,7 +11161,6 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
-            "your-family-and-mine-by-alex-t-dragonson",
             "18-what-are-the-odds-by-takom-ironhoof",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
@@ -11300,6 +11387,9 @@
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "friends-and-collies-by-ursus-arctos"
         ],
+        "f/f": [
+            "your-family-and-mine-by-alex-t-dragonson"
+        ],
         "family-saga": [
             "your-family-and-mine-by-alex-t-dragonson",
             "the-eavesdropper-by-ritter",
@@ -11359,6 +11449,7 @@
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2",
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "18-under-the-bed-by-todd-aldrington",
+            "chump-change-by-alex-katz",
             "coming-back-by-mikasiwolf",
             "an-act-of-kindness-by-evan-drake",
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
@@ -11377,6 +11468,7 @@
             "a-gentle-rustling-of-leaves-by-nenekiri-bookwyrm",
             "urban-mystic-by-aelius-part-2-of-2",
             "urban-mystic-by-aelius-part-1-of-2",
+            "endless-winter-by-js-hawthorne",
             "shopping-trip-by-herr-wozzeck",
             "mischief-makers-by-dire",
             "sky-defender-by-killick",
@@ -11482,88 +11574,22 @@
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf"
         ],
         "gore": [
-            "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
-            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
-            "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
-            "18-the-darkest-place-by-kohitsuji",
-            "eat-your-heart-your-feelings-or-both-by-leuna",
             "rites-of-wood-and-bone-by-utunu",
             "a-lesson-in-hauntings-by-rob-macwolf",
-            "conspiracy-by-darius-davis",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
-            "hunter-on-the-shelves-by-leuna",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
-            "traveler-in-the-last-wood-by-kohitsuji",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
-            "the-satraps-mark-by-thomas-faux-steele-part-2-of-2",
-            "the-satraps-mark-by-thomas-faux-steele-part-1-of-2",
-            "too-important-to-be-forgotten-by-splicerwolf",
-            "reflections-by-sakarafox-rob-macwolf",
-            "18-pack-by-mikasiwolf",
-            "18-my-initiation-to-the-wolf-way-by-tannihn",
-            "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-2-of-2",
-            "the-year-of-the-dragon-by-packwolf-lupestripe",
             "ethane-horizons-by-joel-kreissman",
-            "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
             "perfection-of-the-visionary-courier-by-al-song-part-1-of-2-18",
-            "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
-            "victor-tremblay-in-snowed-inn-by-pascal-farful-part-1-of-2",
-            "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
-            "cat-problems-by-james-stone",
-            "darker-things-than-man-by-casimir-laski",
-            "the-gift-by-darius-davis-read-by-takom-ironhoof",
-            "victor-tremblay-in-paper-blood-by-pascal-farful-part-2-of-2",
-            "victor-tremblay-in-paper-blood-by-pascal-farful-part-1-of-2",
-            "riddles-with-a-raven-by-casimir-laski",
-            "the-tower-by-danny-wolf",
-            "a-dragons-dilemma-by-evan-drake",
-            "screw-the-looking-glass-by-zack-loup",
-            "the-reason-why-by-j-s-hawthorne",
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
-            "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
-            "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author",
-            "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
-            "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof",
-            "the-winter-coat-by-brathor-cyr",
             "tending-to-a-beast-by-piggucaz-18",
-            "jenny-burnt-tail-by-huskyteer-read-by-the-author",
-            "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
-            "furta-sacra-by-rose-lacroix",
-            "tearing-ole-by-j-z-belexes-mixdown",
-            "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
-            "a-dragons-tale-by-evan-drake",
-            "second-chance-by-sean-duroc-silva-part-1-of-2",
-            "please-dont-fail-me-for-this-by-marcus-heckinberry",
-            "urban-mystic-by-aelius-part-1-of-2",
-            "the-conqueror-by-spottystuff",
-            "the-river-in-the-mist-by-dwale-part-2-of-2",
-            "endless-winter-by-js-hawthorne",
-            "chinchilla-attack-by-reid-minnich",
-            "familiar-encounter-by-darius-davis",
-            "variables-by-roland-jovaik-part-2-of-2",
-            "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
-            "a-well-deserved-rest-by-sakarafox",
-            "unseelie-pie-by-bill-ricardi",
-            "water-by-utunu-part-2-of-2",
-            "water-by-utunu-part-1-of-2",
-            "a-leap-forward-by-mikasiwolf-part-3-of-3",
-            "at-the-inn-whitewash-by-metassus",
-            "the-zeroth-protocol-by-huskyteer",
-            "beyond-mundane-horizons-by-altivo-overo",
-            "the-tomb-guardian-by-nighteyes-dayspring",
-            "snowed-in-by-metassus",
-            "colour-me-terrified-by-b-p-rugger-18",
-            "the-fool-by-madison-scott-clary",
-            "to-find-you-by-kandrel-18",
-            "eagle-s-splendour-by-ryan-campbell",
-            "loving-you-is-wrong-by-nighteyes-dayspring-18"
+            "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
             "outfoxed-by-hania",
@@ -11665,6 +11691,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm",
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
+            "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "making-a-delivery-by-thomas-faux-steele-red-by-rob-macwolf",
             "reunion-by-ardy-hart-18",
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
@@ -11685,6 +11712,7 @@
             "getting-naked-at-gunnison-by-patrigue",
             "event-horizon-by-arcane-reno",
             "the-pwca-by-holly-a-morrison-18",
+            "a-minotaurs-tribute-by-stinkdog-part-1-of-2",
             "lamb-of-god-by-stephen-coghlan",
             "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
             "cease-fire-by-nachtfangen",
@@ -11701,6 +11729,10 @@
             "monkeyshines-by-j-b-rockwell-part-2-of-2",
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18",
             "a-part-of-the-machine-by-mikasiwolf",
+            "a-leap-forward-by-mikasiwolf-part-3-of-3",
+            "a-leap-forward-by-mikasiwolf-part-2-of-3",
+            "a-leap-forward-by-mikasiwolf-part-1-of-3",
+            "how-menander-got-his-name-by-altivo-overo",
             "nonna-by-spottystuff",
             "cleaning-up-by-kyell-gold",
             "the-lion-of-the-low-countries-by-huskyteer",
@@ -11708,6 +11740,7 @@
             "no-dogs-by-kirisis-kc-alpinus",
             "the-hadfield-robbery-by-pascal-farful",
             "a-world-lost-by-joel-kreissman",
+            "beyond-mundane-horizons-by-altivo-overo",
             "home-again-by-kergiby",
             "no-peas-in-my-garden-by-dan-leinir-turthra-jensen",
             "somewhere-in-the-white-void-by-domus-vocis",
@@ -11758,6 +11791,9 @@
         ],
         "horror": [
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author"
+        ],
+        "humor": [
+            "chump-change-by-alex-katz"
         ],
         "humor/satire": [
             "18-the-creation-of-water-by-leuna",
@@ -12526,6 +12562,9 @@
         "non-consensual": [
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2"
         ],
+        "nonbinary": [
+            "your-family-and-mine-by-alex-t-dragonson"
+        ],
         "nsfw": [
             "18-the-creation-of-water-by-leuna",
             "18-what-are-the-odds-by-takom-ironhoof",
@@ -13199,6 +13238,7 @@
             "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "speak-to-me-of-summer-by-harry-part-2-of-2",
             "speak-to-me-of-summer-by-harry-part-1-of-2",
+            "spring-rain-by-sakarafox",
             "the-river-in-the-mist-by-dwale-part-2-of-2",
             "the-river-in-the-mist-by-dwale-part-1-of-2",
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
@@ -13270,37 +13310,21 @@
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
-            "three-tales-of-ukkabal-by-ritter",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
             "a-lesson-in-hauntings-by-rob-macwolf",
-            "herd-and-understood-by-lauren-rivers",
             "victor-tremblay-in-snowed-inn-by-pascal-farful-part-2-of-2",
+            "chump-change-by-alex-katz",
             "the-gift-by-darius-davis-read-by-takom-ironhoof",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
             "mouse-your-house-by-field-t-mouse-18",
-            "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "homeworld-by-buddy-goodboy-read-by-killick",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-1-of-2",
             "followers-of-the-jackal-by-domus-vocis-part-1-of-2-read-by-crimson-ruari-18",
-            "spring-rain-by-sakarafox",
             "a-city-wolf-joins-the-pack-by-fopfox-part-2-of-2-18",
-            "a-minotaurs-tribute-by-stinkdog-part-1-of-2",
             "the-widehorn-herd-by-madison-keller",
-            "the-wind-in-the-willows-chapter-ii-by-kenneth-grahame",
-            "endless-winter-by-js-hawthorne",
-            "blind-date-blues-by-ian-madison-keller-2-of-2",
             "blind-date-blues-by-ian-madison-keller-1-of-2",
-            "missed-feelings-by-tj-minde-18",
-            "a-leap-forward-by-mikasiwolf-part-3-of-3",
-            "a-leap-forward-by-mikasiwolf-part-2-of-3",
-            "a-leap-forward-by-mikasiwolf-part-1-of-3",
-            "how-menander-got-his-name-by-altivo-overo",
-            "bluebucks-by-televassi-18",
-            "beyond-mundane-horizons-by-altivo-overo",
-            "fuzzy-memory-by-toledo-the-horse",
             "coyote-s-voice-by-altivo-overo",
             "food-feuds-and-fake-flora-by-ocean-tigrox",
-            "returning-by-toledo-the-horse",
             "the-blue-eye-of-the-desert-god-by-altivo-overo",
             "once-we-were-meerkats-by-huskyteer"
         ]

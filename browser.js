@@ -65,6 +65,15 @@ function runQuery() {
             }
         })
     }
+    else if (query.episode) {
+        if (eps[query.episode]) {
+            $("#main").append(epSummary(eps[query.episode]))
+            playEpisode(query.episode)
+        }
+        else {
+            $("#main").append("Story not found")
+        }
+    }
     else {
         $("#main").append($("<h1>This week's story</h1>"))
         $("#main").append(epSummary(index.episodes[0]))
@@ -100,8 +109,7 @@ function epSummary(ep) {
         .click(() => { playEpisode(ep.slug) })
     )
     el.append(
-        $("<h2>")
-        .text(ep.title)
+        $(`<h2><a href='?episode=${ep.slug}' onclick='return false'>${ep.title}</a></h2>`)
         .click(() => { playEpisode(ep.slug) })
     )
     el.append($(`<i class='pubdate'>Published on ${dateformatter.format(new Date(ep.published_date))}</i>`))
@@ -141,6 +149,11 @@ function openTag(tag) {
     runQuery()
 }
 
+function openEpisode(slug) {
+    history.pushState({},"","?episode=" + tag)
+    runQuery()
+}
+
 function openHome() {
     history.pushState({},"","?")
     runQuery()
@@ -154,13 +167,16 @@ function playEpisode(slug, autoplay = true, seektime = 0) {
 
         $("#audio").html("<audio controls" + (autoplay ? " autoplay" : "") + "><source type='audio/mpeg' src='" + ep['media_url'] + "'/></audio>")
         $("#audio audio").on("timeupdate", onTimeUpdate)
+        $("#audio audio").on("play", () => { $("#player").removeClass("paused") } )
+        $("#audio audio").on("pause", () => { $("#player").addClass("paused") } )
         if (seektime > 0) {
             $("#audio audio").on("canplaythrough", () => {
                 $("#audio audio")[0].currentTime = seektime
             })
         }
-        $("#playingtitle").text(ep.title)
+        $("#playingtitle").html(`<a href='?episode=${ep.slug}' onclick='openEpisode("${ep.slug}"); return false'>${ep.title}</a>`)
         
+        window.cards = []
         $.ajax({
             type: "get",
             url: "srt/" + slug + ".srt",

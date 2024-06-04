@@ -113,6 +113,10 @@ a {
     font-style: italic;
 }
 
+#playingtitle a {
+    color: #cff;
+}
+
 #transcript {
     color: #444;
     font-family: sans-serif;
@@ -122,6 +126,10 @@ a {
     max-height: 200px;
     padding-left: 5%;
     padding-right: 5%;
+}
+
+#player.paused #transcript{
+    color: #888;
 }
 
 #player.maximized #transcript {

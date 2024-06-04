@@ -26,6 +26,14 @@ a {
     background-color: rgb(197, 197, 184);
 }
 
+.blurb {
+    margin-right: 20px;
+}
+p.socials a {
+    display: block;
+    margin: 0px;
+}
+
 #logo {
     width: 230px;
     margin: 10px;

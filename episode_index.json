@@ -293,6 +293,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4199c8c8-57c8-420c-b42f-1433ca2a24d9/Your-Family-and-Mine-by-Alex-T-Dragonson.mp3",
+            "published_date": "2024-06-04T19:00:00.000Z",
+            "shownotes": "<p><em>When Sofia discovers she\u2019s a werewolf, she doesn\u2019t realize how it will change her life\u2013or just how lucky she is to live in her hometown.</em></p><p>Today\u2019s story is \u201cYour Family and Mine\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of their stories on their <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a>.</p><p>Read by Cross, a Composed Hyena.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "your-family-and-mine-by-alex-t-dragonson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "drama",
+                "fantasy",
+                "family-saga",
+                "lgbtq+",
+                "pride-month",
+                "by:alex-t-dragonson",
+                "narrator:cross"
+            ],
+            "title": "\"Your Family and Mine\" by Alex T. Dragonson (read by Cross)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5b40147f-9edb-46a4-bc1f-0ed1e5b01f6e/My-Super-Illegal-San-Francisco-Marriage-Twenty-Years-Later-by-B.mp3",
             "published_date": "2024-06-03T19:00:00.000Z",
             "shownotes": "<p><em>An autobiographical account of a turning point in queer history, from the memory of someone who was there.</em></p><p>Today\u2019s story is \u201cMy Super Illegal San Francisco Marriage, Twenty Years Later\u201d by Beachfox who\u2019s been posting homoerotic art online since before he was married. Can be found as Beachfox on various art sites and <a href=\"https://www.tumblr.com/therealbeachfox\" rel=\"noopener noreferrer\" target=\"_blank\">TheRealBeachfox on Tumblr</a>.</p><p>The following is a true story, told entirely from the recollections of the author. </p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -894,6 +913,7 @@
                 "fantasy",
                 "lgbtq+",
                 "holiday",
+                "fireside-meeting",
                 "narrator:rob-macwolf",
                 "by:friends-of-the-fireplace"
             ],
@@ -911,6 +931,7 @@
                 "fantasy",
                 "lgbtq+",
                 "holiday",
+                "fireside-meeting",
                 "narrator:rob-macwolf",
                 "by:friends-of-the-fireplace"
             ],
@@ -9703,6 +9724,7 @@
             "chump-change-by-alex-katz"
         ],
         "by:alex-t-dragonson": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson"
         ],
         "by:alice-clawford": [
@@ -10517,6 +10539,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
@@ -11050,6 +11073,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "18-what-are-the-odds-by-takom-ironhoof",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
@@ -11277,6 +11301,7 @@
             "friends-and-collies-by-ursus-arctos"
         ],
         "family-saga": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "the-eavesdropper-by-ritter",
             "herd-and-understood-by-lauren-rivers",
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
@@ -11315,6 +11340,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "fantasy": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -11372,6 +11398,8 @@
             "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
+            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
+            "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
@@ -11789,6 +11817,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-snaggin-by-gar-sahoni-atkins",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -11983,6 +12012,7 @@
             "galician-sled-by-crimson-ruari-part-1-of-2"
         ],
         "narrator:cross": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf"
         ],
         "narrator:dirt-coyote": [
@@ -12732,6 +12762,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
             "morning-of-by-madison-scott-clary",

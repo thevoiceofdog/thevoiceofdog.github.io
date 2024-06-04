@@ -26,6 +26,13 @@ a {
     background-color: rgb(197, 197, 184);
 }
 
+#logo {
+    width: 230px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
 #main {
     margin-left: 270px;
     padding: 20px;

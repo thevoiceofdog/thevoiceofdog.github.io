@@ -5308,7 +5308,13 @@
             "shownotes": "<p>[18+] Today\u2019s story is \u201c<a href=\"https://www.amazon.com/Purrfect-Tails-Mr-Tarl-Hoch/dp/1775151409\" rel=\"noopener noreferrer\" target=\"_blank\">Milk and Brass</a>\u201d by by <a href=\"https://madisonkeller.net/\" rel=\"noopener noreferrer\" target=\"_blank\">Ian Madison Keller</a>, who wrote the Changing Bodies series published by Fanged Fiction and edited Shark Week published Rainbow Dog Books, and you can find more of his stories on <a href=\"https://madisonkeller.net/\" rel=\"noopener noreferrer\" target=\"_blank\">madisonkeller.net</a>.</p><p>Read for you by&nbsp;<a href=\"https://twitter.com/khakidoggy\" rel=\"noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p><p><a href=\"thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">thevoice.dog</a>  |  <a href=\"https://www.thevoice.dog/apple\" rel=\"noopener noreferrer\" target=\"_blank\">Apple podcasts</a>  |  <a href=\"https://www.thevoice.dog/spotify\" rel=\"noopener noreferrer\" target=\"_blank\">Spotify</a>  |  <a href=\"https://www.thevoice.dog/google\" rel=\"noopener noreferrer\" target=\"_blank\">Google Podcasts</a></p><p>If you have a story you think would be a good fit, you can <a href=\"https://www.sofurry.com/view/1669084\" rel=\"noopener noreferrer\" target=\"_blank\">check out the requirements</a>, fill out the <a href=\"https://drive.google.com/drive/folders/1z81u5O2i8PWSfEpzaVhHeTjrp1kKP7TX?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">submission template</a> and get in touch with Khaki on <a href=\"twitter.com/khakidoggy\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> or <a href=\"https://t.me/khakidoggy\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram</a>!</p>",
             "slug": "milk-and-brass-by-ian-madison-keller",
             "summary": "",
-            "tags": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "historical",
+                "by:ian-madison-keller",
+                "narrator:ian-madison-keller"
+            ],
             "title": "\u201cMilk and Brass\u201d by Ian Madison Keller (read by the author) [18+]"
         },
         {
@@ -10139,6 +10145,7 @@
             "suddenly-chihuahua-by-ian-madison-keller-part-2-of-2",
             "suddenly-chihuahua-by-ian-madison-keller-part-1-of-2",
             "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
+            "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
@@ -10826,6 +10833,7 @@
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
+            "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",
@@ -11743,6 +11751,7 @@
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "red-delicious-by-buddy-goodboy",
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
+            "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "the-first-shall-not-be-last-by-nalz",
@@ -12151,6 +12160,7 @@
             "the-zeroth-protocol-by-huskyteer"
         ],
         "narrator:ian-madison-keller": [
+            "milk-and-brass-by-ian-madison-keller",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author"
         ],
         "narrator:ianus-j-wolf": [
@@ -13051,6 +13061,7 @@
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "qoheleth-by-madison-scott-clary-an-excerpt-read-by-the-author-herself",
             "jump-by-madison-scott-clary-read-by-the-author-herself",
+            "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",

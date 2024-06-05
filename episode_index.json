@@ -50,6 +50,7 @@
             "by:dukeferret",
             "by:dwale",
             "by:earbender",
+            "by:et-al",
             "by:evan-drake",
             "by:ezen-baklattan",
             "by:faolan",
@@ -501,10 +502,11 @@
             "slug": "memory-by-et-al-",
             "summary": "",
             "tags": [
-                "action/adventure",
+                "check-tags",
                 "poetry-month",
-                "narrator:yuugenshou",
-                "by:yuugenshou"
+                "action/adventure",
+                "by:et-al",
+                "narrator:yuugenshou"
             ],
             "title": "\u201cMemory\u201d by \u00c6 et al. (read by Yuugenshou)"
         },
@@ -9234,7 +9236,7 @@
         "autobiography": "Autobiography",
         "bisexual": "Bisexual",
         "blood": "Blood",
-        "by:ae-et-al": "Author: Ae Et Al",
+        "by:ae-et-al": "Author: \u00c6 et al",
         "by:aelius": "Author: Aelius",
         "by:akronia": "Author: Akronia",
         "by:al-song": "Author: Al Song",
@@ -9283,6 +9285,7 @@
         "by:dukeferret": "Author: DukeFerret",
         "by:dwale": "Author: Dwale",
         "by:earbender": "Author: Earbender",
+        "by:et-al": "Author: \u00c6 et al",
         "by:evan-drake": "Author: Evan Drake",
         "by:ezen-baklattan": "Author: Ezen Baklattan",
         "by:faolan": "Author: Faolan",
@@ -10007,6 +10010,9 @@
             "nuthin-but-a-houn-dog-by-earbender-part-2-of-2-18",
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18"
         ],
+        "by:et-al": [
+            "memory-by-et-al-"
+        ],
         "by:evan-drake": [
             "an-act-of-kindness-by-evan-drake",
             "a-dragons-dilemma-by-evan-drake",
@@ -10594,8 +10600,7 @@
             "a-stranger-in-the-woods-by-writer-a"
         ],
         "by:yuugenshou": [
-            "nocturne-by-yuugenshou",
-            "memory-by-et-al-"
+            "nocturne-by-yuugenshou"
         ],
         "by:zack-loup": [
             "screw-the-looking-glass-by-zack-loup"
@@ -10610,6 +10615,7 @@
             "the-death-of-kellas-by-sky-mckinnon",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
+            "memory-by-et-al-",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",

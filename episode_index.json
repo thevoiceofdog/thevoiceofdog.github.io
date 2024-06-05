@@ -86,7 +86,6 @@
             "by:joaquin-baldwin",
             "by:joel-kreissman",
             "by:john-bailey",
-            "by:js-hawthorne",
             "by:k-c-shaw",
             "by:kandrel",
             "by:katlina-sommerberg",
@@ -353,7 +352,7 @@
                 "lesbian",
                 "pride-month",
                 "narrator:rob-macwolf",
-                "by:js-hawthorne"
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cLove Like Echoed Fire\u201d by JS Hawthorne"
         },
@@ -6770,7 +6769,7 @@
                 "epic",
                 "fantasy",
                 "blood",
-                "by:js-hawthorne",
+                "by:j-s-hawthorne",
                 "narrator:khaki"
             ],
             "title": "\u201cEndless Winter\u201d by JS Hawthorne"
@@ -9324,7 +9323,6 @@
         "by:joaquin-baldwin": "Author: Joaqu\u00edn Baldwin",
         "by:joel-kreissman": "Author: Joel Kreissman",
         "by:john-bailey": "Author: John Bailey",
-        "by:js-hawthorne": "Author: JS Hawthorne",
         "by:k-c-shaw": "Author: K.C. Shaw",
         "by:kandrel": "Author: Kandrel",
         "by:katlina-sommerberg": "Author: Katlina Sommerberg",
@@ -10129,9 +10127,11 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "love-like-echoed-fire-by-js-hawthorne",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
-            "the-reason-why-by-j-s-hawthorne"
+            "the-reason-why-by-j-s-hawthorne",
+            "endless-winter-by-js-hawthorne"
         ],
         "by:j-z-belexes": [
             "tearing-ole-by-j-z-belexes-mixdown"
@@ -10155,10 +10155,6 @@
         ],
         "by:john-bailey": [
             "twilight-sparkle-goes-to-bed-by-john-bailey"
-        ],
-        "by:js-hawthorne": [
-            "love-like-echoed-fire-by-js-hawthorne",
-            "endless-winter-by-js-hawthorne"
         ],
         "by:k-c-shaw": [
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",

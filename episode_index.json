@@ -88,7 +88,6 @@
             "by:k-c-shaw",
             "by:kandrel",
             "by:katlina-sommerberg",
-            "by:kayod-lycaon",
             "by:kayode-lycaon",
             "by:kenneth-grahame",
             "by:kergiby",
@@ -776,13 +775,12 @@
             "slug": "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "spooky",
                 "epic",
                 "historical",
+                "spooky",
                 "blood",
-                "by:kayod-lycaon",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:kayode-lycaon"
             ],
             "title": "\u201cPriest of Lilies\u201d by Kayod\u00e9 Lycaon (part 2 of 2)"
         },
@@ -794,13 +792,12 @@
             "slug": "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "spooky",
                 "drama",
                 "historical",
+                "spooky",
                 "blood",
-                "by:kayod-lycaon",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:kayode-lycaon"
             ],
             "title": "\u201cPriest of Lilies\u201d by Kayod\u00e9 Lycaon (part 1 of 2)"
         },
@@ -9324,7 +9321,6 @@
         "by:k-c-shaw": "Author: K.C. Shaw",
         "by:kandrel": "Author: Kandrel",
         "by:katlina-sommerberg": "Author: Katlina Sommerberg",
-        "by:kayod-lycaon": "Author: Kayod\u00e9 Lycaon",
         "by:kayode-lycaon": "Author: Kayod\u00e9 Lycaon",
         "by:kenneth-grahame": "Author: Kenneth Grahame",
         "by:kergiby": "Author: Kergiby",
@@ -10168,11 +10164,9 @@
         "by:katlina-sommerberg": [
             "finding-a-lost-inventor-by-katlina-sommerberg"
         ],
-        "by:kayod-lycaon": [
-            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
-            "priest-of-lilies-by-kayode-lycaon-part-1-of-2"
-        ],
         "by:kayode-lycaon": [
+            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
+            "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-1",
             "a-lazy-monday-by-kayode-lycaon",
@@ -10626,8 +10620,6 @@
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "the-eavesdropper-by-ritter",
-            "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
-            "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "18-snaggin-by-gar-sahoni-atkins",
             "three-tales-of-ukkabal-by-ritter",

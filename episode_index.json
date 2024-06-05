@@ -301,6 +301,28 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c78d576f-3b62-4d2b-8744-6bee4534a086/18-Brandy-and-Fire-by-Driftwood.mp3",
+            "published_date": "2024-06-05T19:00:00.000Z",
+            "shownotes": "<p>[18+] <em>A noble wolf is torn between a growing desire for his best friend and his belief in \u201cproper manners\u201d. Will he accept his newly-discovered desires, or will he live in regret?</em></p><p>Today\u2019s story is \u201cBrandy and Fire\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Driftwood</a>, a rabbit with a passion for reading and writing. Recently, his short story \u201cBetween the Mist and the Sun was published in the xenofiction anthology <a href=\"https://www.amazon.com/Empire-Beasts-Dewi-Hargreaves/dp/1087968402\" rel=\"noopener noreferrer\" target=\"_blank\">Empire of Beasts</a> by <a href=\"https://www.lostboyspress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Boys Press</a>. You can send him a message on Telegram @driftwood_rabbit.</p><p>Read by Dralen, the Dapper Dragonfox.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-brandy-and-fire-by-driftwood",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "adult",
+                "lgbtq+",
+                "pride-month",
+                "gothic",
+                "epic",
+                "historical",
+                "drugs/alcohol",
+                "nsfw",
+                "by:driftwood",
+                "narrator:dralen"
+            ],
+            "title": "[18+] \u201cBrandy and Fire\u201d by Driftwood (read by Dralen)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4199c8c8-57c8-420c-b42f-1433ca2a24d9/Your-Family-and-Mine-by-Alex-T-Dragonson.mp3",
             "published_date": "2024-06-04T19:00:00.000Z",
             "shownotes": "<p><em>When Sofia discovers she\u2019s a werewolf, she doesn\u2019t realize how it will change her life\u2013or just how lucky she is to live in her hometown.</em></p><p>Today\u2019s story is \u201cYour Family and Mine\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of their stories on their <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a>.</p><p>Read by Cross, a Composed Hyena.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -9651,6 +9673,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-brandy-and-fire-by-driftwood",
             "18-the-creation-of-water-by-leuna",
             "18-what-are-the-odds-by-takom-ironhoof",
             "18-snaggin-by-gar-sahoni-atkins",
@@ -10080,6 +10103,9 @@
         "by:dralen-dragonfox": [
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-2-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-1-of-2"
+        ],
+        "by:driftwood": [
+            "18-brandy-and-fire-by-driftwood"
         ],
         "by:dukeferret": [
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
@@ -10703,6 +10729,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-brandy-and-fire-by-driftwood",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
             "the-death-of-kellas-by-sky-mckinnon",
@@ -11390,6 +11417,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "drugs/alcohol": [
+            "18-brandy-and-fire-by-driftwood",
             "drunk-spider-ii-by-frances-pauli",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
             "conspiracy-by-darius-davis",
@@ -11447,6 +11475,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "18-brandy-and-fire-by-driftwood",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "18-snaggin-by-gar-sahoni-atkins",
             "savannah-friends-by-darius-davis",
@@ -11697,6 +11726,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "18-brandy-and-fire-by-driftwood",
             "outfoxed-by-hania",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
@@ -11766,6 +11796,7 @@
             "salute-the-flag-by-kandrel"
         ],
         "historical": [
+            "18-brandy-and-fire-by-driftwood",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
@@ -11973,6 +12004,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-brandy-and-fire-by-driftwood",
             "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-snaggin-by-gar-sahoni-atkins",
@@ -12194,6 +12226,7 @@
             "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author"
         ],
         "narrator:dralen": [
+            "18-brandy-and-fire-by-driftwood",
             "the-eavesdropper-by-ritter",
             "whip-lash-by-herr-wozzeck-18",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
@@ -12696,6 +12729,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-brandy-and-fire-by-driftwood",
             "18-the-creation-of-water-by-leuna",
             "18-what-are-the-odds-by-takom-ironhoof",
             "18-snaggin-by-gar-sahoni-atkins",
@@ -12934,6 +12968,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-brandy-and-fire-by-driftwood",
             "your-family-and-mine-by-alex-t-dragonson",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",

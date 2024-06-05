@@ -4,7 +4,6 @@
             "by:aelius",
             "by:akronia",
             "by:al-song",
-            "by:alex-katz",
             "by:alex-t-dragonson",
             "by:alice-clawford",
             "by:alison-cybe",
@@ -1318,7 +1317,7 @@
                 "cozy",
                 "ghost-of-dog",
                 "narrator:solomon-harries",
-                "by:alex-katz"
+                "by:alex-t-dragonson"
             ],
             "title": "\u201cDistant Cousins\u201d by Alex Katz (read by Solomon Harries)"
         },
@@ -2864,7 +2863,7 @@
                 "humor",
                 "western",
                 "narrator:rob-macwolf",
-                "by:alex-katz"
+                "by:alex-t-dragonson"
             ],
             "title": "\u201cChump Change\u201d by Alex Katz"
         },
@@ -9241,7 +9240,6 @@
         "by:aelius": "Author: Aelius",
         "by:akronia": "Author: Akronia",
         "by:al-song": "Author: Al Song",
-        "by:alex-katz": "Author: Alex Katz",
         "by:alex-t-dragonson": "Author: Alex T. Dragonson",
         "by:alice-clawford": "Author: Alice Clawford",
         "by:alison-cybe": "Author: Alison Cybe",
@@ -9795,13 +9793,11 @@
             "tempus-imperfectum-by-al-song-part-2-of-3",
             "tempus-imperfectum-by-al-song-part-1-of-3"
         ],
-        "by:alex-katz": [
-            "distant-cousins-by-alex-katz",
-            "chump-change-by-alex-katz"
-        ],
         "by:alex-t-dragonson": [
             "your-family-and-mine-by-alex-t-dragonson",
-            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson"
+            "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
+            "distant-cousins-by-alex-katz",
+            "chump-change-by-alex-katz"
         ],
         "by:alice-clawford": [
             "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof",

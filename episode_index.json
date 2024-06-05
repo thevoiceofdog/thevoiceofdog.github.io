@@ -1,6 +1,7 @@
 {
     "categories": {
         "by": [
+            "by:ae-et-al",
             "by:aelius",
             "by:akronia",
             "by:al-song",
@@ -170,6 +171,7 @@
             "by:w-r-frixmargen",
             "by:weasel",
             "by:writer",
+            "by:writer_a",
             "by:yuugenshou",
             "by:zack-loup",
             "by:ziegenbock"
@@ -499,11 +501,10 @@
             "slug": "memory-by-et-al-",
             "summary": "",
             "tags": [
-                "check-tags",
-                "poetry-month",
                 "action/adventure",
-                "by:yuugenshou",
-                "narrator:yuugenshou"
+                "poetry-month",
+                "narrator:yuugenshou",
+                "by:yuugenshou"
             ],
             "title": "\u201cMemory\u201d by \u00c6 et al. (read by Yuugenshou)"
         },
@@ -4644,11 +4645,10 @@
             "slug": "a-stranger-in-the-woods-by-writer-a",
             "summary": "",
             "tags": [
-                "check-tags",
-                "gothic",
                 "drama",
-                "by:writer",
-                "narrator:khaki"
+                "spooky",
+                "narrator:khaki",
+                "by:writer"
             ],
             "title": "\u201cA Stranger in the Woods\u201d by Writer_A"
         },
@@ -9234,6 +9234,7 @@
         "autobiography": "Autobiography",
         "bisexual": "Bisexual",
         "blood": "Blood",
+        "by:ae-et-al": "Author: Ae Et Al",
         "by:aelius": "Author: Aelius",
         "by:akronia": "Author: Akronia",
         "by:al-song": "Author: Al Song",
@@ -9403,6 +9404,7 @@
         "by:w-r-frixmargen": "Author: W.R. Frixmargen",
         "by:weasel": "Author: Weasel",
         "by:writer": "Author: Writer",
+        "by:writer_a": "Author: Writer_A",
         "by:yuugenshou": "Author: Yuugenshou",
         "by:zack-loup": "Author: Zack Loup",
         "by:ziegenbock": "Author: Ziegenbock",
@@ -10608,7 +10610,6 @@
             "the-death-of-kellas-by-sky-mckinnon",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
-            "memory-by-et-al-",
             "murky-waters-by-herr-wozzeck",
             "drunk-spider-ii-by-frances-pauli",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
@@ -10758,7 +10759,6 @@
             "the-winter-coat-by-brathor-cyr",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-2-of-2",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-1-of-2",
-            "a-stranger-in-the-woods-by-writer-a",
             "homeworld-by-buddy-goodboy-read-by-killick",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
@@ -11612,7 +11612,6 @@
             "satan-dearie-by-b-p-rugger-18",
             "making-a-delivery-by-thomas-faux-steele-red-by-rob-macwolf",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-2-of-2",
-            "a-stranger-in-the-woods-by-writer-a",
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2",
@@ -13173,6 +13172,7 @@
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "the-winter-coat-by-brathor-cyr",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-1-of-2",
+            "a-stranger-in-the-woods-by-writer-a",
             "tending-to-a-beast-by-piggucaz-18",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-2-of-2-read-by-the-author",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",

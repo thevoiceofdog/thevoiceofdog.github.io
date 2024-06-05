@@ -38,13 +38,15 @@ function gotIndex(response) {
 
     window.onpopstate = runQuery
 
-    runQuery()
-
     let nowplaying = $.cookie("nowplaying")
     if (nowplaying) {
         console.log("Resuming " + nowplaying)
         playEpisode(nowplaying, false, $.cookie("nowplaying_time"))
     }
+
+    runQuery()
+
+
 }
 
 function runQuery() {

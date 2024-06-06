@@ -118,7 +118,8 @@ tagsort = {
 function search() {
     q = $("#searchbox")[0].value
     history.replaceState({},"", "?search=" + escape(q))
-    let words = q.split(" ").map(stemmer)
+    var words = q.split(" ")
+    words = words.concat(words.map(stemmer))
     if (window.searchindex) {
         let scores = {}
         words.forEach((w) => {

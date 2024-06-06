@@ -84,7 +84,7 @@ function runQuery() {
             }
         });
         $("#main").append($(`
-            <center><input type='text' id='searchbox' placeholder='Search' onkeyup='search()'/></center>
+            <center><input type='text' id='searchbox' placeholder='Search' oninput='search()'/></center>
             <div id='searchresults'></div>
         `))
         $("#searchbox")[0].value = query.search
@@ -116,7 +116,7 @@ tagsort = {
 }
 
 function search() {
-    q = $("#searchbox")[0].value
+    q = $("#searchbox")[0].value.toLowerCase()
     history.replaceState({},"", "?search=" + escape(q))
     var words = q.split(" ")
     words = words.concat(words.map(stemmer))

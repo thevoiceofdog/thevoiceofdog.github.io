@@ -45,8 +45,6 @@ function gotIndex(response) {
     }
 
     runQuery()
-
-
 }
 
 function runQuery() {
@@ -76,8 +74,24 @@ function runQuery() {
             $("#main").append("Story not found")
         }
     }
+    else if (query.search != undefined) {
+        $.ajax({
+            type: "get",
+            url: "search_index.json",
+            success: response => {
+                window.searchindex = response
+                search()
+            }
+        });
+        $("#main").append($(`
+            <center><input type='text' id='searchbox' placeholder='Search' onkeyup='search()'/></center>
+            <div id='searchresults'></div>
+        `))
+        $("#searchbox")[0].value = query.search
+        search()
+    }
     else {
-        $("#main").append($("<h1>This week's story</h1>"))
+        $("#main").append($("<h1>Latest story</h1>"))
         $("#main").append(epSummary(index.episodes[0]))
         $("#main").append($("<h1>More recent stories</h1>"))
         index.episodes.slice(1).forEach((ep) => {
@@ -99,6 +113,34 @@ tagsort = {
     "content": 35,
     "by": 40,
     "narrator": 50,
+}
+
+function search() {
+    q = $("#searchbox")[0].value
+    history.replaceState({},"", "?search=" + escape(q))
+    let words = q.split(" ").map(stemmer)
+    if (window.searchindex) {
+        let scores = {}
+        words.forEach((w) => {
+            let res = searchindex.words[w]
+            if (res) {
+                Object.keys(res).forEach((k) => {
+                    scores[k] = (scores[k] ?? 0) + res[k]
+                })
+            }
+        })
+        $("#searchresults").html("")
+        Object.keys(scores).sort((a,b) => {return scores[b] - scores[a]}).forEach((sk) => {
+            let slug = searchindex.slugs[sk]
+            let ep = eps[slug]
+            if (ep) {
+                $("#searchresults").append(epSummary(ep))
+            }
+        })
+    }
+    else {
+        $("#searchresults").text("Loading...")
+    }
 }
 
 dateformatter = Intl.DateTimeFormat(undefined, { "dateStyle": "full" })
@@ -158,6 +200,11 @@ function openEpisode(slug) {
 
 function openHome() {
     history.pushState({},"","?")
+    runQuery()
+}
+
+function openSearch() {
+    history.pushState({},"","?search=")
     runQuery()
 }
 

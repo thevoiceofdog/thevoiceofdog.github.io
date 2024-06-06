@@ -51,6 +51,13 @@ a {
     cursor: pointer;
 }
 
+#searchbox {
+    width: 60%;
+    font-size: 24px;
+    border-radius: 24px;
+    padding-left: 18px;
+}
+
 .epsummary h2 {
     cursor: pointer;
 }

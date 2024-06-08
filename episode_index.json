@@ -301,6 +301,27 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b096a937-5fd3-4bd2-a2db-382b5560d5d6/Neon-Bruises-by-Domus-Vocis-part-2-of-2.mp3",
+            "published_date": "2024-06-07T19:00:00.000Z",
+            "shownotes": "<p><em>On a cyberpunk exoplanet in the far future, a transgender she-wolf joins an illegal fighting tournament to keep her home, but at what cost?</em></p><p>Today\u2019s story is the second and final part of \u201cNeon Bruises\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to vaporwave music &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside his co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories by Domus Vocis on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Rhythm Bastard, Swole Raccoon Punk.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "neon-bruises-by-domus-vocis-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "spooky",
+                "crime",
+                "military",
+                "blood",
+                "nsfw",
+                "by:domus-vocis",
+                "narrator:rhythm-bastard"
+            ],
+            "title": "\u201cNeon Bruises\u201d by Domus Vocis (part 2 of 2, read by Rhythm Bastard)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d69acf13-698b-4f01-aca3-7642825213e1/Neon-Bruises-by-Domus-Vocis-part-1-of-2.mp3",
             "published_date": "2024-06-06T19:00:00.000Z",
             "shownotes": "<p><em>On a cyberpunk exoplanet in the far future, a transgender she-wolf joins an illegal fighting tournament to keep her home, but at what cost?</em></p><p>Today\u2019s story is the first of two parts of \u201cNeon Bruises\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to vaporwave music &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside his co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories by Domus Vocis on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Rhythm Bastard, Swole Raccoon Punk.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -9828,6 +9849,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
@@ -10103,6 +10125,7 @@
             "you-can-watch-me-dance-by-dirt-coyote"
         ],
         "by:domus-vocis": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
@@ -10751,6 +10774,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
@@ -11258,6 +11282,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
@@ -12029,6 +12054,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "your-family-and-mine-by-alex-t-dragonson",
@@ -12138,6 +12164,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "savannah-friends-by-darius-davis",
             "the-reason-why-by-j-s-hawthorne",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
@@ -12590,6 +12617,7 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:rhythm-bastard": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
@@ -12759,6 +12787,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "18-brandy-and-fire-by-driftwood",
             "18-the-creation-of-water-by-leuna",
             "18-what-are-the-odds-by-takom-ironhoof",
@@ -12998,6 +13027,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "your-family-and-mine-by-alex-t-dragonson",
@@ -13323,6 +13353,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "neon-bruises-by-domus-vocis-part-2-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "the-labyrinth-by-sky-mckinnon",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",

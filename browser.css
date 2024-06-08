@@ -51,8 +51,12 @@ a {
 .blurb {
     margin-right: 20px;
 }
+
+p.socials {
+    text-align: center;
+}
 p.socials a {
-    display: block;
+    /* display: block; */
     margin: 0px;
 }
 

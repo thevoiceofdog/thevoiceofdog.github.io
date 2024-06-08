@@ -15,6 +15,12 @@ $(function() {
     $("#minbutton").click(() => {
         $("#player").removeClass("maximized")
     })
+    $("#sidebaropenbutton").click(() => {
+        $("body").addClass("sidebaropen")
+    })
+    $("#sidebarclosebutton").click(() => {
+        $("body").removeClass("sidebaropen")
+    })
 })
 
 function gotIndex(response) {
@@ -99,6 +105,7 @@ function runQuery() {
         })
     }
     $("body").scrollTop(0)
+    $("body").removeClass("sidebaropen")
 }
 
 function tagName(x) {

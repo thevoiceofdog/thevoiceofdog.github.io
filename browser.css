@@ -6,8 +6,8 @@ body {
 }
 
 a {
-    text-decoration: none;
-    color: rgb(50, 50, 107);
+    text-decoration: underline;
+    color: rgb(65, 65, 110);
 }
 
 .playbutton {
@@ -24,6 +24,28 @@ a {
     overflow-y: scroll;
     position: fixed;
     background-color: rgb(197, 197, 184);
+}
+
+#sidebaropenbutton {
+    position: fixed;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 2em;
+    background-color: rgb(255, 249, 232);
+    border: 1px solid rgb(197, 197, 184);
+    display: none;
+}
+
+#sidebarclosebutton {
+    position: fixed;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 2em;
+    background-color: rgb(255, 249, 232);
+    border: 1px solid rgb(197, 197, 184);
+    right: 0px;
+    z-index: 1;
+    display: none;
 }
 
 .blurb {
@@ -53,13 +75,13 @@ a {
 
 #searchbox {
     width: 60%;
-    font-size: 24px;
+    font-size: 1em;
     border-radius: 24px;
     padding-left: 18px;
 }
 
-.epsummary h2 {
-    cursor: pointer;
+.epsummary h2 a {
+    text-decoration: none;
 }
 
 .pubdate {
@@ -74,6 +96,7 @@ a {
 .shownotes {
     margin-left: 30px;
     clear: right;
+    font-size: 1em;
 }
 
 #player {
@@ -87,20 +110,22 @@ a {
 }
 
 #player #maxbutton {
-    float:right;
     padding: 10px;
     cursor: pointer;
     margin: 0px;
+    position: absolute;
+    right: 0px;
 }
 #player.maximized #maxbutton {
     display: none;
 }
 
 #player #minbutton {
-    float: right;
     padding: 10px;
     display: none;
     cursor: pointer;
+    position: absolute;
+    right: 0px;
 }
 #player.maximized #minbutton {
     display: block;
@@ -109,6 +134,11 @@ a {
 #player.maximized {
     left: 0px;
     top: 0px;
+    z-index: 2;
+}
+
+body:has(> #player.maximized) {
+    background-color: black;
 }
 
 #player audio {
@@ -127,7 +157,7 @@ a {
 #transcript {
     color: #444;
     font-family: sans-serif;
-    font-size: 40px;
+    font-size: 2em;
     text-align: center;
     overflow-y: scroll;
     max-height: 200px;
@@ -198,4 +228,50 @@ li.tag_by {
 
 li.tag_narrator {
     background-color:  rgb(245, 224, 254);
+}
+
+
+@media only screen and (max-device-width: 500px) {
+    .sidebar {
+        display: none;
+    }
+    body.sidebaropen .sidebar {
+        display: block;
+        width: 100%;
+    }
+    .shownotes {
+        font-size: 1em;
+    }
+    #main {
+        margin-left: 10px;
+        padding-bottom: 120px;
+    }
+    #player {
+        left: 0px;
+        padding: 3px;
+    }
+    #transcript {
+        max-height: 50px;
+        font-size: 1.5em;
+    }
+    #maxbutton {
+        font-size: 2em;
+        padding: 0px;
+    }
+    #minbutton {
+        font-size: 2em;
+    }
+    #sidebaropenbutton {
+        display: inherit;
+    }
+    body.sidebaropen #sidebarclosebutton {
+        display: inherit;
+    }
+    #logo {
+        width: 80px;
+        float: left;
+        margin: 10px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
 }

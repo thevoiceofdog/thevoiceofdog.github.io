@@ -302,6 +302,27 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a544624f-31c9-4977-9d68-83e3d49ba8e0/Fight-or-Flight-A-Tail-of-Two-Mares-by-Ta-kom-Ironhoof.mp3",
+            "published_date": "2024-06-08T19:00:00.000Z",
+            "shownotes": "<p><em>A bay walking horse feels conflicted after injuring a fling and herself. Her friend convinces her to get out of the dorms to help clear her mind.</em></p><p>Today\u2019s story is \u201cFight or Flight: A Tail of Two Mares\u201d by Ta\u2019kom Ironhoof, the equine charmer. He\u2019s the host of the \u2018<a href=\"https://www.dinneratyiffanys.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Dinner At Yiffany\u2019s\u2019 podcast</a>, and his book, \u201cGoing the Distance\u201d will be published in the near future, hopefully sometime in 2025.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
+            "summary": "",
+            "tags": [
+                "drama",
+                "contemporary",
+                "romance",
+                "lgbtq+",
+                "queer",
+                "lesbian",
+                "drugs/alcohol",
+                "pride-month",
+                "narrator:solomon-harries",
+                "by:ta-kom-ironhoof"
+            ],
+            "title": "\u201cFight or Flight: A Tail of Two Mares\u201d by Ta\u2019kom Ironhoof (read by Solomon)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b096a937-5fd3-4bd2-a2db-382b5560d5d6/Neon-Bruises-by-Domus-Vocis-part-2-of-2.mp3",
             "published_date": "2024-06-07T19:00:00.000Z",
             "shownotes": "<p><em>On a cyberpunk exoplanet in the far future, a transgender she-wolf joins an illegal fighting tournament to keep her home, but at what cost?</em></p><p>Today\u2019s story is the second and final part of \u201cNeon Bruises\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to vaporwave music &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside his co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories by Domus Vocis on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Rhythm Bastard, Swole Raccoon Punk.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10680,6 +10701,7 @@
             "a-minotaurs-tribute-by-stinkdog-part-1-of-2"
         ],
         "by:ta-kom-ironhoof": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-what-are-the-odds-by-takom-ironhoof"
         ],
         "by:tanner-silverpaw": [
@@ -11183,6 +11205,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "18-front-roe-by-b-p-rugger",
             "eat-your-heart-your-feelings-or-both-by-leuna",
@@ -11327,6 +11350,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-what-are-the-odds-by-takom-ironhoof",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
@@ -11468,6 +11492,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "drugs/alcohol": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-brandy-and-fire-by-driftwood",
             "drunk-spider-ii-by-frances-pauli",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
@@ -12051,11 +12076,13 @@
             "the-fastest-blade-by-bill-ricardi"
         ],
         "lesbian": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
@@ -12733,6 +12760,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:solomon-harries": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-what-are-the-odds-by-takom-ironhoof",
             "agricola-avarice-by-michel-vincent-corbeaux",
             "winterfall-beyond-the-white-by-lauren-rivers",
@@ -13029,6 +13057,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
@@ -13071,6 +13100,7 @@
             "missives-by-madison-scott-clary"
         ],
         "queer": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
@@ -13152,6 +13182,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
             "the-death-of-kellas-by-sky-mckinnon",

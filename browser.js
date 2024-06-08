@@ -37,7 +37,7 @@ function gotIndex(response) {
         index.categories[tagcat].forEach(tag => {
             window.tagcats[tag] = tagcat
             if (index.tags[tag]) {
-                $("#tags_" + tagcat.replace(/[^a-z0-9]/g, "")).append($(`<li><a onclick='openTag("${tag}")'>${index.tagnames[tag]}</a></li> `))
+                $("#tags_" + tagcat.replace(/[^a-z0-9]/g, "")).append($(`<li><a href='?tag=${tag}' onclick='openTag("${tag}"); return false'>${index.tagnames[tag]}</a></li> `))
             }
         })
     })

@@ -36,7 +36,6 @@
             "by:coda",
             "by:crimson-ruari",
             "by:dan-elan",
-            "by:dan-lan",
             "by:dan-leinir-turthra-jensen",
             "by:daniel",
             "by:danny-wolf",
@@ -51,7 +50,6 @@
             "by:dukeferret",
             "by:dwale",
             "by:earbender",
-            "by:et-al",
             "by:evan-drake",
             "by:ezen-baklattan",
             "by:faolan",
@@ -337,8 +335,8 @@
                 "military",
                 "blood",
                 "nsfw",
-                "by:domus-vocis",
-                "narrator:rhythm-bastard"
+                "narrator:rhythm-bastard",
+                "by:domus-vocis"
             ],
             "title": "\u201cNeon Bruises\u201d by Domus Vocis (part 2 of 2, read by Rhythm Bastard)"
         },
@@ -357,8 +355,8 @@
                 "drama",
                 "medieval",
                 "blood",
-                "by:domus-vocis",
-                "narrator:rhythm-bastard"
+                "narrator:rhythm-bastard",
+                "by:domus-vocis"
             ],
             "title": "\u201cNeon Bruises\u201d by Domus Vocis (part 1 of 2, read by Rhythm Bastard)"
         },
@@ -379,8 +377,8 @@
                 "historical",
                 "drugs/alcohol",
                 "nsfw",
-                "by:driftwood",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:driftwood"
             ],
             "title": "[18+] \u201cBrandy and Fire\u201d by Driftwood (read by Dralen)"
         },
@@ -422,8 +420,8 @@
                 "romance",
                 "historical",
                 "police-violence",
-                "by:beachfox",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:beachfox"
             ],
             "title": "\u201cMy Super Illegal San Francisco Marriage, Twenty Years Later\u201d by Beachfox"
         },
@@ -462,8 +460,8 @@
                 "historical",
                 "nsfw",
                 "police-violence",
-                "by:leuna",
-                "narrator:icefang"
+                "narrator:icefang",
+                "by:leuna"
             ],
             "title": "[18+] \u201cThe Creation of Water\u201d by Leuna (read by Icefang)"
         },
@@ -479,8 +477,8 @@
                 "romance",
                 "poem",
                 "medieval",
-                "by:sky-mckinnon",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:sky-mckinnon"
             ],
             "title": "\u201cThe Death of Kellas\u201d by Sky McKinnon"
         },
@@ -562,8 +560,8 @@
                 "check-tags",
                 "poetry-month",
                 "poem",
-                "by:yuugenshou",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:yuugenshou"
             ],
             "title": "\u201cNocturne\u201d by Yuugenshou"
         },
@@ -578,8 +576,8 @@
                 "check-tags",
                 "poetry-month",
                 "poem",
-                "by:leuna",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:leuna"
             ],
             "title": "\u201cRain\u201d by Leuna"
         },
@@ -594,8 +592,8 @@
                 "check-tags",
                 "poetry-month",
                 "action/adventure",
-                "by:et-al",
-                "narrator:yuugenshou"
+                "narrator:yuugenshou",
+                "by:ae-et-al"
             ],
             "title": "\u201cMemory\u201d by \u00c6 et al. (read by Yuugenshou)"
         },
@@ -609,8 +607,8 @@
             "tags": [
                 "check-tags",
                 "poem",
-                "by:herr-wozzeck",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:herr-wozzeck"
             ],
             "title": "\u201cMurky Waters\u201d by Herr Wozzeck (read by Ta'kom Ironhoof)"
         },
@@ -626,8 +624,8 @@
                 "poetry-month",
                 "poem",
                 "drugs/alcohol",
-                "by:frances-pauli",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:frances-pauli"
             ],
             "title": "\u201cDrunk Spider II\u201d by Frances Pauli"
         },
@@ -690,8 +688,8 @@
                 "spooky",
                 "poem",
                 "western",
-                "by:iggy-q-roquefort",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:iggy-q-roquefort"
             ],
             "title": "\u201cHanged Man, Strength, The Moon\u201d by Iggy Q. Roquefort"
         },
@@ -705,8 +703,8 @@
             "tags": [
                 "check-tags",
                 "poetry-month",
-                "by:taylor-fox",
-                "narrator:yuugenshou"
+                "narrator:yuugenshou",
+                "by:taylor-fox"
             ],
             "title": "\"And Then, There Is Destruction\u201d, by Taylor Fox (read by Yuugenshou)"
         },
@@ -721,8 +719,8 @@
                 "check-tags",
                 "poetry-month",
                 "poem",
-                "by:nenekiri-bookwyrm",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cBetter Things Are Possible\u201d by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -738,8 +736,8 @@
                 "poetry-month",
                 "spooky",
                 "poem",
-                "by:sky-mckinnon",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:sky-mckinnon"
             ],
             "title": "\u201cThe Labyrinth\u201d by Sky McKinnon"
         },
@@ -770,8 +768,8 @@
                 "gothic",
                 "action/adventure",
                 "medieval",
-                "by:hania",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:hania"
             ],
             "title": "\u201cOutfoxed\u201d by Hania"
         },
@@ -806,8 +804,8 @@
                 "action/adventure",
                 "medieval",
                 "blood",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "\u201c...and the Sands of the Desert Wash Over the Words\u201d by Pascal Farful (part 2 of 2)"
         },
@@ -823,8 +821,8 @@
                 "gothic",
                 "action/adventure",
                 "medieval",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "\u201c...and the Sands of the Desert Wash Over the Words\u201d by Pascal Farful (part 1 of 2)"
         },
@@ -837,8 +835,8 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "by:nenekiri-bookwyrm",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cHow Often Do You Ask?\u201d a poem by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -854,8 +852,8 @@
                 "family-saga",
                 "drama",
                 "medieval",
-                "by:ritter",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:ritter"
             ],
             "title": "\u201cThe Eavesdropper\u201d by Ritter (read by Dralen)"
         },
@@ -905,8 +903,8 @@
                 "thriller/suspense",
                 "crime",
                 "fantasy",
-                "by:chase-anderson",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:chase-anderson"
             ],
             "title": "\u201cThe Fox and the Unicorns\u201d by Chase Anderson (read by Dralen)"
         },
@@ -925,8 +923,8 @@
                 "epic",
                 "historical",
                 "nsfw",
-                "by:gar-sahoni-atkins",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:gar-sahoni-atkins"
             ],
             "title": "[18+] \u201cSnaggin\u201d by Gar \u201cSahoni\u201d Atkins"
         },
@@ -940,8 +938,8 @@
             "tags": [
                 "check-tags",
                 "legend",
-                "by:ritter",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:ritter"
             ],
             "title": "\"Three Tales of Ukkabal\" by Ritter"
         },
@@ -973,8 +971,8 @@
             "tags": [
                 "check-tags",
                 "holiday",
-                "by:buddy-goodboy",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:buddy-goodboy"
             ],
             "title": "\u201cMerry Christmas, Professor Nemesis\u201d by Buddy Goodboy (read by Solomon Harries)"
         },
@@ -989,8 +987,8 @@
                 "check-tags",
                 "holiday",
                 "drama",
-                "by:field-t-mouse",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:field-t-mouse"
             ],
             "title": "\u201cTailsock Tier\u201d by Field T. Mouse"
         },
@@ -1043,8 +1041,8 @@
                 "holiday",
                 "romance",
                 "nsfw",
-                "by:packwolf-lupestripe",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:packwolf-lupestripe"
             ],
             "title": "[18+] \u201c1725\u201d by Packwolf Lupestripe"
         },
@@ -1060,8 +1058,8 @@
                 "holiday",
                 "speculative",
                 "drama",
-                "by:sofox",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:sofox"
             ],
             "title": "\u201cThe Toy Aisle\u201d by SoFox"
         },
@@ -1094,8 +1092,8 @@
                 "romance",
                 "epic",
                 "military",
-                "by:darius-davis",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:darius-davis"
             ],
             "title": "\u201cSavannah Friends\u201d by Darius Davis (read by Ta'kom Ironhoof)"
         },
@@ -1111,8 +1109,8 @@
                 "adult",
                 "poem",
                 "nsfw",
-                "by:rob-macwolf",
-                "narrator:cross"
+                "narrator:cross",
+                "by:rob-macwolf"
             ],
             "title": "[18+] \u201cSolar Eclipse, Saturday October Tenth\u201d a poem by Rob MacWolf (read by Cross)"
         },
@@ -1181,8 +1179,8 @@
                 "historical",
                 "nsfw",
                 "blood",
-                "by:kohitsuji",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:kohitsuji"
             ],
             "title": "[18+] \u201cThe Darkest Place\u201d by Kohitsuji (read by Ta'kom Ironhoof)"
         },
@@ -1201,8 +1199,8 @@
                 "drama",
                 "contemporary",
                 "blood",
-                "by:leuna",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:leuna"
             ],
             "title": "\u201cEat Your Heart, Your Feelings, or Both\u201d by Leuna (read by B.P. Rugger and Yuugen)"
         },
@@ -1256,8 +1254,8 @@
                 "ghost-of-dog",
                 "spooky",
                 "nsfw",
-                "by:scribbles-monhagen",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:scribbles-monhagen"
             ],
             "title": "[18+] \u201cDownward Dog\u201d by Scribbles Monhagen"
         },
@@ -1312,8 +1310,8 @@
                 "action/adventure",
                 "fantasy",
                 "nsfw",
-                "by:pascal-farful",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:pascal-farful"
             ],
             "title": "[18+] \u201cThe Ringmaster's Welcome\u201d by Pascal Farful (read by Dirt Coyote)"
         },
@@ -1350,8 +1348,8 @@
                 "historical",
                 "blood",
                 "drugs/alcohol",
-                "by:darius-davis",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:darius-davis"
             ],
             "title": "\u201cConspiracy\u201d by Darius Davis (read by Dirt Coyote)"
         },
@@ -1473,8 +1471,8 @@
                 "ghost-of-dog",
                 "thriller/suspense",
                 "drama",
-                "by:chase-anderson",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:chase-anderson"
             ],
             "title": "\u201cMOVE X TO Y2K\u201d by Chase Anderson"
         },
@@ -1491,8 +1489,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:ziegenbock",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:ziegenbock"
             ],
             "title": "[18+] \u201cWhen in Rome\u2026\u201d by Ziegenbock"
         },
@@ -1540,8 +1538,8 @@
                 "drama",
                 "contemporary",
                 "drugs/alcohol",
-                "by:brathor-cyr",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:brathor-cyr"
             ],
             "title": "\u201cWhile the Lights Were Out\u201d by Brathor Cyr (read by Dirt, part 2 of 2)"
         },
@@ -1557,8 +1555,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:brathor-cyr",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:brathor-cyr"
             ],
             "title": "\u201cWhile the Lights Were Out\u201d by Brathor Cyr (read by Dirt, part 1 of 2)"
         },
@@ -1578,8 +1576,8 @@
                 "nsfw",
                 "self-harm",
                 "trauma",
-                "by:kohitsuji",
-                "narrator:leuna"
+                "narrator:leuna",
+                "by:kohitsuji"
             ],
             "title": "[18+] \u201cThe Vixen and the Vampire\u201d by Kohitsuji (read by Leuna, part 2 of 2)"
         },
@@ -1596,8 +1594,8 @@
                 "spooky",
                 "historical",
                 "nsfw",
-                "by:kohitsuji",
-                "narrator:leuna"
+                "narrator:leuna",
+                "by:kohitsuji"
             ],
             "title": "[18+] \u201cThe Vixen and the Vampire\u201d by Kohitsuji (read by Leuna, part 1 of 2)"
         },
@@ -1628,8 +1626,8 @@
                 "spooky",
                 "contemporary",
                 "blood",
-                "by:leuna",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:leuna"
             ],
             "title": "\u201cHunter on the Shelves\u201d by Leuna"
         },
@@ -1764,8 +1762,8 @@
                 "action/adventure",
                 "historical",
                 "blood",
-                "by:kohitsuji",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:kohitsuji"
             ],
             "title": "\u201cTraveler in the Last Wood\u201d by Kohitsuji"
         },
@@ -1816,8 +1814,8 @@
                 "action/adventure",
                 "medieval",
                 "blood",
-                "by:thomas-faux-steele",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:thomas-faux-steele"
             ],
             "title": "\u201cThe Satrap\u2019s Mark\u201d by Thomas \u201cFaux\u201d Steele (Part 2 of 2)"
         },
@@ -1834,8 +1832,8 @@
                 "drama",
                 "historical",
                 "blood",
-                "by:thomas-faux-steele",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:thomas-faux-steele"
             ],
             "title": "\u201cThe Satrap\u2019s Mark\u201d by Thomas \u201cFaux\u201d Steele (Part 1 of 2)"
         },
@@ -1867,8 +1865,8 @@
                 "spooky",
                 "contemporary",
                 "blood",
-                "by:splicerwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:splicerwolf"
             ],
             "title": "\u201cToo Important to be Forgotten\u201d by SplicerWolf (read by Dralen)"
         },
@@ -1900,8 +1898,8 @@
                 "romance",
                 "drama",
                 "political/espionage",
-                "by:huskyteer",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:huskyteer"
             ],
             "title": "\u201cThe Mouse from Mykonos\u201d by Huskyteer (read by Khaki and friends)"
         },
@@ -1916,8 +1914,8 @@
                 "check-tags",
                 "lgbtq+",
                 "pride-month",
-                "by:madison-scott-clary",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cMorning Of\u201d by Madison Scott-Clary"
         },
@@ -2015,8 +2013,8 @@
                 "queer",
                 "pride-month",
                 "poem",
-                "by:madison-scott-clary",
-                "narrator:b-p-rugger"
+                "narrator:b-p-rugger",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cFair and square\u201d by Madison Scott-Clary (read by B.P. Rugger)"
         },
@@ -2057,8 +2055,8 @@
                 "crime",
                 "historical",
                 "trauma",
-                "by:spottystuff",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:spottystuff"
             ],
             "title": "\u201cAnniversary\u201d by Spottystuff (read by Dralen)"
         },
@@ -2184,8 +2182,8 @@
                 "pride-month",
                 "family-saga",
                 "drama",
-                "by:lauren-rivers",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:lauren-rivers"
             ],
             "title": "\u201cHerd and Understood\u201d by Lauren Rivers (read by Ta'kom Ironhoof)"
         },
@@ -2268,8 +2266,8 @@
                 "stone-age",
                 "drugs/alcohol",
                 "blood",
-                "by:sakarafox",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:sakarafox"
             ],
             "title": "\u201cReflections\u201d by SakaraFox & Rob MacWolf (read by Dirt Coyote)"
         },
@@ -2289,8 +2287,8 @@
                 "spooky",
                 "nsfw",
                 "blood",
-                "by:mikasiwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:mikasiwolf"
             ],
             "title": "[18+] \u201cPack\u201d by MikasiWolf"
         },
@@ -2309,8 +2307,8 @@
                 "pride-month",
                 "romance",
                 "drama",
-                "by:herr-wozzeck",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:herr-wozzeck"
             ],
             "title": "\u201cLe Premiere Jour D\u2019Amour\u201d by Herr Wozzeck (part 2 of 2)"
         },
@@ -2330,8 +2328,8 @@
                 "romance",
                 "action/adventure",
                 "historical",
-                "by:herr-wozzeck",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:herr-wozzeck"
             ],
             "title": "\u201cLe Premier Jour D\u2019Amour\u201d by Herr Wozzeck (part 1 of 2)"
         },
@@ -2370,8 +2368,8 @@
                 "stone-age",
                 "nsfw",
                 "blood",
-                "by:tannihn",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tannihn"
             ],
             "title": "[18+] \u201cMy Initiation to the Wolf Way\u201d by Tannihn"
         },
@@ -2388,8 +2386,8 @@
                 "action/adventure",
                 "historical",
                 "blood",
-                "by:slip-wolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:slip-wolf"
             ],
             "title": "\u201cRelics, Rabbits and Tuscan Reds\u201d by Slip Wolf (read by Dirt Coyote, part 2 of 2)"
         },
@@ -2406,8 +2404,8 @@
                 "crime",
                 "historical",
                 "police-violence",
-                "by:slip-wolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:slip-wolf"
             ],
             "title": "\"Relics Rabbits and Tuscan Reds\" by Slip Wolf (read by Dirt Coyote, part 1 of 2)"
         },
@@ -2426,8 +2424,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:field-t-mouse",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:field-t-mouse"
             ],
             "title": "[18+] \u201cLove Before Breakfast\u201d by Field T. Mouse (read by Takom Ironhoof)"
         },
@@ -2443,8 +2441,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:coda",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:coda"
             ],
             "title": "\u201cHerman\u201d by Coda"
         },
@@ -2460,8 +2458,8 @@
                 "poetry-month",
                 "thriller/suspense",
                 "poem",
-                "by:michel-vincent-corbeaux",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:michel-vincent-corbeaux"
             ],
             "title": "\u201cLoup-Garou & The Moon\u201d by Michel-Vincent Corbeaux (Read by Khaki)"
         },
@@ -2476,8 +2474,8 @@
                 "check-tags",
                 "poetry-month",
                 "poem",
-                "by:amethyst-mare",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:amethyst-mare"
             ],
             "title": "\u201cThe Red Mare\u201d by Amethyst Mare"
         },
@@ -2495,9 +2493,9 @@
                 "epic",
                 "stone-age",
                 "nsfw",
+                "narrator:dirt-coyote",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:dirt-coyote"
+                "by:rob-macwolf"
             ],
             "title": "[18+] \u201cBragging Rights\u201d by SakaraFox and Rob MacWolf (read by Dirt Coyote, part 2 of 2)"
         },
@@ -2512,8 +2510,8 @@
                 "check-tags",
                 "poetry-month",
                 "poem",
-                "by:madison-scott-clary",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cThe dogs assure me\u201d by Madison Scott-Clary (read by the poet)"
         },
@@ -2529,8 +2527,8 @@
                 "poetry-month",
                 "speculative",
                 "poem",
-                "by:akronia",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:akronia"
             ],
             "title": "\u201cA Failed Reality\u201d by Akronia"
         },
@@ -2549,9 +2547,9 @@
                 "stone-age",
                 "nsfw",
                 "drugs/alcohol",
+                "narrator:dirt-coyote",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:dirt-coyote"
+                "by:rob-macwolf"
             ],
             "title": "[18+] \u201cBragging Rights\u201d by SakaraFox and Rob MacWolf (read by Dirt Coyote, part 1 of 2)"
         },
@@ -2583,8 +2581,8 @@
                 "poetry-month",
                 "spooky",
                 "poem",
-                "by:partvoid",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:partvoid"
             ],
             "title": "\u201cGrenadine\u201d by Partvoid"
         },
@@ -2601,8 +2599,8 @@
                 "epic",
                 "fantasy",
                 "blood",
-                "by:packwolf-lupestripe",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:packwolf-lupestripe"
             ],
             "title": "\u201cThe Year of the Dragon\u201d by Packwolf Lupestripe"
         },
@@ -2618,8 +2616,8 @@
                 "poetry-month",
                 "romance",
                 "poem",
-                "by:nenekiri-bookwyrm",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cForest\u201d by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -2701,9 +2699,9 @@
                 "eating-disorders",
                 "self-harm",
                 "trauma",
+                "narrator:khaki",
                 "by:michel-vincent-corbeaux",
-                "by:rob-macwolf",
-                "narrator:khaki"
+                "by:rob-macwolf"
             ],
             "title": "\u201cIt is a Great Comfort to Know One's Work is Appreciated\u201d by Michel-Vincent Corbeaux and Rob MacWolf"
         },
@@ -2756,8 +2754,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:dirt-coyote"
             ],
             "title": "[18+] \u201cFree Samples\u201d by Dirt Coyote"
         },
@@ -2787,8 +2785,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cRequiem\u201d by Pascal Farful"
         },
@@ -2844,8 +2842,8 @@
                 "crime",
                 "western",
                 "blood",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cVictor Tremblay in: Snowed Inn\u201d by Pascal Farful (part 2 of 2)"
         },
@@ -2863,8 +2861,8 @@
                 "crime",
                 "historical",
                 "blood",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cVictor Tremblay in: Snowed Inn\u201d by Pascal Farful (part 1 of 2)"
         },
@@ -2897,8 +2895,8 @@
                 "medieval",
                 "nsfw",
                 "queerphobia",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "[18+] \u201cVictor Tremblay in - Because the Night\u201d by Pascal Farful"
         },
@@ -2918,8 +2916,8 @@
                 "fantasy",
                 "nsfw",
                 "queerphobia",
-                "by:todd-aldrington",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:todd-aldrington"
             ],
             "title": "[18+] \u201cUnder the Bed\u201d by Todd Aldrington, read by Dirt Coyote"
         },
@@ -2934,8 +2932,8 @@
                 "check-tags",
                 "holiday",
                 "spooky",
-                "by:nighteyes-dayspring",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cEmotional Support Wolf\u201d by Nighteyes Dayspring"
         },
@@ -2971,8 +2969,8 @@
                 "sci-fi",
                 "blood",
                 "drugs/alcohol",
-                "by:friends-of-the-fireplace",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:friends-of-the-fireplace"
             ],
             "title": "\u201cFireside Meeting at the Abandoned Tavern\u201d by Friends of the Fireplace, with contributions from Nighteyes Dayspring, Ursus Arctos, and Rob MacWolf."
         },
@@ -2986,8 +2984,8 @@
             "tags": [
                 "check-tags",
                 "gothic",
-                "by:madison-scott-clary",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cUnseeing\u201d by Madison Scott-Clary (part 2 of 2, read by the author herself)"
         },
@@ -3002,8 +3000,8 @@
                 "check-tags",
                 "spooky",
                 "historical",
-                "by:madison-scott-clary",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cUnseeing\u201d by Madison Scott-Clary (part 1 of 2, read by the author herself)"
         },
@@ -3018,8 +3016,8 @@
                 "check-tags",
                 "eldritch",
                 "sci-fi",
-                "by:royce-day",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:royce-day"
             ],
             "title": "\u201cSilence and Sword\u201d by Royce Day (part 2 of 2)"
         },
@@ -3035,8 +3033,8 @@
                 "family-saga",
                 "drama",
                 "medieval",
-                "by:royce-day",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:royce-day"
             ],
             "title": "\u201cSilence and Sword\u201d by Royce Day (part 1 of 2)"
         },
@@ -3068,8 +3066,8 @@
                 "ghost-of-dog",
                 "spooky",
                 "blood",
-                "by:james-stone",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:james-stone"
             ],
             "title": "\u201cCat Problems\u201d by James Stone"
         },
@@ -3086,8 +3084,8 @@
                 "spooky",
                 "historical",
                 "blood",
-                "by:casimir-laski",
-                "narrator:ianus-j-wolf"
+                "narrator:ianus-j-wolf",
+                "by:casimir-laski"
             ],
             "title": "\u201cDarker Things Than Man\u201d by Casimir Laski (read by Ianus J. Wolf)"
         },
@@ -3107,8 +3105,8 @@
                 "action/adventure",
                 "western",
                 "blood",
-                "by:darius-davis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:darius-davis"
             ],
             "title": "\u201cThe Gift\u201d by Darius Davis (read by Ta'kom Ironhoof)"
         },
@@ -3142,8 +3140,8 @@
                 "spooky",
                 "crime",
                 "police-violence",
-                "by:pascal-farful",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:pascal-farful"
             ],
             "title": "\u201cThe Shadows Seize Vengeance\u201d by Pascal Farful (read by Dirt Coyote)"
         },
@@ -3223,8 +3221,8 @@
                 "spooky",
                 "crime",
                 "political/espionage",
-                "by:tiberiusrings",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tiberiusrings"
             ],
             "title": "\u201cGhost Unlaid Forbear Thee\u201d by Tiberius Rings & Fruitz (part 2 of 2)"
         },
@@ -3240,8 +3238,8 @@
                 "ghost-of-dog",
                 "spooky",
                 "crime",
-                "by:tiberiusrings",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tiberiusrings"
             ],
             "title": "\u201cGhost Unlaid Forbear Thee\u201d by Tiberius Rings & Fruitz (part 1 of 2)"
         },
@@ -3257,8 +3255,8 @@
                 "ghost-of-dog",
                 "spooky",
                 "drama",
-                "by:madison-scott-clary",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cPlease Look Up\u201d by Madison Scott-Clary"
         },
@@ -3273,8 +3271,8 @@
                 "check-tags",
                 "ghost-of-dog",
                 "gothic",
-                "by:dirt-coyote",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:dirt-coyote"
             ],
             "title": "\u201cKeep to the Path\u201d by Dirt Coyote (Part 2 of 2, read by Ta'kom Ironhoof)"
         },
@@ -3290,8 +3288,8 @@
                 "lgbtq+",
                 "ghost-of-dog",
                 "gothic",
-                "by:dirt-coyote",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:dirt-coyote"
             ],
             "title": "\u201cKeep to the Path\u201d by Dirt Coyote (Part 1 of 2, read by Ta'kom Ironhoof)"
         },
@@ -3306,8 +3304,8 @@
                 "check-tags",
                 "romance",
                 "drama",
-                "by:ursus-arctos",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ursus-arctos"
             ],
             "title": "\u201cPinky\u201d by Ursus Arctos"
         },
@@ -3321,8 +3319,8 @@
             "tags": [
                 "check-tags",
                 "fantasy",
-                "by:evan-drake",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:evan-drake"
             ],
             "title": "\u201cAn Act of Kindness\u201d by Evan Drake"
         },
@@ -3340,8 +3338,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:significantotter",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:significantotter"
             ],
             "title": "\u201cOvernight Flight Bui-Lay\u201d by SignificantOtter (part 2 of 2) [18+]"
         },
@@ -3359,8 +3357,8 @@
                 "contemporary",
                 "nsfw",
                 "queerphobia",
-                "by:significantotter",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:significantotter"
             ],
             "title": "\u201cOvernight Flight Bui-Lay\u201d by SignificantOtter (part 1 of 2) [18+]"
         },
@@ -3376,8 +3374,8 @@
                 "legend",
                 "epic",
                 "fantasy",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cWhat Was Your First Spell\u201d by Dirt Coyote (part 2 of 2)"
         },
@@ -3394,8 +3392,8 @@
                 "drama",
                 "fantasy",
                 "police-violence",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cWhat Was Your First Spell\u201d by Dirt Coyote (part 1 of 2)"
         },
@@ -3412,8 +3410,8 @@
                 "crime",
                 "drugs/alcohol",
                 "blood",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "\u201cVictor Tremblay in: Paper Blood\" by Pascal Farful (part 2 of 2)"
         },
@@ -3432,8 +3430,8 @@
                 "blood",
                 "drugs/alcohol",
                 "self-harm",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "\u201cVictor Tremblay in: Paper Blood\u201d by Pascal Farful (part 1 of 2)"
         },
@@ -3452,8 +3450,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:darius-davis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:darius-davis"
             ],
             "title": "\u201cFantastic Feast\u201d by Darius Davis"
         },
@@ -3469,8 +3467,8 @@
                 "adult",
                 "historical",
                 "nsfw",
-                "by:ziegenbock",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ziegenbock"
             ],
             "title": "\u201cConfluence \u201d by Ziegenbock [18+]"
         },
@@ -3486,8 +3484,8 @@
                 "gothic",
                 "crime",
                 "contemporary",
-                "by:roan-rosser",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:roan-rosser"
             ],
             "title": "\u201cDiamond in the Rat\u201d by Roan Rosser (part 2 of 2)"
         },
@@ -3503,8 +3501,8 @@
                 "humor",
                 "drama",
                 "fantasy",
-                "by:roan-rosser",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:roan-rosser"
             ],
             "title": "\u201cDiamond in the Rat\u201d by Roan Rosser (part 1 of 2)"
         },
@@ -3519,8 +3517,8 @@
                 "check-tags",
                 "romance",
                 "contemporary",
-                "by:dralen-dragonfox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dralen-dragonfox"
             ],
             "title": "\u201cStepping Out for a Breath of Fresh Air\u201d by Dralen Dragonfox (part 2 of 2)"
         },
@@ -3534,8 +3532,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:dralen-dragonfox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dralen-dragonfox"
             ],
             "title": "\u201cStepping Out for a Breath of Fresh Air\u201d by Dralen Dragonfox (part 1 of 2)"
         },
@@ -3551,8 +3549,8 @@
                 "humor",
                 "action/adventure",
                 "blood",
-                "by:casimir-laski",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:casimir-laski"
             ],
             "title": "\u201cRiddles With a Raven\u201d by Casimir Laski"
         },
@@ -3568,8 +3566,8 @@
                 "gothic",
                 "medieval",
                 "blood",
-                "by:danny-wolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:danny-wolf"
             ],
             "title": "\u201cThe Tower\u201d by Danny Wolf"
         },
@@ -3585,9 +3583,9 @@
                 "romance",
                 "action/adventure",
                 "western",
+                "narrator:nenekiri-bookwyrm",
                 "by:pascal-farful",
-                "by:rob-macwolf",
-                "narrator:nenekiri-bookwyrm"
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Lone and Level Sands Stretch Far Away\u201d by Pascal Farful and Rob MacWolf (part 2 of 2)"
         },
@@ -3603,9 +3601,9 @@
                 "legend",
                 "action/adventure",
                 "historical",
+                "narrator:nenekiri-bookwyrm",
                 "by:pascal-farful",
-                "by:rob-macwolf",
-                "narrator:nenekiri-bookwyrm"
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Lone and Level Sands Stretch Far Away\u201d by Pascal Farful and Rob MacWolf (part 1 of 2)"
         },
@@ -3623,8 +3621,8 @@
                 "lgbtq+",
                 "romance",
                 "mystery",
-                "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:dirt-coyote"
             ],
             "title": "\u201cA Simple Guide to Sugar-Free Lemonade by Arthur Felice\u201d by Dirt Coyote"
         },
@@ -3640,8 +3638,8 @@
                 "holiday",
                 "eldritch",
                 "sci-fi",
-                "by:katlina-sommerberg",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:katlina-sommerberg"
             ],
             "title": "\u201cFinding a Lost Inventor\u201d by Katlina Sommerberg"
         },
@@ -3658,8 +3656,8 @@
                 "gothic",
                 "drama",
                 "medieval",
-                "by:tempe-o-kun",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cMarian: A Rescue from Latin\u201d by Tempe O'Kun (part 2 of 2, read by Crimson Ruari)"
         },
@@ -3675,8 +3673,8 @@
                 "gothic",
                 "excerpt",
                 "medieval",
-                "by:tempe-o-kun",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cMarian: A Rescue from Latin\u201d by Tempe O'Kun (part 1 of 2, read by Crimson Ruari)"
         },
@@ -3691,8 +3689,8 @@
                 "check-tags",
                 "humor",
                 "political/espionage",
-                "by:madison-scott-clary",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cSecession\u201d by Madison Scott-Clary (read by the author)"
         },
@@ -3713,8 +3711,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:domus-vocis",
-                "narrator:ardy-hart"
+                "narrator:ardy-hart",
+                "by:domus-vocis"
             ],
             "title": "\u201cOur Last Valentine\u201d by Domus Vocis [18+] (read by Ardy Hart)"
         },
@@ -3732,8 +3730,8 @@
                 "fantasy",
                 "blood",
                 "queerphobia",
-                "by:evan-drake",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:evan-drake"
             ],
             "title": "\u201cA Dragon\u2019s Dilemma\u201d by Evan Drake"
         },
@@ -3751,8 +3749,8 @@
                 "drama",
                 "contemporary",
                 "blood",
-                "by:zack-loup",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:zack-loup"
             ],
             "title": "\u201cScrew the Looking Glass\u201d by Zack Loup"
         },
@@ -3771,8 +3769,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:patrigue",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:patrigue"
             ],
             "title": "\u201cSnow Puppy\u201d by Patrigue  [18+] (read by Crimson Ruari)"
         },
@@ -3790,8 +3788,8 @@
                 "romance",
                 "mystery",
                 "historical",
-                "by:dirt-coyote",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:dirt-coyote"
             ],
             "title": "\u201cLast Day\u201d by Dirt Coyote (read by Kergiby)"
         },
@@ -3856,8 +3854,8 @@
                 "romance",
                 "drama",
                 "queerphobia",
-                "by:kergiby",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:kergiby"
             ],
             "title": "\u201cHow it Pans Out\u201d by Kergiby (read by Dirt Coyote)"
         },
@@ -3877,8 +3875,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:al-song",
-                "narrator:zilch-woofs"
+                "narrator:zilch-woofs",
+                "by:al-song"
             ],
             "title": "\u201cRekindling\u201d by Al Song (part 2 of 2, read by Buddy Goodboy)"
         },
@@ -3899,8 +3897,8 @@
                 "drama",
                 "contemporary",
                 "drugs/alcohol",
-                "by:al-song",
-                "narrator:zilch-woofs"
+                "narrator:zilch-woofs",
+                "by:al-song"
             ],
             "title": "\u201cRekindling\u201d by Al Song (part 1 of 2, read by Buddy Goodboy)"
         },
@@ -3920,8 +3918,8 @@
                 "military",
                 "blood",
                 "queerphobia",
-                "by:j-s-hawthorne",
-                "narrator:william-dingo"
+                "narrator:william-dingo",
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cThe Reason Why\u201d by J.S. Hawthorne (read by William Dingo)"
         },
@@ -3941,8 +3939,8 @@
                 "contemporary",
                 "nsfw",
                 "queerphobia",
-                "by:ashe-valisca",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:ashe-valisca"
             ],
             "title": "\u201cBare Assed Broadway\u201d by Ashe Valisca (part 2 of 2) [18+]"
         },
@@ -3962,8 +3960,8 @@
                 "spooky",
                 "contemporary",
                 "nsfw",
-                "by:ashe-valisca",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:ashe-valisca"
             ],
             "title": "\u201cBare Assed Broadway\u201d by Ashe Valisca (part 1 of 2) [18+]"
         },
@@ -3983,8 +3981,8 @@
                 "historical",
                 "queerphobia",
                 "nsfw",
-                "by:nighteyes-dayspring",
-                "narrator:carrizo"
+                "narrator:carrizo",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cSame as Me\u201d by NightEyes Dayspring (read by Carrizo)"
         },
@@ -4004,8 +4002,8 @@
                 "romance",
                 "drama",
                 "military",
-                "by:tiberiusrings",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tiberiusrings"
             ],
             "title": "\u201cVagabond\u201d by TiberiusRings & Fruitz (part 2 of 2)"
         },
@@ -4028,8 +4026,8 @@
                 "historical",
                 "queerphobia",
                 "drugs/alcohol",
-                "by:tiberiusrings",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tiberiusrings"
             ],
             "title": "\u201cVagabond\u201d by TiberiusRings & Fruitz (part 1 of 2)"
         },
@@ -4067,8 +4065,8 @@
                 "romance",
                 "drama",
                 "political/espionage",
-                "by:madison-scott-clary",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cMissives\u201d by Madison Scott-Clary (read by the author and Dralen)"
         },
@@ -4084,8 +4082,8 @@
                 "romance",
                 "contemporary",
                 "queerphobia",
-                "by:coda",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:coda"
             ],
             "title": "\u201cBorn to be Wild\u201d by Coda"
         },
@@ -4102,8 +4100,8 @@
                 "epic",
                 "military",
                 "nsfw",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cFathers to Sons\u201d by MikasiWolf (part 2 of 2)"
         },
@@ -4120,8 +4118,8 @@
                 "family-saga",
                 "epic",
                 "military",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cFathers to Sons\u201d by MikasiWolf (part 1 of 2)"
         },
@@ -4136,8 +4134,8 @@
                 "check-tags",
                 "humor",
                 "excerpt",
-                "by:ursus-arctos",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ursus-arctos"
             ],
             "title": "\u201cFriends and Collies\u201d by Ursus Arctos"
         },
@@ -4173,8 +4171,8 @@
                 "action/adventure",
                 "historical",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:dirt-coyote"
             ],
             "title": "\u201cWild Thing\u201d by Dirt Coyote (part 2 of 2) [18+]"
         },
@@ -4194,8 +4192,8 @@
                 "historical",
                 "nsfw",
                 "drugs/alcohol",
-                "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:dirt-coyote"
             ],
             "title": "\u201cWild Thing\u201d by Dirt Coyote (part 1 of 2) [18+]"
         },
@@ -4210,8 +4208,8 @@
                 "check-tags",
                 "epic",
                 "stone-age",
-                "by:ben-goodridge",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ben-goodridge"
             ],
             "title": "\u201cWeasels of the Apocalypse\u201d by Ben Goodridge (part 2 of 2)"
         },
@@ -4227,8 +4225,8 @@
                 "romance",
                 "drama",
                 "stone-age",
-                "by:ben-goodridge",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ben-goodridge"
             ],
             "title": "\u201cWeasels of the Apocalypse\u201d by Ben Goodridge (part 1 of 2)"
         },
@@ -4245,8 +4243,8 @@
                 "action/adventure",
                 "medieval",
                 "blood",
-                "by:ian-madison-keller",
-                "narrator:b-p-rugger"
+                "narrator:b-p-rugger",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cThe Pirate's Curse\u201d by Ian Madison Keller (read by B. P. Rugger)"
         },
@@ -4265,8 +4263,8 @@
                 "drama",
                 "political/espionage",
                 "queerphobia",
-                "by:dirt-coyote",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:dirt-coyote"
             ],
             "title": "\u201cForever Forever Forever\u201d by Dirt Coyote (read by Dralen)"
         },
@@ -4281,8 +4279,8 @@
                 "check-tags",
                 "eldritch",
                 "historical",
-                "by:thomas-faux-steele",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:thomas-faux-steele"
             ],
             "title": "\u201cThe Ice Cream War\u201d by Thomas \u201cFaux\u201d Steele"
         },
@@ -4300,8 +4298,8 @@
                 "queerphobia",
                 "blood",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:dirt-coyote"
+                "narrator:dirt-coyote",
+                "by:dirt-coyote"
             ],
             "title": "\u201cHi, I\u2019m Jack and I\u2019m Not From This World\u201d by Dirt Coyote (read by the author)"
         },
@@ -4319,8 +4317,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:darius-davis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:darius-davis"
             ],
             "title": "\u201cCollege Days\u201d by Darius Davis (part 2 of 2) [18+]"
         },
@@ -4333,8 +4331,8 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "by:madison-scott-clary",
-                "narrator:ardy-hart"
+                "narrator:ardy-hart",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cGrowth\u201d by Madison Scott-Clary (read by Ardy Hart)"
         },
@@ -4352,8 +4350,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:darius-davis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:darius-davis"
             ],
             "title": "\u201cCollege Days\u201d by Darius Davis (part 1 of 2) [18+]"
         },
@@ -4375,8 +4373,8 @@
                 "contemporary",
                 "nsfw",
                 "drugs/alcohol",
-                "by:drakolf-grimm",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:drakolf-grimm"
             ],
             "title": "\u201cA Strong, Dominant Hand\u201d by Drakolf Grimm/Diretooth [18+]"
         },
@@ -4393,8 +4391,8 @@
                 "romance",
                 "western",
                 "nsfw",
-                "by:field-t-mouse",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:field-t-mouse"
             ],
             "title": "\u201cMouse Your House\u201d by Field T. Mouse [18+]"
         },
@@ -4411,8 +4409,8 @@
                 "gothic",
                 "drama",
                 "historical",
-                "by:friends-of-the-fireplace",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:friends-of-the-fireplace"
             ],
             "title": "\u201cFireside meeting in the Outer Kuiper Belt\u201d by Friends of the Fireplace (read by Killick, Ta'kom Ironhoof, Nenekiri Bookwyrm)"
         },
@@ -4459,8 +4457,8 @@
                 "epic",
                 "historical",
                 "police-violence",
-                "by:reid-minnich",
-                "narrator:william-dingo"
+                "narrator:william-dingo",
+                "by:reid-minnich"
             ],
             "title": "\u201cTeatime on the Titanic\u201d by Reid Minnich (read by William Dingo)"
         },
@@ -4474,8 +4472,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:michel-vincent-corbeaux",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:michel-vincent-corbeaux"
             ],
             "title": "\u201cHeraclitan Bird-Songs\u201d a poem by Michel-Vincent Corbeaux"
         },
@@ -4490,8 +4488,8 @@
                 "check-tags",
                 "romance",
                 "contemporary",
-                "by:pascal-farful",
-                "narrator:dralen"
+                "narrator:dralen",
+                "by:pascal-farful"
             ],
             "title": "\u201cThe Fate of Frank Wright\u201d by Pascal Farful (read by Dralen)"
         },
@@ -4537,8 +4535,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:herr-wozzeck",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:herr-wozzeck"
             ],
             "title": "\u201cPrecious Cargo\u201d by Herr Wozzeck (part 2 of 2)"
         },
@@ -4555,8 +4553,8 @@
                 "crime",
                 "historical",
                 "blood",
-                "by:herr-wozzeck",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:herr-wozzeck"
             ],
             "title": "\"Precious Cargo\" by Herr Wozzeck (part 1 of 2)"
         },
@@ -4599,8 +4597,8 @@
                 "drama",
                 "fantasy",
                 "nsfw",
-                "by:b-p-rugger",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:b-p-rugger"
             ],
             "title": "\u201cSatan, Dearie\u201d by B. P. Rugger [18+]"
         },
@@ -4616,8 +4614,8 @@
                 "gothic",
                 "action/adventure",
                 "historical",
-                "by:thomas-faux-steele",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:thomas-faux-steele"
             ],
             "title": "\u201cMaking A Delivery\u201d by Thomas \u201cFaux\u201d Steele (read by Rob MacWolf)"
         },
@@ -4634,8 +4632,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cMaking it Fit\u201d by NightEyes DaySpring [18+]"
         },
@@ -4653,8 +4651,8 @@
                 "military",
                 "nsfw",
                 "blood",
-                "by:alice-clawford",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:alice-clawford"
             ],
             "title": "\u201cMoon Me Up, Cyrille\u201d by Alice Clawford  [18+] (read by Ta\u2019kom Ironhoof)"
         },
@@ -4691,8 +4689,8 @@
                 "fantasy",
                 "blood",
                 "nsfw",
-                "by:brathor-cyr",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:brathor-cyr"
             ],
             "title": "\u201cThe Winter Coat\u201d by Brathor Cyr [18+]"
         },
@@ -4708,8 +4706,8 @@
                 "gothic",
                 "epic",
                 "military",
-                "by:sean-duroc-silva",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sean-duroc-silva"
             ],
             "title": "\u201cThe Beast in the Rain\u201d by Sean Duroc Silva (part 2 of 2)"
         },
@@ -4723,8 +4721,8 @@
             "tags": [
                 "check-tags",
                 "spooky",
-                "by:sean-duroc-silva",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sean-duroc-silva"
             ],
             "title": "\u201cThe Beast in the Rain\u201d by Sean Duroc Silva (part 1 of 2)"
         },
@@ -4753,8 +4751,8 @@
             "tags": [
                 "check-tags",
                 "western",
-                "by:buddy-goodboy",
-                "narrator:killick"
+                "narrator:killick",
+                "by:buddy-goodboy"
             ],
             "title": "\u201cHomeworld\u201d by Buddy Goodboy (read by Killick)"
         },
@@ -4776,8 +4774,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Friend In Winter\u201d by MikasiWolf (part 2 of 2) (18+)"
         },
@@ -4800,8 +4798,8 @@
                 "contemporary",
                 "nsfw",
                 "drugs/alcohol",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Friend In Winter\u201d by MikasiWolf (part 1 of 2) [18+]"
         },
@@ -4817,8 +4815,8 @@
                 "family-saga",
                 "drama",
                 "fantasy",
-                "by:k-c-shaw",
-                "narrator:nenekiri-bookwyrm"
+                "narrator:nenekiri-bookwyrm",
+                "by:k-c-shaw"
             ],
             "title": "\u201cSea and Sky\u201d by K.C. Shaw (read by Nenekiri Bookwyrm)"
         },
@@ -4832,8 +4830,8 @@
             "tags": [
                 "check-tags",
                 "poem",
-                "by:al-song",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:al-song"
             ],
             "title": "\u201cHarmonize\u201d a poem by Al Song (read by Rob MacWolf)"
         },
@@ -4850,8 +4848,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:ardy-hart",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ardy-hart"
             ],
             "title": "\u201cReunion\u201d by Ardy Hart [18+]"
         },
@@ -4870,8 +4868,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:ari-yena",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ari-yena"
             ],
             "title": "\u201cThe Life and Death of August Corcoran\u201d by Ari Yena (part 2 of 2)"
         },
@@ -4885,8 +4883,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:ari-yena",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ari-yena"
             ],
             "title": "\u201cThe Life and Death of August Corcoran\u201d by Ari Yena (part 1 of 2)"
         },
@@ -4904,8 +4902,8 @@
                 "nsfw",
                 "blood",
                 "gore",
-                "by:piggucaz",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:piggucaz"
             ],
             "title": "\u201cTending To A Beast\u201d by PigguCaz [18+]"
         },
@@ -4920,8 +4918,8 @@
                 "check-tags",
                 "gothic",
                 "historical",
-                "by:kenneth-grahame",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kenneth-grahame"
             ],
             "title": "\u201cThe Wind in the Willows\u201d, Chapter IIII, by Kenneth Grahame"
         },
@@ -4938,8 +4936,8 @@
                 "gothic",
                 "fantasy",
                 "nsfw",
-                "by:signatelli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:signatelli"
             ],
             "title": "\u201cWhere No Man Walks\u201d by Signatelli (part 2 of 2)"
         },
@@ -4953,8 +4951,8 @@
             "tags": [
                 "check-tags",
                 "gothic",
-                "by:signatelli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:signatelli"
             ],
             "title": "\u201cWhere No Man Walks\u201d by Signatelli (part 1 of 2)"
         },
@@ -4970,8 +4968,8 @@
                 "holiday",
                 "romance",
                 "drama",
-                "by:lauren-rivers",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:lauren-rivers"
             ],
             "title": "\u201cLucy\u2019s Christmas Wish\u201d by Lauren Rivers (read by Rob MacWolf)"
         },
@@ -5009,8 +5007,8 @@
                 "drama",
                 "contemporary",
                 "queerphobia",
-                "by:killick",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:killick"
             ],
             "title": "\u201cHam\u201d by Killick"
         },
@@ -5026,9 +5024,9 @@
                 "romance",
                 "action/adventure",
                 "stone-age",
+                "narrator:khaki",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:khaki"
+                "by:rob-macwolf"
             ],
             "title": "\u201cInitial Survey of Quaisholm Cave Paintings, Origin Unknown, presumed Upper Mesolithic\u201d by SakaraFox and Rob MacWolf (part 2 of 2)"
         },
@@ -5043,9 +5041,9 @@
                 "check-tags",
                 "gothic",
                 "stone-age",
+                "narrator:khaki",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:khaki"
+                "by:rob-macwolf"
             ],
             "title": "\u201cInitial Survey of Quaisholm Cave Paintings, Origin Unknown, presumed Upper Mesolithic\u201d by SakaraFox and Rob MacWolf (part 1 of 2)"
         },
@@ -5061,8 +5059,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:dukeferret",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:dukeferret"
             ],
             "title": "\u201cI\u2019m In Your Hometown\u201d by DukeFerret (read by Rob MacWolf)"
         },
@@ -5078,8 +5076,8 @@
                 "romance",
                 "drama",
                 "post-self",
-                "by:madison-scott-clary",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cQoheleth\u201d by Madison Scott-Clary (an excerpt, read by the author herself)"
         },
@@ -5093,8 +5091,8 @@
             "tags": [
                 "check-tags",
                 "gothic",
-                "by:frances-pauli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:frances-pauli"
             ],
             "title": "\u201cLead a Unicorn to Water\u201d by Frances Pauli"
         },
@@ -5110,8 +5108,8 @@
                 "family-saga",
                 "drama",
                 "historical",
-                "by:buddy-goodboy",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:buddy-goodboy"
             ],
             "title": "\u201cRed Delicious\u201d by Buddy Goodboy"
         },
@@ -5126,8 +5124,8 @@
                 "check-tags",
                 "romance",
                 "post-self",
-                "by:madison-scott-clary",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cJump\u201d by Madison Scott-Clary (read by the author herself)"
         },
@@ -5143,8 +5141,8 @@
                 "adult",
                 "humor",
                 "nsfw",
-                "by:harry",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:harry"
             ],
             "title": "\u201cOwl\u2019s Nest\u201d by Harry [18+]"
         },
@@ -5227,8 +5225,8 @@
                 "drama",
                 "contemporary",
                 "nsfw",
-                "by:aero-dragneel",
-                "narrator:kaki"
+                "narrator:kaki",
+                "by:aero-dragneel"
             ],
             "title": "\u201cA Class Act\u201d by Aero Dragneel [18+]"
         },
@@ -5281,8 +5279,8 @@
                 "ghost-of-dog",
                 "gothic",
                 "drama",
-                "by:madison-scott-clary",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cThe Hand Of God\u201d by Madison Scott Clary (read by B. P. Rugger)"
         },
@@ -5299,8 +5297,8 @@
                 "gothic",
                 "action/adventure",
                 "fantasy",
-                "by:nenekiri-bookwyrm",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cBrunhilda\u201d by Nenekiri Bookwyrm (read by Kergiby)"
         },
@@ -5316,8 +5314,8 @@
                 "ghost-of-dog",
                 "gothic",
                 "contemporary",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "\u201cA Sweet October Night\u201d by Pascal Farful (read by Rob MacWolf)"
         },
@@ -5335,8 +5333,8 @@
                 "action/adventure",
                 "military",
                 "blood",
-                "by:huskyteer",
-                "narrator:huskyteer"
+                "narrator:huskyteer",
+                "by:huskyteer"
             ],
             "title": "\u201cJenny-Burnt-Tail\u201d by Huskyteer (read by the author)"
         },
@@ -5353,8 +5351,8 @@
                 "action/adventure",
                 "historical",
                 "blood",
-                "by:tony-greyfox",
-                "narrator:kaki"
+                "narrator:kaki",
+                "by:tony-greyfox"
             ],
             "title": "\u201cCome the Storm\u201d by Tony Greyfox (part 2 of 2)"
         },
@@ -5368,8 +5366,8 @@
             "tags": [
                 "check-tags",
                 "action/adventure",
-                "by:tony-greyfox",
-                "narrator:kaki"
+                "narrator:kaki",
+                "by:tony-greyfox"
             ],
             "title": "\u201cCome the Storm\u201d by Tony Greyfox (part 1 of 2)"
         },
@@ -5422,8 +5420,8 @@
                 "check-tags",
                 "romance",
                 "historical",
-                "by:ian-madison-keller",
-                "narrator:ian-madison-keller"
+                "narrator:ian-madison-keller",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cMilk and Brass\u201d by Ian Madison Keller (read by the author) [18+]"
         },
@@ -5439,8 +5437,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:ian-madison-keller",
-                "narrator:b-p-rugger"
+                "narrator:b-p-rugger",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cGame Night\u201d by Ian Madison Keller (read by B. P. Rugger)"
         },
@@ -5457,8 +5455,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:mikasiwolf",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:mikasiwolf"
             ],
             "title": "\u201cWhen the Needs Are Denied\u201d by MikasiWolf (part 2 of 2, read by Crimson Ruari) [18+]"
         },
@@ -5476,8 +5474,8 @@
                 "drama",
                 "political/espionage",
                 "nsfw",
-                "by:mikasiwolf",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:mikasiwolf"
             ],
             "title": "\u201cWhen the Needs Are Denied\u201d by MikasiWolf (part 1 of 2, read by Crimson Ruari) [18+]"
         },
@@ -5492,8 +5490,8 @@
                 "check-tags",
                 "action/adventure",
                 "sci-fi",
-                "by:tempe-o-kun",
-                "narrator:tempe-o-kun"
+                "narrator:tempe-o-kun",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 1\u201d by Tempe O'Kun (read by the author)"
         },
@@ -5509,8 +5507,8 @@
                 "family-saga",
                 "drama",
                 "contemporary",
-                "by:ezen-baklattan",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ezen-baklattan"
             ],
             "title": "\u201cBackground Noise\u201d by Ezen Baklattan"
         },
@@ -5544,8 +5542,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:vixyy-fox",
-                "narrator:carrizo"
+                "narrator:carrizo",
+                "by:vixyy-fox"
             ],
             "title": "\u201cAnarchy\u201d by Vixyy Fox (read by Carrizo)"
         },
@@ -5561,8 +5559,8 @@
                 "eldritch",
                 "historical",
                 "drugs/alcohol",
-                "by:nalz",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nalz"
             ],
             "title": "\u201cThe First Shall Not Be Last\u201d by Nalz"
         },
@@ -5579,8 +5577,8 @@
                 "crime",
                 "contemporary",
                 "blood",
-                "by:ian-madison-keller",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cNorthern Delights\u201d by Ian Madison Keller (part 2 of 2, read by the author)"
         },
@@ -5597,8 +5595,8 @@
                 "crime",
                 "contemporary",
                 "self-harm",
-                "by:ian-madison-keller",
-                "narrator:ian-madison-keller"
+                "narrator:ian-madison-keller",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cNorthern Delights\u201d by Ian Madison Keller (part 1 of 2, read by the author)"
         },
@@ -5615,8 +5613,8 @@
                 "romance",
                 "post-self",
                 "nsfw",
-                "by:fayinga",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:fayinga"
             ],
             "title": "\u201cMasseur with benefits\u201d by Fayinga [18+]"
         },
@@ -5633,8 +5631,8 @@
                 "medieval",
                 "blood",
                 "queerphobia",
-                "by:rose-lacroix",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:rose-lacroix"
             ],
             "title": "\u201cFurta Sacra\u201d by Rose LaCroix"
         },
@@ -5651,8 +5649,8 @@
                 "romance",
                 "action/adventure",
                 "nsfw",
-                "by:earbender",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:earbender"
             ],
             "title": "\u201cNuthin\u2019 but a Houn\u2019 Dog\u201d by Earbender (part 2 of 2) (18+)"
         },
@@ -5670,8 +5668,8 @@
                 "crime",
                 "sci-fi",
                 "nsfw",
-                "by:earbender",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:earbender"
             ],
             "title": "\u201cNuthin\u2019 but a Houn\u2019 Dog\u201d by Earbender (part 1 of 2) (18+)"
         },
@@ -5686,8 +5684,8 @@
                 "check-tags",
                 "romance",
                 "historical",
-                "by:pascal-farful",
-                "narrator:huskyteer"
+                "narrator:huskyteer",
+                "by:pascal-farful"
             ],
             "title": "\u201cRide of a Lifetime\u201d by Pascal Farful (read by Huskyteer)"
         },
@@ -5703,8 +5701,8 @@
                 "adult",
                 "romance",
                 "nsfw",
-                "by:bartan-tirix",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:bartan-tirix"
             ],
             "title": "\u201cAll For You #4\u201d by Bartan Tirix [18+]"
         },
@@ -5723,8 +5721,8 @@
                 "historical",
                 "nsfw",
                 "self-harm",
-                "by:kidra",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kidra"
             ],
             "title": "\u201cThe Other Side of the Mirror\u201d by KiDra (part 2 of 2)"
         },
@@ -5741,8 +5739,8 @@
                 "family-saga",
                 "action/adventure",
                 "historical",
-                "by:kidra",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kidra"
             ],
             "title": "\u201cThe Other Side of the Mirror\u201d by KiDra (part 1 of 2)"
         },
@@ -5760,8 +5758,8 @@
                 "drama",
                 "historical",
                 "nsfw",
-                "by:field-t-mouse",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:field-t-mouse"
             ],
             "title": "\u201cThe Squirrel Next Door\u201d by Field T. Mouse (read by Kergiby) [18+]"
         },
@@ -5775,8 +5773,8 @@
             "tags": [
                 "check-tags",
                 "poem",
-                "by:dan-lan",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dan-elan"
             ],
             "title": "\u201cThe Hare\u201d a poem by Dan E\u0301lan"
         },
@@ -5790,8 +5788,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:bering",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:bering"
             ],
             "title": "\u201cIf Only for a Night\u2026\u201d by Bering"
         },
@@ -5807,8 +5805,8 @@
                 "gothic",
                 "crime",
                 "historical",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Baptism Is Long But The Song Is Everlasting\u201d by Rob MacWolf (part 2 of 2)"
         },
@@ -5823,8 +5821,8 @@
                 "check-tags",
                 "gothic",
                 "western",
-                "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Baptism Is Long But The Song Is Everlasting\u201d by Rob MacWolf (part 1 of 2)"
         },
@@ -5838,8 +5836,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:vixyy-fox",
-                "narrator:carrizo"
+                "narrator:carrizo",
+                "by:vixyy-fox"
             ],
             "title": "\u201cUnconditional Love\u201d by Vixyy Fox (read by Carrizo)"
         },
@@ -5854,8 +5852,8 @@
                 "check-tags",
                 "legend",
                 "historical",
-                "by:altivo-overo",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:altivo-overo"
             ],
             "title": "\u201cThoughts Chelonian\u201d, a poem by Altivo Overo (read by Madison Scott-Clary)"
         },
@@ -5871,8 +5869,8 @@
                 "family-saga",
                 "drama",
                 "military",
-                "by:cheesefighter",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:cheesefighter"
             ],
             "title": "\u201cClipped Wings\u201d by Cheesefighter"
         },
@@ -5893,8 +5891,8 @@
                 "historical",
                 "nsfw",
                 "drugs/alcohol",
-                "by:domus-vocis",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:domus-vocis"
             ],
             "title": "\u201cFollowers of the Jackal\u201d by Domus Vocis (part 2 of 2, read by Crimson Ruari) [18+]"
         },
@@ -5914,8 +5912,8 @@
                 "western",
                 "nsfw",
                 "self-harm",
-                "by:domus-vocis",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:domus-vocis"
             ],
             "title": "\u201cFollowers of the Jackal\u201d by Domus Vocis (part 1 of 2, read by Crimson Ruari) [18+]"
         },
@@ -5931,8 +5929,8 @@
                 "family-saga",
                 "action/adventure",
                 "stone-age",
-                "by:harry",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:harry"
             ],
             "title": "\u201cSpeak to Me of Summer\u201d by Harry (part 2 of 2)"
         },
@@ -5948,8 +5946,8 @@
                 "family-saga",
                 "drama",
                 "stone-age",
-                "by:harry",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:harry"
             ],
             "title": "\u201cSpeak to Me of Summer\u201d by Harry (part 1 of 2)"
         },
@@ -5978,8 +5976,8 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "by:altivo-overo",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:altivo-overo"
             ],
             "title": "\u201cProcyon Prowling\u201d, a poem by Altivo Overo (read by Crimson Ruari)"
         },
@@ -5998,8 +5996,8 @@
                 "blood",
                 "trauma",
                 "drugs/alcohol",
-                "by:j-z-belexes",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-z-belexes"
             ],
             "title": "\u201cTearing \u00a1Ole\u0301!\u201d by J. Z. Belexes"
         },
@@ -6015,8 +6013,8 @@
                 "eldritch",
                 "action/adventure",
                 "stone-age",
-                "by:sakarafox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sakarafox"
             ],
             "title": "\u201cSpring Rain\u201d by SakaraFox"
         },
@@ -6049,8 +6047,8 @@
                 "military",
                 "blood",
                 "drugs/alcohol",
-                "by:anhedral",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:anhedral"
             ],
             "title": "\u201cJaeger\u201d by Anhedral (part 2 of 2, read by Crimson Ruari)"
         },
@@ -6066,8 +6064,8 @@
                 "spooky",
                 "epic",
                 "military",
-                "by:anhedral",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:anhedral"
             ],
             "title": "\u201cJaeger\u201d by Anhedral (part 1 of 2, read by Crimson Ruari)"
         },
@@ -6082,8 +6080,8 @@
                 "check-tags",
                 "legend",
                 "action/adventure",
-                "by:metassus",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:metassus"
             ],
             "title": "\u201cHero Worship\u201d by Metassus (read by Madison Scott-Clary)"
         },
@@ -6099,8 +6097,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:patrigue",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:patrigue"
             ],
             "title": "\u201cGetting Naked at Gunnison\u201d by Patrigue"
         },
@@ -6116,8 +6114,8 @@
                 "romance",
                 "contemporary",
                 "queerphobia",
-                "by:dirt-coyote",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:dirt-coyote"
             ],
             "title": "\u201cHey Buddy\u201d by Dirt Coyote (read by Kergiby)"
         },
@@ -6132,8 +6130,8 @@
                 "check-tags",
                 "survival",
                 "historical",
-                "by:arcane-reno",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:arcane-reno"
             ],
             "title": "\u201cEvent Horizon\u201d by Arcane Reno"
         },
@@ -6151,8 +6149,8 @@
                 "family-saga",
                 "drama",
                 "western",
-                "by:fopfox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:fopfox"
             ],
             "title": "\u201cA City Wolf Joins the Pack\u201d by Fopfox (part 2 of 2) [18+]"
         },
@@ -6170,8 +6168,8 @@
                 "action/adventure",
                 "nsfw",
                 "non-consensual",
-                "by:fopfox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:fopfox"
             ],
             "title": "\u201cA City Wolf Joins the Pack\u201d by Fopfox (part 1 of 2) [18+]"
         },
@@ -6187,8 +6185,8 @@
                 "eldritch",
                 "fantasy",
                 "blood",
-                "by:evan-drake",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:evan-drake"
             ],
             "title": "\u201cA Dragon\u2019s Tale\u201d by Evan Drake"
         },
@@ -6205,8 +6203,8 @@
                 "drama",
                 "historical",
                 "nsfw",
-                "by:holly-a-morrison",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:holly-a-morrison"
             ],
             "title": "\u201cThe Pwca\u201d by Holly A Morrison [18+]"
         },
@@ -6220,8 +6218,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:sean-duroc-silva",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sean-duroc-silva"
             ],
             "title": "\u201cSecond Chance\u201d by Sean Duroc Silva (part 2 of 2)"
         },
@@ -6237,8 +6235,8 @@
                 "romance",
                 "medieval",
                 "blood",
-                "by:sean-duroc-silva",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sean-duroc-silva"
             ],
             "title": "\u201cSecond Chance\u201d by Sean Duroc Silva (part 1 of 2)"
         },
@@ -6255,8 +6253,8 @@
                 "gothic",
                 "nsfw",
                 "drugs/alcohol",
-                "by:psydrosis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:psydrosis"
             ],
             "title": "\u201cDo not Disturb\u201d by Psydrosis [18+]"
         },
@@ -6272,8 +6270,8 @@
                 "romance",
                 "action/adventure",
                 "military",
-                "by:some-person",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:some-person"
             ],
             "title": "\u201cShooting Your Shot\u201d by Some Person"
         },
@@ -6291,8 +6289,8 @@
                 "action/adventure",
                 "military",
                 "nsfw",
-                "by:stinkdog",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:stinkdog"
             ],
             "title": "\u201cA Minotaur\u2019s Tribute\u201d by Stinkdog (part 2 of 2) [18+]"
         },
@@ -6311,8 +6309,8 @@
                 "crime",
                 "historical",
                 "nsfw",
-                "by:stinkdog",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:stinkdog"
             ],
             "title": "\u201cA Minotaur\u2019s Tribute\u201d by Stinkdog (part 1 of 2) [18+]"
         },
@@ -6330,8 +6328,8 @@
                 "historical",
                 "police-violence",
                 "trauma",
-                "by:stephen-coghlan",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:stephen-coghlan"
             ],
             "title": "\u201cLamb of God\u201d by Stephen Coghlan"
         },
@@ -6349,8 +6347,8 @@
                 "action/adventure",
                 "nsfw",
                 "blood",
-                "by:marcus-heckinberry",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:marcus-heckinberry"
             ],
             "title": "\u201cPlease Don\u2019t Fail Me For This\u201d by Marcus Heckinberry [18+]"
         },
@@ -6365,8 +6363,8 @@
                 "check-tags",
                 "spooky",
                 "sci-fi",
-                "by:tehrasha-darkon",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tehrasha-darkon"
             ],
             "title": "\u201cThe Engineer\u2019s Curse\u201d by Tehrasha Darkon (part 2 of 2)"
         },
@@ -6381,8 +6379,8 @@
                 "check-tags",
                 "humor",
                 "sci-fi",
-                "by:tehrasha-darkon",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tehrasha-darkon"
             ],
             "title": "\u201cThe Engineers Curse\u201d by Tehrasha Darkon (part 1 of 2)"
         },
@@ -6399,8 +6397,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:dukeferret",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dukeferret"
             ],
             "title": "\u201cOne Seat Empty\u201d by DukeFerret"
         },
@@ -6431,8 +6429,8 @@
                 "eldritch",
                 "historical",
                 "nsfw",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cGlory of the Gods\u201d by NightEyes DaySpring (part 2 of 2) [18+]"
         },
@@ -6449,8 +6447,8 @@
                 "eldritch",
                 "drama",
                 "nsfw",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cGlory of the Gods\u201d by NightEyes DaySpring (part 1 of 2) [18+]"
         },
@@ -6466,8 +6464,8 @@
                 "spooky",
                 "crime",
                 "contemporary",
-                "by:reid-minnich",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:reid-minnich"
             ],
             "title": "\u201cHostage\u201d by Reid Minnich"
         },
@@ -6481,8 +6479,8 @@
             "tags": [
                 "check-tags",
                 "poem",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cJack\u2019ll Do\u201d, a poem by Altivo Overo"
         },
@@ -6500,8 +6498,8 @@
                 "family-saga",
                 "drama",
                 "fantasy",
-                "by:nenekiri-bookwyrm",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cA Gentle Rustling of Leaves\u201d by Nenekiri Bookwyrm"
         },
@@ -6519,8 +6517,8 @@
                 "mystery",
                 "contemporary",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cI\u2019m Just Your Stud\u201d by Dirt Coyote (part 2 of 2) [18+]"
         },
@@ -6537,8 +6535,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cI\u2019m Just Your Stud\u201d by Dirt Coyote (part 1 of 2) [18+]"
         },
@@ -6554,8 +6552,8 @@
                 "gothic",
                 "drama",
                 "historical",
-                "by:nachtfangen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nachtfangen"
             ],
             "title": "\u201cCease Fire\u201d by Nachtfangen"
         },
@@ -6589,8 +6587,8 @@
                 "action/adventure",
                 "fantasy",
                 "violence",
-                "by:aelius",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cUrban Mystic\u201d by Aelius (part 2 of 2)"
         },
@@ -6607,8 +6605,8 @@
                 "fantasy",
                 "violence",
                 "blood",
-                "by:aelius",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cUrban Mystic\u201d by Aelius (part 1 of 2)"
         },
@@ -6623,8 +6621,8 @@
                 "check-tags",
                 "adult",
                 "nsfw",
-                "by:royce-day",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:royce-day"
             ],
             "title": "\u201cOiled Leather\u201d by Royce Day [18+]"
         },
@@ -6641,8 +6639,8 @@
                 "drama",
                 "medieval",
                 "police-violence",
-                "by:vixyy-fox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:vixyy-fox"
             ],
             "title": "\u201cThe First Snow Waltz\u201d by Vixyy Fox"
         },
@@ -6659,8 +6657,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:crimson-ruari",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:crimson-ruari"
             ],
             "title": "\u201cGalician Sled\u201d by Crimson Ruari (part 2 of 2) [18+]"
         },
@@ -6677,8 +6675,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:crimson-ruari",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:crimson-ruari"
             ],
             "title": "\u201cGalician Sled\u201d by Crimson Ruari (part 1 of 2) [18+]"
         },
@@ -6694,8 +6692,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:madison-scott-clary",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cGigs\u201d by Madison Scott-Clary"
         },
@@ -6714,8 +6712,8 @@
                 "historical",
                 "nsfw",
                 "blood",
-                "by:spottystuff",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:spottystuff"
             ],
             "title": "\u201cThe Conqueror\u201d by Spottystuff [18+]"
         },
@@ -6733,8 +6731,8 @@
                 "stone-age",
                 "blood",
                 "violence",
-                "by:dwale",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dwale"
             ],
             "title": "\u201cThe River in the Mist\u201d by Dwale (part 2 of 2)"
         },
@@ -6750,8 +6748,8 @@
                 "romance",
                 "action/adventure",
                 "post-apocalyptic",
-                "by:dwale",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dwale"
             ],
             "title": "\u201cThe River in the Mist\u201d by Dwale (part 1 of 2)"
         },
@@ -6767,8 +6765,8 @@
                 "family-saga",
                 "drama",
                 "western",
-                "by:madison-keller",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-keller"
             ],
             "title": "\u201cThe Widehorn Herd\u201d by Madison Keller"
         },
@@ -6786,8 +6784,8 @@
                 "gay",
                 "romance",
                 "action/adventure",
-                "by:kenneth-grahame",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kenneth-grahame"
             ],
             "title": "\u201cThe Wind in the Willows\u201d, Chapter II, by Kenneth Grahame"
         },
@@ -6804,8 +6802,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:faora-meridian",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:faora-meridian"
             ],
             "title": "\u201cEmpty\u201d by Faora Meridian [18+]"
         },
@@ -6821,8 +6819,8 @@
                 "legend",
                 "mystery",
                 "political/espionage",
-                "by:dan-leinir-turthra-jensen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dan-leinir-turthra-jensen"
             ],
             "title": "\u201cYou Are Our Lifeboat\u201d by Dan Leinir Turthra Jensen (part 2 of 2)"
         },
@@ -6838,8 +6836,8 @@
                 "legend",
                 "action/adventure",
                 "political/espionage",
-                "by:dan-leinir-turthra-jensen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dan-leinir-turthra-jensen"
             ],
             "title": "\u201cYou Are Our Lifeboat\u201d by Dan Leinir Turthra Jensen (part 1 of 2)"
         },
@@ -6855,8 +6853,8 @@
                 "gothic",
                 "mystery",
                 "contemporary",
-                "by:skunkbomb",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:skunkbomb"
             ],
             "title": "\u201cA Rock Among Millions\u201d by Skunkbomb"
         },
@@ -6889,8 +6887,8 @@
                 "epic",
                 "fantasy",
                 "blood",
-                "by:j-s-hawthorne",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cEndless Winter\u201d by JS Hawthorne"
         },
@@ -6907,8 +6905,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:lauren-rivers",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:lauren-rivers"
             ],
             "title": "\u201cMorning Coffee\u201d by Lauren Rivers"
         },
@@ -6924,8 +6922,8 @@
                 "spooky",
                 "military",
                 "blood",
-                "by:reid-minnich",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:reid-minnich"
             ],
             "title": "\u201cChinchilla Attack\u201d by Reid Minnich"
         },
@@ -6945,8 +6943,8 @@
                 "mystery",
                 "contemporary",
                 "blood",
-                "by:darius-davis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:darius-davis"
             ],
             "title": "\u201cFamiliar Encounter\u201d by Darius Davis"
         },
@@ -6964,8 +6962,8 @@
                 "romance",
                 "fantasy",
                 "nsfw",
-                "by:herr-wozzeck",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:herr-wozzeck"
             ],
             "title": "\u201cShopping Trip\u201d by Herr Wozzeck  [18+]"
         },
@@ -6982,8 +6980,8 @@
                 "action/adventure",
                 "historical",
                 "violence",
-                "by:aelius",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cThe Scout\u201d by Aelius"
         },
@@ -7000,8 +6998,8 @@
                 "gay",
                 "queer",
                 "romance",
-                "by:al-song",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:al-song"
             ],
             "title": "\u201cTempus Imperfectum\u201d by Al Song (part 3 of 3)"
         },
@@ -7017,8 +7015,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:al-song",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:al-song"
             ],
             "title": "\u201cTempus Imperfectum\u201d by Al Song (part 2 of 3)"
         },
@@ -7033,8 +7031,8 @@
                 "check-tags",
                 "romance",
                 "historical",
-                "by:al-song",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:al-song"
             ],
             "title": "\u201cTempus Imperfectum\u201d by Al Song (part 1 of 3)"
         },
@@ -7053,8 +7051,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:tanner-silverpaw",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tanner-silverpaw"
             ],
             "title": "\u201cWinter Snow\u201d by Tanner Silverpaw"
         },
@@ -7085,8 +7083,8 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "by:altivo-overo",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:altivo-overo"
             ],
             "title": "\u201cSamovar\u201d, a poem by Altivo Overo"
         },
@@ -7101,8 +7099,8 @@
                 "check-tags",
                 "romance",
                 "historical",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cThe Library\u201d by Metassus"
         },
@@ -7116,8 +7114,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:anhedral",
-                "narrator:kaki"
+                "narrator:kaki",
+                "by:anhedral"
             ],
             "title": "\u201cAbstinence\u201d by Anhedral"
         },
@@ -7134,8 +7132,8 @@
                 "gothic",
                 "crime",
                 "nsfw",
-                "by:alice-clawford",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:alice-clawford"
             ],
             "title": "\u201cFeeling Sheepish\u201d by Alice Clawford [18+]"
         },
@@ -7150,8 +7148,8 @@
                 "check-tags",
                 "romance",
                 "self-harm",
-                "by:j-f-r-coates",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-f-r-coates"
             ],
             "title": "\u201cLights In The Sky\u201d by J.F.R. Coates (part 2 of 2)"
         },
@@ -7165,8 +7163,8 @@
             "tags": [
                 "check-tags",
                 "gothic",
-                "by:j-f-r-coates",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-f-r-coates"
             ],
             "title": "\u201cLights In The Sky\u201d by J.F.R. Coates (part 1 of 2)"
         },
@@ -7180,8 +7178,8 @@
             "tags": [
                 "check-tags",
                 "fantasy",
-                "by:dire",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dire"
             ],
             "title": "\u201cMischief Makers\u201d by Dire"
         },
@@ -7214,8 +7212,8 @@
                 "spooky",
                 "historical",
                 "nsfw",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cLeave It for the Morning\u201d by Dirt Coyote"
         },
@@ -7234,8 +7232,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:weasel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:weasel"
             ],
             "title": "\u201cThese Are The Days of Our Lives\u201d by Weasel [18+]"
         },
@@ -7251,8 +7249,8 @@
                 "humor",
                 "historical",
                 "self-harm",
-                "by:j-b-rockwell",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-b-rockwell"
             ],
             "title": "\u201cMonkeyshines\u201d by J.B. Rockwell (part 2 of 2)"
         },
@@ -7270,8 +7268,8 @@
                 "drama",
                 "sci-fi",
                 "self-harm",
-                "by:j-b-rockwell",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:j-b-rockwell"
             ],
             "title": "\u201cMonkeyshines\u201d by J.B. Rockwell (part 1 of 2)"
         },
@@ -7286,8 +7284,8 @@
                 "check-tags",
                 "gothic",
                 "fantasy",
-                "by:killick",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:killick"
             ],
             "title": "\u201cSky Defender\u201d by Killick"
         },
@@ -7305,8 +7303,8 @@
                 "drama",
                 "contemporary",
                 "blood",
-                "by:roland-jovaik",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:roland-jovaik"
             ],
             "title": "\u201cVariables\u201d by Roland Jovaik (part 2 of 2)"
         },
@@ -7322,8 +7320,8 @@
                 "romance",
                 "drama",
                 "contemporary",
-                "by:roland-jovaik",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:roland-jovaik"
             ],
             "title": "\u201cVariables\u201d by Roland Jovaik (part 1 of 2)"
         },
@@ -7339,8 +7337,8 @@
                 "romance",
                 "crime",
                 "military",
-                "by:thomas-faux-steele",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:thomas-faux-steele"
             ],
             "title": "\u201cOne Day in Hanoi\u201d by Thomas \u201cFaux\u201d Steele"
         },
@@ -7355,8 +7353,8 @@
                 "check-tags",
                 "family-saga",
                 "drama",
-                "by:mog-moogle",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mog-moogle"
             ],
             "title": "\u201cOver the Top\u201d by Mog Moogle"
         },
@@ -7371,8 +7369,8 @@
                 "check-tags",
                 "romance",
                 "contemporary",
-                "by:k-c-shaw",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:k-c-shaw"
             ],
             "title": "\u201cSound Check\u201d by K.C. Shaw"
         },
@@ -7388,8 +7386,8 @@
                 "speculative",
                 "drama",
                 "fantasy",
-                "by:blouie-the-blue-heeler",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:blouie-the-blue-heeler"
             ],
             "title": "\u201cAurora Borealis\u201d by Blouie the Blue Heeler"
         },
@@ -7406,8 +7404,8 @@
                 "epic",
                 "stone-age",
                 "gore",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cKenyak\u2019s Saga\u201d by MikasiWolf (part 2 of 2)"
         },
@@ -7423,8 +7421,8 @@
                 "legend",
                 "epic",
                 "military",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cKenyak\u2019s Saga\u201d by MikasiWolf (part 1 of 2)"
         },
@@ -7440,8 +7438,8 @@
                 "thriller/suspense",
                 "drama",
                 "contemporary",
-                "by:crimson-ruari",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:crimson-ruari"
             ],
             "title": "\u201cTokyo Tension\u201d by Crimson Ruari"
         },
@@ -7467,8 +7465,8 @@
                 "gothic",
                 "crime",
                 "military",
-                "by:royce-day",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:royce-day"
             ],
             "title": "\u201cTo Catch the Lightning\u201d by Royce Day (part 1 of 2)"
         },
@@ -7483,8 +7481,8 @@
                 "check-tags",
                 "romance",
                 "contemporary",
-                "by:dirt-coyote",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dirt-coyote"
             ],
             "title": "\u201cYou Can Watch Me Dance\u201d by Dirt Coyote"
         },
@@ -7501,8 +7499,8 @@
                 "mystery",
                 "political/espionage",
                 "violence",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "\u201cThe Pack\u201d by Kandrel"
         },
@@ -7518,8 +7516,8 @@
                 "lgbtq+",
                 "spooky",
                 "blood",
-                "by:sakarafox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:sakarafox"
             ],
             "title": "\u201cA Well-Deserved Rest\u201d by SakaraFox"
         },
@@ -7534,8 +7532,8 @@
                 "check-tags",
                 "humor",
                 "crime",
-                "by:ian-madison-keller",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cBlind Date Blues\u201d by Ian Madison Keller (2 of 2)"
         },
@@ -7550,8 +7548,8 @@
                 "check-tags",
                 "humor",
                 "western",
-                "by:ian-madison-keller",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ian-madison-keller"
             ],
             "title": "\u201cBlind Date Blues\u201d by Ian Madison Keller (1 of 2)"
         },
@@ -7572,8 +7570,8 @@
                 "drama",
                 "historical",
                 "nsfw",
-                "by:thurston-howl",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:thurston-howl"
             ],
             "title": "\u201cGhosts of Cinnamon and Lavender\u201d by Thurston Howl [18+]"
         },
@@ -7590,8 +7588,8 @@
                 "action/adventure",
                 "fantasy",
                 "blood",
-                "by:bill-ricardi",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:bill-ricardi"
             ],
             "title": "\u201cUnseelie Pie\u201d by Bill Ricardi"
         },
@@ -7615,8 +7613,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cRabbit Food\u201d by Altivo Overo "
         },
@@ -7651,8 +7649,8 @@
                 "romance",
                 "contemporary",
                 "nsfw",
-                "by:tj-minde",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tj-minde"
             ],
             "title": "\u201cMissed Feelings\u201d by TJ Minde [18+]"
         },
@@ -7668,8 +7666,8 @@
                 "gothic",
                 "action/adventure",
                 "fantasy",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "\u201cThe Adventurers\u201d by Kandrel"
         },
@@ -7686,8 +7684,8 @@
                 "action/adventure",
                 "stone-age",
                 "blood",
-                "by:utunu",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:utunu"
             ],
             "title": "\u201cWater\u201d by Utunu (part 2 of 2)"
         },
@@ -7704,8 +7702,8 @@
                 "epic",
                 "stone-age",
                 "blood",
-                "by:utunu",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:utunu"
             ],
             "title": "\u201cWater\u201d by Utunu (part 1 of 2)"
         },
@@ -7728,8 +7726,8 @@
                 "drugs/alcohol",
                 "police-violence",
                 "self-harm",
-                "by:madison-scott-clary",
-                "narrator:madison-scott-clary"
+                "narrator:madison-scott-clary",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cDisappearance\u201d by Madison Scott-Clary [18+]"
         },
@@ -7747,8 +7745,8 @@
                 "drama",
                 "contemporary",
                 "queerphobia",
-                "by:kergiby",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kergiby"
             ],
             "title": "\u201cGiving Thanks\u201d by Kergiby"
         },
@@ -7774,8 +7772,8 @@
                 "adult",
                 "contemporary",
                 "nsfw",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cFoxing for Pizza\u201d by NightEyes DaySpring [18+]"
         },
@@ -7791,8 +7789,8 @@
                 "survival",
                 "action/adventure",
                 "historical",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Part of the Machine\u201d by MikasiWolf"
         },
@@ -7817,8 +7815,8 @@
                 "check-tags",
                 "legend",
                 "drugs/alcohol",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cAt The Inn\u2014Salted Beef\u201d by Metassus"
         },
@@ -7835,8 +7833,8 @@
                 "crime",
                 "historical",
                 "blood",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Leap Forward\u201d by MikasiWolf (part 3 of 3)"
         },
@@ -7852,8 +7850,8 @@
                 "humor",
                 "crime",
                 "historical",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Leap Forward\u201d by MikasiWolf (part 2 of 3)"
         },
@@ -7869,8 +7867,8 @@
                 "family-saga",
                 "drama",
                 "historical",
-                "by:mikasiwolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:mikasiwolf"
             ],
             "title": "\u201cA Leap Forward\u201d by MikasiWolf (part 1 of 3)"
         },
@@ -7883,8 +7881,8 @@
             "summary": "<p>Kindness seems strange to some. So it is important to remind them that there are good people out there.</p>\n<p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/37170338/\"><u>Glorvan and the Cart</u></a>\u201d by <a href=\"https://twitter.com/frixmargen\"><u>W.R. Frixmargen</u></a>, who spawns sci-fi and madness of various sorts, and <a href=\"https://www.goalpublications.com/store/p105/give-yourself-a-hand-digital.html\"><u>who wrote Oak Branch in Give Yourself a Hand</u></a> by <a href=\"https://www.goalpublications.com/\"><u>Goal Publications</u></a>, and you can find more of his stories on his <a href=\"https://www.furaffinity.net/user/wrfrixmargen/\"><u>Furaffinity page</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "by:w-r-frixmargen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:w-r-frixmargen"
             ],
             "title": "\u201cGlorvan and the Cart\u201d by W.R. Frixmargen"
         },
@@ -7901,8 +7899,8 @@
                 "action/adventure",
                 "stone-age",
                 "trauma",
-                "by:royce-day",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:royce-day"
             ],
             "title": "\u201cAt Prayer\u201d by Royce Day"
         },
@@ -7918,8 +7916,8 @@
                 "romance",
                 "drama",
                 "military",
-                "by:crimson-ruari",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:crimson-ruari"
             ],
             "title": "\u201cGoing Home\u201d by Crimson Ruari"
         },
@@ -7935,8 +7933,8 @@
                 "eldritch",
                 "historical",
                 "nsfw",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cHow Menander Got His Name\u201d by Altivo Overo"
         },
@@ -7955,8 +7953,8 @@
                 "family-saga",
                 "drama",
                 "historical",
-                "by:spottystuff",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:spottystuff"
             ],
             "title": "\u201cNonna\u201d by Spottystuff"
         },
@@ -7973,8 +7971,8 @@
                 "transgender",
                 "gothic",
                 "contemporary",
-                "by:madison-keller",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-keller"
             ],
             "title": "\u201cBucking the Trend\u201d by Madison Keller"
         },
@@ -7988,8 +7986,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:amy-clare-fontaine",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:amy-clare-fontaine"
             ],
             "title": "\u201cOf a Hawk and a Lighthouse\u201d by Amy Clare Fontaine"
         },
@@ -8007,8 +8005,8 @@
                 "historical",
                 "self-harm",
                 "trauma",
-                "by:kyell-gold",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kyell-gold"
             ],
             "title": "\u201cCleaning Up\u201d by Kyell Gold"
         },
@@ -8023,8 +8021,8 @@
                 "check-tags",
                 "humor",
                 "historical",
-                "by:huskyteer",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:huskyteer"
             ],
             "title": "\u201cThe Lion of the Low Countries\u201d by Huskyteer"
         },
@@ -8042,8 +8040,8 @@
                 "mystery",
                 "contemporary",
                 "nsfw",
-                "by:televassi",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:televassi"
             ],
             "title": "\u201cBlueBucks\u201d by Televassi [18+]"
         },
@@ -8057,8 +8055,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:madison-scott-clary",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cMilkshakes and Foxes\u201d by Madison Scott-Clary"
         },
@@ -8075,8 +8073,8 @@
                 "action/adventure",
                 "historical",
                 "violence",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cA Close Port of Call\u201d by Altivo Overo"
         },
@@ -8092,8 +8090,8 @@
                 "eldritch",
                 "action/adventure",
                 "fantasy",
-                "by:alison-cybe",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:alison-cybe"
             ],
             "title": "\u201cDon't Forget your Comic Books!\u201d by Alison Cybe"
         },
@@ -8109,8 +8107,8 @@
                 "speculative",
                 "action/adventure",
                 "sci-fi",
-                "by:domus-vocis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:domus-vocis"
             ],
             "title": "\u201cEdge of the Universe\u201d by Domus Vocis"
         },
@@ -8124,8 +8122,8 @@
             "tags": [
                 "check-tags",
                 "political/espionage",
-                "by:john-bailey",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:john-bailey"
             ],
             "title": "\u201cTwilight Sparkle Goes to Bed\u201d by John Bailey"
         },
@@ -8140,8 +8138,8 @@
                 "check-tags",
                 "action/adventure",
                 "medieval",
-                "by:gre7g-luterman",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:gre7g-luterman"
             ],
             "title": "\u201cDragonslayer\u201d by Gre7g Luterman"
         },
@@ -8160,8 +8158,8 @@
                 "historical",
                 "queerphobia",
                 "nsfw",
-                "by:kirisis-kc-alpinus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kirisis-kc-alpinus"
             ],
             "title": "\u201cNo Dogs\u201d by Kirisis \u201cKC\u201d Alpinus"
         },
@@ -8177,8 +8175,8 @@
                 "legend",
                 "action/adventure",
                 "historical",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cThe Hadfield Robbery\u201d by Pascal Farful"
         },
@@ -8193,8 +8191,8 @@
                 "check-tags",
                 "gothic",
                 "contemporary",
-                "by:crimson-ruari",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:crimson-ruari"
             ],
             "title": "\u201cSomewhere In The Cypress\u201d by Crimson Ruari"
         },
@@ -8208,8 +8206,8 @@
             "tags": [
                 "check-tags",
                 "romance",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cCrystal\u201d by Metassus "
         },
@@ -8226,8 +8224,8 @@
                 "drama",
                 "drugs/alcohol",
                 "trauma",
-                "by:dan-leinir-turthra-jensen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dan-leinir-turthra-jensen"
             ],
             "title": "\u201cFlying Rat\u201d by Dan Leinir Turthra Jensen"
         },
@@ -8241,8 +8239,8 @@
             "tags": [
                 "check-tags",
                 "humor",
-                "by:tj-minde",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:tj-minde"
             ],
             "title": "\u201cLike Playing a Volkswagen\u201d by TJ Minde"
         },
@@ -8256,8 +8254,8 @@
             "tags": [
                 "check-tags",
                 "gothic",
-                "by:slip-wolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:slip-wolf"
             ],
             "title": "\u201cThe Charitable Pact of a Soft Hearted Fool\u201d by Slip-Wolf"
         },
@@ -8273,8 +8271,8 @@
                 "gothic",
                 "medieval",
                 "blood",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cAt The Inn\u2014Whitewash\u201d by Metassus"
         },
@@ -8290,8 +8288,8 @@
                 "lgbtq+",
                 "romance",
                 "historical",
-                "by:joel-kreissman",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:joel-kreissman"
             ],
             "title": "\u201cA World Lost\u201d by Joel Kreissman"
         },
@@ -8306,8 +8304,8 @@
                 "check-tags",
                 "romance",
                 "fantasy",
-                "by:jay-shirou-coughlan",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:jay-shirou-coughlan"
             ],
             "title": " \u201cDragon Roasted Coffee Beans\u201d by Jay \u201cShirou\u201d Coughlan"
         },
@@ -8322,8 +8320,8 @@
                 "check-tags",
                 "humor",
                 "epic",
-                "by:alison-cybe",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:alison-cybe"
             ],
             "title": "\u201cSpace Warrior Hitachi\u201d by Alison Cybe"
         },
@@ -8339,8 +8337,8 @@
                 "legend",
                 "drama",
                 "medieval",
-                "by:jaden-drackus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:jaden-drackus"
             ],
             "title": "\u201cThe Fox and the Lion Cosplayer\u201d by Jaden Drackus"
         },
@@ -8358,8 +8356,8 @@
                 "military",
                 "blood",
                 "violence",
-                "by:huskyteer",
-                "narrator:huskyteer"
+                "narrator:huskyteer",
+                "by:huskyteer"
             ],
             "title": "\u201cThe Zeroth Protocol\u201d by Huskyteer"
         },
@@ -8374,8 +8372,8 @@
                 "check-tags",
                 "gothic",
                 "historical",
-                "by:altivo-overo",
-                "narrator:altivo-overo"
+                "narrator:altivo-overo",
+                "by:altivo-overo"
             ],
             "title": "\u201cBeyond Mundane Horizons\u201d by Altivo Overo"
         },
@@ -8391,8 +8389,8 @@
                 "romance",
                 "historical",
                 "queerphobia",
-                "by:kergiby",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kergiby"
             ],
             "title": "\u201cHome Again\u201d by Kergiby"
         },
@@ -8406,8 +8404,8 @@
             "tags": [
                 "check-tags",
                 "humor",
-                "by:crimson-ruari",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:crimson-ruari"
             ],
             "title": "\u201cGate-Keeper\u201d by Crimson Ruari"
         },
@@ -8422,8 +8420,8 @@
                 "check-tags",
                 "romance",
                 "crime",
-                "by:w-r-frixmargen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:w-r-frixmargen"
             ],
             "title": "\u201cLittle Light Show\u201d by W.R. Frixmargen"
         },
@@ -8440,8 +8438,8 @@
                 "eldritch",
                 "drama",
                 "historical",
-                "by:dan-leinir-turthra-jensen",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dan-leinir-turthra-jensen"
             ],
             "title": "\u201cNo Peas In My Garden\u201d by Dan Leinir Turthra Jensen"
         },
@@ -8458,8 +8456,8 @@
                 "drama",
                 "fantasy",
                 "blood",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cThe Tomb Guardian\u201d by NightEyes DaySpring"
         },
@@ -8475,8 +8473,8 @@
                 "family-saga",
                 "mystery",
                 "political/espionage",
-                "by:skunkbomb",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:skunkbomb"
             ],
             "title": "\u201cBroadstripe, Virginia Smells Like Skunk\u201d by Skunkbomb"
         },
@@ -8490,8 +8488,8 @@
             "tags": [
                 "check-tags",
                 "humor",
-                "by:alison-cybe",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:alison-cybe"
             ],
             "title": "\u201cI Never Wear Underwear\u201d by Alison Cybe"
         },
@@ -8506,8 +8504,8 @@
                 "check-tags",
                 "romance",
                 "military",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cDear Sara\u201d by Metassus"
         },
@@ -8522,8 +8520,8 @@
                 "check-tags",
                 "romance",
                 "contemporary",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cCatch Me If You Can\u201d by Altivo Overo"
         },
@@ -8538,8 +8536,8 @@
                 "check-tags",
                 "survival",
                 "historical",
-                "by:domus-vocis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:domus-vocis"
             ],
             "title": "\u201cSomewhere in the White Void\u201d by Domus Vocis"
         },
@@ -8553,8 +8551,8 @@
             "tags": [
                 "check-tags",
                 "fantasy",
-                "by:frances-pauli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:frances-pauli"
             ],
             "title": "\u201cRats\u201d by Frances Pauli"
         },
@@ -8570,8 +8568,8 @@
                 "lgbtq+",
                 "spooky",
                 "blood",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cSnowed In\u201d by Metassus"
         },
@@ -8587,8 +8585,8 @@
                 "romance",
                 "drama",
                 "fantasy",
-                "by:kyell-gold",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kyell-gold"
             ],
             "title": "\u201cTo Catch a Thief\u201d by Kyell Gold"
         },
@@ -8605,8 +8603,8 @@
                 "legend",
                 "fantasy",
                 "nsfw",
-                "by:faora-meridian",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:faora-meridian"
             ],
             "title": " \u201cNot So Above It All\u201d by Faora Meridian [18+]"
         },
@@ -8623,8 +8621,8 @@
                 "gothic",
                 "action/adventure",
                 "medieval",
-                "by:spottystuff",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:spottystuff"
             ],
             "title": "\u201cLet Them Have Cake\u201d by Spottystuff"
         },
@@ -8640,8 +8638,8 @@
                 "family-saga",
                 "drama",
                 "historical",
-                "by:dwale",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dwale"
             ],
             "title": "\u201cBehesht\u201d by Dwale"
         },
@@ -8657,8 +8655,8 @@
                 "adult",
                 "romance",
                 "nsfw",
-                "by:kergiby",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kergiby"
             ],
             "title": "\u201cA Number\u2019s Game\u201d by Kergiby [18+]"
         },
@@ -8671,8 +8669,8 @@
             "summary": "<p>Today\u2019s story is \u201c<a href=\"https://www.deviantart.com/toledo-the-horse/art/Fuzzy-Memory-367149806\"><u>Fuzzy Memory</u></a>\u201d by friend-of-the-fireplace <a href=\"https://twitter.com/ToledoTheHorse\"><u>Toledo</u></a>, who is a horse who writes when inspiration strikes hard enough to brave the prospect of plunking out a story on a giant keyboard with a single hoof. You can find more of his writing \u2014 as well as his visual art \u2014 in his FurAffinity or DeviantArt galleries. On DA he's <a href=\"https://www.deviantart.com/toledo-the-horse\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Toledo-The-Horse</a>, and on FA he's the oh-so-obvious &nbsp;'<a href=\"https://www.furaffinity.net/user/out-of-the-boks\" rel=\"ugc noopener noreferrer\" target=\"_blank\">out-of-the-boks'</a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\" rel=\"ugc noopener noreferrer\" target=\"_blank\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "by:toledo-the-horse",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:toledo-the-horse"
             ],
             "title": "\u201cFuzzy Memory\u201d by Toledo the Horse"
         },
@@ -8692,8 +8690,8 @@
                 "nsfw",
                 "blood",
                 "drugs/alcohol",
-                "by:b-p-rugger",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:b-p-rugger"
             ],
             "title": "\u201cColour Me Terrified\u201d by B. P. Rugger [18+]"
         },
@@ -8713,8 +8711,8 @@
                 "drama",
                 "fantasy",
                 "queerphobia",
-                "by:ryan-campbell",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ryan-campbell"
             ],
             "title": "\u201c6 Unbelievable Facts About Unicorns That Will Completely Blow Your Mind\u201d by Ryan Campbell"
         },
@@ -8728,8 +8726,8 @@
             "tags": [
                 "check-tags",
                 "spooky",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cThe Sacred Cross\u201d by Pascal Farful"
         },
@@ -8745,8 +8743,8 @@
                 "humor",
                 "drama",
                 "western",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cCoyote\u2019s Voice\u201d by Altivo Overo"
         },
@@ -8760,8 +8758,8 @@
             "tags": [
                 "check-tags",
                 "historical",
-                "by:frances-pauli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:frances-pauli"
             ],
             "title": "\u201cThe Lion Sleeps\u201d by Frances Pauli"
         },
@@ -8778,8 +8776,8 @@
                 "humor",
                 "drama",
                 "contemporary",
-                "by:significantotter",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:significantotter"
             ],
             "title": "\u201cLone\u201d by SignificantOtter"
         },
@@ -8795,8 +8793,8 @@
                 "spooky",
                 "crime",
                 "fantasy",
-                "by:ben-goodridge",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ben-goodridge"
             ],
             "title": "\u201cHot Dog\u201d by Ben Goodridge"
         },
@@ -8811,8 +8809,8 @@
                 "check-tags",
                 "humor",
                 "drama",
-                "by:metassus",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:metassus"
             ],
             "title": "\u201cAt The Inn\u201d by Metassus"
         },
@@ -8826,8 +8824,8 @@
             "tags": [
                 "check-tags",
                 "fantasy",
-                "by:nenekiri-bookwyrm",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cUnpredictability\u201d by Nenekiri Bookwyrm"
         },
@@ -8842,8 +8840,8 @@
                 "check-tags",
                 "romance",
                 "military",
-                "by:c-f-becker",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:c-f-becker"
             ],
             "title": "\u201cA Day With the Skaraks\u201d by C.F. Becker"
         },
@@ -8857,8 +8855,8 @@
             "tags": [
                 "check-tags",
                 "military",
-                "by:renee-carter-hall",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:renee-carter-hall"
             ],
             "title": "\u201cThe Wishing Tree\u201d by Renee Carter Hall"
         },
@@ -8875,8 +8873,8 @@
                 "family-saga",
                 "drama",
                 "western",
-                "by:ocean-tigrox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ocean-tigrox"
             ],
             "title": "\u201cFood, Feuds and Fake Flora\u201d by Ocean Tigrox"
         },
@@ -8891,8 +8889,8 @@
                 "check-tags",
                 "romance",
                 "drama",
-                "by:toledo-the-horse",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:toledo-the-horse"
             ],
             "title": "\u201cReturning\u201d by Toledo the Horse"
         },
@@ -8906,8 +8904,8 @@
             "tags": [
                 "check-tags",
                 "western",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cThe Blue Eye of the Desert God\u201d by Altivo Overo"
         },
@@ -8925,8 +8923,8 @@
                 "crime",
                 "historical",
                 "nsfw",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "\u201cAdrenaline High\u201d by Kandrel [18+]"
         },
@@ -8945,8 +8943,8 @@
                 "historical",
                 "blood",
                 "violence",
-                "by:madison-scott-clary",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:madison-scott-clary"
             ],
             "title": "\u201cThe Fool\u201d by Madison Scott-Clary"
         },
@@ -8962,8 +8960,8 @@
                 "humor",
                 "crime",
                 "contemporary",
-                "by:pascal-farful",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:pascal-farful"
             ],
             "title": "\u201cNobody\u2019s Home\u201d by Pascal Farful"
         },
@@ -8982,8 +8980,8 @@
                 "contemporary",
                 "nsfw",
                 "queerphobia",
-                "by:field-t-mouse",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:field-t-mouse"
             ],
             "title": "\u201cA Little Distraction\u201d by Field T. Mouse [18+]"
         },
@@ -8999,8 +8997,8 @@
                 "romance",
                 "drama",
                 "historical",
-                "by:slip-wolf",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:slip-wolf"
             ],
             "title": "\u201cKypris\u2019 Kiss\u201d by Slip-Wolf"
         },
@@ -9020,8 +9018,8 @@
                 "thriller/suspense",
                 "action/adventure",
                 "nsfw",
-                "by:b-p-rugger",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:b-p-rugger"
             ],
             "title": "\"Of His Flesh the Mystery Sing\" by B. P. Rugger [18+]"
         },
@@ -9040,8 +9038,8 @@
                 "thriller/suspense",
                 "drama",
                 "political/espionage",
-                "by:kyell-gold",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kyell-gold"
             ],
             "title": "\u201cAgent Friendzone\u201d by Kyell Gold"
         },
@@ -9057,8 +9055,8 @@
                 "legend",
                 "epic",
                 "military",
-                "by:bill-ricardi",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:bill-ricardi"
             ],
             "title": "\u201cThe Fastest Blade\u201d by Bill Ricardi"
         },
@@ -9075,8 +9073,8 @@
                 "eldritch",
                 "historical",
                 "nsfw",
-                "by:rob-baird",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:rob-baird"
             ],
             "title": "\u201cGames at G\u00f6tterd\u00e4mmerung\u201d by Rob Baird [18+]"
         },
@@ -9091,8 +9089,8 @@
                 "check-tags",
                 "gothic",
                 "crime",
-                "by:dark-end",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:dark-end"
             ],
             "title": "\u201cThe Aviatrix\u201d by Dark End"
         },
@@ -9109,8 +9107,8 @@
                 "romance",
                 "medieval",
                 "nsfw",
-                "by:domus-vocis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:domus-vocis"
             ],
             "title": "\u201cHades & Philos: Prelude\u201d by Domus Vocis [18+]"
         },
@@ -9126,8 +9124,8 @@
                 "gothic",
                 "epic",
                 "nsfw",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "\u201cSalute the Flag\u201d by Kandrel"
         },
@@ -9144,8 +9142,8 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:faolan",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:faolan"
             ],
             "title": "\u201cEarning his Stripes\u201d by Faolan [18+]"
         },
@@ -9161,8 +9159,8 @@
                 "holiday",
                 "action/adventure",
                 "fantasy",
-                "by:carrizo-kitfox",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:carrizo-kitfox"
             ],
             "title": "\"The Rat's Gift\" by Carrizo Kitfox"
         },
@@ -9182,8 +9180,8 @@
                 "nsfw",
                 "blood",
                 "queerphobia",
-                "by:kandrel",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:kandrel"
             ],
             "title": "\u201cTo Find You\u201d by Kandrel [18+]"
         },
@@ -9199,8 +9197,8 @@
                 "romance",
                 "drama",
                 "medieval",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cHarvest Home\u201d by Altivo Overo"
         },
@@ -9220,8 +9218,8 @@
                 "blood",
                 "nsfw",
                 "violence",
-                "by:ryan-campbell",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:ryan-campbell"
             ],
             "title": "\u201cEagle\u2019s Splendour\u201d by Ryan Campbell"
         },
@@ -9238,8 +9236,8 @@
                 "humor",
                 "mystery",
                 "political/espionage",
-                "by:frances-pauli",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:frances-pauli"
             ],
             "title": "\u201cAlways Tomorrow\u201d by Frances Pauli"
         },
@@ -9256,8 +9254,8 @@
                 "family-saga",
                 "crime",
                 "political/espionage",
-                "by:domus-vocis",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:domus-vocis"
             ],
             "title": "\u201cBounty Hunter Uncle\u201d by Domus Vocis"
         },
@@ -9273,8 +9271,8 @@
                 "spooky",
                 "mystery",
                 "political/espionage",
-                "by:toledo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:toledo"
             ],
             "title": "\"Secret\" by Toledo"
         },
@@ -9289,8 +9287,8 @@
                 "check-tags",
                 "romance",
                 "mystery",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cAll That Glitters\u201d by Altivo Overo"
         },
@@ -9306,8 +9304,8 @@
                 "romance",
                 "crime",
                 "historical",
-                "by:altivo-overo",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:altivo-overo"
             ],
             "title": "\u201cGibbous Moon Waning\u201d by Altivo Overo"
         },
@@ -9326,8 +9324,8 @@
                 "nsfw",
                 "blood",
                 "queerphobia",
-                "by:nighteyes-dayspring",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:nighteyes-dayspring"
             ],
             "title": "\u201cLoving You is Wrong\u201d by NightEyes DaySpring [18+]"
         },
@@ -9343,8 +9341,8 @@
                 "spooky",
                 "drama",
                 "western",
-                "by:huskyteer",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:huskyteer"
             ],
             "title": "\u201cOnce We Were Meerkats\u201d by Huskyteer"
         },
@@ -9359,8 +9357,8 @@
                 "check-tags",
                 "speculative",
                 "contemporary",
-                "by:televassi",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:televassi"
             ],
             "title": "\u201cCounter-Culture\u201d by Televassi"
         },
@@ -9377,8 +9375,8 @@
                 "crime",
                 "fantasy",
                 "drugs/alcohol",
-                "by:rob-baird",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rob-baird"
             ],
             "title": "\u201cBad dog!\u201d by Rob Baird"
         }
@@ -9425,7 +9423,6 @@
         "by:coda": "Author: Coda",
         "by:crimson-ruari": "Author: Crimson Ruari",
         "by:dan-elan": "Author: Dan \u00c9lan",
-        "by:dan-lan": "Author: Dan \u00c9lan",
         "by:dan-leinir-turthra-jensen": "Author: Dan Leinir Turthra Jensen",
         "by:daniel": "Author: Daniel",
         "by:danny-wolf": "Author: Danny Wolf",
@@ -9440,7 +9437,6 @@
         "by:dukeferret": "Author: DukeFerret",
         "by:dwale": "Author: Dwale",
         "by:earbender": "Author: Earbender",
-        "by:et-al": "Author: \u00c6 et al",
         "by:evan-drake": "Author: Evan Drake",
         "by:ezen-baklattan": "Author: Ezen Baklattan",
         "by:faolan": "Author: Faolan",
@@ -9462,7 +9458,7 @@
         "by:herr-wozzeck": "Author: Herr Wozzeck",
         "by:herrwozzeck": "Author: HerrWozzeck",
         "by:hfe": "Author: HFE",
-        "by:holly-a-morrison": "Author: Holly A Morrison",
+        "by:holly-a-morrison": "Author: Holly A. Morrison",
         "by:huskyteer": "Author: Huskyteer",
         "by:ian-madison-keller": "Author: Ian Madison Keller",
         "by:iggy-q-roquefort": "Author: Iggy Q. Roquefort",
@@ -9603,7 +9599,7 @@
         "mystery": "Mystery",
         "narrator:altivo-overo": "Narrator: Altivo Overo",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
-        "narrator:b-p-rugger": "Narrator: B. P. Rugger",
+        "narrator:b-p-rugger": "Narrator: B P Rugger",
         "narrator:carrizo": "Narrator: Carrizo",
         "narrator:crimson-ruari": "Narrator: Crimson Ruari",
         "narrator:cross": "Narrator: Cross",
@@ -9612,10 +9608,10 @@
         "narrator:friends-of-the-fireplace": "Narrator: Friends Of The Fireplace",
         "narrator:gar-sahoni-atkins": "Narrator: Gar Sahoni Atkins",
         "narrator:herr-wozzeck": "Narrator: Herr Wozzeck",
-        "narrator:herrwozzeck": "Narrator: HerrWozzeck",
+        "narrator:herrwozzeck": "Narrator: Herrwozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
-        "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
+        "narrator:ianus-j-wolf": "Narrator: Ianus J Wolf",
         "narrator:icefang": "Narrator: Icefang",
         "narrator:kai": "Narrator: Kai",
         "narrator:kaki": "Narrator: Kaki",
@@ -9623,14 +9619,14 @@
         "narrator:khaki": "Narrator: Khaki",
         "narrator:killick": "Narrator: Killick",
         "narrator:leuna": "Narrator: Leuna",
-        "narrator:madison-scott-clary": "Narrator: Madison Scott-Clary",
-        "narrator:mary-e-lowd": "Narrator: Mary E. Lowd",
+        "narrator:madison-scott-clary": "Narrator: Madison Scott Clary",
+        "narrator:mary-e-lowd": "Narrator: Mary E Lowd",
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
-        "narrator:rob-macwolf": "Narrator: Rob MacWolf",
+        "narrator:rob-macwolf": "Narrator: Rob Macwolf",
         "narrator:solomon-harries": "Narrator: Solomon Harries",
-        "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
-        "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
+        "narrator:ta-kom-ironhoof": "Narrator: Ta Kom Ironhoof",
+        "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -9943,6 +9939,9 @@
             "eagle-s-splendour-by-ryan-campbell",
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
+        "by:ae-et-al": [
+            "memory-by-et-al-"
+        ],
         "by:aelius": [
             "rune-weaver-by-aelius-part-2-of-2",
             "rune-weaver-by-aelius-part-1-of-2",
@@ -10095,7 +10094,7 @@
             "somewhere-in-the-cypress-by-crimson-ruari",
             "gate-keeper-by-crimson-ruari"
         ],
-        "by:dan-lan": [
+        "by:dan-elan": [
             "the-hare-a-poem-by-dan-elan"
         ],
         "by:dan-leinir-turthra-jensen": [
@@ -10187,9 +10186,6 @@
         "by:earbender": [
             "nuthin-but-a-houn-dog-by-earbender-part-2-of-2-18",
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18"
-        ],
-        "by:et-al": [
-            "memory-by-et-al-"
         ],
         "by:evan-drake": [
             "an-act-of-kindness-by-evan-drake",

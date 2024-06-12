@@ -92,6 +92,7 @@
             "by:k-c-shaw",
             "by:kandrel",
             "by:katlina-sommerberg",
+            "by:kayod-lycaon",
             "by:kayode-lycaon",
             "by:kenneth-grahame",
             "by:kergiby",
@@ -4969,12 +4970,11 @@
             "slug": "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "romance",
                 "drama",
                 "historical",
-                "by:ari-yena",
-                "narrator:rob-macwolf"
+                "narrator:khaki",
+                "by:ari-yena"
             ],
             "title": "\u201cThe Life and Death of August Corcoran\u201d by Ari Yena (part 1 of 2)"
         },
@@ -5295,7 +5295,7 @@
                 "romance",
                 "historical",
                 "nsfw",
-                "by:kayode-lycaon",
+                "by:kayod-lycaon",
                 "narrator:rob-macwolf"
             ],
             "title": "\u201cMidnight\u201d by Kayod\u00e9 Lycaon [18+]"
@@ -9616,6 +9616,7 @@
         "by:k-c-shaw": "Author: K.C. Shaw",
         "by:kandrel": "Author: Kandrel",
         "by:katlina-sommerberg": "Author: Katlina Sommerberg",
+        "by:kayod-lycaon": "Author: Kayod\u00e9 Lycaon",
         "by:kayode-lycaon": "Author: Kayod\u00e9 Lycaon",
         "by:kenneth-grahame": "Author: Kenneth Grahame",
         "by:kergiby": "Author: Kergiby",
@@ -10514,12 +10515,14 @@
         "by:katlina-sommerberg": [
             "finding-a-lost-inventor-by-katlina-sommerberg"
         ],
+        "by:kayod-lycaon": [
+            "midnight-by-kayode-lycaon-18"
+        ],
         "by:kayode-lycaon": [
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
             "priest-of-lilies-by-kayode-lycaon-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-1",
-            "midnight-by-kayode-lycaon-18",
             "a-lazy-monday-by-kayode-lycaon",
             "date-night-by-kayode-lycaon"
         ],
@@ -11131,7 +11134,6 @@
             "harmonize-a-poem-by-al-song-read-by-rob-macwolf",
             "reunion-by-ardy-hart-18",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
-            "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
             "tending-to-a-beast-by-piggucaz-18",
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "where-no-man-walks-by-signatelli-part-2-of-2",
@@ -12623,6 +12625,7 @@
             "a-stranger-in-the-woods-by-writer-a",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
+            "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
             "lead-a-unicorn-to-water-by-frances-pauli",
             "owls-nest-by-harry-18",
             "a-perilous-brew-by-arcane-reno",
@@ -12950,7 +12953,6 @@
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "harmonize-a-poem-by-al-song-read-by-rob-macwolf",
             "reunion-by-ardy-hart-18",
-            "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
             "tending-to-a-beast-by-piggucaz-18",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2",

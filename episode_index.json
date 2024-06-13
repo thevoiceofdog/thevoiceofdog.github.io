@@ -5310,8 +5310,13 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "adult",
+                "romance",
+                "drama",
+                "contemporary",
+                "nsfw",
                 "by:aero-dragneel",
-                "narrator:rob-macwolf"
+                "narrator:kaki"
             ],
             "title": "\u201cA Class Act\u201d by Aero Dragneel [18+]"
         },
@@ -5430,8 +5435,12 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "gothic",
+                "action/adventure",
+                "historical",
+                "blood",
                 "by:tony-greyfox",
-                "narrator:rob-macwolf"
+                "narrator:kaki"
             ],
             "title": "\u201cCome the Storm\u201d by Tony Greyfox (part 2 of 2)"
         },
@@ -5444,8 +5453,9 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "action/adventure",
                 "by:tony-greyfox",
-                "narrator:rob-macwolf"
+                "narrator:kaki"
             ],
             "title": "\u201cCome the Storm\u201d by Tony Greyfox (part 1 of 2)"
         },
@@ -7209,8 +7219,9 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "romance",
                 "by:anhedral",
-                "narrator:rob-macwolf"
+                "narrator:kaki"
             ],
             "title": "\u201cAbstinence\u201d by Anhedral"
         },
@@ -9827,6 +9838,8 @@
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
+            "come-the-storm-by-tony-greyfox-part-2-of-2",
+            "come-the-storm-by-tony-greyfox-part-1-of-2",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author",
             "nuthin-but-a-houn-dog-by-earbender-part-2-of-2-18",
             "the-other-side-of-the-mirror-by-kidra-part-1-of-2",
@@ -9924,6 +9937,7 @@
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "owls-nest-by-harry-18",
             "midnight-by-kayode-lycaon-18",
+            "a-class-act-by-aero-dragneel-18",
             "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
@@ -10040,6 +10054,7 @@
             "the-winter-coat-by-brathor-cyr",
             "tending-to-a-beast-by-piggucaz-18",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
+            "come-the-storm-by-tony-greyfox-part-2-of-2",
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "furta-sacra-by-rose-lacroix",
             "tearing-ole-by-j-z-belexes-mixdown",
@@ -11402,6 +11417,7 @@
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-2-of-2-read-by-the-author",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
+            "a-class-act-by-aero-dragneel-18",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
             "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
@@ -11578,6 +11594,7 @@
             "qoheleth-by-madison-scott-clary-an-excerpt-read-by-the-author-herself",
             "red-delicious-by-buddy-goodboy",
             "jump-by-madison-scott-clary-read-by-the-author-herself",
+            "a-class-act-by-aero-dragneel-18",
             "the-hand-of-god-by-madison-scott-clary-read-by-b-p-rugger",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",
@@ -11994,6 +12011,7 @@
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
+            "come-the-storm-by-tony-greyfox-part-2-of-2",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
             "furta-sacra-by-rose-lacroix",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-2-of-2",
@@ -12070,6 +12088,7 @@
             "red-delicious-by-buddy-goodboy",
             "midnight-by-kayode-lycaon-18",
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
+            "come-the-storm-by-tony-greyfox-part-2-of-2",
             "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
@@ -12515,6 +12534,12 @@
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2"
         ],
+        "narrator:kaki": [
+            "a-class-act-by-aero-dragneel-18",
+            "come-the-storm-by-tony-greyfox-part-2-of-2",
+            "come-the-storm-by-tony-greyfox-part-1-of-2",
+            "abstinence-by-anhedral"
+        ],
         "narrator:kergiby": [
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
@@ -12913,18 +12938,14 @@
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-2-of-2-read-by-the-author",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
             "midnight-by-kayode-lycaon-18",
-            "a-class-act-by-aero-dragneel-18",
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf",
-            "come-the-storm-by-tony-greyfox-part-2-of-2",
-            "come-the-storm-by-tony-greyfox-part-1-of-2",
             "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-2-of-2",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-1-of-2",
             "rest-less-a-poem-by-rob-macwolf",
             "samovar-by-altivo-overo",
-            "abstinence-by-anhedral",
             "remembering-the-forgotten-by-h-j-pang",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "bad-dog-by-rob-baird"
@@ -13065,6 +13086,7 @@
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "owls-nest-by-harry-18",
             "midnight-by-kayode-lycaon-18",
+            "a-class-act-by-aero-dragneel-18",
             "the-green-night-by-rob-macwolf-part-2-of-2-read-by-the-author-18",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
@@ -13453,6 +13475,7 @@
             "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "midnight-by-kayode-lycaon-18",
+            "a-class-act-by-aero-dragneel-18",
             "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
@@ -13496,6 +13519,7 @@
             "winter-snow-by-tanner-silverpaw",
             "date-night-by-kayode-lycaon",
             "the-library-by-metassus",
+            "abstinence-by-anhedral",
             "lights-in-the-sky-by-j-fr-coates-part-2-of-2",
             "these-are-the-days-of-our-lives-by-weasel-18",
             "variables-by-roland-jovaik-part-2-of-2",

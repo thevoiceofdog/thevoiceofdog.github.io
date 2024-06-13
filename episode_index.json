@@ -309,6 +309,27 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b3d91282-1e49-4301-a96f-ea5d55c52fc5/It-Only-Takes-A-Moment-by-HerrWozzeck-part-1-of-2.mp3",
+            "published_date": "2024-06-13T19:00:00.000Z",
+            "shownotes": "<p><em>Finding a new gym is an endeavor Julian Armstrong was prepared for. He was not prepared for how attracted he gets to the spotter.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201c<a href=\"https://www.furaffinity.net/view/46628581/\" rel=\"noopener noreferrer\" target=\"_blank\">It Only Takes A Moment</a>\u201d by Herr Wozzeck, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by the Author themselves.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "gay",
+                "pride-month",
+                "romance",
+                "action/adventure",
+                "historical",
+                "by:herrwozzeck",
+                "narrator:herrwozzeck"
+            ],
+            "title": "\u201cIt Only Takes A Moment\u201d by HerrWozzeck (part 1 of 2, read by the author)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0b88275b-6bf7-4a19-a389-72c2ddf9cb8a/18-An-Alien-in-Our-Midst-by-Ty-Fox-part-2-of-2.mp3",
             "published_date": "2024-06-12T19:00:00.000Z",
             "shownotes": "<p>[18+] <em>One year later, Jace looks for answers at his campus LGBT+ alliance, but is terrified that they may leave him feeling even more alienated.</em></p><p>Today\u2019s story is the second and final part of \u201cAn Alien in Our Midst\u201d by <a href=\"https://twitter.com/Ty_Foxface\" rel=\"noopener noreferrer\" target=\"_blank\">Ty Fox</a>, a furry author who focuses on telling stories centered around LGBT+ experiences. He has recently published a full-length gay romance novel, <a href=\"https://www.amazon.com/dp/B0CZH7CSYK\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Gravitational Pull</em></a>, which is now available for purchase.&nbsp; You can find more of his stories on his <a href=\"https://tyfox.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry account</a>.</p><p>Last time, Jace struggled with the fact that his erotic fantasies don\u2019t involve being intimate with his girlfriend, Dani, despite the fact that he loves her very much and wants to keep being in a relationship. He doesn\u2019t understand why he is the way he is \u2013 only that he\u2019s very different from everyone he knows. Things came to a head between them during a Valentine\u2019s Day date, where she expressed her confusion and frustration that he doesn\u2019t want her in that way. The date ended early and awkwardly, with Jace realizing that things ultimately won\u2019t work out between them because of his asexuality.</p><p>Read by Solomon Harries, cuddly badger dad. </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -9802,6 +9823,7 @@
     },
     "tags": {
         "action/adventure": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "love-like-echoed-fire-by-js-hawthorne",
             "memory-by-et-al-",
             "outfoxed-by-hania",
@@ -10419,6 +10441,9 @@
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "shopping-trip-by-herr-wozzeck"
         ],
+        "by:herrwozzeck": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
+        ],
         "by:holly-a-morrison": [
             "the-pwca-by-holly-a-morrison-18"
         ],
@@ -10961,6 +10986,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
@@ -11877,6 +11903,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "all-means-all-by-rob-macwolf",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "ode-to-the-gay-bar-i-was-too-chickenshit-to-go-to-by-nenekiri-bookwyrm",
@@ -12043,6 +12070,7 @@
             "salute-the-flag-by-kandrel"
         ],
         "historical": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
@@ -12255,6 +12283,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "all-means-all-by-rob-macwolf",
@@ -12513,6 +12542,9 @@
         ],
         "narrator:gar-sahoni-atkins": [
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
+        ],
+        "narrator:herrwozzeck": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
         ],
         "narrator:huskyteer": [
             "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
@@ -13267,6 +13299,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "all-means-all-by-rob-macwolf",
@@ -13314,6 +13347,7 @@
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
         "queer": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "all-means-all-by-rob-macwolf",
@@ -13401,6 +13435,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",

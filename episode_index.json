@@ -232,11 +232,6 @@
             "narrator:ardy-hart",
             "narrator:b-p-rugger",
             "narrator:carrizo",
-            "narrator:cocky-you-re-faithful",
-            "narrator:cocky-your-faithful-fireside-as-always",
-            "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-how-the-characters-steal-the-figurines-and-save-the-rat-as-always-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for",
-            "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-who-these-mysterious-strangers-are-and-what-they-want-with-as-always",
-            "narrator:cocky-your-faithful-fireside-companion-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for-listening-to-the-voice-of-dog",
             "narrator:crimson-ruari",
             "narrator:cross",
             "narrator:dirt-coyote",
@@ -270,6 +265,7 @@
             "narrator:tempe-o-kun",
             "narrator:tempo",
             "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-in-the-snow-from-share-surprise-and-delight-or-rat-he-cried-in-penitence-we-all-are-a-wonder-uh",
+            "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-on-the-snow-from-sheer-surprise-and-delight-rat-he-cried-in-penitence",
             "narrator:the-author",
             "narrator:the-poet-thank-you-for-listening-to-poetry-month-on-the-voice-of-dog",
             "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
@@ -3548,12 +3544,10 @@
             "tags": [
                 "check-tags",
                 "adult",
-                "legend",
-                "crime",
-                "military",
+                "historical",
                 "nsfw",
                 "by:ziegenbock",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cConfluence \u201d by Ziegenbock [18+]"
         },
@@ -3582,12 +3576,11 @@
             "slug": "diamond-in-the-rat-by-roan-rosser-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "humor",
                 "drama",
                 "fantasy",
-                "by:roan-rosser",
-                "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-how-the-characters-steal-the-figurines-and-save-the-rat-as-always-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for"
+                "narrator:khaki",
+                "by:roan-rosser"
             ],
             "title": "\u201cDiamond in the Rat\u201d by Roan Rosser (part 1 of 2)"
         },
@@ -4906,7 +4899,7 @@
                 "drama",
                 "fantasy",
                 "by:k-c-shaw",
-                "narrator:nenekiri-bookwyrm-reminding-you-to-curl-up-with-a-good-book-and-be-kind-to-yourself-please-enjoy-sea-and-sky-by-casey-shaw-spider-was-fishing-when-he-saw-the-inland-dragon-he-first-noticed-her-as-a-bright-red-moat-in-the-sky"
+                "narrator:nenekiri-bookwyrm"
             ],
             "title": "\u201cSea and Sky\u201d by K.C. Shaw (read by Nenekiri Bookwyrm)"
         },
@@ -4934,10 +4927,12 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "adult",
                 "romance",
                 "historical",
+                "nsfw",
                 "by:ardy-hart",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cReunion\u201d by Ardy Hart [18+]"
         },
@@ -4949,7 +4944,6 @@
             "slug": "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "queer",
                 "gay",
@@ -4957,8 +4951,8 @@
                 "drama",
                 "contemporary",
                 "self-harm",
-                "by:ari-yena",
-                "narrator:cocky-you-re-faithful"
+                "narrator:khaki",
+                "by:ari-yena"
             ],
             "title": "\u201cThe Life and Death of August Corcoran\u201d by Ari Yena (part 2 of 2)"
         },
@@ -4987,11 +4981,13 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "adult",
                 "spooky",
-                "blood",
                 "nsfw",
+                "blood",
+                "gore",
                 "by:piggucaz",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cTending To A Beast\u201d by PigguCaz [18+]"
         },
@@ -5004,11 +5000,10 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "romance",
+                "gothic",
                 "historical",
-                "nsfw",
                 "by:kenneth-grahame",
-                "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-in-the-snow-from-share-surprise-and-delight-or-rat-he-cried-in-penitence-we-all-are-a-wonder-uh"
+                "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-on-the-snow-from-sheer-surprise-and-delight-rat-he-cried-in-penitence"
             ],
             "title": "\u201cThe Wind in the Willows\u201d, Chapter IIII, by Kenneth Grahame"
         },
@@ -5026,7 +5021,7 @@
                 "fantasy",
                 "nsfw",
                 "by:signatelli",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cWhere No Man Walks\u201d by Signatelli (part 2 of 2)"
         },
@@ -5041,7 +5036,7 @@
                 "check-tags",
                 "gothic",
                 "by:signatelli",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cWhere No Man Walks\u201d by Signatelli (part 1 of 2)"
         },
@@ -5055,9 +5050,10 @@
             "tags": [
                 "check-tags",
                 "holiday",
-                "spooky",
+                "romance",
+                "drama",
                 "by:lauren-rivers",
-                "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-lucy-s-christmas-wish-my-lauren-rivers-this-was-lucy-s-christmas-wish-my-lauren-rivers-i-read-for-you-by-rob-macwolf-werewolf-hitchhiker-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cLucy\u2019s Christmas Wish\u201d by Lauren Rivers (read by Rob MacWolf)"
         },
@@ -5096,7 +5092,7 @@
                 "contemporary",
                 "queerphobia",
                 "by:killick",
-                "narrator:cocky-your-faithful-fireside-companion-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for-listening-to-the-voice-of-dog"
+                "narrator:khaki"
             ],
             "title": "\u201cHam\u201d by Killick"
         },
@@ -5108,13 +5104,12 @@
             "slug": "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "humor",
                 "action/adventure",
                 "stone-age",
+                "narrator:khaki",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:cocky-your-faithful-fireside-as-always"
+                "by:rob-macwolf"
             ],
             "title": "\u201cInitial Survey of Quaisholm Cave Paintings, Origin Unknown, presumed Upper Mesolithic\u201d by SakaraFox and Rob MacWolf (part 2 of 2)"
         },
@@ -5126,12 +5121,11 @@
             "slug": "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "gothic",
                 "stone-age",
+                "narrator:khaki",
                 "by:sakarafox",
-                "by:rob-macwolf",
-                "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-who-these-mysterious-strangers-are-and-what-they-want-with-as-always"
+                "by:rob-macwolf"
             ],
             "title": "\u201cInitial Survey of Quaisholm Cave Paintings, Origin Unknown, presumed Upper Mesolithic\u201d by SakaraFox and Rob MacWolf (part 1 of 2)"
         },
@@ -5148,7 +5142,7 @@
                 "drama",
                 "contemporary",
                 "by:dukeferret",
-                "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-i-m-in-your-hometown-by-duke-ferrets-at-first-i-thought-she-was-a-ghost-a-white-blur-under-the-gleam-of-my-car-s-headlights-before-it-was-gone-i-stepped-on-the-brake-and-pulled-over-i-grabbed-my-cap-off-the-dashboard-and-exited-into-the-sunset-swampland-the-figure"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cI\u2019m In Your Hometown\u201d by DukeFerret (read by Rob MacWolf)"
         },
@@ -5193,10 +5187,10 @@
             "tags": [
                 "check-tags",
                 "family-saga",
-                "crime",
+                "drama",
                 "historical",
                 "by:buddy-goodboy",
-                "narrator:rob-macwolf"
+                "narrator:khaki"
             ],
             "title": "\u201cRed Delicious\u201d by Buddy Goodboy"
         },
@@ -6232,8 +6226,11 @@
             "summary": "",
             "tags": [
                 "check-tags",
+                "romance",
+                "contemporary",
+                "queerphobia",
                 "by:dirt-coyote",
-                "narrator:rob-macwolf"
+                "narrator:kergiby"
             ],
             "title": "\u201cHey Buddy\u201d by Dirt Coyote (read by Kergiby)"
         },
@@ -6300,7 +6297,7 @@
             "summary": "",
             "tags": [
                 "check-tags",
-                "legend",
+                "eldritch",
                 "fantasy",
                 "blood",
                 "by:evan-drake",
@@ -9512,6 +9509,10 @@
             "summary": "Today on The Voice of Dog we're reading https://www.sofurry.com/view/316964 (Bad dog!) by Robert Baird, who is a writer, mapmaker, and general tinkerer-with-worlds who has been at his craft since 2003. Deep space is his dwelling place but, rents being what they are, he keeps a flat in Berlin, Germany.\r\n\n\r\n\nYou can find him on the internet at http://writing.dog/ (http://writing.dog), which is just an amazing web address.\r\n\nRead for you by https://twitter.com/khakidoggy (Khaki), your faithful fireside companion.",
             "tags": [
                 "check-tags",
+                "family-saga",
+                "crime",
+                "fantasy",
+                "drugs/alcohol",
                 "by:rob-baird",
                 "narrator:rob-macwolf"
             ],
@@ -9743,11 +9744,6 @@
         "narrator:ardy-hart": "Narrator: Ardy Hart",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
         "narrator:carrizo": "Narrator: Carrizo",
-        "narrator:cocky-you-re-faithful": "Narrator: cocky. You're faithful",
-        "narrator:cocky-your-faithful-fireside-as-always": "Narrator: cocky your faithful fireside. As always",
-        "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-how-the-characters-steal-the-figurines-and-save-the-rat-as-always-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for": "Narrator: cocky your faithful fireside companion. Tune in next time to find out how the characters steal the figurines And save the rat As always you can find more stories on the web@thevoice.dog. Or find the show wherever you get your podcasts Thank you for",
-        "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-who-these-mysterious-strangers-are-and-what-they-want-with-as-always": "Narrator: cocky your faithful fireside companion tune. In next time to find out who these mysterious strangers are and what they want with. As always",
-        "narrator:cocky-your-faithful-fireside-companion-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for-listening-to-the-voice-of-dog": "Narrator: cocky your faithful fireside companion. You can find more stories on the web@thevoice.dog or find the show wherever you get your podcasts. Thank you for listening to the voice of dog.",
         "narrator:crimson-ruari": "Narrator: Crimson Ruari",
         "narrator:cross": "Narrator: Cross",
         "narrator:dirt-coyote": "Narrator: Dirt Coyote",
@@ -9769,18 +9765,19 @@
         "narrator:madison-scott-clary": "Narrator: Madison Scott-Clary",
         "narrator:mary-e-lowd": "Narrator: Mary E. Lowd",
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
-        "narrator:nenekiri-bookwyrm-reminding-you-to-curl-up-with-a-good-book-and-be-kind-to-yourself-please-enjoy-sea-and-sky-by-casey-shaw-spider-was-fishing-when-he-saw-the-inland-dragon-he-first-noticed-her-as-a-bright-red-moat-in-the-sky": "Narrator: Nenekiri Bookwyrm. Reminding you to curl up with a good book and be kind to yourself. Please enjoy. Sea and sky by Casey Shaw. Spider was fishing. When he saw the inland dragon. He first noticed her as a bright red moat in the sky",
+        "narrator:nenekiri-bookwyrm-reminding-you-to-curl-up-with-a-good-book-and-be-kind-to-yourself-please-enjoy-sea-and-sky-by-casey-shaw-spider-was-fishing-when-he-saw-the-inland-dragon-he-first-noticed-her-as-a-bright-red-moat-in-the-sky": "Narrator: Nenekiri Bookwyrm Reminding You To Curl Up With A Good Book And Be Kind To Yourself Please Enjoy Sea And Sky By Casey Shaw Spider Was Fishing When He Saw The Inland Dragon He First Noticed Her As A Bright Red Moat In The Sky",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
         "narrator:rob-macwolf": "Narrator: Rob MacWolf",
-        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-i-m-in-your-hometown-by-duke-ferrets-at-first-i-thought-she-was-a-ghost-a-white-blur-under-the-gleam-of-my-car-s-headlights-before-it-was-gone-i-stepped-on-the-brake-and-pulled-over-i-grabbed-my-cap-off-the-dashboard-and-exited-into-the-sunset-swampland-the-figure": "Narrator: Rob MacWolf. Werewolf hitchhiker. Please enjoy. I'm in your hometown by duke ferrets. At first I thought she was a ghost. a white blur under the gleam of my car\u2019s headlights before it was gone. I stepped on the brake and pulled over. I grabbed my cap off the dashboard and exited into the sunset swampland. The figure",
-        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-lucy-s-christmas-wish-my-lauren-rivers-this-was-lucy-s-christmas-wish-my-lauren-rivers-i-read-for-you-by-rob-macwolf-werewolf-hitchhiker-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show": "Narrator: Rob MacWolf. Werewolf hitchhiker. Please enjoy. Lucy's Christmas wish. My Lauren Rivers. This was Lucy's Christmas wish my Lauren Rivers. I read for you by Rob MacWolf. Werewolf hitchhiker. You can find more stories on the web@thevoice.dog or find the show",
+        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-i-m-in-your-hometown-by-duke-ferrets-at-first-i-thought-she-was-a-ghost-a-white-blur-under-the-gleam-of-my-car-s-headlights-before-it-was-gone-i-stepped-on-the-brake-and-pulled-over-i-grabbed-my-cap-off-the-dashboard-and-exited-into-the-sunset-swampland-the-figure": "Narrator: Rob Macwolf Werewolf Hitchhiker Please Enjoy I M In Your Hometown By Duke Ferrets At First I Thought She Was A Ghost A White Blur Under The Gleam Of My Car S Headlights Before It Was Gone I Stepped On The Brake And Pulled Over I Grabbed My Cap Off The Dashboard And Exited Into The Sunset Swampland The Figure",
+        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-lucy-s-christmas-wish-my-lauren-rivers-this-was-lucy-s-christmas-wish-my-lauren-rivers-i-read-for-you-by-rob-macwolf-werewolf-hitchhiker-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show": "Narrator: Rob Macwolf Werewolf Hitchhiker Please Enjoy Lucy S Christmas Wish My Lauren Rivers This Was Lucy S Christmas Wish My Lauren Rivers I Read For You By Rob Macwolf Werewolf Hitchhiker You Can Find More Stories On The Web Thevoice Dog Or Find The Show",
         "narrator:sierra": "Narrator: Sierra",
         "narrator:sinister-stoat-press-he-mostly-writes-horror": "Narrator: Sinister Stoat Press. He mostly writes horror",
         "narrator:solomon-harries": "Narrator: Solomon Harries",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
         "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
         "narrator:tempo": "Narrator: Tempo",
-        "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-in-the-snow-from-share-surprise-and-delight-or-rat-he-cried-in-penitence-we-all-are-a-wonder-uh": "Narrator: the aid of Moonlight. Mr Badger. The mole fell backwards in the snow from share surprise and delight. Or rat. He cried in penitence. We all are a wonder. Uh",
+        "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-in-the-snow-from-share-surprise-and-delight-or-rat-he-cried-in-penitence-we-all-are-a-wonder-uh": "Narrator: The Aid Of Moonlight Mr Badger The Mole Fell Backwards In The Snow From Share Surprise And Delight Or Rat He Cried In Penitence We All Are A Wonder Uh",
+        "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-on-the-snow-from-sheer-surprise-and-delight-rat-he-cried-in-penitence": "Narrator: the aid of moonlight MR. BADGER. The Mole fell backwards on the snow from sheer surprise and delight. \"Rat!\" he cried in penitence",
         "narrator:the-author": "Narrator: the author",
         "narrator:the-poet-thank-you-for-listening-to-poetry-month-on-the-voice-of-dog": "Narrator: the poet. Thank you for listening to Poetry Month on The Voice of Dog.",
         "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: the poet. Thank you for listening to The Voice of Dog.",
@@ -9948,6 +9945,8 @@
             "the-winter-coat-by-brathor-cyr",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
+            "reunion-by-ardy-hart-18",
+            "tending-to-a-beast-by-piggucaz-18",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "owls-nest-by-harry-18",
@@ -11072,7 +11071,6 @@
             "fantastic-feast-by-darius-davis",
             "confluence-by-ziegenbock-18",
             "diamond-in-the-rat-by-roan-rosser-part-2-of-2",
-            "diamond-in-the-rat-by-roan-rosser-part-1-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-2-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-1-of-2",
             "riddles-with-a-raven-by-casimir-laski",
@@ -11133,15 +11131,12 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
             "harmonize-a-poem-by-al-song-read-by-rob-macwolf",
             "reunion-by-ardy-hart-18",
-            "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "tending-to-a-beast-by-piggucaz-18",
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2",
             "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
             "ham-by-killick",
-            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-2-of-2",
-            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "lead-a-unicorn-to-water-by-frances-pauli",
             "red-delicious-by-buddy-goodboy",
@@ -11446,6 +11441,7 @@
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
             "dear-concerned-estranged-a-poem-by-rob-macwolf-read-by-madison-scott-clary",
+            "hey-buddy-by-dirt-coyote-read-by-kergiby",
             "one-seat-empty-by-dukeferret",
             "hostage-by-reid-minnich",
             "im-just-your-stud-by-dirt-coyote-part-2-of-2",
@@ -11498,10 +11494,8 @@
             "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-1-of-2",
             "victor-tremblay-in-paper-blood-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-paper-blood-by-pascal-farful-part-1-of-2",
-            "confluence-by-ziegenbock-18",
             "diamond-in-the-rat-by-roan-rosser-part-2-of-2",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
-            "red-delicious-by-buddy-goodboy",
             "northern-delights-by-ian-madison-keller-part-2-of-2-read-by-the-author",
             "northern-delights-by-ian-madison-keller-part-1-of-2-read-by-the-author",
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18",
@@ -11524,7 +11518,8 @@
             "nobody-s-home-by-pascal-farful",
             "the-aviatrix-by-dark-end",
             "bounty-hunter-uncle-by-domus-vocis",
-            "gibbous-moon-waning-by-altivo-overo"
+            "gibbous-moon-waning-by-altivo-overo",
+            "bad-dog-by-rob-baird"
         ],
         "drama": [
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
@@ -11608,10 +11603,12 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
+            "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "ham-by-killick",
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "qoheleth-by-madison-scott-clary-an-excerpt-read-by-the-author-herself",
+            "red-delicious-by-buddy-goodboy",
             "jump-by-madison-scott-clary-read-by-the-author-herself",
             "a-class-act-by-aero-dragneel-18",
             "the-hand-of-god-by-madison-scott-clary-read-by-b-p-rugger",
@@ -11706,7 +11703,8 @@
             "disappearance-by-madison-scott-clary-18",
             "at-the-inn-salted-beef-by-metassus",
             "flying-rat-by-dan-leinir-turthra-jensen",
-            "colour-me-terrified-by-b-p-rugger-18"
+            "colour-me-terrified-by-b-p-rugger-18",
+            "bad-dog-by-rob-baird"
         ],
         "eating-disorders": [
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf"
@@ -11721,6 +11719,7 @@
             "the-first-shall-not-be-last-by-nalz",
             "followers-of-the-jackal-by-domus-vocis-part-2-of-2-read-by-crimson-ruari-18",
             "spring-rain-by-sakarafox",
+            "a-dragons-tale-by-evan-drake",
             "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
             "glory-of-the-gods-by-nighteyes-dayspring-part-1-of-2",
             "the-scout-by-aelius",
@@ -11820,7 +11819,8 @@
             "broadstripe-virginia-smells-like-skunk-by-skunkbomb",
             "behesht-by-dwale",
             "food-feuds-and-fake-flora-by-ocean-tigrox",
-            "bounty-hunter-uncle-by-domus-vocis"
+            "bounty-hunter-uncle-by-domus-vocis",
+            "bad-dog-by-rob-baird"
         ],
         "fantasy": [
             "your-family-and-mine-by-alex-t-dragonson",
@@ -11882,7 +11882,8 @@
             "unpredictability-by-nenekiri-bookwyrm",
             "the-rat-s-gift-by-carrizo-kitfox",
             "eagle-s-splendour-by-ryan-campbell",
-            "loving-you-is-wrong-by-nighteyes-dayspring-18"
+            "loving-you-is-wrong-by-nighteyes-dayspring-18",
+            "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -11985,6 +11986,7 @@
             "perfection-of-the-visionary-courier-by-al-song-part-1-of-2-18",
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
             "ex-marks-the-spot-by-buddy-goodboy-read-by-huskyteer",
+            "tending-to-a-beast-by-piggucaz-18",
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
@@ -12016,6 +12018,7 @@
             "satan-dearie-by-b-p-rugger-18",
             "making-a-delivery-by-thomas-faux-steele-red-by-rob-macwolf",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-2-of-2",
+            "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2",
             "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
@@ -12080,6 +12083,7 @@
             "darker-things-than-man-by-casimir-laski",
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
             "fantastic-feast-by-darius-davis",
+            "confluence-by-ziegenbock-18",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "last-day-by-dirt-coyote",
@@ -12245,13 +12249,11 @@
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
-            "confluence-by-ziegenbock-18",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "thoughts-chelonian-a-poem-by-altivo-overo-read-by-madison-scott-clary",
             "hero-worship-by-metassus-read-by-madison-scott-clary",
-            "a-dragons-tale-by-evan-drake",
             "you-are-our-lifeboat-by-dan-leinir-turthra-jensen-part-2-of-2",
             "you-are-our-lifeboat-by-dan-leinir-turthra-jensen-part-1-of-2",
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2",
@@ -12389,7 +12391,6 @@
         "military": [
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "savannah-friends-by-darius-davis",
-            "confluence-by-ziegenbock-18",
             "the-reason-why-by-j-s-hawthorne",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "fathers-to-sons-by-mikasiwolf-part-2-of-2",
@@ -12463,21 +12464,6 @@
             "same-as-me-by-nighteyes-dayspring",
             "anarchy-by-vixyy-fox-read-by-carrizo",
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
-        ],
-        "narrator:cocky-you-re-faithful": [
-            "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2"
-        ],
-        "narrator:cocky-your-faithful-fireside-as-always": [
-            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-2-of-2"
-        ],
-        "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-how-the-characters-steal-the-figurines-and-save-the-rat-as-always-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for": [
-            "diamond-in-the-rat-by-roan-rosser-part-1-of-2"
-        ],
-        "narrator:cocky-your-faithful-fireside-companion-tune-in-next-time-to-find-out-who-these-mysterious-strangers-are-and-what-they-want-with-as-always": [
-            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2"
-        ],
-        "narrator:cocky-your-faithful-fireside-companion-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show-wherever-you-get-your-podcasts-thank-you-for-listening-to-the-voice-of-dog": [
-            "ham-by-killick"
         ],
         "narrator:crimson-ruari": [
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
@@ -12575,7 +12561,8 @@
             "run-by-dirt-coyote-part-1-of-2",
             "last-day-by-dirt-coyote",
             "brunhilda-by-nenekiri-bookwyrm-read-by-kergiby",
-            "the-squirrel-next-door-by-field-t-mouse-18"
+            "the-squirrel-next-door-by-field-t-mouse-18",
+            "hey-buddy-by-dirt-coyote-read-by-kergiby"
         ],
         "narrator:khaki": [
             "18-shell-game-by-kandrel-part-2-of-2",
@@ -12599,7 +12586,9 @@
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
             "what-was-your-first-spell-by-dirt-coyote-part-1-of-2",
             "fantastic-feast-by-darius-davis",
+            "confluence-by-ziegenbock-18",
             "diamond-in-the-rat-by-roan-rosser-part-2-of-2",
+            "diamond-in-the-rat-by-roan-rosser-part-1-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-2-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-1-of-2",
             "riddles-with-a-raven-by-casimir-laski",
@@ -12625,8 +12614,17 @@
             "a-stranger-in-the-woods-by-writer-a",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
+            "reunion-by-ardy-hart-18",
+            "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
+            "tending-to-a-beast-by-piggucaz-18",
+            "where-no-man-walks-by-signatelli-part-2-of-2",
+            "where-no-man-walks-by-signatelli-part-1-of-2",
+            "ham-by-killick",
+            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-2-of-2",
+            "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "lead-a-unicorn-to-water-by-frances-pauli",
+            "red-delicious-by-buddy-goodboy",
             "owls-nest-by-harry-18",
             "a-perilous-brew-by-arcane-reno",
             "background-noise-by-ezen-baklattan",
@@ -12852,9 +12850,7 @@
         ],
         "narrator:nenekiri-bookwyrm": [
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2"
-        ],
-        "narrator:nenekiri-bookwyrm-reminding-you-to-curl-up-with-a-good-book-and-be-kind-to-yourself-please-enjoy-sea-and-sky-by-casey-shaw-spider-was-fishing-when-he-saw-the-inland-dragon-he-first-noticed-her-as-a-bright-red-moat-in-the-sky": [
+            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:rhythm-bastard": [
@@ -12932,7 +12928,6 @@
             "please-look-up-by-madison-scott-clary",
             "victor-tremblay-in-paper-blood-by-pascal-farful-part-2-of-2",
             "victor-tremblay-in-paper-blood-by-pascal-farful-part-1-of-2",
-            "confluence-by-ziegenbock-18",
             "the-tower-by-danny-wolf",
             "a-simple-guide-to-sugar-free-lemonade-by-arthur-felice-by-dirt-coyote",
             "a-dragons-dilemma-by-evan-drake",
@@ -12952,11 +12947,8 @@
             "introducing-rob-macwolf",
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "harmonize-a-poem-by-al-song-read-by-rob-macwolf",
-            "reunion-by-ardy-hart-18",
-            "tending-to-a-beast-by-piggucaz-18",
-            "where-no-man-walks-by-signatelli-part-2-of-2",
-            "where-no-man-walks-by-signatelli-part-1-of-2",
-            "red-delicious-by-buddy-goodboy",
+            "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
+            "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-2-of-2-read-by-the-author",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
             "midnight-by-kayode-lycaon-18",
@@ -12966,18 +12958,11 @@
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-2-of-2",
             "the-baptism-is-long-but-the-song-is-everlasting-by-rob-macwolf-part-1-of-2",
-            "hey-buddy-by-dirt-coyote-read-by-kergiby",
             "rest-less-a-poem-by-rob-macwolf",
             "samovar-by-altivo-overo",
             "remembering-the-forgotten-by-h-j-pang",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "bad-dog-by-rob-baird"
-        ],
-        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-i-m-in-your-hometown-by-duke-ferrets-at-first-i-thought-she-was-a-ghost-a-white-blur-under-the-gleam-of-my-car-s-headlights-before-it-was-gone-i-stepped-on-the-brake-and-pulled-over-i-grabbed-my-cap-off-the-dashboard-and-exited-into-the-sunset-swampland-the-figure": [
-            "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf"
-        ],
-        "narrator:rob-macwolf-werewolf-hitchhiker-please-enjoy-lucy-s-christmas-wish-my-lauren-rivers-this-was-lucy-s-christmas-wish-my-lauren-rivers-i-read-for-you-by-rob-macwolf-werewolf-hitchhiker-you-can-find-more-stories-on-the-web-thevoice-dog-or-find-the-show": [
-            "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf"
         ],
         "narrator:sinister-stoat-press-he-mostly-writes-horror": [
             "cat-problems-by-james-stone"
@@ -13023,7 +13008,7 @@
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
-        "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-in-the-snow-from-share-surprise-and-delight-or-rat-he-cried-in-penitence-we-all-are-a-wonder-uh": [
+        "narrator:the-aid-of-moonlight-mr-badger-the-mole-fell-backwards-on-the-snow-from-sheer-surprise-and-delight-rat-he-cried-in-penitence": [
             "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame"
         ],
         "narrator:the-poet-thank-you-for-listening-to-poetry-month-on-the-voice-of-dog": [
@@ -13115,8 +13100,8 @@
             "the-winter-coat-by-brathor-cyr",
             "a-friend-in-winter-by-mikasiwolf-part-2-of-2-18",
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
+            "reunion-by-ardy-hart-18",
             "tending-to-a-beast-by-piggucaz-18",
-            "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "a-very-fucking-christmas-by-pascal-farful-18-read-by-b-p-rugger",
             "owls-nest-by-harry-18",
@@ -13426,6 +13411,7 @@
             "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author",
             "ham-by-killick",
             "furta-sacra-by-rose-lacroix",
+            "hey-buddy-by-dirt-coyote-read-by-kergiby",
             "giving-thanks-by-kergiby",
             "no-dogs-by-kirisis-kc-alpinus",
             "home-again-by-kergiby",
@@ -13506,7 +13492,7 @@
             "reunion-by-ardy-hart-18",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2",
-            "the-wind-in-the-willows-chapter-iiii-by-kenneth-grahame",
+            "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
             "im-in-your-hometown-by-dukeferret-read-by-rob-macwolf",
             "midnight-by-kayode-lycaon-18",
             "a-class-act-by-aero-dragneel-18",
@@ -13525,6 +13511,7 @@
             "if-only-for-a-night-by-bering",
             "unconditional-love-by-vixyy-fox-read-by-carrizo",
             "getting-naked-at-gunnison-by-patrigue",
+            "hey-buddy-by-dirt-coyote-read-by-kergiby",
             "the-pwca-by-holly-a-morrison-18",
             "second-chance-by-sean-duroc-silva-part-2-of-2",
             "second-chance-by-sean-duroc-silva-part-1-of-2",
@@ -13700,7 +13687,6 @@
             "the-beast-in-the-rain-by-sean-duroc-silva-part-1-of-2",
             "a-stranger-in-the-woods-by-writer-a",
             "tending-to-a-beast-by-piggucaz-18",
-            "lucys-christmas-wish-by-lauren-rivers-read-by-rob-macwolf",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-2-of-2-read-by-the-author",
             "a-reading-from-the-gospel-according-to-the-wolf-by-rob-macwolf-part-1-of-2-read-by-the-author",
             "this-poem-is-haunted-by-rob-macwolf-read-by-madison-scott-clary",

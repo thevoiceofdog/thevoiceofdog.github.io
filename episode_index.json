@@ -309,6 +309,28 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/74f3c92e-2533-44ef-a334-af19112d450d/It-Only-Takes-A-Moment-by-Herr-Wozzeck-part-2-of-2.mp3",
+            "published_date": "2024-06-14T19:00:00.000Z",
+            "shownotes": "<p><em>Jules Armstrong\u2019s attachment to Charlie grows stronger as they continue moving about the town. Will one thing lead to another\u2026?</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">It</a> Only <a href=\"https://www.furaffinity.net/view/46628581/\" rel=\"noopener noreferrer\" target=\"_blank\">Takes</a> A Moment\u201d by Herr Wozzeck, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by the Author themselves.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "gay",
+                "queer",
+                "pride-month",
+                "romance",
+                "drama",
+                "historical",
+                "drugs/alcohol",
+                "by:herr-wozzeck",
+                "narrator:herr-wozzeck"
+            ],
+            "title": "\u201cIt Only Takes A Moment\u201d by Herr Wozzeck (part 2 of 2, read by the author)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b3d91282-1e49-4301-a96f-ea5d55c52fc5/It-Only-Takes-A-Moment-by-HerrWozzeck-part-1-of-2.mp3",
             "published_date": "2024-06-13T19:00:00.000Z",
             "shownotes": "<p><em>Finding a new gym is an endeavor Julian Armstrong was prepared for. He was not prepared for how attracted he gets to the spotter.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201c<a href=\"https://www.furaffinity.net/view/46628581/\" rel=\"noopener noreferrer\" target=\"_blank\">It Only Takes A Moment</a>\u201d by Herr Wozzeck, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by the Author themselves.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10433,6 +10455,7 @@
             "lost-inside-the-blue-line-by-harry-a-wozzeck"
         ],
         "by:herr-wozzeck": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "murky-waters-by-herr-wozzeck",
             "whip-lash-by-herr-wozzeck-18",
             "le-premiere-jour-damour-by-herr-wozzeck-part-2-of-2",
@@ -10986,6 +11009,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
@@ -11532,6 +11556,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
@@ -11679,6 +11704,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "drugs/alcohol": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-brandy-and-fire-by-driftwood",
             "drunk-spider-ii-by-frances-pauli",
@@ -11903,6 +11929,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "all-means-all-by-rob-macwolf",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
@@ -12070,6 +12097,7 @@
             "salute-the-flag-by-kandrel"
         ],
         "historical": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
@@ -12283,6 +12311,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
@@ -12542,6 +12571,9 @@
         ],
         "narrator:gar-sahoni-atkins": [
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
+        ],
+        "narrator:herr-wozzeck": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2"
         ],
         "narrator:herrwozzeck": [
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
@@ -13299,6 +13331,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
@@ -13347,6 +13380,7 @@
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
         "queer": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
@@ -13435,6 +13469,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",

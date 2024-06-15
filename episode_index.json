@@ -309,6 +309,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fbed2332-c1a1-47cc-a7e2-21426f1a7bea/The-Devil-Went-Down-to-Georgia-Pride-by-HFE.mp3",
+            "published_date": "2024-06-15T19:00:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://bsky.app/profile/hfepro.com\" rel=\"noopener noreferrer\" target=\"_blank\">HFE</a>, who once won Artist of the Month back in high school in faer silversmithing class. You can find more of faer stories on <a href=\"http://hfepro.com\" rel=\"noopener noreferrer\" target=\"_blank\">HFEpro.com</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-devil-went-down-to-georgia-pride-by-hfe",
+            "summary": "",
+            "tags": [
+                "poem",
+                "lgbtq+",
+                "pride-month",
+                "narrator:ta-kom-ironhoof",
+                "by:hfe"
+            ],
+            "title": "\u201cThe Devil Went Down to Georgia Pride\u201d by HFE (read by Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/74f3c92e-2533-44ef-a334-af19112d450d/It-Only-Takes-A-Moment-by-Herr-Wozzeck-part-2-of-2.mp3",
             "published_date": "2024-06-14T19:00:00.000Z",
             "shownotes": "<p><em>Jules Armstrong\u2019s attachment to Charlie grows stronger as they continue moving about the town. Will one thing lead to another\u2026?</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">It</a> Only <a href=\"https://www.furaffinity.net/view/46628581/\" rel=\"noopener noreferrer\" target=\"_blank\">Takes</a> A Moment\u201d by Herr Wozzeck, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by the Author themselves.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10467,6 +10483,9 @@
         "by:herrwozzeck": [
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
         ],
+        "by:hfe": [
+            "the-devil-went-down-to-georgia-pride-by-hfe"
+        ],
         "by:holly-a-morrison": [
             "the-pwca-by-holly-a-morrison-18"
         ],
@@ -12311,6 +12330,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
@@ -13040,6 +13060,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "narrator:ta-kom-ironhoof": [
+            "the-devil-went-down-to-georgia-pride-by-hfe",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "savannah-friends-by-darius-davis",
             "18-the-darkest-place-by-kohitsuji",
@@ -13212,6 +13233,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "the-devil-went-down-to-georgia-pride-by-hfe",
             "the-death-of-kellas-by-sky-mckinnon",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",
@@ -13331,6 +13353,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",

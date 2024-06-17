@@ -309,6 +309,26 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ca0b3a29-ed29-4a50-84b0-da87bd9b7b7c/Open-and-Shut-Case-of-Love-by-TiberiusRings-Fruitz-part-1-of-2.mp3",
+            "published_date": "2024-06-17T09:45:00.000Z",
+            "shownotes": "<p><em>Communication is the bedrock in any relationship. A lot of us fear bringing up things that may make our partner uncomfortable, or upset the balance we currently have.&nbsp; Yet if we do it right we can all grow in ways we never expected.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201cOpen and Shut Case of Love\u201d by TiberiusRings &amp; Fruitz, who are co-authors of the series Come to Dust, published by <a href=\"https://fruitzberg.carrd.co/#bn\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitzberg Press</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "pride-month",
+                "romance",
+                "contemporary",
+                "drugs/alcohol",
+                "by:tiberiusrings",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cOpen and Shut Case of Love\u201d by TiberiusRings & Fruitz (part 1 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fbed2332-c1a1-47cc-a7e2-21426f1a7bea/The-Devil-Went-Down-to-Georgia-Pride-by-HFE.mp3",
             "published_date": "2024-06-15T19:00:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://bsky.app/profile/hfepro.com\" rel=\"noopener noreferrer\" target=\"_blank\">HFE</a>, who once won Artist of the Month back in high school in faer silversmithing class. You can find more of faer stories on <a href=\"http://hfepro.com\" rel=\"noopener noreferrer\" target=\"_blank\">HFEpro.com</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -361,8 +381,8 @@
                 "romance",
                 "action/adventure",
                 "historical",
-                "by:herrwozzeck",
-                "narrator:herrwozzeck"
+                "by:herr-wozzeck",
+                "narrator:herr-wozzeck"
             ],
             "title": "\u201cIt Only Takes A Moment\u201d by HerrWozzeck (part 1 of 2, read by the author)"
         },
@@ -9648,7 +9668,7 @@
         "by:harry": "Author: Harry",
         "by:harry-a-wozzeck": "Author: Harry A. Wozzeck",
         "by:herr-wozzeck": "Author: Herr Wozzeck",
-        "by:herrwozzeck": "Author: HerrWozzeck",
+        "by:herrwozzeck": "Author: Herrwozzeck",
         "by:hfe": "Author: HFE",
         "by:holly-a-morrison": "Author: Holly A Morrison",
         "by:huskyteer": "Author: Huskyteer",
@@ -9802,7 +9822,7 @@
         "narrator:friends-of-the-fireplace": "Narrator: Friends Of The Fireplace",
         "narrator:gar-sahoni-atkins": "Narrator: Gar Sahoni Atkins",
         "narrator:herr-wozzeck": "Narrator: Herr Wozzeck",
-        "narrator:herrwozzeck": "Narrator: HerrWozzeck",
+        "narrator:herrwozzeck": "Narrator: Herrwozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
         "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
@@ -10472,6 +10492,7 @@
         ],
         "by:herr-wozzeck": [
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
+            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "murky-waters-by-herr-wozzeck",
             "whip-lash-by-herr-wozzeck-18",
             "le-premiere-jour-damour-by-herr-wozzeck-part-2-of-2",
@@ -10479,9 +10500,6 @@
             "precious-cargo-by-herr-wozzeck-part-2-of-2",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "shopping-trip-by-herr-wozzeck"
-        ],
-        "by:herrwozzeck": [
-            "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
         ],
         "by:hfe": [
             "the-devil-went-down-to-georgia-pride-by-hfe"
@@ -10963,6 +10981,7 @@
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18"
         ],
         "by:tiberiusrings": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
             "ghost-unlaid-forbear-thee-by-tiberius-rings-fruitz-part-2-of-2",
@@ -11028,6 +11047,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "neon-bruises-by-domus-vocis-part-2-of-2",
@@ -11426,6 +11446,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "all-means-all-by-rob-macwolf",
@@ -11723,6 +11744,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "drugs/alcohol": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-brandy-and-fire-by-driftwood",
@@ -12330,6 +12352,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
@@ -12593,9 +12616,7 @@
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
         ],
         "narrator:herr-wozzeck": [
-            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2"
-        ],
-        "narrator:herrwozzeck": [
+            "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
         ],
         "narrator:huskyteer": [
@@ -12928,6 +12949,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
             "the-death-of-kellas-by-sky-mckinnon",
@@ -13353,6 +13375,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
@@ -13403,6 +13426,7 @@
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
         "queer": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
@@ -13492,6 +13516,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",

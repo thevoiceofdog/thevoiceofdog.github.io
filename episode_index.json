@@ -262,7 +262,6 @@
             "narrator:tempe-o-kun",
             "narrator:tempo",
             "narrator:the-author",
-            "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
             "narrator:william-dingo",
             "narrator:yuugenshou",
             "narrator:zilch-woofs"
@@ -1004,9 +1003,8 @@
             "slug": "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "summary": "",
             "tags": [
-                "check-tags",
-                "by:nenekiri-bookwyrm",
-                "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog"
+                "narrator:nenekiri-bookwyrm",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cHow Often Do You Ask?\u201d a poem by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -9863,7 +9861,6 @@
         "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: the poet. Thank you for listening to The Voice of Dog.",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
         "narrator:zilch-woofs": "Narrator: Zilch Woofs",
@@ -11088,7 +11085,6 @@
             "outfoxed-by-hania",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
-            "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "the-eavesdropper-by-ritter",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "18-snaggin-by-gar-sahoni-atkins",
@@ -12961,6 +12957,7 @@
             "disappearance-by-madison-scott-clary-18"
         ],
         "narrator:nenekiri-bookwyrm": [
+            "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "forest-by-nenekiri-bookwyrm",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
@@ -13123,9 +13120,6 @@
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
-        ],
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": [
-            "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm"
         ],
         "narrator:william-dingo": [
             "the-reason-why-by-j-s-hawthorne",

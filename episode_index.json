@@ -309,6 +309,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/581a27e5-42c1-4b38-b246-ef627c98cd80/Open-and-Shut-Case-of-Love-by-TiberiusRings-Fruitz-part-2-of-2.mp3",
+            "published_date": "2024-06-18T19:00:00.000Z",
+            "shownotes": "<p><em>Milo wakes up after a night of confronting his own inner thoughts.&nbsp; Julian, the man he loves, is in the other room and he has a choice to make now \u2013 does he confront the demons in his mind or does he keep his mouth shut, afraid to ruin a good thing?</em></p><p>\ufeffToday\u2019s story is the second and final part of \u201cOpen and Shut Case of Love\" by TiberiusRings &amp; Fruitz, who are co authors of the series Come to Dust, published by <a href=\"https://fruitzberg.carrd.co/#bn\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitzberg Press</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "drama",
+                "by:tiberiusrings",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cOpen and Shut Case of Love\u201d by TiberiusRings & Fruitz (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ca0b3a29-ed29-4a50-84b0-da87bd9b7b7c/Open-and-Shut-Case-of-Love-by-TiberiusRings-Fruitz-part-1-of-2.mp3",
             "published_date": "2024-06-17T09:45:00.000Z",
             "shownotes": "<p><em>Communication is the bedrock in any relationship. A lot of us fear bringing up things that may make our partner uncomfortable, or upset the balance we currently have.&nbsp; Yet if we do it right we can all grow in ways we never expected.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201cOpen and Shut Case of Love\u201d by TiberiusRings &amp; Fruitz, who are co-authors of the series Come to Dust, published by <a href=\"https://fruitzberg.carrd.co/#bn\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitzberg Press</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10981,6 +10999,7 @@
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18"
         ],
         "by:tiberiusrings": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
@@ -11047,6 +11066,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
@@ -11596,6 +11616,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
@@ -12352,6 +12373,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
@@ -12949,6 +12971,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "love-like-echoed-fire-by-js-hawthorne",
@@ -13375,6 +13398,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "the-devil-went-down-to-georgia-pride-by-hfe",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
@@ -13516,6 +13540,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",

@@ -37,10 +37,19 @@ function gotIndex(response) {
         index.categories[tagcat].forEach(tag => {
             window.tagcats[tag] = tagcat
             if (index.tags[tag]) {
-                $("#tags_" + tagcat.replace(/[^a-z0-9]/g, "")).append($(`<li><a href='?tag=${tag}' onclick='openTag("${tag}"); return false'>${index.tagnames[tag]}</a></li> `))
+                $("#tags_" + tagcat.replace(/[^a-z0-9]/g, "")).append($(`<li><a href='?tag=${tag}'>${index.tagnames[tag]}</a></li> `))
             }
         })
     })
+
+    $(".sidebar ul a").click((ev) => {
+        if (!ev.ctrlKey && !ev.metaKey) {
+            ev.preventDefault()
+            history.pushState({},"",ev.target.href)
+            runQuery()
+        }
+    })
+
 
     window.onpopstate = runQuery
 
@@ -90,7 +99,7 @@ function runQuery() {
             }
         });
         $("#main").append($(`
-            <center><input type='text' id='searchbox' placeholder='Search' oninput='search()'/></center>
+            <h1>Search results for '<span id='searchname'></span>'</h1>
             <div id='searchresults'></div>
         `))
         $("#searchbox")[0].value = query.search
@@ -123,7 +132,12 @@ tagsort = {
 }
 
 function search() {
+    $("#searchname").text($("#searchbox")[0].value)
     q = $("#searchbox")[0].value.toLowerCase()
+    if (query.search == undefined) {
+        openSearch()
+        return
+    }
     history.replaceState({},"", "?search=" + escape(q))
     var words = q.split(" ")
     words = words.concat(words.map(stemmer))
@@ -157,23 +171,46 @@ function epSummary(ep) {
     let el = $("<div class='epsummary'>")
     el.append(
         $("<span class='playbutton'>")
-        .text("Play episode ▷")
-        .click(() => { playEpisode(ep.slug) })
+        .text("▶︎")
+        .click((ev) => { 
+            if (ev.ctrlKey || ev.metaKey) {
+                return true;
+            }
+            else {
+                playEpisode(ep.slug) 
+                ev.preventDefault();
+            }
+        })
     )
     el.append(
-        $(`<h2><a href='?episode=${ep.slug}' onclick='return false'>${ep.title}</a></h2>`)
-        .click(() => { playEpisode(ep.slug) })
+        $(`<h2><a href='?episode=${ep.slug}'>${ep.title}</a></h2>`)
+        .click((ev) => { 
+            if (ev.ctrlKey || ev.metaKey) {
+                return true;
+            }
+            else {
+                playEpisode(ep.slug) 
+                ev.preventDefault()
+            }
+        })
     )
-    el.append($(`<i class='pubdate'>Published on ${dateformatter.format(new Date(ep.published_date))}</i>`))
+    el.append($(`<span class='pubdate'>${dateformatter.format(new Date(ep.published_date))}</span>`))
     if (ep.tags) {
         let tags = $("<ul class='showtags'>")
         ep.tags.sort((a,b) => { return (tagsort[tagcats[a]] ?? 100) - (tagsort[tagcats[b]] ?? 100)}).forEach(tag => {
             if (tag == 'check-tags') return;
             let tagcat = tagcats[tag]
             if (tagcat != 'warning') {
-                tags.append($(`<li class='tag_${tagcat}'><a onclick='openTag("${tag}")'>${tagName(tag)}</a> </li>'`))        
+                tags.append($(`<li class='tag_${tagcat}'><a href='?tag=${tag}'>${tagName(tag)}</a> </li>'`))
             }
         });
+        tags.find("a").click((ev) => {
+            if (!ev.ctrlKey && !ev.metaKey) {
+                ev.preventDefault()
+                history.pushState({},"",ev.target.href)
+                runQuery()
+            }
+        })
         el.append(tags)
     }
     el.append($("<div class='shownotes'>").html(ep.shownotes.replace(/\{\{[^\}]+\}\}/g, "")))

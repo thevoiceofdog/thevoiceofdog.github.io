@@ -72,7 +72,6 @@
             "by:harry",
             "by:harry-a-wozzeck",
             "by:herr-wozzeck",
-            "by:herrwozzeck",
             "by:hfe",
             "by:holly-a-morrison",
             "by:huskyteer",
@@ -239,7 +238,6 @@
             "narrator:friends-of-the-fireplace",
             "narrator:gar-sahoni-atkins",
             "narrator:herr-wozzeck",
-            "narrator:herrwozzeck",
             "narrator:huskyteer",
             "narrator:ian-madison-keller",
             "narrator:ianus-j-wolf",
@@ -306,6 +304,24 @@
         ]
     },
     "episodes": [
+        {
+            "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/7ba7e2ba-5454-40c0-95a9-5b376367cce2/The-Soir-e-by-Frank-LeRenard.mp3",
+            "published_date": "2024-06-22T19:00:00.000Z",
+            "shownotes": "<p><em>Sometimes the simplest thing can put a fellow on-edge.&nbsp;For Johan, this time, it was an invitation to go out drinking.</em></p><p>Today\u2019s story is \u201cThe Soir\u00e9e\u201d by Frank LeRenard, who when not engaging in the arts works as an astronomer in the UK.&nbsp; His short novel, <a href=\"https://www.fenrispublishing.com/order.php?s=lerenard\" rel=\"noopener noreferrer\" target=\"_blank\">\"The Way to the Lonely Valley\"</a> is available from <a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-soiree-by-frank-lerenard",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "pride-month",
+                "family-saga",
+                "by:frank-lerenard",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Soir\u00e9e\u201d by Frank LeRenard"
+        },
         {
             "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/164bb027-4de4-40f3-b8c3-b8a0064ca515/18-Victor-Tremblay-in-Saving-Wendell-Olsen-by-Pascal-Farful-par.mp3",
@@ -9752,7 +9768,6 @@
         "by:harry": "Author: Harry",
         "by:harry-a-wozzeck": "Author: Harry A. Wozzeck",
         "by:herr-wozzeck": "Author: Herr Wozzeck",
-        "by:herrwozzeck": "Author: Herrwozzeck",
         "by:hfe": "Author: HFE",
         "by:holly-a-morrison": "Author: Holly A Morrison",
         "by:huskyteer": "Author: Huskyteer",
@@ -9906,7 +9921,6 @@
         "narrator:friends-of-the-fireplace": "Narrator: Friends Of The Fireplace",
         "narrator:gar-sahoni-atkins": "Narrator: Gar Sahoni Atkins",
         "narrator:herr-wozzeck": "Narrator: Herr Wozzeck",
-        "narrator:herrwozzeck": "Narrator: Herrwozzeck",
         "narrator:huskyteer": "Narrator: Huskyteer",
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
         "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
@@ -10538,6 +10552,9 @@
             "the-lion-sleeps-by-frances-pauli",
             "always-tomorrow-by-frances-pauli"
         ],
+        "by:frank-lerenard": [
+            "the-soiree-by-frank-lerenard"
+        ],
         "by:friends": [
             "the-session-by-khaki-and-friends",
             "where-stories-are-told-by-khaki-and-friends"
@@ -11137,6 +11154,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
@@ -11950,6 +11968,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "the-soiree-by-frank-lerenard",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "your-family-and-mine-by-alex-t-dragonson",
             "the-eavesdropper-by-ritter",
@@ -12453,6 +12472,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",
@@ -13057,6 +13077,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-soiree-by-frank-lerenard",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
@@ -13487,6 +13508,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",
@@ -13542,6 +13564,7 @@
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
         "queer": [
+            "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",

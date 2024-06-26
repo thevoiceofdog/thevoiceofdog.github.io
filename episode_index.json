@@ -306,6 +306,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/883a2567-f1b1-4fa4-a0f9-509dc917423e/The-Application-of-Lycanthropy-as-a-Novel-Treatment-for-Gender-.mp3",
+            "published_date": "2024-06-26T19:00:00.000Z",
+            "shownotes": "<p><em>A trans man encounters a monster in the woods and discovers a unique alternative to HRT.</em></p><p>\ufeffToday\u2019s story is \u201cThe Application of Lycanthropy as a Novel Treatment for Gender Dysphoria\u201d by <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story can be found in the forthcoming \u201cDudes Rock,\u201d anthology available soon from <a href=\"https://prismaticapress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Prismatica Press</a>, and you can find more of the author\u2019s stories on his website, <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>Read by B. P. Rugger, the ineffable Moo Moon.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "spooky",
+                "contemporary",
+                "by:chase-anderson",
+                "narrator:b-p-rugger"
+            ],
+            "title": "\u201cThe Application of Lycanthropy as a Novel Treatment for Gender Dysphoria\u201d by Chase Anderson"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/54c2ac8b-5e3f-439f-961d-91b34aa23f6e/18-Of-Friends-and-Foes-by-Solomon-Harries.mp3",
             "published_date": "2024-06-25T19:00:00.000Z",
             "shownotes": "<p>[18+] <em>Sometimes, as close friends become closer, there comes a time when feelings grow beyond what was originally imagined. A bear struggles with his newfound feelings and desires for his best friend.</em></p><p>Today\u2019s story is \u201cOf Friends and Foes\u201d by <a href=\"https://solharries.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Solomon Harries</a>, who\u2019s really just glad to be here, and you can find more of him on <a href=\"https://solharries.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> and <a href=\"https://bsky.app/profile/solh.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">BlueSky</a>. You can also view this story in Visual Novel form on <a href=\"https://solharries.itch.io/of-heart-and-stone\" rel=\"noopener noreferrer\" target=\"_blank\">itch.io</a>.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10451,6 +10469,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "move-x-to-y2k-by-chase-anderson"
         ],
@@ -11205,6 +11224,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18live-for-love-by-holly-a-morrison",
             "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -11608,6 +11628,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18live-for-love-by-holly-a-morrison",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
@@ -12530,6 +12551,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "the-soiree-by-frank-lerenard",
@@ -12722,6 +12744,7 @@
             "growth-by-madison-scott-clary-read-by-ardy-hart"
         ],
         "narrator:b-p-rugger": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "fair-and-square-by-madison-scott-clary",
             "a-pride-at-pride-by-darius-davis",
             "the-pirates-curse-by-ian-madison-keller-read-by-b-p-rugger",
@@ -13572,6 +13595,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "the-soiree-by-frank-lerenard",
@@ -13942,6 +13966,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",
             "the-labyrinth-by-sky-mckinnon",

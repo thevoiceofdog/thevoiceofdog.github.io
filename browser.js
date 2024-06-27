@@ -257,7 +257,7 @@ function playEpisode(slug, autoplay = true, seektime = 0) {
     let ep = eps[slug]
     if (ep) {
 
-        $.cookie("nowplaying", slug)
+        $.cookie("nowplaying", slug, { expires: 14, path: '/' })
 
         $("#audio").html("<audio controls" + (autoplay ? " autoplay" : "") + "><source type='audio/mpeg' src='" + ep['media_url'] + "'/></audio>")
         $("#audio audio").on("timeupdate", onTimeUpdate)
@@ -317,7 +317,7 @@ function onTimeUpdate() {
                 "behavior": "smooth",
                 "block": "center"
             })
-            $.cookie("nowplaying_time", curTime)
+            $.cookie("nowplaying_time", curTime, { expires: 14, path: '/' })
         }
     });    
 }

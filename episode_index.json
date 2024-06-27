@@ -306,6 +306,29 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/16ef9fae-d318-4702-8ff5-0cc3ce8bc44c/18-How-They-Brought-the-Good-News-to-the-Beast-of-Aix-by-Solomo.mp3",
+            "published_date": "2024-06-27T19:00:00.000Z",
+            "shownotes": "<p>[18+] <em>According to legend, a beast called the Bahkauv stalks the streets of the city of Aachen, hunting drunken men.</em></p><p>Today\u2019s story is \u201cHow They Brought the Good News to the Beast of Aix\u201d by <a href=\"https://bsky.app/profile/solh.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Solomon Harries</a>, following in the time-honored tradition of responding to one of <a href=\"https://bsky.app/profile/khaki.dog/post/3kmo7toutx72t\" rel=\"noopener noreferrer\" target=\"_blank\">Khaki\u2019s idle remarks on social media</a> with an entire story, and by <a href=\"https://bsky.app/profile/robmacwolf.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a> who just likes to help.</p><p>Read by Icefang, in the cozy corner of the caf\u00e9.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "adult",
+                "lgbtq+",
+                "pride-month",
+                "spooky",
+                "historical",
+                "drugs/alcohol",
+                "nsfw",
+                "blood",
+                "by:solomon-harries",
+                "by:rob-macwolf",
+                "narrator:icefang"
+            ],
+            "title": "[18+] \u201cHow They Brought the Good News to the Beast of Aix\u201d by Solomon Harries and Rob MacWolf (read by Icefang)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/883a2567-f1b1-4fa4-a0f9-509dc917423e/The-Application-of-Lycanthropy-as-a-Novel-Treatment-for-Gender-.mp3",
             "published_date": "2024-06-26T19:00:00.000Z",
             "shownotes": "<p><em>A trans man encounters a monster in the woods and discovers a unique alternative to HRT.</em></p><p>\ufeffToday\u2019s story is \u201cThe Application of Lycanthropy as a Novel Treatment for Gender Dysphoria\u201d by <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story can be found in the forthcoming \u201cDudes Rock,\u201d anthology available soon from <a href=\"https://prismaticapress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Prismatica Press</a>, and you can find more of the author\u2019s stories on his website, <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>Read by B. P. Rugger, the ineffable Moo Moon.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10114,6 +10137,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -10261,6 +10285,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
@@ -10983,6 +11008,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",
             "all-means-all-by-rob-macwolf",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
@@ -11087,6 +11113,7 @@
             "the-toy-aisle-by-sofox"
         ],
         "by:solomon-harries": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-of-friends-and-foes-by-solomon-harries",
             "of-heart-and-stone-by-solomon-harries"
         ],
@@ -11224,6 +11251,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18live-for-love-by-holly-a-morrison",
             "the-soiree-by-frank-lerenard",
@@ -11932,6 +11960,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "drugs/alcohol": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18live-for-love-by-holly-a-morrison",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
@@ -12335,6 +12364,7 @@
             "salute-the-flag-by-kandrel"
         ],
         "historical": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
@@ -12551,6 +12581,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
@@ -12843,6 +12874,7 @@
             "darker-things-than-man-by-casimir-laski"
         ],
         "narrator:icefang": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-the-creation-of-water-by-leuna"
         ],
         "narrator:kai": [
@@ -13338,6 +13370,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -13595,6 +13628,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
@@ -13966,6 +14000,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",

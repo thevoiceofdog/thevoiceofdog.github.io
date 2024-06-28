@@ -306,6 +306,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/83e39018-6000-4e00-bab6-ca6e961c537d/The-Gods-in-Between-by-NightEyes-DaySpring.mp3",
+            "published_date": "2024-06-28T19:00:00.000Z",
+            "shownotes": "<p><em>Hear now the tale: a myth of a far-away land, telling of the gods of love, and of patience.</em></p><p>Today\u2019s story is \u201cThe Gods In Between\u201d by NightEyes DaySpring, one of the stories from his collection <a href=\"https://dancing-jackal-books.square.site/product/gnoll-tales/7\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Gnoll Tales</em></a><em>, </em>that won a 2023 Ursa Major Award for Best General Literary Work. NightEyes is a wolf with a penchant for coffee and a love of fantasy fiction. Information about him and his writing can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-gods-in-between-by-nighteyes-dayspring",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "fantasy",
+                "by:nighteyes-dayspring",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Gods in Between\u201d by NightEyes DaySpring"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/16ef9fae-d318-4702-8ff5-0cc3ce8bc44c/18-How-They-Brought-the-Good-News-to-the-Beast-of-Aix-by-Solomo.mp3",
             "published_date": "2024-06-27T19:00:00.000Z",
             "shownotes": "<p>[18+] <em>According to legend, a beast called the Bahkauv stalks the streets of the city of Aachen, hunting drunken men.</em></p><p>Today\u2019s story is \u201cHow They Brought the Good News to the Beast of Aix\u201d by <a href=\"https://bsky.app/profile/solh.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Solomon Harries</a>, following in the time-honored tradition of responding to one of <a href=\"https://bsky.app/profile/khaki.dog/post/3kmo7toutx72t\" rel=\"noopener noreferrer\" target=\"_blank\">Khaki\u2019s idle remarks on social media</a> with an entire story, and by <a href=\"https://bsky.app/profile/robmacwolf.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a> who just likes to help.</p><p>Read by Icefang, in the cozy corner of the caf\u00e9.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10934,6 +10952,7 @@
             "unpredictability-by-nenekiri-bookwyrm"
         ],
         "by:nighteyes-dayspring": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "emotional-support-wolf-by-nighteyes-dayspring",
             "same-as-me-by-nighteyes-dayspring",
             "making-it-fit-by-nighteyes-dayspring-18",
@@ -11251,6 +11270,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18live-for-love-by-holly-a-morrison",
@@ -12121,6 +12141,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "18-of-friends-and-foes-by-solomon-harries",
             "your-family-and-mine-by-alex-t-dragonson",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms",
@@ -12581,6 +12602,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
@@ -13192,6 +13214,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "the-soiree-by-frank-lerenard",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
@@ -13628,6 +13651,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18-of-friends-and-foes-by-solomon-harries",
@@ -13783,6 +13807,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "the-gods-in-between-by-nighteyes-dayspring",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",

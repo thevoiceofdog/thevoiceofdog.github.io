@@ -306,7 +306,28 @@
     "episodes": [
         {
             "episode_art": "",
-            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/83e39018-6000-4e00-bab6-ca6e961c537d/The-Gods-in-Between-by-NightEyes-DaySpring.mp3",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9a5362cc-9d23-4fe7-9f32-6748760aafe3/18-A-Small-Gesture-by-Pendoggo.mp3",
+            "published_date": "2024-06-29T19:00:00.000Z",
+            "shownotes": "<p>[18+] <em>A mastiff has thoughts about his sexuality and expression, and decides to take a small step.</em></p><p>Today\u2019s story is \u201cA Small Gesture\u201d by <a href=\"https://twitter.com/pendoggo\" rel=\"noopener noreferrer\" target=\"_blank\">Pendoggo</a>, an artist and casual writer who loves big guys and fantasy worlds. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/pendogion\" rel=\"noopener noreferrer\" target=\"_blank\">furaffinity</a> and his art on <a href=\"https://twitter.com/pendoggo\" rel=\"noopener noreferrer\" target=\"_blank\">twitter</a> or <a href=\"https://bsky.app/profile/pendoggo.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">bluesky</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-a-small-gesture-by-pendoggo",
+            "summary": "",
+            "tags": [
+                "contemporary",
+                "romance",
+                "lgbtq+",
+                "queer",
+                "gay",
+                "adult",
+                "nsfw",
+                "pride-month",
+                "narrator:rob-macwolf",
+                "by:pendoggo"
+            ],
+            "title": "[18+] \u201cA Small Gesture\u201d by Pendoggo"
+        },
+        {
+            "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d59a552d-76ab-4389-a8cc-a5e00b5bf217/The-Gods-in-Between-by-NightEyes-DaySpring.mp3",
             "published_date": "2024-06-28T19:00:00.000Z",
             "shownotes": "<p><em>Hear now the tale: a myth of a far-away land, telling of the gods of love, and of patience.</em></p><p>Today\u2019s story is \u201cThe Gods In Between\u201d by NightEyes DaySpring, one of the stories from his collection <a href=\"https://dancing-jackal-books.square.site/product/gnoll-tales/7\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Gnoll Tales</em></a><em>, </em>that won a 2023 Ursa Major Award for Best General Literary Work. NightEyes is a wolf with a penchant for coffee and a love of fantasy fiction. Information about him and his writing can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
             "slug": "the-gods-in-between-by-nighteyes-dayspring",
@@ -10155,6 +10176,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-a-small-gesture-by-pendoggo",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
@@ -11000,6 +11022,9 @@
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari",
             "getting-naked-at-gunnison-by-patrigue"
         ],
+        "by:pendoggo": [
+            "18-a-small-gesture-by-pendoggo"
+        ],
         "by:piggucaz": [
             "tending-to-a-beast-by-piggucaz-18"
         ],
@@ -11676,6 +11701,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-a-small-gesture-by-pendoggo",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "18live-for-love-by-holly-a-morrison",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
@@ -12213,6 +12239,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "18-a-small-gesture-by-pendoggo",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
@@ -12602,6 +12629,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
@@ -13214,6 +13242,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",
             "the-soiree-by-frank-lerenard",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
@@ -13393,6 +13422,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-a-small-gesture-by-pendoggo",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",
@@ -13651,6 +13681,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
@@ -13712,6 +13743,7 @@
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
         "queer": [
+            "18-a-small-gesture-by-pendoggo",
             "18-of-friends-and-foes-by-solomon-harries",
             "the-soiree-by-frank-lerenard",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -13807,6 +13839,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",
             "18-of-friends-and-foes-by-solomon-harries",
             "18live-for-love-by-holly-a-morrison",

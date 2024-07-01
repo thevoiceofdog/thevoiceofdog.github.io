@@ -306,6 +306,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0589255d-92b5-4474-a604-f487dbbd9f0b/Puplift-A-Dog-s-Guide-to-Space-Chapter-4-by-Tempe-O-Kun.mp3",
+            "published_date": "2024-07-01T19:00:00.000Z",
+            "shownotes": "<p><em>Hi there. I am a dog. If you are ready, we will talk about things in the Universe that are smaller than dogs. You will learn about particles and tools and the very advanced ball. These are all important small things.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.youtube.com/watch?v=VyZwGqtzdpo\" rel=\"noopener noreferrer\" target=\"_blank\">Puplift: A Dog's Guide to Space</a>, Chapter 4 by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at Culturally F'd, and the writer of the <em>Windfall</em> and <em>Sixes Wild</em> series by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a>, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">his FurAffinity</a> or <a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry</a> account.</p><p>Accompanied by a companion video from <a href=\"https://www.youtube.com/watch?v=r4NY9sTXyE8\" rel=\"noopener noreferrer\" target=\"_blank\">Culturally F'd</a>, with art by <a href=\"https://www.deviantart.com/spipes\" rel=\"noopener noreferrer\" target=\"_blank\">Sam Pipes</a> and music by <a href=\"https://www.youtube.com/channel/UCZS-AY7v2Cx4qVApxRedQdQ/videos\" rel=\"noopener noreferrer\" target=\"_blank\">Bearywell/Jinpa</a></p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "gothic",
+                "crime",
+                "sci-fi",
+                "by:tempe-o-kun",
+                "narrator:tempo"
+            ],
+            "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 4\u201d by Tempe O'Kun"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9a5362cc-9d23-4fe7-9f32-6748760aafe3/18-A-Small-Gesture-by-Pendoggo.mp3",
             "published_date": "2024-06-29T19:00:00.000Z",
             "shownotes": "<p>[18+] <em>A mastiff has thoughts about his sexuality and expression, and decides to take a small step.</em></p><p>Today\u2019s story is \u201cA Small Gesture\u201d by <a href=\"https://twitter.com/pendoggo\" rel=\"noopener noreferrer\" target=\"_blank\">Pendoggo</a>, an artist and casual writer who loves big guys and fantasy worlds. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/pendogion\" rel=\"noopener noreferrer\" target=\"_blank\">furaffinity</a> and his art on <a href=\"https://twitter.com/pendoggo\" rel=\"noopener noreferrer\" target=\"_blank\">twitter</a> or <a href=\"https://bsky.app/profile/pendoggo.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">bluesky</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11208,6 +11225,7 @@
             "counter-culture-by-televassi"
         ],
         "by:tempe-o-kun": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
@@ -11295,6 +11313,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
@@ -11810,6 +11829,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "all-means-all-by-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "the-fox-and-the-unicorns-by-chase-anderson",
@@ -12343,6 +12363,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "18-brandy-and-fire-by-driftwood",
             "outfoxed-by-hania",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-1-of-2",
@@ -13401,6 +13422,9 @@
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
+        "narrator:tempo": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun"
+        ],
         "narrator:william-dingo": [
             "the-reason-why-by-j-s-hawthorne",
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
@@ -14007,6 +14031,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "love-like-echoed-fire-by-js-hawthorne",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",

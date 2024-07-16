@@ -139,6 +139,15 @@ a {
     z-index: 2;
 }
 
+#player .feedback {
+    float: right;
+    color: white;
+}
+
+#feedbacklink {
+    color: #ddd;
+}
+
 body:has(> #player.maximized) {
     background-color: black;
 }

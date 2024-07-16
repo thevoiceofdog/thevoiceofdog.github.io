@@ -1,5 +1,7 @@
 $.cookie.json = true;
 
+feedbacklink = "https://docs.google.com/forms/d/e/1FAIpQLSePzS9pb_YugkDTr9k6NFjuGt1BQdZi-hZA0x5PjZ3QC_1RQQ/viewform?usp=pp_url&entry.814020263="
+
 $(function() {
     $.ajax({
         type: "get",
@@ -115,6 +117,8 @@ function runQuery() {
     }
     $("body").scrollTop(0)
     $("body").removeClass("sidebaropen")
+
+    $("#feedbacklink").attr("href", feedbacklink)
 }
 
 function tagName(x) {
@@ -279,6 +283,7 @@ function playEpisode(slug, autoplay = true, seektime = 0) {
             }
         });
         
+        $("#feedbacklink").attr('href', feedbacklink + escape(slug))
     }
 }
 

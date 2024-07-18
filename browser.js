@@ -91,6 +91,15 @@ function runQuery() {
             $("#main").append("Story not found")
         }
     }
+    else if (query.page) {
+        $.ajax({
+            type: "get",
+            url: "static/" + query.page + ".html",
+            success: response => {
+                $("#main").html(response)
+            }
+        })
+    }
     else if (query.search != undefined) {
         $.ajax({
             type: "get",
@@ -243,7 +252,7 @@ function openTag(tag) {
 }
 
 function openEpisode(slug) {
-    history.pushState({},"","?episode=" + tag)
+    history.pushState({},"","?episode=" + slug)
     runQuery()
 }
 
@@ -254,6 +263,11 @@ function openHome() {
 
 function openSearch() {
     history.pushState({},"","?search=")
+    runQuery()
+}
+
+function openPage(page) {
+    history.pushState({},"","?page=" + page)
     runQuery()
 }
 

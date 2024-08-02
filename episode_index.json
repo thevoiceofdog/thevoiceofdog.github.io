@@ -316,6 +316,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9dd9f487-994f-4955-a5f0-21d57ccf85b4/Songs-in-the-Garden-by-Matt-Trepal-part-2-of-2.mp3",
+            "published_date": "2024-08-02T19:00:00.000Z",
+            "shownotes": "<p><em>Brolio has discovered that traitors plot the kidnapping of their Duchess.&nbsp; What can a traveling musician do to thwart their plan?</em></p><p>Today\u2019s story is the second and final part of \u201cSongs in the Garden\u201d by <a href=\"https://ohai.social/@trpeal\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Trepal</a>, one of thirteen stories featured in SPECIES:&nbsp; Foxes, published by Thurston Howl Publications, but which is now unfortunately out of print.</p><p>Last time, Brolio the traveling musician was invited to perform at the Duchess\u2019s Summer Festival celebration, was smitten by the Duchess, and stumbled upon a nefarious plot to kidnap her.&nbsp; Now he seeks to warn her without alerting the traitors to what he has discovered.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "songs-in-the-garden-by-matt-trepal-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "political/espionage",
+                "mystery",
+                "medieval",
+                "historical",
+                "narrator:rob-macwolf",
+                "by:matt-trepal"
+            ],
+            "title": "\u201cSongs in the Garden\u201d by Matt Trepal (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b372261e-7a73-46ac-8880-c453970b1146/Songs-in-the-Garden-by-Matt-Trepal-part-1-of-2.mp3",
             "published_date": "2024-07-29T19:00:00.000Z",
             "shownotes": "<p><em>The Summer Festival is the year\u2019s greatest holiday, but this year Brolio the traveling musician uncovers foul deeds about to mar it.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201cSongs in the Garden\u201d by <a href=\"https://ohai.social/@trpeal\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Trepal</a>, one of thirteen stories featured in SPECIES:&nbsp; Foxes, published by Thurston Howl Publications, but which is now unfortunately out of print.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11097,6 +11114,7 @@
             "please-dont-fail-me-for-this-by-marcus-heckinberry"
         ],
         "by:matt-trepal": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2"
         ],
         "by:metassus": [
@@ -12544,6 +12562,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -12907,6 +12926,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "the-death-of-kellas-by-sky-mckinnon",
@@ -12960,6 +12980,7 @@
             "to-find-you-by-kandrel-18"
         ],
         "mystery": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
@@ -13418,6 +13439,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
@@ -13831,6 +13853,7 @@
             "disappearance-by-madison-scott-clary-18"
         ],
         "political/espionage": [
+            "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "all-means-all-by-rob-macwolf",
             "18-shell-game-by-kandrel-part-2-of-2",

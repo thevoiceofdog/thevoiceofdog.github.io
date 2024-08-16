@@ -322,6 +322,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fa17bbac-e60f-4652-8b05-bcb0bfd941f9/Somebody-s-Gotta-Do-the-Dirty-Work-by-Spottystuff-part-2-of-2.mp3",
+            "published_date": "2024-08-16T09:50:00.000Z",
+            "shownotes": "<p><em>Kieran escapes his imprisonment, and sets out to find the one who captured him. But he finds more than he expected.</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Somebody\u2019s gotta do the dirty work</a>\u201d by <a href=\"https://twitter.com/Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Spottystuff</a>, a hobbyist writer, dilletante artist, and care free tinkerer with whatever his minders leave unsupervised for long enough. You can read his stories on <a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>, and follow him on <a href=\"https://twitter.com/spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> and <a href=\"https://meow.social/@Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Mastodon</a>, if you\u2019re into that sort of thing.</p><p>Last time, Kieran was imprisoned after an ambush, and had to endure horrible treatment in a tiny prison cell. In his captivity, he was beaten every day, and the injuries are starting to take their toll. But his plan to escape is almost ready.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "historical",
+                "blood",
+                "political",
+                "mystery",
+                "narrator:solomon-harries",
+                "by:spottystuff"
+            ],
+            "title": "\u201cSomebody\u2019s Gotta Do the Dirty Work\u201d by Spottystuff (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e0127bb0-a983-4c49-a434-0a640025b181/Somebody-s-Gotta-Do-the-Dirty-Work-by-Spottystuff-part-1-of-2.mp3",
             "published_date": "2024-08-12T09:50:00.000Z",
             "shownotes": "<p><em>During a break and entry mission, Kieran is ambushed and imprisoned. Now he has to find a way to escape before it\u2019s too late.</em> </p><p>Today\u2019s story is the first of two parts of \u201c<a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Somebody\u2019s gotta do the dirty work</a>\u201d by <a href=\"https://twitter.com/Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Spottystuff</a>, a hobbyist writer, dilletante artist, and care free tinkerer with whatever his minders leave unsupervised for long enough. You can read his stories on <a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>, and follow him on <a href=\"https://twitter.com/spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> and <a href=\"https://meow.social/@Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Mastodon</a>, if you\u2019re into that sort of thing.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10574,6 +10591,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
@@ -11432,6 +11450,7 @@
             "too-important-to-be-forgotten-by-splicerwolf"
         ],
         "by:spottystuff": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "anniversary-by-spottystuff",
             "the-conqueror-by-spottystuff",
@@ -12620,6 +12639,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
@@ -13040,6 +13060,7 @@
             "to-find-you-by-kandrel-18"
         ],
         "mystery": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
@@ -13631,6 +13652,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:solomon-harries": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "i-breathe-by-taylor-fox",
             "the-healers-quarters-by-pendoggo",
@@ -13933,6 +13955,7 @@
             "disappearance-by-madison-scott-clary-18"
         ],
         "political": [
+            "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [

@@ -322,6 +322,21 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/dc1e1032-2fb5-460d-bdac-9aabc081d777/reticence-by-et-al.mp3",
+            "published_date": "2024-08-19T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://aeetal.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">\u00c6 et al.</a>, a poet composed of several dragons in a trench coat.</p><p>Read by Sierra, the Small Blue One</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "reticence-a-poem-by-et-al-",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poem",
+                "by:et-al",
+                "narrator:sierra"
+            ],
+            "title": "\u201creticence\u201d, a poem by \u00c6 et al. (read by Sierra)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fa17bbac-e60f-4652-8b05-bcb0bfd941f9/Somebody-s-Gotta-Do-the-Dirty-Work-by-Spottystuff-part-2-of-2.mp3",
             "published_date": "2024-08-16T09:50:00.000Z",
             "shownotes": "<p><em>Kieran escapes his imprisonment, and sets out to find the one who captured him. But he finds more than he expected.</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Somebody\u2019s gotta do the dirty work</a>\u201d by <a href=\"https://twitter.com/Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Spottystuff</a>, a hobbyist writer, dilletante artist, and care free tinkerer with whatever his minders leave unsupervised for long enough. You can read his stories on <a href=\"https://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>, and follow him on <a href=\"https://twitter.com/spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> and <a href=\"https://meow.social/@Spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Mastodon</a>, if you\u2019re into that sort of thing.</p><p>Last time, Kieran was imprisoned after an ambush, and had to endure horrible treatment in a tiny prison cell. In his captivity, he was beaten every day, and the injuries are starting to take their toll. But his plan to escape is almost ready.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10915,6 +10930,7 @@
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18"
         ],
         "by:et-al": [
+            "reticence-a-poem-by-et-al-",
             "memory-by-et-al-"
         ],
         "by:evan-drake": [
@@ -11578,6 +11594,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "reticence-a-poem-by-et-al-",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
             "18-zekes-blue-hole-by-televassi-part-2-of-2",
@@ -13651,6 +13668,9 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "bad-dog-by-rob-baird"
         ],
+        "narrator:sierra": [
+            "reticence-a-poem-by-et-al-"
+        ],
         "narrator:solomon-harries": [
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
@@ -13871,6 +13891,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "reticence-a-poem-by-et-al-",
             "i-breathe-by-taylor-fox",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",
             "the-devil-went-down-to-georgia-pride-by-hfe",

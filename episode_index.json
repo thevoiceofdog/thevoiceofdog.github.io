@@ -301,6 +301,7 @@
             "magical-realism",
             "narrator",
             "political",
+            "sci-fi by:tempe-o-kun",
             "superhero by:buddy-goodboy",
             "ta'kom-ironhoof",
             "transformation"
@@ -328,12 +329,9 @@
             "slug": "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
-                "check-tags",
-                "spooky",
                 "sci-fi",
-                "blood",
-                "by:tempe-o-kun",
-                "narrator:tempe-o-kun"
+                "narrator:tempe-o-kun",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space - The Most Dangerous Place in the Universe\u201d by Tempe O'Kun (read by the author)"
         },
@@ -613,11 +611,9 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "summary": "",
             "tags": [
-                "check-tags",
-                "crime",
                 "sci-fi",
-                "by:tempe-o-kun",
-                "narrator:tempo"
+                "narrator:tempo",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 4\u201d by Tempe O'Kun"
         },
@@ -3575,9 +3571,9 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
-                "check-tags",
-                "by:tempe-o-kun",
-                "narrator:tempe-o-kun"
+                "sci-fi by:tempe-o-kun",
+                "narrator:tempe-o-kun",
+                "by:tempe-o-kun"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 3\u201d by Tempe O'Kun (read by the author)"
         },
@@ -10151,7 +10147,7 @@
         "bisexual": "Bisexual",
         "blood": "Blood",
         "by:K.C.-Shaw": "Author: K.C. Shaw",
-        "by:ae-et-al": "Author: \u00c6 et al.",
+        "by:ae-et-al": "Author: \u00c6 et al",
         "by:aelius": "Author: Aelius",
         "by:aero-dragneel": "Author: Aero Dragneel",
         "by:akronia": "Author: Akronia",
@@ -10427,6 +10423,7 @@
         "renaissance": "Renaissance",
         "romance": "Romance",
         "sci-fi": "Sci-fi",
+        "sci-fi by:tempe-o-kun": "Sci Fi Author: Tempe O Kun",
         "self-harm": "Self-Harm",
         "slice-of-life": "Slice of Life",
         "speculative": "Speculative",
@@ -10673,7 +10670,6 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
-            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -11666,7 +11662,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "kinwa-and-the-engineer-by-ritter",
             "reticence-a-poem-by-et-al-",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
@@ -11674,7 +11669,6 @@
             "18-zekes-blue-hole-by-televassi-part-2-of-2",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
-            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "the-soiree-by-frank-lerenard",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
@@ -11734,7 +11728,6 @@
             "the-year-of-the-dragon-by-packwolf-lupestripe",
             "18-free-samples-by-dirt-coyote",
             "requiem-by-pascal-farful",
-            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "18-under-the-bed-by-todd-aldrington",
             "silence-and-sword-by-royce-day-part-2-of-2",
             "silence-and-sword-by-royce-day-part-1-of-2",
@@ -12151,7 +12144,6 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
-            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "all-means-all-by-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "the-fox-and-the-unicorns-by-chase-anderson",
@@ -14481,6 +14473,9 @@
             "monkeyshines-by-j-b-rockwell-part-1-of-2",
             "edge-of-the-universe-by-domus-vocis"
         ],
+        "sci-fi by:tempe-o-kun": [
+            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
+        ],
         "self-harm": [
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "run-by-dirt-coyote-part-2-of-2",
@@ -14510,7 +14505,6 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
-            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "neon-bruises-by-domus-vocis-part-2-of-2",

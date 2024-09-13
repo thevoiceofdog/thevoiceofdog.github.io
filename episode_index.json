@@ -323,6 +323,21 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/51397093-2f45-4b68-ae6d-af519842a197/Kintsugi-by-et-al.mp3",
+            "published_date": "2024-09-13T09:50:00.000Z",
+            "shownotes": "<p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf your fellow traveler, and Today we present a poem by <a href=\"https://aeetal.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">\u00c6 et al.</a>, a poet composed of several dragons in a trench coat.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "kintsugi-a-poem-by-et-al-",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poem",
+                "by:et-al",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cKintsugi\u201d, a poem by \u00c6 et al."
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4024a59e-6881-420f-ba1e-c99aa6d9fac7/18-Steam-by-Brathor-Cyr-part-2-of-2.mp3",
             "published_date": "2024-09-09T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>A pair of coworkers at an athletic club become better acquainted while spending some after-hours time together in a sauna.</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://www.sofurry.com/view/1797884\" rel=\"noopener noreferrer\" target=\"_blank\">Steam</a>\u201d by <a href=\"https://brathor.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Brathor Cyr</a>, who has been writing erotic furry fiction for nearly twenty years. You can find more of his stories in many furry spaces, including SoFurry and FurAffinity.</p><p>Last time, Cirrus, an arctic fox, was forced to approach an intimidating coworker, a wolf named Cole, to get a ride home due to bad weather. After Cirrus finds him in the locker room sauna, the fox decides to join the wolf rather than pressure him to hurry home.&nbsp;</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11036,6 +11051,7 @@
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18"
         ],
         "by:et-al": [
+            "kintsugi-a-poem-by-et-al-",
             "reticence-a-poem-by-et-al-",
             "memory-by-et-al-"
         ],
@@ -11704,6 +11720,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "kintsugi-a-poem-by-et-al-",
             "18-steam-by-brathor-cyr-part-2-of-2",
             "18-steam-by-brathor-cyr-part-1-of-2",
             "kinwa-and-the-engineer-by-ritter",
@@ -13669,6 +13686,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "kintsugi-a-poem-by-et-al-",
             "18-steam-by-brathor-cyr-part-2-of-2",
             "18-steam-by-brathor-cyr-part-1-of-2",
             "kinwa-and-the-engineer-by-ritter",
@@ -14021,6 +14039,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "kintsugi-a-poem-by-et-al-",
             "reticence-a-poem-by-et-al-",
             "i-breathe-by-taylor-fox",
             "18-if-you-are-reading-these-they-may-be-about-you-by-rob-macwolf",

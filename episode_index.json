@@ -326,6 +326,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8dd9692b-1071-4a73-b69b-a632240b8cd5/The-Lament-of-the-Batavii-by-J-S-Hawthorne-part-1-of-2.mp3",
+            "published_date": "2024-09-20T09:50:00.000Z",
+            "shownotes": "<p><em>Tulla Aula Agrippina is the bodyguard to a dead man\u2013her lord struck down by a rival\u2019s curse while she traveled to Rome on his behalf. Now, she finds herself adrift in a world that seems to have no place for her, seeking revenge on a foe who is invisible and untouchable.</em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201cThe Lament of the Batavii\u201d by J.S. Hawthorne, who is definitely not just a flock of magpies in a trenchcoat. Today\u2019s story is one of eighteen featured in \u201cIn the Light of the Dawn,\u201d an anthology of antiquities by the Furry Historical Fiction Society. Excavate more at <a href=\"https://fhfs.ink/\" rel=\"noopener noreferrer\" target=\"_blank\">fhfs.ink</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "family-saga",
+                "drama",
+                "medieval",
+                "gore",
+                "by:j-s-hawthorne",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Lament of the Batavii\u201d by J.S. Hawthorne (part 1 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/42e4521c-fdec-4064-818c-8245590f27e2/18-The-Next-Chapter-by-Amethyst-Mare.mp3",
             "published_date": "2024-09-16T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Salem and Baxter are wrapping up their time at university, looking to take their next steps in life. Yet no one can quite tell where life will take them when so much is uncertain.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.lulu.com/shop/arian-mabe/just-the-guys-ebook/ebook/product-84k46wd.html?page=1&amp;pageSize=4\" rel=\"noopener noreferrer\" target=\"_blank\">The Next Chapter</a>\u201d by <a href=\"https://www.furaffinity.net/user/amethystmare/\" rel=\"noopener noreferrer\" target=\"_blank\">Amethyst Mare</a>, who takes commissions, and has self-published books via<a href=\"https://www.lulu.com/spotlight/arianmabe/\" rel=\"noopener noreferrer\" target=\"_blank\"> Lulu</a>, and you can find more of their stories on<a href=\"https://amethyst-mare.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> SoFurry</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -8930,7 +8948,7 @@
                 "action/adventure",
                 "fantasy",
                 "by:alison-cybe",
-                "narrator:khaki"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cDon't Forget your Comic Books!\u201d by Alison Cybe"
         },
@@ -9436,12 +9454,10 @@
             "summary": "<p>When magical bondage goes wrong, magic student Riley has to save roommate Blaine before the headmaster and consequences come for him!</p>\n<p>Today's story is \u201cNot So Above It All\u201d by <a href=\"http://www.twitter.com/FaoraMeridian\"><u>Faora Meridian</u></a>, a longtime furry writer whose short stories have been published by <a href=\"https://sofawolf.com/products/hotdish-2\"><u>Sofawolf</u></a> and <a href=\"https://furplanet.com/shop/item.aspx?itemid=1076\"><u>Furplanet</u></a>, and you can find more of his stories on <a href=\"https://www.faora.sofurry.com/\"><u>Sofurry</u></a>.</p>\n<p>Read for you by <a href=\"https://twitter.com/khakidoggy\">Khaki</a>, your faithful fireside companion.</p>\n",
             "tags": [
                 "check-tags",
-                "adult",
                 "legend",
                 "fantasy",
-                "nsfw",
                 "by:faora-meridian",
-                "narrator:khaki"
+                "narrator:rob-macwolf"
             ],
             "title": " \u201cNot So Above It All\u201d by Faora Meridian [18+]"
         },
@@ -10712,7 +10728,6 @@
             "foxing-for-pizza-by-nighteyes-dayspring-18",
             "bluebucks-by-televassi-18",
             "no-dogs-by-kirisis-kc-alpinus",
-            "not-so-above-it-all-by-faora-meridian-18",
             "a-number-s-game-by-kergiby-18",
             "colour-me-terrified-by-b-p-rugger-18",
             "adrenaline-high-by-kandrel-18",
@@ -11209,6 +11224,7 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "love-like-echoed-fire-by-js-hawthorne",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
@@ -11746,6 +11762,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "kintsugi-a-poem-by-et-al-",
             "18-steam-by-brathor-cyr-part-2-of-2",
             "18-steam-by-brathor-cyr-part-1-of-2",
@@ -12274,6 +12291,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-steam-by-brathor-cyr-part-1-of-2",
             "i-remember-you-by-kohitsuji",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
@@ -12548,6 +12566,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-soiree-by-frank-lerenard",
             "neon-bruises-by-domus-vocis-part-1-of-2",
@@ -12772,6 +12791,7 @@
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf"
         ],
         "gore": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
@@ -13186,6 +13206,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "kinwa-and-the-engineer-by-ritter",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
@@ -13599,7 +13620,6 @@
             "bluebucks-by-televassi-18",
             "milkshakes-and-foxes-by-madison-scott-clary",
             "a-close-port-of-call-by-altivo-overo",
-            "don-t-forget-your-comic-books-by-alison-cybe",
             "edge-of-the-universe-by-domus-vocis",
             "twilight-sparkle-goes-to-bed-by-john-bailey",
             "dragonslayer-by-gre7g-luterman",
@@ -13628,7 +13648,6 @@
             "rats-by-frances-pauli",
             "snowed-in-by-metassus",
             "to-catch-a-thief-by-kyell-gold",
-            "not-so-above-it-all-by-faora-meridian-18",
             "let-them-have-cake-by-spottystuff",
             "behesht-by-dwale",
             "a-number-s-game-by-kergiby-18",
@@ -13712,6 +13731,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-the-next-chapter-by-amethyst-mare",
             "kintsugi-a-poem-by-et-al-",
             "18-steam-by-brathor-cyr-part-2-of-2",
@@ -13836,6 +13856,8 @@
             "samovar-by-altivo-overo",
             "remembering-the-forgotten-by-h-j-pang",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
+            "don-t-forget-your-comic-books-by-alison-cybe",
+            "not-so-above-it-all-by-faora-meridian-18",
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
@@ -14048,7 +14070,6 @@
             "how-menander-got-his-name-by-altivo-overo",
             "bluebucks-by-televassi-18",
             "no-dogs-by-kirisis-kc-alpinus",
-            "not-so-above-it-all-by-faora-meridian-18",
             "a-number-s-game-by-kergiby-18",
             "colour-me-terrified-by-b-p-rugger-18",
             "adrenaline-high-by-kandrel-18",

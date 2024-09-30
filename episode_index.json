@@ -331,6 +331,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bb5f082e-915c-4ce4-9142-24e8381b54ab/Rearview-by-Sean-Duroc-Silva.mp3",
+            "published_date": "2024-09-30T09:50:00.000Z",
+            "shownotes": "<p><em>In this dark twist on \u201cThe Three Little Pigs\u201d, one of the pigs, in an attempt to flee from his troubles, ends up stranded on the side of the road when a mysterious wolf offers him a ride.</em></p><p>Tonight\u2019s story is \u201cRearview\u201d by Sean \u201cDuroc\u201d Silva. Originally featured in Allasso Volume 2 and nominated for a Coyotl award, Rearview was reprinted in The Coyotl Awards anthology. Duroc has also had stories featured in Different Worlds, Different Skins and Roar Volume 4, all of which were featured on The Voice of Dog. He was the original founder of the Furry Writers\u2019 Guild and currently lives in Texas with his partner and numerous puppies while spending way too much time and money on video games.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "rearview-by-sean-duroc-silva",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "contemporary",
+                "blood",
+                "by:sean-duroc-silva",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cRearview\u201d by Sean \"Duroc\" Silva (read by Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/53f5b61d-a562-4a43-99f9-0e7324273a23/18-Being-Yourself-by-MikasiWolf.mp3",
             "published_date": "2024-09-27T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>When a wolf, low on self-esteem, realizes he wasn\u2019t getting action at a Halloween sex party, his boyfriend shows him the important thing is that he be himself.</em></p><p>Today\u2019s story is \u201cBeing Yourself\u201d by <a href=\"https://twitter.com/mikasiwolf\" rel=\"noopener noreferrer\" target=\"_blank\">MikasiWolf</a>, a wolf mercenary writer. His works have been published by Thurston Howl Publications, Rabbit Valley, and Goal Publications among others. You can find links to more of his stories on his <a href=\"https://www.furaffinity.net/user/mikasiwolf/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a> or <a href=\"https://en.wikifur.com/wiki/MikasiWolf\" rel=\"noopener noreferrer\" target=\"_blank\">WikiFur</a> page. \u201cBeing Yourself\u201d first appeared in #Ohmurr magazine by Red Ferret Press.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10817,6 +10836,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "rearview-by-sean-duroc-silva",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -11638,6 +11658,7 @@
             "18-downward-dog-by-scribbles-monhagen"
         ],
         "by:sean-duroc-silva": [
+            "rearview-by-sean-duroc-silva",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-2-of-2",
             "the-beast-in-the-rain-by-sean-duroc-silva-part-1-of-2",
             "second-chance-by-sean-duroc-silva-part-2-of-2",
@@ -11816,6 +11837,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -12190,6 +12212,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "rearview-by-sean-duroc-silva",
             "i-remember-you-by-kohitsuji",
             "18-a-small-gesture-by-pendoggo",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -12347,6 +12370,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-steam-by-brathor-cyr-part-1-of-2",
@@ -12810,6 +12834,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "18-the-darkest-place-by-kohitsuji",
             "eat-your-heart-your-feelings-or-both-by-leuna",
@@ -13961,6 +13986,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "rearview-by-sean-duroc-silva",
             "18live-for-love-by-holly-a-morrison",
             "the-devil-went-down-to-georgia-pride-by-hfe",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
@@ -14693,6 +14719,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",

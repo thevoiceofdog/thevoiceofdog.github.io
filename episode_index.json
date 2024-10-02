@@ -331,6 +331,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c3f85d4d-ab71-48f3-8085-790df36f5673/Through-the-Fog-by-Tyto-Phoenix.mp3",
+            "published_date": "2024-10-02T09:50:00.000Z",
+            "shownotes": "<p><em>Norman was excited to have the house all to himself for the weekend, however, he quickly learns that being all on your own out in the middle of nowhere may not be as fun as he thought it would be.&nbsp; </em></p><p>Tonight\u2019s story is \u201cThrough The Fog\u201d by <a href=\"https://www.furaffinity.net/user/tytophoenix\" rel=\"noopener noreferrer\" target=\"_blank\">TytoPhoenix</a>, who has been writing stories for as long as she can remember, and is dipping her hooves into writing publicly for the furry fandom, and you can find more of her stories on <a href=\"https://archiveofourown.org/users/OfficerMadDog\" rel=\"noopener noreferrer\" target=\"_blank\">Archive of Our Own as Officer Mad Dog</a>.</p><p>Read by Dralen, the Dapper Dragonfox.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "through-the-fog-by-tyto-phoenix",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "contemporary",
+                "by:tyto-phoenix",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThrough the Fog\u201d by Tyto Phoenix (read by Dralen)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bb5f082e-915c-4ce4-9142-24e8381b54ab/Rearview-by-Sean-Duroc-Silva.mp3",
             "published_date": "2024-09-30T09:50:00.000Z",
             "shownotes": "<p><em>In this dark twist on \u201cThe Three Little Pigs\u201d, one of the pigs, in an attempt to flee from his troubles, ends up stranded on the side of the road when a mysterious wolf offers him a ride.</em></p><p>Tonight\u2019s story is \u201cRearview\u201d by Sean \u201cDuroc\u201d Silva. Originally featured in Allasso Volume 2 and nominated for a Coyotl award, Rearview was reprinted in The Coyotl Awards anthology. Duroc has also had stories featured in Different Worlds, Different Skins and Roar Volume 4, all of which were featured on The Voice of Dog. He was the original founder of the Furry Writers\u2019 Guild and currently lives in Texas with his partner and numerous puppies while spending way too much time and money on video games.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11801,6 +11818,9 @@
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2"
         ],
+        "by:tyto-phoenix": [
+            "through-the-fog-by-tyto-phoenix"
+        ],
         "by:ursus-arctos": [
             "pinky-by-ursus-arctos",
             "friends-and-collies-by-ursus-arctos"
@@ -11837,6 +11857,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -12212,6 +12233,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "i-remember-you-by-kohitsuji",
             "18-a-small-gesture-by-pendoggo",
@@ -12834,6 +12856,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "18-the-darkest-place-by-kohitsuji",
@@ -13819,6 +13842,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "through-the-fog-by-tyto-phoenix",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -14719,6 +14743,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",

@@ -331,6 +331,26 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/221d067e-7cf6-4080-a164-d4d9704a760d/Skykomish-Never-Sleeps-by-Heya-Baru.mp3",
+            "published_date": "2024-10-04T09:50:00.000Z",
+            "shownotes": "<p><em>An archeological research paper, written at an unknown period of time, far in the future.</em></p><p>Tonight\u2019s story is \u201c<a href=\"https://cohost.org/heya-baru/post/6453017-skykomish-never-slee\" rel=\"noopener noreferrer\" target=\"_blank\">Skykomish Never Sleeps</a>\u201d by <a href=\"https://cohost.org/heya-baru\" rel=\"noopener noreferrer\" target=\"_blank\">Heya Baru</a>, and you can find more of their stories on <a href=\"https://cohost.org/heya-baru\" rel=\"noopener noreferrer\" target=\"_blank\">their cohost page</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "skykomish-never-sleeps-by-heya-baru",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "crime",
+                "historical",
+                "blood",
+                "self-harm",
+                "by:heya-baru",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cSkykomish Never Sleeps\u201d by Heya Baru"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c3f85d4d-ab71-48f3-8085-790df36f5673/Through-the-Fog-by-Tyto-Phoenix.mp3",
             "published_date": "2024-10-02T09:50:00.000Z",
             "shownotes": "<p><em>Norman was excited to have the house all to himself for the weekend, however, he quickly learns that being all on your own out in the middle of nowhere may not be as fun as he thought it would be.&nbsp; </em></p><p>Tonight\u2019s story is \u201cThrough The Fog\u201d by <a href=\"https://www.furaffinity.net/user/tytophoenix\" rel=\"noopener noreferrer\" target=\"_blank\">TytoPhoenix</a>, who has been writing stories for as long as she can remember, and is dipping her hooves into writing publicly for the furry fandom, and you can find more of her stories on <a href=\"https://archiveofourown.org/users/OfficerMadDog\" rel=\"noopener noreferrer\" target=\"_blank\">Archive of Our Own as Officer Mad Dog</a>.</p><p>Read by Dralen, the Dapper Dragonfox.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10853,6 +10873,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "skykomish-never-sleeps-by-heya-baru",
             "rearview-by-sean-duroc-silva",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
@@ -11272,6 +11293,9 @@
             "precious-cargo-by-herr-wozzeck-part-2-of-2",
             "precious-cargo-by-herr-wozzeck-part-1-of-2",
             "shopping-trip-by-herr-wozzeck"
+        ],
+        "by:heya-baru": [
+            "skykomish-never-sleeps-by-heya-baru"
         ],
         "by:hfe": [
             "the-devil-went-down-to-georgia-pride-by-hfe"
@@ -11857,6 +11881,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
@@ -12349,6 +12374,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "skykomish-never-sleeps-by-heya-baru",
             "all-means-all-by-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "the-fox-and-the-unicorns-by-chase-anderson",
@@ -12856,6 +12882,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
@@ -12941,6 +12968,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "skykomish-never-sleeps-by-heya-baru",
             "18-being-yourself-by-mikasiwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -13842,6 +13870,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -14715,6 +14744,7 @@
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
         ],
         "self-harm": [
+            "skykomish-never-sleeps-by-heya-baru",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
@@ -14743,6 +14773,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",

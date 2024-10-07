@@ -239,7 +239,6 @@
             "thriller/suspense"
         ],
         "narrator": [
-            "narrator:",
             "narrator:altivo-overo",
             "narrator:ardy-hart",
             "narrator:b-p-rugger",
@@ -346,7 +345,7 @@
                 "fantasy",
                 "blood",
                 "by:rob-macwolf",
-                "narrator:solomon-harries"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cEat the Rich\u201d by Rob MacWolf (read by Solomon Harries)"
         },
@@ -384,7 +383,7 @@
                 "spooky",
                 "contemporary",
                 "by:tyto-phoenix",
-                "narrator:dralen"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cThrough the Fog\u201d by Tyto Phoenix (read by Dralen)"
         },
@@ -4992,7 +4991,7 @@
                 "contemporary",
                 "queerphobia",
                 "by:coda",
-                "narrator:"
+                "narrator:rob-macwolf"
             ],
             "title": "\u201cBorn to be Wild\u201d by Coda"
         },
@@ -10588,7 +10587,6 @@
         "military": "Military",
         "mystery": "Mystery",
         "narrator": "Narrator",
-        "narrator:": "Narrator:  ",
         "narrator:altivo-overo": "Narrator: Altivo Overo",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
@@ -13466,9 +13464,6 @@
         "narrator": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
-        "narrator:": [
-            "born-to-be-wild-by-coda"
-        ],
         "narrator:altivo-overo": [
             "beyond-mundane-horizons-by-altivo-overo"
         ],
@@ -13542,7 +13537,6 @@
             "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author"
         ],
         "narrator:dralen": [
-            "through-the-fog-by-tyto-phoenix",
             "18-brandy-and-fire-by-driftwood",
             "the-eavesdropper-by-ritter",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -13904,7 +13898,9 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
+            "through-the-fog-by-tyto-phoenix",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -14006,6 +14002,7 @@
             "bare-assed-broadway-by-ashe-valisca-part-1-of-2-18",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2",
+            "born-to-be-wild-by-coda",
             "wild-thing-by-dirt-coyote-part-2-of-2-18",
             "wild-thing-by-dirt-coyote-part-1-of-2-18",
             "a-strong-dominant-hand-by-drakolf-grimm-diretooth-18",
@@ -14037,7 +14034,6 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
-            "eat-the-rich-by-rob-macwolf",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "i-breathe-by-taylor-fox",

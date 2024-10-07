@@ -279,8 +279,15 @@ function playEpisode(slug, autoplay = true, seektime = 0) {
 
         $("#audio").html("<audio controls" + (autoplay ? " autoplay" : "") + "><source type='audio/mpeg' src='" + ep['media_url'] + "'/></audio>")
         $("#audio audio").on("timeupdate", onTimeUpdate)
-        $("#audio audio").on("play", () => { $("#player").removeClass("paused") } )
-        $("#audio audio").on("pause", () => { $("#player").addClass("paused") } )
+        $("#audio audio").on("play", () => { 
+            $("#player").removeClass("paused") 
+            if (window.audioTimer) clearInterval(window.audioTimer)
+            window.audioTimer = setInterval(onTimeUpdate, 50)
+        } )
+        $("#audio audio").on("pause", () => { 
+            $("#player").addClass("paused") 
+            if (window.audioTimer) clearInterval(window.audioTimer)
+            } )
         if (seektime > 0) {
             $("#audio audio").on("canplaythrough", () => {
                 $("#audio audio")[0].currentTime = seektime
@@ -310,14 +317,22 @@ function gotSRT(text) {
         let card = lines.slice(i*4,i*4+3)
         let ts1 = card[1].slice(0,2) * 3600 + card[1].slice(3,5) * 60 + card[1].slice(6,8) * 1 + card[1].slice(9,12)*0.001
         let ts2 = card[1].slice(17,19) * 3600 + card[1].slice(20,22) * 60 + card[1].slice(23,25) * 1 + card[1].slice(26,29)*0.001
-        let text = card[2].split("").reduce((acc, char) => char + acc, "");
-        let span = $("<span>" + text + " </span>")
-        span.click(() => { $("audio")[0].currentTime = ts1; $("audio")[0].play() })
-        window.cards.push({
-            "start": ts1,
-            "end": ts2,
-            "text": text,
-            "span": span
+        let cardtext = card[2].split("").reduce((acc, char) => char + acc, "").replace("<br>", "\n");
+        if (cardtext.length > 16) { cardtext += " " }
+        let pace = cardtext.length ? ((ts2-ts1) / cardtext.length) : 0;
+        let c = 0
+        Array(... cardtext.matchAll("[^\\s]+[\\s]*")).forEach((x) => {
+            let t1 = ts1 + c * pace
+            c += String(x).length
+            let t2 = ts1 + c * pace
+            let span = $("<span>" + String(x).replace("\n","<br>") + "</span>")
+            span.click(() => { $("audio")[0].currentTime = ts1; $("audio")[0].play() })
+            window.cards.push({
+                "start": t1,
+                "end": t2,
+                "text": x,
+                "span": span
+            })
         })
     }
     window.cards.sort((a,b) => { return a.start - b.start })
@@ -329,14 +344,18 @@ function gotSRT(text) {
 function onTimeUpdate() {
     let curTime = $("audio")[0].currentTime
     window.cards.forEach(card => {
-        if (curTime > card.start && curTime < card.end && !card.span.hasClass("highlight")) {
-            $(".highlight").removeClass("highlight")
-            card.span.addClass("highlight")
-            card.span[0].scrollIntoView({
-                "behavior": "smooth",
-                "block": "center"
-            })
-            $.cookie("nowplaying_time", curTime, { expires: 14, path: '/' })
+        if (curTime > card.start && curTime < card.end+0.2) {
+            if (!card.span.hasClass("highlight")) {
+                card.span.addClass("highlight")
+                card.span[0].scrollIntoView({
+                    "behavior": "smooth",
+                    "block": "center"
+                })
+                $.cookie("nowplaying_time", curTime, { expires: 14, path: '/' })
+            }
+        }
+        else if (card.span.hasClass("highlight")) {
+            card.span.removeClass("highlight")
         }
     });    
 }

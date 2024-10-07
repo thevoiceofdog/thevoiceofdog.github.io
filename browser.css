@@ -184,6 +184,10 @@ body:has(> #player.maximized) {
     max-height: 90%;
 }
 
+#transcript span {
+    transition: color 0.25s ease-in-out;
+}
+
 #transcript span.highlight {
     color: #ddd;
 }

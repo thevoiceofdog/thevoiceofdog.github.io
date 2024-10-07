@@ -332,6 +332,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4448c246-6f3b-4304-b51c-7073e62bee14/Eat-the-Rich-by-Rob-MacWolf.mp3",
+            "published_date": "2024-10-07T09:50:00.000Z",
+            "shownotes": "<p><em>EXCLUSIVE REPORT: This intrepid journalist sat down with one of the ravenous dead to get their side of the story.</em></p><p>Tonight\u2019s story is \u201cEat the Rich\u201d by <a href=\"https://rob-macwolf.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, which you can expect to see in the zombie anthology, Night of the Howling Dead, coming soon.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "eat-the-rich-by-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "fantasy",
+                "blood",
+                "by:rob-macwolf",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cEat the Rich\u201d by Rob MacWolf (read by Solomon Harries)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/221d067e-7cf6-4080-a164-d4d9704a760d/Skykomish-Never-Sleeps-by-Heya-Baru.mp3",
             "published_date": "2024-10-04T09:50:00.000Z",
             "shownotes": "<p><em>An archeological research paper, written at an unknown period of time, far in the future.</em></p><p>Tonight\u2019s story is \u201c<a href=\"https://cohost.org/heya-baru/post/6453017-skykomish-never-slee\" rel=\"noopener noreferrer\" target=\"_blank\">Skykomish Never Sleeps</a>\u201d by <a href=\"https://cohost.org/heya-baru\" rel=\"noopener noreferrer\" target=\"_blank\">Heya Baru</a>, and you can find more of their stories on <a href=\"https://heya-baru.dreamwidth.org/\" rel=\"noopener noreferrer\" target=\"_blank\">their dreamwidth page</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10876,6 +10895,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
             "rearview-by-sean-duroc-silva",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
@@ -11627,6 +11647,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "eat-the-rich-by-rob-macwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -11884,6 +11905,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
@@ -12421,6 +12443,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "eat-the-rich-by-rob-macwolf",
             "rearview-by-sean-duroc-silva",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -12752,6 +12775,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "eat-the-rich-by-rob-macwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
             "the-healers-quarters-by-pendoggo",
@@ -12885,6 +12909,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",
@@ -13873,6 +13898,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "18-being-yourself-by-mikasiwolf",
@@ -14777,6 +14803,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
             "through-the-fog-by-tyto-phoenix",
             "rearview-by-sean-duroc-silva",

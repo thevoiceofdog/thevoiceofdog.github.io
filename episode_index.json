@@ -333,6 +333,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/70770287-cd09-4c9c-abed-c03d8a6de925/Moth-er-by-Chase-Anderson.mp3",
+            "published_date": "2024-10-11T09:50:00.000Z",
+            "shownotes": "<p><em>Mother knows best, but as changes both subtle and monstrous manifest, reality itself is called into question.</em></p><p>Tonight\u2019s story is \u201cMoth{er}\u201d by <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first published in Another Name for Darkness by Sans. PRESS. You can find more of his stories on his website, <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>Read by Sierra, the Small Blue One, and by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "mother-by-chase-anderson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "thriller/suspense",
+                "drama",
+                "by:chase-anderson",
+                "narrator:sierra"
+            ],
+            "title": "\u201cMoth{er}\u201d by Chase Anderson (read by Sierra and Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/97ff71e2-9a6e-4063-a2bf-855f4a0ab7da/18-Intense-Research-by-Scribbles-Monhagen-part-2-of-2.mp3",
             "published_date": "2024-10-10T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Chad takes Nigel back to his place to make good on his word to show the cat how he feeds. Is Nigel really ready for it?</em></p><p>Tonight\u2019s story is the second and final part of \u201cIntense Research\u201d by Scribbles Monhagen, who is <em>still </em>just as surprised as you are that they wrote another lewd story They are also the author of <a href=\"https://thevoice.dog/episode/18-downward-dog-by-scribbles-monhagen\" rel=\"noopener noreferrer\" target=\"_blank\">Downward Dog</a> as well as various other stories.&nbsp; You can find more of their stories on<a href=\"https://scribblesofachee.blog/works-published/\" rel=\"noopener noreferrer\" target=\"_blank\"> their personal blog\u2019s works published page</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11161,6 +11178,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
+            "mother-by-chase-anderson",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "move-x-to-y2k-by-chase-anderson"
@@ -11956,6 +11974,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "eat-the-rich-by-rob-macwolf",
@@ -12497,6 +12516,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "eat-the-rich-by-rob-macwolf",
@@ -12965,6 +12985,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "eat-the-rich-by-rob-macwolf",
@@ -14091,6 +14112,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
+            "mother-by-chase-anderson",
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
@@ -15013,6 +15035,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "mother-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",

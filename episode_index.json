@@ -333,6 +333,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cdce5d7d-387b-4e35-988f-60856a9661af/Long-Road-Home-by-Alex-T-Dragonson.mp3",
+            "published_date": "2024-10-14T09:50:00.000Z",
+            "shownotes": "<p><em>A kind gesture at the right moment can make the difference between being in a ghost story and becoming a ghost yourself. Dusty had never believed in ghost stories, until he picked up a mysterious hitchhiker stranded in the fog.</em></p><p>\ufeffTonight\u2019s story is \u201cLong Road Home\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of their stories on their <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a> and in the Furry Historical Fiction Society\u2019s new anthology, <a href=\"https://fhfs.ink/the-heavens-within-our-grasp/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Heavens Within our Grasp</em></a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "long-road-home-by-alex-t-dragonson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "by:alex-t-dragonson",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cLong Road Home\u201d by Alex T. Dragonson"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/70770287-cd09-4c9c-abed-c03d8a6de925/Moth-er-by-Chase-Anderson.mp3",
             "published_date": "2024-10-11T09:50:00.000Z",
             "shownotes": "<p><em>Mother knows best, but as changes both subtle and monstrous manifest, reality itself is called into question.</em></p><p>Tonight\u2019s story is \u201cMoth{er}\u201d by <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first published in Another Name for Darkness by Sans. PRESS. You can find more of his stories on his website, <a href=\"https://www.chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>Read by Sierra, the Small Blue One, and by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11062,6 +11079,7 @@
             "tempus-imperfectum-by-al-song-part-1-of-3"
         ],
         "by:alex-t-dragonson": [
+            "long-road-home-by-alex-t-dragonson",
             "your-family-and-mine-by-alex-t-dragonson",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "distant-cousins-by-alex-katz",
@@ -11974,6 +11992,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "long-road-home-by-alex-t-dragonson",
             "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -12516,6 +12535,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "long-road-home-by-alex-t-dragonson",
             "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -12985,6 +13005,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "long-road-home-by-alex-t-dragonson",
             "mother-by-chase-anderson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -13982,6 +14003,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "long-road-home-by-alex-t-dragonson",
             "skykomish-never-sleeps-by-heya-baru",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -14891,6 +14913,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "long-road-home-by-alex-t-dragonson",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "eat-the-rich-by-rob-macwolf",

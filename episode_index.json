@@ -333,6 +333,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/7f284bd3-cab5-4506-95e6-5857138c9cf2/Spooklunking-by-Tana-Simensis.mp3",
+            "published_date": "2024-10-18T09:50:00.000Z",
+            "shownotes": "<p><em>A paranormal investigator at a convention gets more than he bargained for assisting a new friend with a ghost hunt.</em></p><p>Tonight\u2019s story is \u201cSpooklunking\u201d by Tana Simensis, who has appeared in several anthologies including Inhuman Acts, you can find more of his work at <a href=\"https://tana-simensis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>Read by Greyloch, your Northwoods Guide.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "spooklunking-by-tana-simensis",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "gothic",
+                "action/adventure",
+                "drugs/alcohol",
+                "by:tana-simensis",
+                "narrator:greyloch"
+            ],
+            "title": "\u201cSpooklunking\u201d by Tana Simensis (read by Greyloch)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f8b56ab7-7e31-4719-b4d2-6f57a27c5f46/18-Upon-Thy-Grave-From-the-Ashes-of-My-Heart-by-Batced-part-2-o.mp3",
             "published_date": "2024-10-17T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>In 1818, Mary Shelley published her horror masterpiece, a tale of a monster whom its creator cannot love. But that is the story the public think they know\u2026</em></p><p>Tonight\u2019s story is the second and final part of \u201cUpon Thy Grave From The Ashes Of My Heart\u201d by Batced, longtime editor from Thurston Howl Publications.&nbsp;</p><p>Read by Kergiby, a Full Time Panther.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -10781,6 +10799,7 @@
     },
     "tags": {
         "action/adventure": [
+            "spooklunking-by-tana-simensis",
             "18-the-next-chapter-by-amethyst-mare",
             "18-zekes-blue-hole-by-televassi-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
@@ -11927,6 +11946,9 @@
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-what-are-the-odds-by-takom-ironhoof"
         ],
+        "by:tana-simensis": [
+            "spooklunking-by-tana-simensis"
+        ],
         "by:tanner-silverpaw": [
             "winter-snow-by-tanner-silverpaw"
         ],
@@ -12041,6 +12063,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "spooklunking-by-tana-simensis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
             "long-road-home-by-alex-t-dragonson",
@@ -12755,6 +12778,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "spooklunking-by-tana-simensis",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
@@ -13057,6 +13081,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "spooklunking-by-tana-simensis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
             "long-road-home-by-alex-t-dragonson",
@@ -13126,6 +13151,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "spooklunking-by-tana-simensis",
             "outfoxed-by-hania",
             "18-the-darkest-place-by-kohitsuji",
             "we-regret-to-inform-you-of-a-funeral-cancellation-a-poem-by-rob-macwolf",
@@ -13717,6 +13743,9 @@
         ],
         "narrator:gar-sahoni-atkins": [
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
+        ],
+        "narrator:greyloch": [
+            "spooklunking-by-tana-simensis"
         ],
         "narrator:herr-wozzeck": [
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",

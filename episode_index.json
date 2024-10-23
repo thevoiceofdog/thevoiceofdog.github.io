@@ -333,6 +333,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2a960914-ca45-4748-a504-af14385a7385/The-Scratching-by-Renard-Avec-Histoire.mp3",
+            "published_date": "2024-10-23T09:50:00.000Z",
+            "shownotes": "<p><em>Law school can be stressful. Especially when you\u2019re being watched in your new house by something you can\u2019t see.</em></p><p>Tonight\u2019s story is \u201cThe Scratching\u201d by Renard Avec-Histoire, who or is being published in the upcoming anthologies <em>Night of the Howling Dead </em>and <em>Indulge</em>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-scratching-by-renard-avec-histoire",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "epic",
+                "by:renard-avec-histoire",
+                "narrator:yuugen"
+            ],
+            "title": "\u201cThe Scratching\u201d by Renard Avec-Histoire (read by Yuugen)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9144c101-f1df-48e8-8423-3e068a954a51/18-Fawning-Over-Fear-by-Kergiby.mp3",
             "published_date": "2024-10-21T09:50:00.000Z",
             "shownotes": "<p><em>A deer\u2019s experimentation with drugs has her doubting what\u2019s real when a werewolf comes sniffing after her.</em></p><p>Tonight\u2019s story is \u201cFawning Over Fear\u201d by <a href=\"https://kergiby.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Kergiby</a>, who writes introspective smut, and is an aspiring fursuit maker. You can find more of his stories on <a href=\"https://kergiby.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11806,6 +11823,9 @@
             "hostage-by-reid-minnich",
             "chinchilla-attack-by-reid-minnich"
         ],
+        "by:renard-avec-histoire": [
+            "the-scratching-by-renard-avec-histoire"
+        ],
         "by:renee-carter-hall": [
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-2-of-2-live",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
@@ -12088,6 +12108,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
             "spooklunking-by-tana-simensis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
@@ -12872,6 +12893,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "the-scratching-by-renard-avec-histoire",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
             "priest-of-lilies-by-kayode-lycaon-part-2-of-2",
@@ -13108,6 +13130,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
             "spooklunking-by-tana-simensis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
@@ -14323,6 +14346,9 @@
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo"
         ],
+        "narrator:yuugen": [
+            "the-scratching-by-renard-avec-histoire"
+        ],
         "narrator:yuugenshou": [
             "memory-by-et-al-",
             "and-then-there-is-destruction-by-taylor-fox",
@@ -15031,6 +15057,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",

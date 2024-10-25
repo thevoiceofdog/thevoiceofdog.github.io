@@ -333,6 +333,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/245f80c7-b2a7-4508-8a6e-3a68e459656f/Machine-Learning-by-Kohitsugi.mp3",
+            "published_date": "2024-10-25T09:50:00.000Z",
+            "shownotes": "<p><em>In the distant future, a battle drone\u2019s artificial intelligence discovers the concept of a ghost story. </em></p><p>\ufeffTonight\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/51604014/\" rel=\"noopener noreferrer\" target=\"_blank\">Machine Learning</a> by <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Kohitsuji</a>, who is keeping his lonely vigil alongside the stars, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "machine-learning-by-kohitsugi",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "gothic",
+                "military",
+                "trauma",
+                "by:kohitsugi",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cMachine Learning\u201d by Kohitsugi"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/dca42d5f-24da-46ce-a64c-a3b8175cfb34/18-Binding-Spirits-by-NightEyes-DaySpring.mp3",
             "published_date": "2024-10-24T09:50:00.000Z",
             "shownotes": "<p><em>Work sucks, even when you work in an adult video store, but at least on Halloween, you see some really interesting costumes. It\u2019s strange, though, to close at 9 when it\u2019s a 24-hour store\u2026</em></p><p>\ufeffTonight\u2019s story is \u201c<a href=\"https://www.sofurry.com/view/2072723\" rel=\"noopener noreferrer\" target=\"_blank\">Binding Spirits</a>\u201d by <a href=\"https://nighteyes-dayspring.com/\" rel=\"noopener noreferrer\" target=\"_blank\">NightEyes DaySpring</a>, who is a known troublemaker who is rumored to have a penchant for coffee and an interest in dead, ancient civilizations. Information about him and his writing can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11664,6 +11682,9 @@
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2"
         ],
+        "by:kohitsugi": [
+            "machine-learning-by-kohitsugi"
+        ],
         "by:kohitsuji": [
             "i-remember-you-by-kohitsuji",
             "18-the-darkest-place-by-kohitsuji",
@@ -12129,6 +12150,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
@@ -13152,6 +13174,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
@@ -13225,6 +13248,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "machine-learning-by-kohitsugi",
             "spooklunking-by-tana-simensis",
             "outfoxed-by-hania",
             "18-the-darkest-place-by-kohitsuji",
@@ -13655,6 +13679,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "machine-learning-by-kohitsugi",
             "i-remember-you-by-kohitsuji",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "savannah-friends-by-darius-davis",
@@ -14164,6 +14189,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "long-road-home-by-alex-t-dragonson",
             "skykomish-never-sleeps-by-heya-baru",
@@ -15263,6 +15289,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "machine-learning-by-kohitsugi",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",

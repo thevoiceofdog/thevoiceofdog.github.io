@@ -333,6 +333,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6a8225b2-10c1-465b-a2db-a66ffe746271/18-Good-Bones-by-Galen-LK-part-1-of-2.mp3",
+            "published_date": "2024-10-28T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>In this macabre haunted house tale, two recent homeowners take a look in the mirror, but they may not like everything they see\u2026</em></p><p>Tonight\u2019s story is the first of two parts of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Good Bones</a>\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Galen LK</a>.&nbsp; This is his debut fiction in the furry fandom.&nbsp; Like all coyotes, he is elusive and mysterious, but you can often find him on Discord, Telegram, and Bluesky.</p><p>Read by Icefang, in the Cozy Corner of the Cafe.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-good-bones-by-galen-lk-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "mystery",
+                "trauma",
+                "by:galen-lk",
+                "narrator:icefang"
+            ],
+            "title": "[18+] \u201cGood Bones\u201d by Galen LK (part 1 of 2, read by Icefang)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/245f80c7-b2a7-4508-8a6e-3a68e459656f/Machine-Learning-by-Kohitsugi.mp3",
             "published_date": "2024-10-25T09:50:00.000Z",
             "shownotes": "<p><em>In the distant future, a battle drone\u2019s artificial intelligence discovers the concept of a ghost story. </em></p><p>\ufeffTonight\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/51604014/\" rel=\"noopener noreferrer\" target=\"_blank\">Machine Learning</a> by <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Kohitsuji</a>, who is keeping his lonely vigil alongside the stars, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11514,6 +11532,9 @@
         "by:fruitz": [
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2"
         ],
+        "by:galen-lk": [
+            "18-good-bones-by-galen-lk-part-1-of-2"
+        ],
         "by:gar-sahoni-atkins": [
             "18-snaggin-by-gar-sahoni-atkins",
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
@@ -12150,6 +12171,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-scratching-by-renard-avec-histoire",
@@ -13174,6 +13196,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-scratching-by-renard-avec-histoire",
@@ -13710,6 +13733,7 @@
             "to-find-you-by-kandrel-18"
         ],
         "mystery": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
@@ -13865,6 +13889,7 @@
             "darker-things-than-man-by-casimir-laski"
         ],
         "narrator:icefang": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-the-creation-of-water-by-leuna"
         ],
@@ -15110,6 +15135,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "the-scratching-by-renard-avec-histoire",
             "18-fawning-over-fear-by-kergiby",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
@@ -15289,6 +15315,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
             "the-sight-by-j-s-hawthorne-part-1-of-2",

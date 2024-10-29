@@ -333,6 +333,19 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0e92b94c-f80c-403b-affa-8418b989e6a4/A-Message-from-The-Voice-of-Dog.mp3",
+            "published_date": "2024-10-29T09:50:00.000Z",
+            "shownotes": "<p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today I don\u2019t have a story for you. I\u2019m here to ask for your help.</p><p>The Voice of Dog was born in interesting times. We began to tell stories here at the fireside to encourage, to lift spirits, and to hold this community together through the darkest days of the Covid pandemic. If we\u2019re going to continue to do that, well, there are about to be some more interesting times we must push our way through.</p><p>A week from this broadcast, the United States of America is holding an election. One side of that election has proposed classifying anything written by, or that mentions the existence of LGBTQ+ people as pornography. They have proposed outlawing such \u201cpornography,\u201d with prison sentences for those caught with it. This show would not be able to exist under such conditions. This community would not be able to exist under such conditions. If any story we have ever read has meant anything to you, please, use your vote to defend our ability to tell the story that will mean something to someone else.</p><p>As long as there is a soul with a story to tell, as long as there are ears to hear it, then the Voice of Dog will continue to tell those stories until someone forcibly prevents us. Yours may be the vote that determines whether or not they get to try.</p><p>What else is there to say? Other than: please come back to the fireside, tomorrow, for another story.</p><p>And thank you, all of you, for listening to the Voice of Dog.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "a-message-from-the-voice-of-dog",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "narrator:rob-macwolf"
+            ],
+            "title": "A Message from The Voice of Dog"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6a8225b2-10c1-465b-a2db-a66ffe746271/18-Good-Bones-by-Galen-LK-part-1-of-2.mp3",
             "published_date": "2024-10-28T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>In this macabre haunted house tale, two recent homeowners take a look in the mirror, but they may not like everything they see\u2026</em></p><p>Tonight\u2019s story is the first of two parts of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Good Bones</a>\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Galen LK</a>.&nbsp; This is his debut fiction in the furry fandom.&nbsp; Like all coyotes, he is elusive and mysterious, but you can often find him on Discord, Telegram, and Bluesky.</p><p>Read by Icefang, in the Cozy Corner of the Cafe.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12171,6 +12184,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-message-from-the-voice-of-dog",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
@@ -14214,6 +14228,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "a-message-from-the-voice-of-dog",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
             "long-road-home-by-alex-t-dragonson",

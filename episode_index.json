@@ -333,6 +333,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a85a3b7-8867-4d7e-83ec-d5f944f229cb/18-Good-Bones-by-Galen-LK-part-2-of-2.mp3",
+            "published_date": "2024-10-30T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>In his new home, the ghosts of the past lurk in the space behind mirrors, but Eren isn\u2019t sure that they\u2019re willing to stay there...</em></p><p>Tonight\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Good Bones</a>\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Galen LK</a>.&nbsp; This is his debut fiction in the furry fandom.&nbsp; Like all coyotes, he is elusive and mysterious, but you can often find him on Discord, Telegram, and Bluesky.</p><p>Read by Icefang, in the Cozy Corner of the Cafe.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-good-bones-by-galen-lk-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "gothic",
+                "drama",
+                "historical",
+                "by:galen-lk",
+                "narrator:icefang"
+            ],
+            "title": "[18+] \"Good Bones\u201d by Galen LK (part 2 of 2, read by Icefang)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0e92b94c-f80c-403b-affa-8418b989e6a4/A-Message-from-The-Voice-of-Dog.mp3",
             "published_date": "2024-10-29T09:50:00.000Z",
             "shownotes": "<p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today I don\u2019t have a story for you. I\u2019m here to ask for your help.</p><p>The Voice of Dog was born in interesting times. We began to tell stories here at the fireside to encourage, to lift spirits, and to hold this community together through the darkest days of the Covid pandemic. If we\u2019re going to continue to do that, well, there are about to be some more interesting times we must push our way through.</p><p>A week from this broadcast, the United States of America is holding an election. One side of that election has proposed classifying anything written by, or that mentions the existence of LGBTQ+ people as pornography. They have proposed outlawing such \u201cpornography,\u201d with prison sentences for those caught with it. This show would not be able to exist under such conditions. This community would not be able to exist under such conditions. If any story we have ever read has meant anything to you, please, use your vote to defend our ability to tell the story that will mean something to someone else.</p><p>As long as there is a soul with a story to tell, as long as there are ears to hear it, then the Voice of Dog will continue to tell those stories until someone forcibly prevents us. Yours may be the vote that determines whether or not they get to try.</p><p>What else is there to say? Other than: please come back to the fireside, tomorrow, for another story.</p><p>And thank you, all of you, for listening to the Voice of Dog.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11546,6 +11564,7 @@
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2"
         ],
         "by:galen-lk": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2"
         ],
         "by:gar-sahoni-atkins": [
@@ -12184,6 +12203,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "a-message-from-the-voice-of-dog",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
@@ -12737,6 +12757,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "long-road-home-by-alex-t-dragonson",
             "mother-by-chase-anderson",
@@ -13210,6 +13231,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
@@ -13285,6 +13307,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "machine-learning-by-kohitsugi",
             "spooklunking-by-tana-simensis",
             "outfoxed-by-hania",
@@ -13311,6 +13334,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "18binding-spirits-by-nighteyes-dayspring",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "skykomish-never-sleeps-by-heya-baru",
@@ -13903,6 +13927,7 @@
             "darker-things-than-man-by-casimir-laski"
         ],
         "narrator:icefang": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-the-creation-of-water-by-leuna"

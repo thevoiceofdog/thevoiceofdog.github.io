@@ -333,6 +333,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9c7938b1-9ee7-4207-99cd-e5b982b89434/The-Stars-in-Your-Dreams-Are-the-Eyes-of-What-Hunts-You-by-Jame.mp3",
+            "published_date": "2024-10-31T09:50:00.000Z",
+            "shownotes": "<p><em>You know those dreams that feel like real life but something is a little off? Or been so tired that you don\u2019t know when you fell into that 30 minute cat nap? That\u2019s Will\u2019s life recently, and it\u2019s only getting worse\u2026</em></p><p>Tonight\u2019s story is \u201cThe Stars in Your Dreams Are the Eyes of What Hunts You\u201d by James Stone, whose story \u201cCat Problems\u201d closed our Ghost of Dog 2022. He has stories in Bleak Horizons by Furplanet and in A Swordmaster\u2019s Tale by Armoured Fox Publishing.</p><p>Read by Dirt Coyote, whom it\u2019ll take more than that to stop.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "romance",
+                "contemporary",
+                "blood",
+                "by:james-stone",
+                "narrator:dirt-coyote"
+            ],
+            "title": "\u201cThe Stars in Your Dreams Are the Eyes of What Hunts You\u201d by James Stone (read by Dirt Coyote)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a85a3b7-8867-4d7e-83ec-d5f944f229cb/18-Good-Bones-by-Galen-LK-part-2-of-2.mp3",
             "published_date": "2024-10-30T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>In his new home, the ghosts of the past lurk in the space behind mirrors, but Eren isn\u2019t sure that they\u2019re willing to stay there...</em></p><p>Tonight\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Good Bones</a>\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Galen LK</a>.&nbsp; This is his debut fiction in the furry fandom.&nbsp; Like all coyotes, he is elusive and mysterious, but you can often find him on Discord, Telegram, and Bluesky.</p><p>Read by Icefang, in the Cozy Corner of the Cafe.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11165,6 +11183,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
@@ -11660,6 +11679,7 @@
             "the-fox-and-the-lion-cosplayer-by-jaden-drackus"
         ],
         "by:james-stone": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "cat-problems-by-james-stone"
         ],
         "by:jay-shirou-coughlan": [
@@ -12203,6 +12223,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "a-message-from-the-voice-of-dog",
             "18-good-bones-by-galen-lk-part-1-of-2",
@@ -12595,6 +12616,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "through-the-fog-by-tyto-phoenix",
@@ -13231,6 +13253,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
@@ -13861,6 +13884,7 @@
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf"
         ],
         "narrator:dirt-coyote": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "conspiracy-by-darius-davis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
@@ -14934,6 +14958,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18binding-spirits-by-nighteyes-dayspring",
             "18-the-next-chapter-by-amethyst-mare",
             "18-steam-by-brathor-cyr-part-1-of-2",

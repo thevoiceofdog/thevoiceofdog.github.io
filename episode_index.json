@@ -333,6 +333,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f0b22e7d-e1a3-4fea-a3b4-4f9978cc982a/Signalbox-by-Pascal-Farful.mp3",
+            "published_date": "2024-11-01T09:50:00.000Z",
+            "shownotes": "<p><em>You trust your senses, right?&nbsp; Good. Keep it that way. Because once you start to doubt them, you're seldom able to stop\u2026</em></p><p>Tonight\u2019s story is \u201cSignalbox\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has by now run out of interesting facts about himself, and you can find more of his stories on <a href=\"https://pascalfarful.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "signalbox-by-pascal-farful",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "speculative",
+                "contemporary",
+                "by:pascal-farful",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cSignalbox\u201d by Pascal Farful (read by Solomon Harries)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9c7938b1-9ee7-4207-99cd-e5b982b89434/The-Stars-in-Your-Dreams-Are-the-Eyes-of-What-Hunts-You-by-Jame.mp3",
             "published_date": "2024-10-31T09:50:00.000Z",
             "shownotes": "<p><em>You know those dreams that feel like real life but something is a little off? Or been so tired that you don\u2019t know when you fell into that 30 minute cat nap? That\u2019s Will\u2019s life recently, and it\u2019s only getting worse\u2026</em></p><p>Tonight\u2019s story is \u201cThe Stars in Your Dreams Are the Eyes of What Hunts You\u201d by James Stone, whose story \u201cCat Problems\u201d closed our Ghost of Dog 2022. He has stories in Bleak Horizons by Furplanet and in A Swordmaster\u2019s Tale by Armoured Fox Publishing.</p><p>Read by Dirt Coyote, whom it\u2019ll take more than that to stop.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11896,6 +11913,7 @@
             "grenadine-by-partvoid"
         ],
         "by:pascal-farful": [
+            "signalbox-by-pascal-farful",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "-and-the-sands-of-the-desert-wash-over-the-words-by-pascal-farful-part-2-of-2",
@@ -12223,6 +12241,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "a-message-from-the-voice-of-dog",
@@ -12616,6 +12635,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -13253,6 +13273,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
@@ -14415,6 +14436,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "signalbox-by-pascal-farful",
             "eat-the-rich-by-rob-macwolf",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
@@ -15186,6 +15208,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "signalbox-by-pascal-farful",
             "the-toy-aisle-by-sofox",
             "genre-clade-by-domus-vocis",
             "on-bein-bear-by-sparky",

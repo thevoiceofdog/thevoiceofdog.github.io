@@ -333,6 +333,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/566582ff-dc99-432f-91e6-7d0b2bcb68bd/The-Hole-Inside-by-Dirt-Coyote.mp3",
+            "published_date": "2024-11-04T09:50:00.000Z",
+            "shownotes": "<p><em>The forest would be the Wolf\u2019s uncontested domain, if it weren\u2019t for the one thing he fears above all else\u2026</em></p><p>Today\u2019s story is \u201cThe Hole Inside\u201d by by Dirt Coyote, whom it\u2019ll take more than that to stop. His story featured on The Voice of Dog, \u201cI\u2019m Just Your Stud\u201d was nominated for Coyotl\u2019s Best Short Story of 2021. Find him at DirtCoyote on Blue Sky for future updates.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-hole-inside-by-dirt-coyote",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "family-saga",
+                "drama",
+                "western",
+                "by:dirt-coyote",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cThe Hole Inside\u201d by Dirt Coyote"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f0b22e7d-e1a3-4fea-a3b4-4f9978cc982a/Signalbox-by-Pascal-Farful.mp3",
             "published_date": "2024-11-01T09:50:00.000Z",
             "shownotes": "<p><em>You trust your senses, right?&nbsp; Good. Keep it that way. Because once you start to doubt them, you're seldom able to stop\u2026</em></p><p>Tonight\u2019s story is \u201cSignalbox\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has by now run out of interesting facts about himself, and you can find more of his stories on <a href=\"https://pascalfarful.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11477,6 +11494,7 @@
             "mischief-makers-by-dire"
         ],
         "by:dirt-coyote": [
+            "the-hole-inside-by-dirt-coyote",
             "taco-tuesday-by-dirt-coyote",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
@@ -12241,6 +12259,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-hole-inside-by-dirt-coyote",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -12799,6 +12818,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "the-hole-inside-by-dirt-coyote",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "long-road-home-by-alex-t-dragonson",
@@ -13085,6 +13105,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "the-hole-inside-by-dirt-coyote",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "the-soiree-by-frank-lerenard",
@@ -14472,6 +14493,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "the-hole-inside-by-dirt-coyote",
             "18-fawning-over-fear-by-kergiby",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -15436,6 +15458,7 @@
             "eagle-s-splendour-by-ryan-campbell"
         ],
         "western": [
+            "the-hole-inside-by-dirt-coyote",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "hanged-man-strength-the-moon-by-iggy-q-roquefort",

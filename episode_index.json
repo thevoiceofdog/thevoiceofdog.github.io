@@ -334,6 +334,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4bce658e-c5b2-4b7f-9ae6-92bc18984b5c/Regulars-by-Arilin-Thorferra-part-2-of-2.mp3",
+            "published_date": "2024-11-18T09:50:00.000Z",
+            "shownotes": "<p><em>Harper visits the mysterious Outside Lodge. Will the disaffected vixen find the community they're looking for there?</em></p><p>Today\u2019s story is the second and final part of \u201cRegulars\u201d by Arilin Thorferra, the author of the novels <a href=\"https://giants-club.net/serials/goddess/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Goddess</em></a> and <a href=\"https://furplanet.com/shop/item.aspx?itemid=1200\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Saida &amp; Autumn</em></a>, both published by <a href=\"https://furplanet.com/\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet</a>. You can find more of her stories at her <a href=\"https://giants-club.net\" rel=\"noopener noreferrer\" target=\"_blank\">website</a>.</p><p>Last time, Harper the vixen met the size-shifting tiger Owen, who encouraged them to come out of their shell by visiting an unusual club in Lawrence called the Outside Lodge.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "regulars-by-arilin-thorferra-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "romance",
+                "historical",
+                "by:arilin-thorferra",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cRegulars\u201d by Arilin Thorferra (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ac2ce114-91f0-499a-a357-75c157d7abee/Regulars-by-Arilin-Thorferra-part-1-of-2.mp3",
             "published_date": "2024-11-11T09:50:00.000Z",
             "shownotes": "<p><em>A nonbinary vixen feeling trapped in a rural Kansas town meets a size-shifting tiger, and learns of an enigmatic club for outsiders.</em></p><p>Today\u2019s story is the first of two parts of \u201cRegulars\u201d by Arilin Thorferra, the author of the novels <a href=\"https://giants-club.net/serials/goddess/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Goddess</em></a> and <a href=\"https://furplanet.com/shop/item.aspx?itemid=1200\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Saida &amp; Autumn</em></a>, both published by <a href=\"https://furplanet.com/\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet</a>. You can find more of her stories at her <a href=\"https://giants-club.net\" rel=\"noopener noreferrer\" target=\"_blank\">website</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11398,6 +11414,7 @@
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2"
         ],
         "by:arilin-thorferra": [
+            "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2"
         ],
         "by:ashe-valisca": [
@@ -12281,6 +12298,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "the-hole-inside-by-dirt-coyote",
             "signalbox-by-pascal-farful",
@@ -13422,6 +13440,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "18binding-spirits-by-nighteyes-dayspring",
@@ -14344,6 +14363,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "a-message-from-the-voice-of-dog",
             "machine-learning-by-kohitsugi",
@@ -15028,6 +15048,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18binding-spirits-by-nighteyes-dayspring",

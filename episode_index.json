@@ -340,14 +340,13 @@
             "slug": "every-nine-lives-or-so-by-tempo",
             "summary": "",
             "tags": [
-                "check-tags",
+                "legend",
+                "fantasy",
                 "romance",
                 "drama",
                 "historical",
-                "queerphobia",
-                "blood",
-                "by:tempo",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tempo"
             ],
             "title": "\"Every Nine Lives Or So\" by Tempo"
         },
@@ -11271,7 +11270,6 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
-            "every-nine-lives-or-so-by-tempo",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
@@ -12319,7 +12317,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "the-hole-inside-by-dirt-coyote",
@@ -13224,6 +13221,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "every-nine-lives-or-so-by-tempo",
             "eat-the-rich-by-rob-macwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -13683,6 +13681,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "every-nine-lives-or-so-by-tempo",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
             "the-gods-in-between-by-nighteyes-dayspring",
@@ -15046,7 +15045,6 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
-            "every-nine-lives-or-so-by-tempo",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
             "all-means-all-by-rob-macwolf",
             "18-the-salt-and-the-wound-by-pascal-farful",

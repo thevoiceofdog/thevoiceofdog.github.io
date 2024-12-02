@@ -334,6 +334,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cc8a2999-7509-4f20-a523-2ad5f300b1db/That-Damnable-Heavy-Shade-by-Ta-kom-Ironhoof.mp3",
+            "published_date": "2024-12-02T09:50:00.000Z",
+            "shownotes": "<p>Today\u2019s story is \u201cThat Damnable, Heavy Shade\u201d by Ta\u2019kom Ironhoof, who hosts the Dinner At Yiffany\u2019s podcast and is currently in the process of having his first book, \u201cGoing the Distance\u201d published by Fenris Publishing. Be on the lookout for it sometime in the near future.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "speculative",
+                "drama",
+                "contemporary",
+                "by:ta-kom-ironhoof",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cThat Damnable, Heavy Shade\u201d by Ta'kom Ironhoof (read by the Author)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/dae5946b-8a9f-48a4-bb97-9406054037ee/Every-Nine-Lives-Or-So-by-Tempe-O-Kun.mp3",
             "published_date": "2024-11-25T09:50:00.000Z",
             "shownotes": "<p><em>Two reincarnating kitties have been trying to get together for literal ages, but still manage to be nervous for their first date. </em></p><p>Today\u2019s story is \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Every Nine Lives Or So</a>\u201d by <a href=\"https://www.furaffinity.net/user/tempo321/\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at <a href=\"https://www.youtube.com/channel/UCTLM2s914zA_O2S6II_BCWw/videos\" rel=\"noopener noreferrer\" target=\"_blank\">Culturally F'd</a>, voices the solarpunk doggo in <a href=\"https://www.youtube.com/watch?v=VyZwGqtzdpo&amp;list=PLIPk-itLl1jMm-SprE_Qnt-JrJSgHW5qT\" rel=\"noopener noreferrer\" target=\"_blank\">Puplift</a>, and wrote the novels <a href=\"https://www.furaffinity.net/user/tempo321/\" rel=\"noopener noreferrer\" target=\"_blank\">Sixes Wild and Windfall</a>, published by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Press</a>. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity and Sofurry</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -2991,6 +3008,10 @@
                 "action/adventure",
                 "fantasy",
                 "gothic",
+                "sci-fi",
+                "thriller/suspense",
+                "post-apocalyptic",
+                "eldritch",
                 "narrator:solomon-harries",
                 "by:aelius"
             ],
@@ -3006,6 +3027,9 @@
             "tags": [
                 "action/adventure",
                 "fantasy",
+                "sci-fi",
+                "thriller/suspense",
+                "post-apocalyptic",
                 "narrator:solomon-harries",
                 "by:aelius"
             ],
@@ -7896,13 +7920,14 @@
             "slug": "urban-mystic-by-aelius-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
+                "eldritch",
                 "spooky",
                 "action/adventure",
+                "contemporary",
                 "fantasy",
                 "violence",
-                "by:aelius",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cUrban Mystic\u201d by Aelius (part 2 of 2)"
         },
@@ -7914,13 +7939,14 @@
             "slug": "urban-mystic-by-aelius-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
+                "eldritch",
                 "spooky",
+                "contemporary",
                 "fantasy",
                 "violence",
                 "blood",
-                "by:aelius",
-                "narrator:khaki"
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cUrban Mystic\u201d by Aelius (part 1 of 2)"
         },
@@ -8289,13 +8315,14 @@
             "slug": "the-scout-by-aelius",
             "summary": "",
             "tags": [
-                "check-tags",
+                "sci-fi",
                 "eldritch",
                 "action/adventure",
                 "historical",
                 "violence",
-                "by:aelius",
-                "narrator:khaki"
+                "post-apocalyptic",
+                "narrator:khaki",
+                "by:aelius"
             ],
             "title": "\u201cThe Scout\u201d by Aelius"
         },
@@ -12196,6 +12223,7 @@
             "a-minotaurs-tribute-by-stinkdog-part-1-of-2"
         ],
         "by:ta-kom-ironhoof": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "18-what-are-the-odds-by-takom-ironhoof"
         ],
@@ -12317,6 +12345,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "the-hole-inside-by-dirt-coyote",
@@ -12560,8 +12589,6 @@
             "im-just-your-stud-by-dirt-coyote-part-2-of-2",
             "im-just-your-stud-by-dirt-coyote-part-1-of-2",
             "cease-fire-by-nachtfangen",
-            "urban-mystic-by-aelius-part-2-of-2",
-            "urban-mystic-by-aelius-part-1-of-2",
             "oiled-leather-by-royce-day-18",
             "the-first-snow-waltz-by-vixyy-fox",
             "galician-sled-by-crimson-ruari-part-2-of-2",
@@ -12578,7 +12605,6 @@
             "chinchilla-attack-by-reid-minnich",
             "familiar-encounter-by-darius-davis",
             "shopping-trip-by-herr-wozzeck",
-            "the-scout-by-aelius",
             "tempus-imperfectum-by-al-song-part-3-of-3",
             "tempus-imperfectum-by-al-song-part-2-of-3",
             "tempus-imperfectum-by-al-song-part-1-of-3",
@@ -12714,6 +12740,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
@@ -12802,6 +12829,8 @@
             "im-just-your-stud-by-dirt-coyote-part-2-of-2",
             "im-just-your-stud-by-dirt-coyote-part-1-of-2",
             "a-lazy-monday-by-kayode-lycaon",
+            "urban-mystic-by-aelius-part-2-of-2",
+            "urban-mystic-by-aelius-part-1-of-2",
             "gigs-by-madison-scott-clary",
             "a-rock-among-millions-by-skunkbomb",
             "morning-coffee-by-lauren-rivers",
@@ -12878,6 +12907,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "every-nine-lives-or-so-by-tempo",
             "the-hole-inside-by-dirt-coyote",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -13098,6 +13128,7 @@
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",
             "18-the-darkest-place-by-kohitsuji",
+            "rune-weaver-by-aelius-part-2-of-2",
             "traveler-in-the-last-wood-by-kohitsuji",
             "silence-and-sword-by-royce-day-part-2-of-2",
             "finding-a-lost-inventor-by-katlina-sommerberg",
@@ -13110,6 +13141,8 @@
             "a-dragons-tale-by-evan-drake",
             "glory-of-the-gods-by-nighteyes-dayspring-part-2-of-2",
             "glory-of-the-gods-by-nighteyes-dayspring-part-1-of-2",
+            "urban-mystic-by-aelius-part-2-of-2",
+            "urban-mystic-by-aelius-part-1-of-2",
             "the-scout-by-aelius",
             "how-menander-got-his-name-by-altivo-overo",
             "don-t-forget-your-comic-books-by-alison-cybe",
@@ -14563,6 +14596,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "the-hole-inside-by-dirt-coyote",
             "18-fawning-over-fear-by-kergiby",
             "18-intense-research-by-scribbles-monhagen-part-2-of-2",
@@ -14899,9 +14933,12 @@
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
             "hunter-on-the-shelves-by-leuna",
+            "rune-weaver-by-aelius-part-2-of-2",
+            "rune-weaver-by-aelius-part-1-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
             "monsters-of-the-daylight-by-dirt-coyote-part-1-of-2",
-            "the-river-in-the-mist-by-dwale-part-1-of-2"
+            "the-river-in-the-mist-by-dwale-part-1-of-2",
+            "the-scout-by-aelius"
         ],
         "post-self": [
             "genre-clade-by-domus-vocis",
@@ -15270,6 +15307,8 @@
             "love-like-echoed-fire-by-js-hawthorne",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
+            "rune-weaver-by-aelius-part-2-of-2",
+            "rune-weaver-by-aelius-part-1-of-2",
             "ghost-in-the-machine-by-celtic-kitsune",
             "ethane-horizons-by-joel-kreissman",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
@@ -15281,6 +15320,7 @@
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18",
             "the-engineers-curse-by-tehrasha-darkon-part-2-of-2",
             "the-engineers-curse-by-tehrasha-darkon-part-1-of-2",
+            "the-scout-by-aelius",
             "monkeyshines-by-j-b-rockwell-part-1-of-2",
             "edge-of-the-universe-by-domus-vocis"
         ],
@@ -15303,6 +15343,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
             "the-toy-aisle-by-sofox",
             "genre-clade-by-domus-vocis",
@@ -15473,6 +15514,8 @@
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-1-of-2",
             "move-x-to-y2k-by-chase-anderson",
+            "rune-weaver-by-aelius-part-2-of-2",
+            "rune-weaver-by-aelius-part-1-of-2",
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
             "relics-rabbits-and-tuscan-reds-by-slip-wolf-part-1-of-2",

@@ -924,7 +924,7 @@
             "tags": [
                 "sci-fi",
                 "narrator:tempe-o-kun",
-                "by:tempe-o-kun"
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space - The Most Dangerous Place in the Universe\u201d by Tempe O'Kun (read by the author)"
         },
@@ -1191,7 +1191,7 @@
             "tags": [
                 "check-tags",
                 "sci-fi",
-                "by:tempe-o-kun",
+                "by:tempo",
                 "narrator:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 5\u201d by Tempe O'Kun"
@@ -1206,7 +1206,7 @@
             "tags": [
                 "sci-fi",
                 "narrator:tempo",
-                "by:tempe-o-kun"
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 4\u201d by Tempe O'Kun"
         },
@@ -4173,7 +4173,7 @@
             "tags": [
                 "sci-fi by:tempe-o-kun",
                 "narrator:tempe-o-kun",
-                "by:tempe-o-kun"
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 3\u201d by Tempe O'Kun (read by the author)"
         },
@@ -4955,7 +4955,7 @@
                 "family-saga",
                 "drama",
                 "medieval",
-                "by:tempe-o-kun",
+                "by:tempo",
                 "narrator:crimson-ruari"
             ],
             "title": "\u201cMarian: A Rescue from Latin\u201d by Tempe O'Kun (part 2 of 2, read by Crimson Ruari)"
@@ -4968,12 +4968,11 @@
             "slug": "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "summary": "",
             "tags": [
-                "check-tags",
-                "gothic",
+                "historical",
                 "excerpt",
                 "medieval",
-                "by:tempe-o-kun",
-                "narrator:crimson-ruari"
+                "narrator:crimson-ruari",
+                "by:tempo"
             ],
             "title": "\u201cMarian: A Rescue from Latin\u201d by Tempe O'Kun (part 1 of 2, read by Crimson Ruari)"
         },
@@ -6532,8 +6531,8 @@
             "tags": [
                 "check-tags",
                 "sci-fi",
-                "by:tempe-o-kun",
-                "narrator:tempe-o-kun"
+                "by:tempo",
+                "narrator:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 2\u201d by Tempe O'Kun (read by the author)"
         },
@@ -6810,8 +6809,8 @@
                 "check-tags",
                 "action/adventure",
                 "sci-fi",
-                "by:tempe-o-kun",
-                "narrator:tempe-o-kun"
+                "by:tempo",
+                "narrator:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 1\u201d by Tempe O'Kun (read by the author)"
         },
@@ -10916,7 +10915,7 @@
         "by:taylor-fox": "Author: Taylor Fox",
         "by:tehrasha-darkon": "Author: Tehrasha Darkon",
         "by:televassi": "Author: Televassi",
-        "by:tempe-o-kun": "Author: Tempe O'Kun",
+        "by:tempe-o-kun": "Author: Tempe O Kun",
         "by:tempo": "Author: Tempo",
         "by:thomas-\"faux\"-steele": "Author: Thomas \"Faux\" Steele",
         "by:thomas-faux-steele": "Author: Thomas \u201cFaux\u201d Steele",
@@ -11011,7 +11010,7 @@
         "narrator:solomon-harries": "Narrator: Solomon Harries",
         "narrator:ta'kom-ironhoof": "Narrator: Ta'Kom Ironhoof",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
-        "narrator:tempe-o-kun": "Narrator: Tempe O'Kun",
+        "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
         "narrator:william-dingo": "Narrator: William Dingo",
@@ -12250,7 +12249,8 @@
             "bluebucks-by-televassi-18",
             "counter-culture-by-televassi"
         ],
-        "by:tempe-o-kun": [
+        "by:tempo": [
+            "every-nine-lives-or-so-by-tempo",
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
@@ -12258,10 +12258,7 @@
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
-            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
-        ],
-        "by:tempo": [
-            "every-nine-lives-or-so-by-tempo",
+            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author",
             "robin-hood-and-her-valkyrie-by-tempo"
         ],
         "by:thomas-faux-steele": [
@@ -12469,7 +12466,6 @@
             "a-simple-guide-to-sugar-free-lemonade-by-arthur-felice-by-dirt-coyote",
             "finding-a-lost-inventor-by-katlina-sommerberg",
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
-            "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "a-dragons-dilemma-by-evan-drake",
             "screw-the-looking-glass-by-zack-loup",
@@ -13482,7 +13478,6 @@
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-1",
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
-            "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "where-no-man-walks-by-signatelli-part-1-of-2",
             "initial-survey-of-quaisholm-cave-paintings-origin-unknown-presumed-upper-mesolithic-by-sakarafox-and-rob-macwolf-part-1-of-2",
@@ -13540,6 +13535,7 @@
             "fantastic-feast-by-darius-davis",
             "confluence-by-ziegenbock-18",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
+            "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "last-day-by-dirt-coyote",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2",
@@ -14619,13 +14615,13 @@
         ],
         "narrator:tempe-o-kun": [
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
-            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
-            "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
-            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
+            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
         ],
         "narrator:tempo": [
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
-            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun"
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
+            "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
+            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",

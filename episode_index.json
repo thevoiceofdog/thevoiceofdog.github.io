@@ -334,6 +334,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/31a021fe-8889-4d32-9a6a-cbb4d7928f66/Justice-is-Brewing-by-Vincenzo-Pasquarella-part-1-of-2.mp3",
+            "published_date": "2024-12-09T09:50:00.000Z",
+            "shownotes": "<p><em>After teaming up with Atomic Apollo to stop a bank robbery,&nbsp; Benji (Flashpoint) is shocked when the hero follows him back to his day job.&nbsp;</em></p><p>Today\u2019s story is the first of two parts of \u201cJustice is Brewing\u201d by Vincenzo Pasquarella, who is the author of the book \u201cPhantom Janitor\u201d and several short stories. You can find a list of their published works on their <a href=\"https://scribblesofachee.blog/works-published/\" rel=\"noopener noreferrer\" target=\"_blank\">website.&nbsp;</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "holiday",
+                "legend",
+                "action/adventure",
+                "contemporary",
+                "by:vincenzo-pasquarella",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cJustice is Brewing\u201d by Vincenzo Pasquarella (part 1 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cc8a2999-7509-4f20-a523-2ad5f300b1db/That-Damnable-Heavy-Shade-by-Ta-kom-Ironhoof.mp3",
             "published_date": "2024-12-02T09:50:00.000Z",
             "shownotes": "<p>Today\u2019s story is \u201cThat Damnable, Heavy Shade\u201d by Ta\u2019kom Ironhoof, who hosts the Dinner At Yiffany\u2019s podcast and is currently in the process of having his first book, \u201cGoing the Distance\u201d published by Fenris Publishing. Be on the lookout for it sometime in the near future.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11054,6 +11072,7 @@
     },
     "tags": {
         "action/adventure": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "18-fawning-over-fear-by-kergiby",
             "spooklunking-by-tana-simensis",
             "18-the-next-chapter-by-amethyst-mare",
@@ -12316,6 +12335,9 @@
             "water-by-utunu-part-2-of-2",
             "water-by-utunu-part-1-of-2"
         ],
+        "by:vincenzo-pasquarella": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2"
+        ],
         "by:vixyy-fox": [
             "anarchy-by-vixyy-fox-read-by-carrizo",
             "unconditional-love-by-vixyy-fox-read-by-carrizo",
@@ -12342,6 +12364,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
@@ -12736,6 +12759,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
@@ -13615,6 +13639,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
             "merry-christmas-professor-nemesis-by-buddy-goodboy",
@@ -13710,6 +13735,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "every-nine-lives-or-so-by-tempo",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -14556,6 +14582,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "signalbox-by-pascal-farful",
             "eat-the-rich-by-rob-macwolf",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",

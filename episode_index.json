@@ -334,6 +334,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19722952-fed0-4f2f-b88f-a8fc21b58acf/Justice-is-Brewing-by-Vincenzo-Pasquarella-part-2-of-2.mp3",
+            "published_date": "2024-12-16T09:50:00.000Z",
+            "shownotes": "<p><em>After being left on read by Leon, Benji goes to ask for advice from a couple of old friends.</em></p><p>Today\u2019s story is the second and final part of \u201cJustice is Brewing\u201d by Vincenzo Pasquarella, better known as Scribbles Cheetah. They are the author of the book \u201cPhantom Janitor\u201d and several short stories. You can find a list of their published works on their <a href=\"https://scribblesofachee.blog/works-published/\" rel=\"noopener noreferrer\" target=\"_blank\">website.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>Last time, superheroes Atomic Apollo and Flashpoint met and something seemed to spark between them. We last saw our main character, Benji, still reeling from a sudden kiss from his favorite superhero.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "holiday",
+                "romance",
+                "drama",
+                "contemporary",
+                "queerphobia",
+                "by:vincenzo-pasquarella",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cJustice is Brewing\u201d by Vincenzo Pasquarella (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/31a021fe-8889-4d32-9a6a-cbb4d7928f66/Justice-is-Brewing-by-Vincenzo-Pasquarella-part-1-of-2.mp3",
             "published_date": "2024-12-09T09:50:00.000Z",
             "shownotes": "<p><em>After teaming up with Atomic Apollo to stop a bank robbery,&nbsp; Benji (Flashpoint) is shocked when the hero follows him back to his day job.&nbsp;</em></p><p>Today\u2019s story is the first of two parts of \u201cJustice is Brewing\u201d by Vincenzo Pasquarella, who is the author of the book \u201cPhantom Janitor\u201d and several short stories. You can find a list of their published works on their <a href=\"https://scribblesofachee.blog/works-published/\" rel=\"noopener noreferrer\" target=\"_blank\">website.&nbsp;</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12336,6 +12355,7 @@
             "water-by-utunu-part-1-of-2"
         ],
         "by:vincenzo-pasquarella": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2"
         ],
         "by:vixyy-fox": [
@@ -12364,6 +12384,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "regulars-by-arilin-thorferra-part-2-of-2",
@@ -12759,6 +12780,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
@@ -12927,6 +12949,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "every-nine-lives-or-so-by-tempo",
             "the-hole-inside-by-dirt-coyote",
@@ -13639,6 +13662,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
@@ -14582,6 +14606,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "signalbox-by-pascal-farful",
             "eat-the-rich-by-rob-macwolf",
@@ -15105,6 +15130,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
             "all-means-all-by-rob-macwolf",
             "18-the-salt-and-the-wound-by-pascal-farful",
@@ -15132,6 +15158,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",

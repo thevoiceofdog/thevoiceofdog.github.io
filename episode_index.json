@@ -335,6 +335,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/619e6b0f-65fb-47ed-b1a6-2d18f5ea1e07/The-Seekers-of-Winter-by-Alex-T-Dragonson.mp3",
+            "published_date": "2024-12-23T09:50:00.000Z",
+            "shownotes": "<p><em>When Eufraitis sets out to find her lost brother, she has no idea of what sort of world her search will take her to, nor of the wonders and terrors she\u2019ll discover along the way\u2026</em></p><p>\ufeffToday\u2019s story is \u201cThe Seekers of Winter, or How Eufraitis Joined the Longest Hunt\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn. First published in <a href=\"https://fhfs.ink/the-heavens-within-our-grasp/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Heavens Within Our Grasp</em></a> from the Furry Historical Fiction Society, you can find more of their stories on <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">their worldbuilding blog</a> and in the Voice of Dog archive.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-seekers-of-winter-by-alex-t-dragonson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "holiday",
+                "family-saga",
+                "action/adventure",
+                "fantasy",
+                "by:alex-t-dragonson",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Seekers of Winter\u201d by Alex T. Dragonson"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19722952-fed0-4f2f-b88f-a8fc21b58acf/Justice-is-Brewing-by-Vincenzo-Pasquarella-part-2-of-2.mp3",
             "published_date": "2024-12-16T09:50:00.000Z",
             "shownotes": "<p><em>After being left on read by Leon, Benji goes to ask for advice from a couple of old friends.</em></p><p>Today\u2019s story is the second and final part of \u201cJustice is Brewing\u201d by Vincenzo Pasquarella, better known as Scribbles Cheetah. They are the author of the book \u201cPhantom Janitor\u201d and several short stories. You can find a list of their published works on their <a href=\"https://scribblesofachee.blog/works-published/\" rel=\"noopener noreferrer\" target=\"_blank\">website.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>Last time, superheroes Atomic Apollo and Flashpoint met and something seemed to spark between them. We last saw our main character, Benji, still reeling from a sudden kiss from his favorite superhero.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11093,6 +11111,7 @@
     },
     "tags": {
         "action/adventure": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "18-fawning-over-fear-by-kergiby",
             "spooklunking-by-tana-simensis",
@@ -11443,6 +11462,7 @@
             "tempus-imperfectum-by-al-song-part-1-of-3"
         ],
         "by:alex-t-dragonson": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "long-road-home-by-alex-t-dragonson",
             "your-family-and-mine-by-alex-t-dragonson",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
@@ -12386,6 +12406,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
@@ -13244,6 +13265,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "the-hole-inside-by-dirt-coyote",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -13299,6 +13321,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "eat-the-rich-by-rob-macwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
@@ -13664,6 +13687,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
@@ -14467,6 +14491,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",

@@ -335,6 +335,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/785d8bbf-3097-47e4-bf08-30202e1fc46d/Solstice-Gifts-by-Royce-Day.mp3",
+            "published_date": "2024-12-30T09:50:00.000Z",
+            "shownotes": "<p><em>In the world of the Red Vixen Adventures, Melanie Lovejoy has a lot to live down, especially her treatment of her former slave, Alinadar. And the holidays are the best time to ask for forgiveness.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.deviantart.com/sir-talen/art/RVA-Solstice-Presents-654098479\" rel=\"noopener noreferrer\" target=\"_blank\">Solstice Gifts</a>\u201d by <a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a>, who is the author of long running <em>Red Vixen Adventures</em>, and the upcoming novel <em>Meeting Dominique</em>, and you can find more of his stories on Amazon.com</p><p>Read by Sierra, Small Blue One.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "solstice-gifts-by-royce-day",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "holiday",
+                "family-saga",
+                "crime",
+                "historical",
+                "by:royce-day",
+                "narrator:sierra"
+            ],
+            "title": "\u201cSolstice Gifts\u201d by Royce Day"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/619e6b0f-65fb-47ed-b1a6-2d18f5ea1e07/The-Seekers-of-Winter-by-Alex-T-Dragonson.mp3",
             "published_date": "2024-12-23T09:50:00.000Z",
             "shownotes": "<p><em>When Eufraitis sets out to find her lost brother, she has no idea of what sort of world her search will take her to, nor of the wonders and terrors she\u2019ll discover along the way\u2026</em></p><p>\ufeffToday\u2019s story is \u201cThe Seekers of Winter, or How Eufraitis Joined the Longest Hunt\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn. First published in <a href=\"https://fhfs.ink/the-heavens-within-our-grasp/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Heavens Within Our Grasp</em></a> from the Furry Historical Fiction Society, you can find more of their stories on <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">their worldbuilding blog</a> and in the Voice of Dog archive.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12191,6 +12209,7 @@
             "furta-sacra-by-rose-lacroix"
         ],
         "by:royce-day": [
+            "solstice-gifts-by-royce-day",
             "silence-and-sword-by-royce-day-part-2-of-2",
             "silence-and-sword-by-royce-day-part-1-of-2",
             "oiled-leather-by-royce-day-18",
@@ -12406,6 +12425,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -12928,6 +12948,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "solstice-gifts-by-royce-day",
             "skykomish-never-sleeps-by-heya-baru",
             "all-means-all-by-rob-macwolf",
             "neon-bruises-by-domus-vocis-part-2-of-2",
@@ -13265,6 +13286,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "the-hole-inside-by-dirt-coyote",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -13561,6 +13583,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "solstice-gifts-by-royce-day",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
@@ -13687,6 +13710,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -14629,6 +14653,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
+            "solstice-gifts-by-royce-day",
             "mother-by-chase-anderson",
             "reticence-a-poem-by-et-al-"
         ],

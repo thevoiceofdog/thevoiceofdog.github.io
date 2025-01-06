@@ -335,6 +335,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1d5aa9e1-962d-4d1a-91b0-92563b5c7bb4/Firekeepers-by-Aether-Breeze.mp3",
+            "published_date": "2025-01-06T09:50:00.000Z",
+            "shownotes": "<p><em>When we keep the fire, we are never alone. A story about perseverance, comfort, and warmth in dark times.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/58776759/\" rel=\"noopener noreferrer\" target=\"_blank\">Firekeepers</a>\u201d by <a href=\"https://bsky.app/profile/aetherbreeze.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Aether Breeze</a>, who wrote this to help calm his mind, and hopes it might help you too. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/eveningsky\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, and eventually, he hopes, on his own website.\ufeff</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "firekeepers-by-aether-breeze",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "thriller/suspense",
+                "western",
+                "by:aether-breeze",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cFirekeepers\u201d by Aether Breeze"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/785d8bbf-3097-47e4-bf08-30202e1fc46d/Solstice-Gifts-by-Royce-Day.mp3",
             "published_date": "2024-12-30T09:50:00.000Z",
             "shownotes": "<p><em>In the world of the Red Vixen Adventures, Melanie Lovejoy has a lot to live down, especially her treatment of her former slave, Alinadar. And the holidays are the best time to ask for forgiveness.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.deviantart.com/sir-talen/art/RVA-Solstice-Presents-654098479\" rel=\"noopener noreferrer\" target=\"_blank\">Solstice Gifts</a>\u201d by <a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a>, who is the author of long running <em>Red Vixen Adventures</em>, and the upcoming novel <em>Meeting Dominique</em>, and you can find more of his stories on Amazon.com</p><p>Read by Sierra, Small Blue One.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11466,6 +11482,9 @@
         "by:aero-dragneel": [
             "a-class-act-by-aero-dragneel-18"
         ],
+        "by:aether-breeze": [
+            "firekeepers-by-aether-breeze"
+        ],
         "by:akronia": [
             "a-failed-reality-by-akronia"
         ],
@@ -12425,6 +12444,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "firekeepers-by-aether-breeze",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
@@ -14515,6 +14535,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "firekeepers-by-aether-breeze",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
@@ -15611,6 +15632,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "firekeepers-by-aether-breeze",
             "mother-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
@@ -15676,6 +15698,7 @@
             "eagle-s-splendour-by-ryan-campbell"
         ],
         "western": [
+            "firekeepers-by-aether-breeze",
             "the-hole-inside-by-dirt-coyote",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-1-of-2",

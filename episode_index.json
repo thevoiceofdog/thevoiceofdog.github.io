@@ -335,6 +335,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e9f6de5d-903a-4f27-8d13-cc04d6d923fc/That-s-A-Good-One-by-Kyell-Gold-part-1-of-2.mp3",
+            "published_date": "2025-01-13T09:50:00.000Z",
+            "shownotes": "<p><em>There are no shortcuts in comedy, but Mahari the wolf thinks he\u2019s found one: make fun of armadillos. What he\u2019s about to learn is that there is always a price to success.</em></p><p>Today\u2019s story is the first of two parts of \u201cThat\u2019s A Good One\u201d by Kyell Gold, award-winning author of Out of Position and many more, and you can find more of his stories at FurPlanet.com, Sofawolf.com, or wherever fine furry books are sold.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "thats-a-good-one-by-kyell-gold-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "humor",
+                "political/espionage",
+                "by:kyell-gold",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThat\u2019s A Good One\u201d by Kyell Gold (part 1 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1d5aa9e1-962d-4d1a-91b0-92563b5c7bb4/Firekeepers-by-Aether-Breeze.mp3",
             "published_date": "2025-01-06T09:50:00.000Z",
             "shownotes": "<p><em>When we keep the fire, we are never alone. A story about perseverance, comfort, and warmth in dark times.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/58776759/\" rel=\"noopener noreferrer\" target=\"_blank\">Firekeepers</a>\u201d by <a href=\"https://bsky.app/profile/aetherbreeze.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Aether Breeze</a>, who wrote this to help calm his mind, and hopes it might help you too. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/eveningsky\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, and eventually, he hopes, on his own website.\ufeff</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11985,6 +12001,7 @@
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-1-of-2"
         ],
         "by:kyell-gold": [
+            "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "cleaning-up-by-kyell-gold",
             "to-catch-a-thief-by-kyell-gold",
             "agent-friendzone-by-kyell-gold"
@@ -12444,6 +12461,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "firekeepers-by-aether-breeze",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -13787,6 +13805,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "18-steam-by-brathor-cyr-part-2-of-2",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
             "18-what-are-the-odds-by-takom-ironhoof",
@@ -14535,6 +14554,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "firekeepers-by-aether-breeze",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
@@ -15015,6 +15035,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2",
             "all-means-all-by-rob-macwolf",

@@ -336,6 +336,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/de8ef5a2-f797-4ae1-ac07-f090538d1a71/A-Fox-Walks-Into-A-Bar-by-Spottystuff-part-2-of-2.mp3",
+            "published_date": "2025-02-03T09:50:00.000Z",
+            "shownotes": "<p><em>Kieran is on the hunt again, but he\u2019s met with difficulties. He\u2019s found a lead, but now must see if it can lead him anywhere.</em></p><p>Today\u2019s story is the second and final part of \u201cA Fox Walks Into A Bar\u201d by Spottystuff, who every year qualifies to continue calling himself an author as well, by a vanishingly slim margin. You can find more of their work on <a href=\"http://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>, <a href=\"http://furaffinity.net/user/spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a> or <a href=\"http://www.spottystuff.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">BlueSky</a>.</p><p>Last time, Kieran encountered a deer named Vincente in the local inn, and negotiated an agreement with him after some customary persuasion. Vincente agreed, but what awaits them in that keep, none of them can say.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "crime",
+                "political/espionage",
+                "by:spottystuff",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cA Fox Walks Into A Bar\u201d by Spottystuff (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/457147b5-7d75-4440-b694-0047e88845fc/A-Fox-Walks-Into-A-Bar-by-Spottystuff-part-1-of-2.mp3",
             "published_date": "2025-01-27T09:50:00.000Z",
             "shownotes": "<p><em>Kieran is on the hunt again, but he\u2019s met with difficulties. He needs a lead, and he finds more than he bargained for in the local inn.</em></p><p>Today\u2019s story is the first of two parts of \u201cA Fox Walks Into A Bar\u201d by Spottystuff, an artist who every year qualifies to continue calling himself an author as well, by a vanishingly slim margin. You can find more of his work on <a href=\"http://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> or <a href=\"http://www.spottystuff.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">BlueSky</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12365,6 +12381,7 @@
             "too-important-to-be-forgotten-by-splicerwolf"
         ],
         "by:spottystuff": [
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
@@ -12505,6 +12522,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
@@ -13032,6 +13050,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "solstice-gifts-by-royce-day",
             "skykomish-never-sleeps-by-heya-baru",
@@ -14752,6 +14771,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -15089,6 +15109,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",

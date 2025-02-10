@@ -336,6 +336,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1d81713f-2ac8-4add-af98-08facb353cef/18-Don-t-Call-Me-Bee-by-Norm-the-Inadequate-Cat.mp3",
+            "published_date": "2025-02-10T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Shelby takes everything seriously. His boyfriend Curt does not. Curt has a job interview today and Shelby worries how it will go. </em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://archiveofourown.org/works/49502290\" rel=\"noopener noreferrer\" target=\"_blank\">Don\u2019t Call Me Bee</a>\u201d by <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">Norm, the Inadequate Cat</a>, whose feet are always cold, and you can find more of his stories on <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-dont-call-me-bee-by-norm-the-inadequate-cat",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "romance",
+                "contemporary",
+                "nsfw",
+                "by:norm",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cDon't Call Me Bee\u201d by Norm, the Inadequate Cat"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/de8ef5a2-f797-4ae1-ac07-f090538d1a71/A-Fox-Walks-Into-A-Bar-by-Spottystuff-part-2-of-2.mp3",
             "published_date": "2025-02-03T09:50:00.000Z",
             "shownotes": "<p><em>Kieran is on the hunt again, but he\u2019s met with difficulties. He\u2019s found a lead, but now must see if it can lead him anywhere.</em></p><p>Today\u2019s story is the second and final part of \u201cA Fox Walks Into A Bar\u201d by Spottystuff, who every year qualifies to continue calling himself an author as well, by a vanishingly slim margin. You can find more of their work on <a href=\"http://spottystuff.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>, <a href=\"http://furaffinity.net/user/spottystuff\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a> or <a href=\"http://www.spottystuff.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">BlueSky</a>.</p><p>Last time, Kieran encountered a deer named Vincente in the local inn, and negotiated an agreement with him after some customary persuasion. Vincente agreed, but what awaits them in that keep, none of them can say.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12176,6 +12193,9 @@
             "the-tomb-guardian-by-nighteyes-dayspring",
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
+        "by:norm": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat"
+        ],
         "by:ocean-tigrox": [
             "food-feuds-and-fake-flora-by-ocean-tigrox"
         ],
@@ -12522,6 +12542,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -12925,6 +12946,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
@@ -14625,6 +14647,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "firekeepers-by-aether-breeze",
@@ -14868,6 +14891,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "18binding-spirits-by-nighteyes-dayspring",
             "18-fawning-over-fear-by-kergiby",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
@@ -15330,6 +15354,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",

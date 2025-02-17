@@ -336,6 +336,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bcacb13b-ef1a-4bf7-9e91-c8a251c4f2ac/Toad-Toad-Hall-by-Tempe-O-Kun.mp3",
+            "published_date": "2025-02-17T09:50:00.000Z",
+            "shownotes": "<p><em>You were right all along. Rat and Mole are boyfriends.</em></p><p><em>Welcome to the River Bank. It's cottagecore, but with internet. Let's look in on Toad Hall and the goings-on of the various waistcoated creatures of the modern day.</em></p><p>Today\u2019s story is \u201cToad @ Toad Hall\" by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at Culturally F'd, and the writer of the <em>Windfall</em> and <em>Sixes Wild</em> series by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a>, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">his FurAffinity</a> or <a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry</a> account.</p><p>{{snippet-1}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "toad-toad-hall-by-tempo",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "asexual",
+                "lgbtq+",
+                "family-saga",
+                "drama",
+                "contemporary",
+                "by:tempo",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cToad @ Toad Hall\u201d by Tempo (read by Khaki)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1d81713f-2ac8-4add-af98-08facb353cef/18-Don-t-Call-Me-Bee-by-Norm-the-Inadequate-Cat.mp3",
             "published_date": "2025-02-10T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Shelby takes everything seriously. His boyfriend Curt does not. Curt has a job interview today and Shelby worries how it will go. </em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://archiveofourown.org/works/49502290\" rel=\"noopener noreferrer\" target=\"_blank\">Don\u2019t Call Me Bee</a>\u201d by <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">Norm, the Inadequate Cat</a>, whose feet are always cold, and you can find more of his stories on <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11458,6 +11477,7 @@
             "18live-for-love-by-holly-a-morrison"
         ],
         "asexual": [
+            "toad-toad-hall-by-tempo",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",
@@ -12446,6 +12466,7 @@
             "counter-culture-by-televassi"
         ],
         "by:tempo": [
+            "toad-toad-hall-by-tempo",
             "every-nine-lives-or-so-by-tempo",
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
@@ -12542,6 +12563,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "toad-toad-hall-by-tempo",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -12946,6 +12968,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "toad-toad-hall-by-tempo",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -13119,6 +13142,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "toad-toad-hall-by-tempo",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "every-nine-lives-or-so-by-tempo",
@@ -13412,6 +13436,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "toad-toad-hall-by-tempo",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "the-hole-inside-by-dirt-coyote",
@@ -13976,6 +14001,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "toad-toad-hall-by-tempo",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "18-steam-by-brathor-cyr-part-2-of-2",
@@ -14647,6 +14673,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "toad-toad-hall-by-tempo",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",

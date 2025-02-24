@@ -336,6 +336,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/600d3e72-fc83-4916-8582-53580225a3ea/18-Cozy-Beginnings-by-Herr-Wozzeck-part-1-of-2.mp3",
+            "published_date": "2025-02-24T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Archie joins metal band Dark Tryst on their latest tour. Little does he know all that he\u2019s signed up for.</em></p><p>Today\u2019s story is the first of two parts of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Cozy</a> Beginnings\u201d by <a href=\"https://bsky.app/profile/herrwozzeck.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Herr Wozzeck</a>, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>CW: <em>Sexual Content, Trauma Flashback, Mention of Sexual Assault</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "romance",
+                "fantasy",
+                "nsfw",
+                "by:herr-wozzeck",
+                "narrator:solomon-harries"
+            ],
+            "title": "[18+] \u201cCozy Beginnings\u201d by Herr Wozzeck (part 1 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bcacb13b-ef1a-4bf7-9e91-c8a251c4f2ac/Toad-Toad-Hall-by-Tempe-O-Kun.mp3",
             "published_date": "2025-02-17T09:50:00.000Z",
             "shownotes": "<p><em>You were right all along. Rat and Mole are boyfriends.</em></p><p><em>Welcome to the River Bank. It's cottagecore, but with internet. Let's look in on Toad Hall and the goings-on of the various waistcoated creatures of the modern day.</em></p><p>Today\u2019s story is \u201cToad @ Toad Hall\" by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at Culturally F'd, and the writer of the <em>Windfall</em> and <em>Sixes Wild</em> series by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a>, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">his FurAffinity</a> or <a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry</a> account.</p><p>{{snippet-1}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11936,6 +11953,7 @@
             "lost-inside-the-blue-line-by-harry-a-wozzeck"
         ],
         "by:herr-wozzeck": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
             "murky-waters-by-herr-wozzeck",
@@ -12562,6 +12580,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -13491,6 +13510,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "eat-the-rich-by-rob-macwolf",
@@ -14819,6 +14839,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
@@ -14916,6 +14937,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "18binding-spirits-by-nighteyes-dayspring",
             "18-fawning-over-fear-by-kergiby",
@@ -15379,6 +15401,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "every-nine-lives-or-so-by-tempo",

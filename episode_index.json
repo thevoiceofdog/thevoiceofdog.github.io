@@ -301,6 +301,7 @@
             "political/espionage",
             "post-apocalyptic",
             "post-self",
+            "puplift",
             "renaissance",
             "sci-fi",
             "stone-age",
@@ -314,6 +315,7 @@
             "magical-realism",
             "narrator",
             "political",
+            "pulift",
             "sci-fi by:tempe-o-kun",
             "superhero by:buddy-goodboy",
             "ta'kom-ironhoof",
@@ -342,12 +344,12 @@
             "slug": "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "romance",
-                "fantasy",
+                "drama",
+                "contemporary",
                 "nsfw",
-                "by:herr-wozzeck",
-                "narrator:solomon-harries"
+                "trauma",
+                "narrator:solomon-harries",
+                "by:herr-wozzeck"
             ],
             "title": "[18+] \u201cCozy Beginnings\u201d by Herr Wozzeck (part 1 of 2)"
         },
@@ -1136,6 +1138,7 @@
             "slug": "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
+                "pulift",
                 "sci-fi",
                 "narrator:tempe-o-kun",
                 "by:tempo"
@@ -1403,10 +1406,10 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "summary": "",
             "tags": [
-                "check-tags",
+                "puplift",
                 "sci-fi",
-                "by:tempo",
-                "narrator:tempo"
+                "narrator:tempo",
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 5\u201d by Tempe O'Kun"
         },
@@ -1418,6 +1421,7 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "summary": "",
             "tags": [
+                "puplift",
                 "sci-fi",
                 "narrator:tempo",
                 "by:tempo"
@@ -4385,6 +4389,7 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
+                "puplift",
                 "sci-fi by:tempe-o-kun",
                 "narrator:tempe-o-kun",
                 "by:tempo"
@@ -5092,13 +5097,11 @@
             "slug": "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
+                "sci-fi",
                 "romance",
-                "action/adventure",
-                "western",
+                "narrator:nenekiri-bookwyrm",
                 "by:pascal-farful",
-                "by:rob-macwolf",
-                "narrator:nenekiri-bookwyrm"
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Lone and Level Sands Stretch Far Away\u201d by Pascal Farful and Rob MacWolf (part 2 of 2)"
         },
@@ -5110,13 +5113,11 @@
             "slug": "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "legend",
-                "action/adventure",
-                "historical",
+                "sci-fi",
+                "romance",
+                "narrator:nenekiri-bookwyrm",
                 "by:pascal-farful",
-                "by:rob-macwolf",
-                "narrator:nenekiri-bookwyrm"
+                "by:rob-macwolf"
             ],
             "title": "\u201cThe Lone and Level Sands Stretch Far Away\u201d by Pascal Farful and Rob MacWolf (part 1 of 2)"
         },
@@ -6743,10 +6744,10 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
-                "check-tags",
+                "puplift",
                 "sci-fi",
-                "by:tempo",
-                "narrator:tempo"
+                "narrator:tempo",
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 2\u201d by Tempe O'Kun (read by the author)"
         },
@@ -7020,11 +7021,11 @@
             "slug": "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author",
             "summary": "",
             "tags": [
-                "check-tags",
+                "puplift",
                 "action/adventure",
                 "sci-fi",
-                "by:tempo",
-                "narrator:tempo"
+                "narrator:tempo",
+                "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 1\u201d by Tempe O'Kun (read by the author)"
         },
@@ -11247,6 +11248,8 @@
         "post-apocalyptic": "Post-apocalyptic",
         "post-self": "Post-self",
         "pride-month": "Pride Month",
+        "pulift": "Pulift",
+        "puplift": "Puplift",
         "queer": "Queer",
         "queerphobia": "Queerphobia",
         "renaissance": "Renaissance",
@@ -11299,8 +11302,6 @@
             "ethane-horizons-by-joel-kreissman",
             "the-gift-by-darius-davis-read-by-takom-ironhoof",
             "riddles-with-a-raven-by-casimir-laski",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "a-pride-at-pride-by-darius-davis",
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
             "wild-thing-by-dirt-coyote-part-2-of-2-18",
@@ -12580,7 +12581,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -12627,7 +12627,6 @@
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
             "18-zekes-blue-hole-by-televassi-part-2-of-2",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
-            "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "the-soiree-by-frank-lerenard",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
@@ -12710,8 +12709,6 @@
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-1-of-2",
             "riddles-with-a-raven-by-casimir-laski",
             "the-tower-by-danny-wolf",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "a-simple-guide-to-sugar-free-lemonade-by-arthur-felice-by-dirt-coyote",
             "finding-a-lost-inventor-by-katlina-sommerberg",
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
@@ -12771,13 +12768,11 @@
             "owls-nest-by-harry-18",
             "a-perilous-brew-by-arcane-reno",
             "midnight-by-kayode-lycaon-18",
-            "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
             "milk-and-brass-by-ian-madison-keller",
             "game-night-by-ian-madison-keller-read-by-b-p-rugger",
             "when-the-needs-are-denied-by-mikasiwolf-part-2-of-2-read-by-crimson-ruari-18",
             "when-the-needs-are-denied-by-mikasiwolf-part-1-of-2-18",
-            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author",
             "background-noise-by-ezen-baklattan",
             "your-lancer-adored-by-cardigan-part-2-of-2-18",
             "your-lancer-adored-by-cardigan-part-1-of-2-18",
@@ -12985,6 +12980,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
@@ -13159,6 +13155,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
@@ -13510,7 +13507,6 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
-            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "eat-the-rich-by-rob-macwolf",
@@ -13798,7 +13794,6 @@
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
             "fantastic-feast-by-darius-davis",
             "confluence-by-ziegenbock-18",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "marian-a-rescue-from-latin-by-tempe-okun-part-1-of-2-read-by-crimson-ruari",
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "last-day-by-dirt-coyote",
@@ -13995,7 +13990,6 @@
             "traveler-in-the-last-wood-by-kohitsuji",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-1-of-2",
             "what-was-your-first-spell-by-dirt-coyote-part-2-of-2",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "the-man-whose-life-ran-away-by-rob-macwolf-read-by-william-dingo",
             "in-the-night-among-the-cedars-in-the-shelter-of-the-mountain-by-rob-macwolf-read-by-the-author",
             "thoughts-chelonian-a-poem-by-altivo-overo-read-by-madison-scott-clary",
@@ -15297,6 +15291,16 @@
             "missives-by-madison-scott-clary",
             "milkshakes-and-foxes-by-madison-scott-clary"
         ],
+        "pulift": [
+            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author"
+        ],
+        "puplift": [
+            "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
+            "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
+            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
+            "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
+            "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
+        ],
         "queer": [
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -15401,7 +15405,6 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
-            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "every-nine-lives-or-so-by-tempo",
@@ -15469,6 +15472,7 @@
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-2-of-2",
             "stepping-out-for-a-breath-of-fresh-air-by-dralen-dragonfox-part-1-of-2",
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
+            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "a-simple-guide-to-sugar-free-lemonade-by-arthur-felice-by-dirt-coyote",
             "our-last-valentine-by-domus-vocis-18-read-by-ardy-hart",
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari",
@@ -15608,6 +15612,8 @@
             "ethane-horizons-by-joel-kreissman",
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "silence-and-sword-by-royce-day-part-2-of-2",
+            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
+            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "finding-a-lost-inventor-by-katlina-sommerberg",
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
@@ -15838,6 +15844,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "the-sight-by-j-s-hawthorne-part-2-of-2",
@@ -15880,7 +15887,6 @@
             "a-lesson-in-hauntings-by-rob-macwolf",
             "chump-change-by-alex-katz",
             "the-gift-by-darius-davis-read-by-takom-ironhoof",
-            "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-2-of-2",
             "mouse-your-house-by-field-t-mouse-18",
             "homeworld-by-buddy-goodboy-read-by-killick",
             "followers-of-the-jackal-by-domus-vocis-part-1-of-2-read-by-crimson-ruari-18",

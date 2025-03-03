@@ -345,6 +345,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0f971c9c-0bcd-4f22-80a9-2ea1e8a965ae/18-Cozy-Beginnings-by-Herr-Wozzeck-part-2-of-2.mp3",
+            "published_date": "2025-03-03T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>After Archie\u2019s mid-performance flashback, he finds himself lost. The band, of course, has him covered, even if he doesn\u2019t know it yet\u2026</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Cozy</a> Beginnings\u201d by <a href=\"https://bsky.app/profile/herrwozzeck.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Herr Wozzeck</a>, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Last time, Archie suffered a traumatic flashback mid-performance in his first not-safe-for-work show with Dark Tryst that left him rattled, and uncertain of what to do next.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>CW: <em>Sexual Content, Trauma Flashback, Mention of Sexual Assault</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "drama",
+                "contemporary",
+                "nsfw",
+                "trauma",
+                "narrator:solomon-harries",
+                "by:herr-wozzeck"
+            ],
+            "title": "[18+] \u201cCozy Beginnings\u201d by Herr Wozzeck (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/600d3e72-fc83-4916-8582-53580225a3ea/18-Cozy-Beginnings-by-Herr-Wozzeck-part-1-of-2.mp3",
             "published_date": "2025-02-24T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Archie joins metal band Dark Tryst on their latest tour. Little does he know all that he\u2019s signed up for.</em></p><p>Today\u2019s story is the first of two parts of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Cozy</a> Beginnings\u201d by <a href=\"https://bsky.app/profile/herrwozzeck.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Herr Wozzeck</a>, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>CW: <em>Sexual Content, Trauma Flashback, Mention of Sexual Assault</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11968,6 +11985,7 @@
             "lost-inside-the-blue-line-by-harry-a-wozzeck"
         ],
         "by:herr-wozzeck": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2",
@@ -12994,6 +13012,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
@@ -13169,6 +13188,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
@@ -14847,6 +14867,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -14945,6 +14966,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "18binding-spirits-by-nighteyes-dayspring",
@@ -15858,6 +15880,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",

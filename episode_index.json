@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8ccf7ed5-cdd8-4fc4-a580-ca2231cd8a96/Puplift-A-Dog-s-Guide-to-Space-The-Go-Somewhere-Else-Button-by-.mp3",
+            "published_date": "2025-03-10T09:50:00.000Z",
+            "shownotes": "<p><em>A dog from the future advises you about when not to press the emergency FTL button.</em></p><p>Today\u2019s story is \u201cPuplift: A Dog's Guide to Space - The Go Somewhere Else Button\u201d by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at Culturally F'd, and the writer of the <em>Windfall</em> and <em>Sixes Wild</em> series by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a>, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">his FurAffinity</a> or <a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry</a> account.</p><p>Read by the author. <a href=\"https://youtu.be/Og6Xyne3TF8?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">Accompanied by a video</a>, with art by<a href=\"https://www.deviantart.com/spipes\" rel=\"noopener noreferrer\" target=\"_blank\"> Sam Pipes</a> and music by<a href=\"https://www.youtube.com/channel/UCZS-AY7v2Cx4qVApxRedQdQ/videos\" rel=\"noopener noreferrer\" target=\"_blank\"> Bearywell</a>.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
+            "summary": "",
+            "tags": [
+                "puplift",
+                "thriller/suspense",
+                "action/adventure",
+                "sci-fi",
+                "narrator:tempo",
+                "by:tempo"
+            ],
+            "title": "\u201cPuplift: A Dog's Guide to Space - The Go Somewhere Else Button\u201d by Tempo (read by the author)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0f971c9c-0bcd-4f22-80a9-2ea1e8a965ae/18-Cozy-Beginnings-by-Herr-Wozzeck-part-2-of-2.mp3",
             "published_date": "2025-03-03T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>After Archie\u2019s mid-performance flashback, he finds himself lost. The band, of course, has him covered, even if he doesn\u2019t know it yet\u2026</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Cozy</a> Beginnings\u201d by <a href=\"https://bsky.app/profile/herrwozzeck.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Herr Wozzeck</a>, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a> and <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. You can also see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Last time, Archie suffered a traumatic flashback mid-performance in his first not-safe-for-work show with Dark Tryst that left him rattled, and uncertain of what to do next.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>CW: <em>Sexual Content, Trauma Flashback, Mention of Sexual Assault</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11306,6 +11323,7 @@
     },
     "tags": {
         "action/adventure": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "18-fawning-over-fear-by-kergiby",
@@ -12518,6 +12536,7 @@
             "counter-culture-by-televassi"
         ],
         "by:tempo": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "toad-toad-hall-by-tempo",
             "every-nine-lives-or-so-by-tempo",
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
@@ -14937,6 +14956,7 @@
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
         ],
         "narrator:tempo": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
@@ -15333,6 +15353,7 @@
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author"
         ],
         "puplift": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
@@ -15638,6 +15659,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
@@ -15849,6 +15871,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "firekeepers-by-aether-breeze",
             "mother-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",

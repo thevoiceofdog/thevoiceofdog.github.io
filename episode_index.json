@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9468664d-e9cc-4203-b8fe-2d677ff87bce/Children-of-Dusk-by-Alex-T-Dragonson.mp3",
+            "published_date": "2025-03-17T09:50:00.000Z",
+            "shownotes": "<p><em>Once upon a time, men were men and wolves were wolves. This is the story of how that changed, and why.</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://publish.ministryofinternet.eu/wayside-parliament/children-of-dusk\" rel=\"noopener noreferrer\" target=\"_blank\">Children of Dusk</a>\u201d by Alex T. Dragonson, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of his stories on his <a href=\"https://publish.ministryofinternet.eu/wayside-parliament\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a> and in the Voice of Dog archive.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "children-of-dusk-by-alex-t-dragonson",
+            "summary": "",
+            "tags": [
+                "transformation",
+                "family-saga",
+                "drama",
+                "fantasy",
+                "narrator:rob-macwolf",
+                "by:alex-t-dragonson"
+            ],
+            "title": "\u201cChildren of Dusk\u201d by Alex T. Dragonson"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8ccf7ed5-cdd8-4fc4-a580-ca2231cd8a96/Puplift-A-Dog-s-Guide-to-Space-The-Go-Somewhere-Else-Button-by-.mp3",
             "published_date": "2025-03-10T09:50:00.000Z",
             "shownotes": "<p><em>A dog from the future advises you about when not to press the emergency FTL button.</em></p><p>Today\u2019s story is \u201cPuplift: A Dog's Guide to Space - The Go Somewhere Else Button\u201d by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a>, who is the staff writer at Culturally F'd, and the writer of the <em>Windfall</em> and <em>Sixes Wild</em> series by <a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a>, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">his FurAffinity</a> or <a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry</a> account.</p><p>Read by the author. <a href=\"https://youtu.be/Og6Xyne3TF8?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\">Accompanied by a video</a>, with art by<a href=\"https://www.deviantart.com/spipes\" rel=\"noopener noreferrer\" target=\"_blank\"> Sam Pipes</a> and music by<a href=\"https://www.youtube.com/channel/UCZS-AY7v2Cx4qVApxRedQdQ/videos\" rel=\"noopener noreferrer\" target=\"_blank\"> Bearywell</a>.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11678,6 +11695,7 @@
             "tempus-imperfectum-by-al-song-part-1-of-3"
         ],
         "by:alex-t-dragonson": [
+            "children-of-dusk-by-alex-t-dragonson",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "long-road-home-by-alex-t-dragonson",
             "your-family-and-mine-by-alex-t-dragonson",
@@ -13209,6 +13227,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "children-of-dusk-by-alex-t-dragonson",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "toad-toad-hall-by-tempo",
@@ -13505,6 +13524,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "children-of-dusk-by-alex-t-dragonson",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "the-hole-inside-by-dirt-coyote",
@@ -13562,6 +13582,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "children-of-dusk-by-alex-t-dragonson",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
             "eat-the-rich-by-rob-macwolf",
@@ -14741,6 +14762,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "children-of-dusk-by-alex-t-dragonson",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
@@ -15892,6 +15914,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "transformation": [
+            "children-of-dusk-by-alex-t-dragonson",
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [

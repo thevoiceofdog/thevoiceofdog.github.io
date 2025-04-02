@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a525de4f-1854-4201-b4b7-68d4ac45d20c/I-Don-t-Want-to-Have-to-be-Brave-by-NightEyes-DaySpring.mp3",
+            "published_date": "2025-04-02T09:50:00.000Z",
+            "shownotes": "<p>Welcome to Poetry Month on The Voice of Dog.&nbsp;</p><p>This is Rob MacWolf, your fellow traveler, and all this month we\u2019ll again be bring you poems from and for the furry community. Today we present a poem by NightEyes DaySpring, who is a known troublemaker rumored to have a penchant for coffee and an interest in dead, ancient civilizations. Information about his writing and his poetry chapbook Therianthropic Dreams can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "speculative",
+                "poem",
+                "by:nighteyes-dayspring",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cI Don\u2019t Want to Have to be Brave\u201d by NightEyes DaySpring (read by Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/476ba901-19c4-4b76-a24f-8e6ceccfd229/18-A-Stop-For-Recaulking-by-Rob-MacWolf-part-2-of-2.mp3",
             "published_date": "2025-03-31T09:50:00.000Z",
             "shownotes": "<p>Today\u2019s story is the second and final part of \u201cA Stop For Recaulking\u201d by <a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who hopes you remember these characters too. You can get his book <a href=\"https://www.bewere.net/product.php?id=1066\" rel=\"noopener noreferrer\" target=\"_blank\">You Look Lost, Pup</a> from Bewere Books, and you can find more of his stories on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">on itchio</a>.</p><p>Last time, Shen found his work recaulking the hull, his bath in the river, and his attempts to relax with his bunkmate Aitkin all frustrated by the song stuck in his head. But Aitkin hinted that he had an idea for a solution.</p><p>Read by the Author.</p><p>CW: <em>Sexual Content</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12326,6 +12343,7 @@
             "unpredictability-by-nenekiri-bookwyrm"
         ],
         "by:nighteyes-dayspring": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-gods-in-between-by-nighteyes-dayspring",
             "emotional-support-wolf-by-nighteyes-dayspring",
@@ -12690,6 +12708,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -15000,6 +15019,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "the-hole-inside-by-dirt-coyote",
             "18-fawning-over-fear-by-kergiby",
@@ -15214,6 +15234,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "kintsugi-a-poem-by-et-al-",
             "reticence-a-poem-by-et-al-",
             "i-breathe-by-taylor-fox",
@@ -15265,6 +15286,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",
             "rain-by-leuna",
@@ -15778,6 +15800,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
             "the-toy-aisle-by-sofox",

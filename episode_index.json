@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3dc6d872-6d30-4779-9d78-d3c4d13e08cf/Because-I-Could-Not-Wait-For-Death-by-Ritter.mp3",
+            "published_date": "2025-04-04T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by Ritter, who is a musical husky with a passion for literature. You can find more of his stories, including the full Loom of Hours cycle, on <a href=\"https://archiveofourown.org/users/ritter_reiter\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "because-i-could-not-wait-for-death-a-poem-by-ritter",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "poem",
+                "fantasy",
+                "by:ritter",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cBecause I Could Not Wait For Death\u201d by Ritter"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a525de4f-1854-4201-b4b7-68d4ac45d20c/I-Don-t-Want-to-Have-to-be-Brave-by-NightEyes-DaySpring.mp3",
             "published_date": "2025-04-02T09:50:00.000Z",
             "shownotes": "<p>Welcome to Poetry Month on The Voice of Dog.&nbsp;</p><p>This is Rob MacWolf, your fellow traveler, and all this month we\u2019ll again be bring you poems from and for the furry community. Today we present a poem by NightEyes DaySpring, who is a known troublemaker rumored to have a penchant for coffee and an interest in dead, ancient civilizations. Information about his writing and his poetry chapbook Therianthropic Dreams can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12421,6 +12438,7 @@
             "the-wishing-tree-by-renee-carter-hall"
         ],
         "by:ritter": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "kinwa-and-the-engineer-by-ritter",
             "the-eavesdropper-by-ritter",
             "three-tales-of-ukkabal-by-ritter"
@@ -12708,6 +12726,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
@@ -13639,6 +13658,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "children-of-dusk-by-alex-t-dragonson",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "every-nine-lives-or-so-by-tempo",
@@ -14827,6 +14847,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "children-of-dusk-by-alex-t-dragonson",
@@ -15234,6 +15255,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "kintsugi-a-poem-by-et-al-",
             "reticence-a-poem-by-et-al-",
@@ -15286,6 +15308,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "nocturne-by-yuugenshou",

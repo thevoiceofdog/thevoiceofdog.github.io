@@ -374,7 +374,7 @@
                 "speculative",
                 "poem",
                 "by:nighteyes-dayspring",
-                "narrator:rob-macwolf"
+                "narrator:ta-kom-ironhoof"
             ],
             "title": "\u201cI Don\u2019t Want to Have to be Brave\u201d by NightEyes DaySpring (read by Ta'kom)"
         },
@@ -529,7 +529,7 @@
                 "crime",
                 "political/espionage",
                 "by:spottystuff",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cA Fox Walks Into A Bar\u201d by Spottystuff (part 2 of 2)"
         },
@@ -548,7 +548,7 @@
                 "blood",
                 "queerphobia",
                 "by:spottystuff",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cA Fox Walks Into A Bar\u201d by Spottystuff (part 1 of 2)"
         },
@@ -618,7 +618,7 @@
                 "crime",
                 "historical",
                 "by:royce-day",
-                "narrator:rob-macwolf"
+                "narrator:sierra"
             ],
             "title": "\u201cSolstice Gifts\u201d by Royce Day"
         },
@@ -655,7 +655,7 @@
                 "contemporary",
                 "queerphobia",
                 "by:vincenzo-pasquarella",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cJustice is Brewing\u201d by Vincenzo Pasquarella (part 2 of 2)"
         },
@@ -673,7 +673,7 @@
                 "action/adventure",
                 "contemporary",
                 "by:vincenzo-pasquarella",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cJustice is Brewing\u201d by Vincenzo Pasquarella (part 1 of 2)"
         },
@@ -690,7 +690,7 @@
                 "drama",
                 "contemporary",
                 "by:ta-kom-ironhoof",
-                "narrator:rob-macwolf"
+                "narrator:ta-kom-ironhoof"
             ],
             "title": "\u201cThat Damnable, Heavy Shade\u201d by Ta'kom Ironhoof (read by the Author)"
         },
@@ -775,7 +775,7 @@
                 "speculative",
                 "contemporary",
                 "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cSignalbox\u201d by Pascal Farful (read by Solomon Harries)"
         },
@@ -793,7 +793,7 @@
                 "contemporary",
                 "blood",
                 "by:james-stone",
-                "narrator:rob-macwolf"
+                "narrator:dirt-coyote"
             ],
             "title": "\u201cThe Stars in Your Dreams Are the Eyes of What Hunts You\u201d by James Stone (read by Dirt Coyote)"
         },
@@ -811,7 +811,7 @@
                 "drama",
                 "historical",
                 "by:galen-lk",
-                "narrator:rob-macwolf"
+                "narrator:icefang"
             ],
             "title": "[18+] \"Good Bones\u201d by Galen LK (part 2 of 2, read by Icefang)"
         },
@@ -842,7 +842,7 @@
                 "mystery",
                 "trauma",
                 "by:galen-lk",
-                "narrator:rob-macwolf"
+                "narrator:icefang"
             ],
             "title": "[18+] \u201cGood Bones\u201d by Galen LK (part 1 of 2, read by Icefang)"
         },
@@ -917,7 +917,7 @@
                 "nsfw",
                 "blood",
                 "by:kergiby",
-                "narrator:rob-macwolf"
+                "narrator:ta-kom-ironhoof"
             ],
             "title": "[18+] \u201cFawning Over Fear\u201d by Kergiby (read by Ta'kom)"
         },
@@ -957,7 +957,7 @@
                 "nsfw",
                 "violence",
                 "by:batced",
-                "narrator:rob-macwolf"
+                "narrator:kergiby"
             ],
             "title": "[18+] \u201cUpon Thy Grave From the Ashes of My Heart\u201d by Batced (part 2 of 2, read by Kergiby)"
         },
@@ -1010,7 +1010,7 @@
                 "thriller/suspense",
                 "drama",
                 "by:chase-anderson",
-                "narrator:rob-macwolf"
+                "narrator:sierra"
             ],
             "title": "\u201cMoth{er}\u201d by Chase Anderson (read by Sierra and Ta'kom)"
         },
@@ -1030,7 +1030,7 @@
                 "nsfw",
                 "blood",
                 "by:scribbles-monhagen",
-                "narrator:rob-macwolf"
+                "narrator:ta-kom-ironhoof"
             ],
             "title": "[18+] \u201cIntense Research\u201d by Scribbles Monhagen (part 2 of 2, read by Ta'kom)"
         },
@@ -1053,7 +1053,7 @@
                 "blood",
                 "nsfw",
                 "by:scribbles-monhagen",
-                "narrator:rob-macwolf"
+                "narrator:ta-kom-ironhoof"
             ],
             "title": "[18+] \u201cIntense Research\u201d by Scribbles Monhagen (part 1 of 2, read by Ta'kom)"
         },
@@ -1072,7 +1072,7 @@
                 "fantasy",
                 "blood",
                 "by:rob-macwolf",
-                "narrator:rob-macwolf"
+                "narrator:solomon-harries"
             ],
             "title": "\u201cEat the Rich\u201d by Rob MacWolf (read by Solomon Harries)"
         },
@@ -1110,7 +1110,7 @@
                 "spooky",
                 "contemporary",
                 "by:tyto-phoenix",
-                "narrator:rob-macwolf"
+                "narrator:dralen"
             ],
             "title": "\u201cThrough the Fog\u201d by Tyto Phoenix (read by Dralen)"
         },
@@ -5723,7 +5723,7 @@
                 "contemporary",
                 "queerphobia",
                 "by:coda",
-                "narrator:rob-macwolf"
+                "narrator:"
             ],
             "title": "\u201cBorn to be Wild\u201d by Coda"
         },
@@ -11332,7 +11332,7 @@
         "military": "Military",
         "mystery": "Mystery",
         "narrator": "Narrator",
-        "narrator:": "Narrator:",
+        "narrator:": "Narrator:  ",
         "narrator:altivo-overo": "Narrator: Altivo Overo",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
@@ -11366,7 +11366,7 @@
         "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: The Poet Thank You For Listening To The Voice Of Dog",
+        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: the Poet. Thank you for listening to The Voice of Dog. ",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -14400,6 +14400,9 @@
         "narrator": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
+        "narrator:": [
+            "born-to-be-wild-by-coda"
+        ],
         "narrator:altivo-overo": [
             "beyond-mundane-horizons-by-altivo-overo"
         ],
@@ -14450,6 +14453,7 @@
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf"
         ],
         "narrator:dirt-coyote": [
+            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-the-ringmasters-welcome-by-pascal-farful",
             "conspiracy-by-darius-davis",
             "while-the-lights-were-out-by-brathor-cyr-part-2-of-2",
@@ -14473,6 +14477,7 @@
             "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author"
         ],
         "narrator:dralen": [
+            "through-the-fog-by-tyto-phoenix",
             "18-brandy-and-fire-by-driftwood",
             "the-eavesdropper-by-ritter",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -14515,6 +14520,8 @@
             "darker-things-than-man-by-casimir-laski"
         ],
         "narrator:icefang": [
+            "18-good-bones-by-galen-lk-part-2-of-2",
+            "18-good-bones-by-galen-lk-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-the-creation-of-water-by-leuna"
         ],
@@ -14523,6 +14530,7 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2"
         ],
         "narrator:kergiby": [
+            "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
             "run-by-dirt-coyote-part-2-of-2",
             "run-by-dirt-coyote-part-1-of-2",
@@ -14840,40 +14848,22 @@
         ],
         "narrator:rob-macwolf": [
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
-            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "children-of-dusk-by-alex-t-dragonson",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",
-            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
-            "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
             "firekeepers-by-aether-breeze",
-            "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
-            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
-            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
-            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "every-nine-lives-or-so-by-tempo",
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2",
-            "signalbox-by-pascal-farful",
-            "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
-            "18-good-bones-by-galen-lk-part-2-of-2",
             "a-message-from-the-voice-of-dog",
-            "18-good-bones-by-galen-lk-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "18binding-spirits-by-nighteyes-dayspring",
-            "18-fawning-over-fear-by-kergiby",
-            "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "long-road-home-by-alex-t-dragonson",
-            "mother-by-chase-anderson",
-            "18-intense-research-by-scribbles-monhagen-part-2-of-2",
-            "18-intense-research-by-scribbles-monhagen-part-1-of-2",
-            "eat-the-rich-by-rob-macwolf",
             "skykomish-never-sleeps-by-heya-baru",
-            "through-the-fog-by-tyto-phoenix",
             "18-being-yourself-by-mikasiwolf",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -14975,7 +14965,6 @@
             "bare-assed-broadway-by-ashe-valisca-part-1-of-2-18",
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2",
-            "born-to-be-wild-by-coda",
             "wild-thing-by-dirt-coyote-part-2-of-2-18",
             "wild-thing-by-dirt-coyote-part-1-of-2-18",
             "a-strong-dominant-hand-by-drakolf-grimm-diretooth-18",
@@ -15004,11 +14993,19 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
+            "solstice-gifts-by-royce-day",
+            "mother-by-chase-anderson",
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
+            "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
+            "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
+            "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
+            "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
+            "signalbox-by-pascal-farful",
+            "eat-the-rich-by-rob-macwolf",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2",
             "i-breathe-by-taylor-fox",
@@ -15043,7 +15040,12 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
+            "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "the-hole-inside-by-dirt-coyote",
+            "18-fawning-over-fear-by-kergiby",
+            "18-intense-research-by-scribbles-monhagen-part-2-of-2",
+            "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "rearview-by-sean-duroc-silva",
             "18live-for-love-by-holly-a-morrison",
             "the-devil-went-down-to-georgia-pride-by-hfe",

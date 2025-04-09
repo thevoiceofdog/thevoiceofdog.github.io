@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5e300af8-2e6a-418d-a74a-4a485e97525c/Unspoken-by-Arian-Mabe.mp3",
+            "published_date": "2025-04-09T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://www.furaffinity.net/user/amethystmare/\" rel=\"noopener noreferrer\" target=\"_blank\">Arian Mabe</a>, who is a self-published furry author, who loves nothing more than getting lost in a good story, with furry books available to buy on <a href=\"https://www.lulu.com/spotlight/arianmabe/\" rel=\"noopener noreferrer\" target=\"_blank\">Lulu</a>. You can find more of their stories on <a href=\"https://amethyst-mare.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "unspoken-by-arian-mabe",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "legend",
+                "poem",
+                "by:arian-mabe",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cUnspoken\u201d by Arian Mabe"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/afea8844-45d9-4666-adbe-449a2744f350/Matters-of-the-Mind-by-Caliope-Sparks.mp3",
             "published_date": "2025-04-07T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem sequence by <a href=\"https://bsky.app/profile/kitsunetales.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Caliope</a>, who is a self motivated poet with no current publications, but you can find more of their work on <a href=\"https://bsky.app/profile/kitsunetales.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11836,6 +11853,9 @@
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-2-of-2",
             "the-life-and-death-of-august-corcoran-by-ari-yena-part-1-of-2"
         ],
+        "by:arian-mabe": [
+            "unspoken-by-arian-mabe"
+        ],
         "by:arilin-thorferra": [
             "regulars-by-arilin-thorferra-part-2-of-2",
             "regulars-by-arilin-thorferra-part-1-of-2"
@@ -12744,6 +12764,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
@@ -14152,6 +14173,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "unspoken-by-arian-mabe",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "every-nine-lives-or-so-by-tempo",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
@@ -15059,6 +15081,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
@@ -15275,6 +15298,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "unspoken-by-arian-mabe",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "kintsugi-a-poem-by-et-al-",
@@ -15328,6 +15352,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",

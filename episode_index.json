@@ -273,6 +273,7 @@
             "narrator:leuna",
             "narrator:madison-scott-clary",
             "narrator:mary-e-lowd",
+            "narrator:nenekiri",
             "narrator:nenekiri-bookwyrm",
             "narrator:rhythm-bastard",
             "narrator:rob-macwolf",
@@ -283,7 +284,6 @@
             "narrator:tempe-o-kun",
             "narrator:tempo",
             "narrator:the-author",
-            "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
             "narrator:william-dingo",
             "narrator:yuugen",
             "narrator:yuugenshou",
@@ -352,11 +352,10 @@
             "slug": "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "summary": "",
             "tags": [
-                "check-tags",
                 "poetry-month",
                 "poem",
-                "by:nenekiri-bookwyrm",
-                "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog"
+                "narrator:nenekiri",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cI\u2019ll Try to Pencil You In\u201d by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -11404,6 +11403,7 @@
         "narrator:leuna": "Narrator: Leuna",
         "narrator:madison-scott-clary": "Narrator: Madison Scott-Clary",
         "narrator:mary-e-lowd": "Narrator: Mary E. Lowd",
+        "narrator:nenekiri": "Narrator: Nenekiri",
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
         "narrator:rob-macwolf": "Narrator: Rob MacWolf",
@@ -11414,7 +11414,6 @@
         "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: the Poet. Thank you for listening to The Voice of Dog. ",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -12781,7 +12780,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -14892,6 +14890,9 @@
             "hero-worship-by-metassus-read-by-madison-scott-clary",
             "disappearance-by-madison-scott-clary-18"
         ],
+        "narrator:nenekiri": [
+            "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm"
+        ],
         "narrator:nenekiri-bookwyrm": [
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -15133,9 +15134,6 @@
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
-        ],
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": [
-            "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm"
         ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",

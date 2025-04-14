@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ba7f3e0e-1d9f-4fa5-a449-cd34dfbbc4a2/Boars-Three-Different-Kinds-by-Whale-the-Boar.mp3",
+            "published_date": "2025-04-14T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by Whale the Boar, who clearly suffers from some non-trivial amount of species confusion. He is the writer of the furry visual novels <a href=\"https://cobalt-studio.itch.io\" rel=\"noopener noreferrer\" target=\"_blank\">Strokkur and Anamnesis</a>, and you can find more of his poetry on <a href=\"https://bsky.app/profile/whaletheboar.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a> under the hashtag #whalesong. He also writes short stories on <a href=\"https://sofurrybeta.com/u/whaletheboar\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "boars-three-different-kinds-by-whale-the-boar",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "spooky",
+                "poem",
+                "by:whale-the-boar",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cBoars (Three Different Kinds)\u201d by Whale the Boar"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8b3d750c-3ee7-4e5b-8ed7-2bed85f323d1/I-ll-Try-to-Pencil-You-In-by-Nenekiri-Bookwyrm.mp3",
             "published_date": "2025-04-11T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"http://www.nenekiri.com\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a>, who makes games and writes stories. This poem is from the poetry chapbook \u201cYour Life Has Been Rescheduled\u201d coming soon. You can find more of his poems on his <a href=\"https://www.sofurry.com/browse/folder/stories?by=520851&amp;folder=66067\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry page</a>.</p><p>Read by the Poet.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12766,6 +12783,9 @@
         "by:weasel": [
             "these-are-the-days-of-our-lives-by-weasel-18"
         ],
+        "by:whale-the-boar": [
+            "boars-three-different-kinds-by-whale-the-boar"
+        ],
         "by:writer": [
             "a-stranger-in-the-woods-by-writer-a"
         ],
@@ -12780,6 +12800,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "boars-three-different-kinds-by-whale-the-boar",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -14907,6 +14928,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "boars-three-different-kinds-by-whale-the-boar",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
@@ -15317,6 +15339,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "boars-three-different-kinds-by-whale-the-boar",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "unspoken-by-arian-mabe",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -15372,6 +15395,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "boars-three-different-kinds-by-whale-the-boar",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
@@ -15907,6 +15931,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "boars-three-different-kinds-by-whale-the-boar",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "the-scratching-by-renard-avec-histoire",

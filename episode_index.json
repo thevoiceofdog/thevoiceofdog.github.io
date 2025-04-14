@@ -352,12 +352,10 @@
             "slug": "boars-three-different-kinds-by-whale-the-boar",
             "summary": "",
             "tags": [
-                "check-tags",
                 "poetry-month",
-                "spooky",
                 "poem",
-                "by:whale-the-boar",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:whale-the-boar"
             ],
             "title": "\u201cBoars (Three Different Kinds)\u201d by Whale the Boar"
         },
@@ -12800,7 +12798,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "boars-three-different-kinds-by-whale-the-boar",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -15931,7 +15928,6 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
-            "boars-three-different-kinds-by-whale-the-boar",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "the-scratching-by-renard-avec-histoire",

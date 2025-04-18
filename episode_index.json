@@ -346,6 +346,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a3abf648-8a9b-4510-a37d-53b04fec623f/Un-Feathered-Bipeds-by-Michel-Vincent-Corbeaux.mp3",
+            "published_date": "2025-04-18T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://www.black-plume.com\" rel=\"noopener noreferrer\" target=\"_blank\">Michel-Vincent Corbeaux</a>, who has been studying, writing, and perfecting the craft of poetry within the Furry Fandom for over a decade, is a member of the Poetry Society of Texas, and is eager to self-publish his first poetry collection, \u201cFrom The Plume'' quite soon. You can find more of his poetry on his website, <a href=\"https://www.black-plume.com\" rel=\"noopener noreferrer\" target=\"_blank\">The Black Plume</a>, or on his <a href=\"https://www.furaffinity.net/user/corvidconquest\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, <a href=\"https://corvid-conquest.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>, or <a href=\"https://www.deviantart.com/corvid-conquest\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt</a> pages. You may also support him via tips and/or commissions via his <a href=\"https://ko-fi.com/corvidconquest\" rel=\"noopener noreferrer\" target=\"_blank\">Ko-Fi</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "un-feathered-bipeds-by-michel-vincent-corbeaux",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "poem",
+                "by:michel-vincent-corbeaux",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cUn-Feathered Bipeds\u201d by Michel-Vincent Corbeaux"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/51b35db6-dce9-444b-9535-639e0425958c/Ink-by-Aetherwolf76.mp3",
             "published_date": "2025-04-16T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Aetherwolf76</a>, who is a writer, crafter, mechanic and author of <a href=\"http://www.amazon.com/Beneath-Silver-Moon-Wayne-Benninger/dp/150765359X/ref=sr_1_5\" rel=\"noopener noreferrer\" target=\"_blank\">Beneath A Silver Moon </a>on <a href=\"https://kdp.amazon.com/\" rel=\"noopener noreferrer\" target=\"_blank\">KDP</a>, and you can find more of his poems on <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Deviantart</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12405,6 +12421,7 @@
             "at-the-inn-by-metassus"
         ],
         "by:michel-vincent-corbeaux": [
+            "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "agricola-avarice-by-michel-vincent-corbeaux",
             "loup-garou-the-moon-by-michel-vincent-corbeaux",
             "it-is-a-great-comfort-to-know-ones-work-is-appreciated-by-michel-vincent-corbeaux-and-rob-macwolf",
@@ -12817,6 +12834,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
@@ -14945,6 +14963,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "boars-three-different-kinds-by-whale-the-boar",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
@@ -15357,6 +15376,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "boars-three-different-kinds-by-whale-the-boar",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
@@ -15414,6 +15434,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "boars-three-different-kinds-by-whale-the-boar",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",

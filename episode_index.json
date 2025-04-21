@@ -346,6 +346,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6aa420d3-26aa-48df-b08b-2ea8717c2741/I-Was-There-by-Raynarde.mp3",
+            "published_date": "2025-04-21T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://bsky.app/profile/raynarde.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Raynarde</a>, who along with making his poetry debut here, is looking to publish his debut novel this year. A writer, reader, and general lover of art across all mediums, you can follow him on <a href=\"https://bsky.app/profile/raynarde.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a> and <a href=\"https://raynarde.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> for updates on his writing and more.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "i-was-there-by-raynarde",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "poem",
+                "by:raynarde",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cI Was There\u201d by Raynarde"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a3abf648-8a9b-4510-a37d-53b04fec623f/Un-Feathered-Bipeds-by-Michel-Vincent-Corbeaux.mp3",
             "published_date": "2025-04-18T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://www.black-plume.com\" rel=\"noopener noreferrer\" target=\"_blank\">Michel-Vincent Corbeaux</a>, who has been studying, writing, and perfecting the craft of poetry within the Furry Fandom for over a decade, is a member of the Poetry Society of Texas, and is eager to self-publish his first poetry collection, \u201cFrom The Plume'' quite soon. You can find more of his poetry on his website, <a href=\"https://www.black-plume.com\" rel=\"noopener noreferrer\" target=\"_blank\">The Black Plume</a>, or on his <a href=\"https://www.furaffinity.net/user/corvidconquest\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, <a href=\"https://corvid-conquest.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a>, or <a href=\"https://www.deviantart.com/corvid-conquest\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt</a> pages. You may also support him via tips and/or commissions via his <a href=\"https://ko-fi.com/corvidconquest\" rel=\"noopener noreferrer\" target=\"_blank\">Ko-Fi</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12529,6 +12545,9 @@
         "by:psydrosis": [
             "do-not-disturb-by-psydrosis"
         ],
+        "by:raynarde": [
+            "i-was-there-by-raynarde"
+        ],
         "by:reid-minnich": [
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "hostage-by-reid-minnich",
@@ -12834,6 +12853,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "unspoken-by-arian-mabe",
@@ -14963,6 +14983,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "boars-three-different-kinds-by-whale-the-boar",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -15376,6 +15397,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "boars-three-different-kinds-by-whale-the-boar",
@@ -15434,6 +15456,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
             "boars-three-different-kinds-by-whale-the-boar",

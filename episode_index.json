@@ -346,6 +346,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d88e3118-d0f1-47c4-b470-1a63a0491e22/The-Dog-Man-of-The-Forest-by-Corran-Orreaux.mp3",
+            "published_date": "2025-04-23T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a>, an aspiring author and poet who posts short fiction online when he isn't making loud deer noises at concerned friends. You can find more of his poems and stories<em> </em><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">on his Fur Affinity page</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-dog-man-of-the-forest-by-corran-orreaux",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "poem",
+                "by:corran-orreaux",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cThe Dog Man of The Forest\u201d by Corran Orreaux"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6aa420d3-26aa-48df-b08b-2ea8717c2741/I-Was-There-by-Raynarde.mp3",
             "published_date": "2025-04-21T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://bsky.app/profile/raynarde.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Raynarde</a>, who along with making his poetry debut here, is looking to publish his debut novel this year. A writer, reader, and general lover of art across all mediums, you can follow him on <a href=\"https://bsky.app/profile/raynarde.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a> and <a href=\"https://raynarde.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> for updates on his writing and more.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12023,6 +12039,9 @@
             "herman-by-coda",
             "born-to-be-wild-by-coda"
         ],
+        "by:corran-orreaux": [
+            "the-dog-man-of-the-forest-by-corran-orreaux"
+        ],
         "by:crimson-ruari": [
             "galician-sled-by-crimson-ruari-part-2-of-2",
             "galician-sled-by-crimson-ruari-part-1-of-2",
@@ -12853,6 +12872,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
@@ -15179,6 +15199,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "the-dog-man-of-the-forest-by-corran-orreaux",
             "ink-by-aetherwolf76",
             "unspoken-by-arian-mabe",
             "matters-of-the-mind-by-caliope-sparks",
@@ -15397,6 +15418,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",
@@ -15456,6 +15478,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "ink-by-aetherwolf76",

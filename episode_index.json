@@ -346,6 +346,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67a0d13f-e3a1-420c-a39c-cc759841e1a4/Love-Against-Aggravation-by-Rob-MacWolf.mp3",
+            "published_date": "2025-04-25T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://sofurrybeta.com/u/RobMacWolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who\u2019s going to force poetry into anywhere he can, which you can see for yourself in his book <a href=\"https://bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> from Bewere Books, and you can find more of his stories on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">itchio.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "love-against-aggravation-by-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "asexual",
+                "poetry-month",
+                "romance",
+                "poem",
+                "by:rob-macwolf",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cLove Against Aggravation\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d88e3118-d0f1-47c4-b470-1a63a0491e22/The-Dog-Man-of-The-Forest-by-Corran-Orreaux.mp3",
             "published_date": "2025-04-23T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a>, an aspiring author and poet who posts short fiction online when he isn't making loud deer noises at concerned friends. You can find more of his poems and stories<em> </em><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">on his Fur Affinity page</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11758,6 +11776,7 @@
             "18live-for-love-by-holly-a-morrison"
         ],
         "asexual": [
+            "love-against-aggravation-by-rob-macwolf",
             "toad-toad-hall-by-tempo",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2",
@@ -12595,6 +12614,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "love-against-aggravation-by-rob-macwolf",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "eat-the-rich-by-rob-macwolf",
@@ -12872,6 +12892,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
@@ -15157,6 +15178,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "love-against-aggravation-by-rob-macwolf",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
@@ -15418,6 +15440,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
@@ -15478,6 +15501,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
@@ -15759,6 +15783,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "love-against-aggravation-by-rob-macwolf",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "18-dont-call-me-bee-by-norm-the-inadequate-cat",

@@ -346,6 +346,21 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8f6747c3-16d3-4810-ac07-9fb663f62cd2/French-for-Goodbye-by-Alex-T-Dragonson.mp3",
+            "published_date": "2025-04-28T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://wizardofdocs.neocities.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Alex T. Dragonson</a>, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of his stories on his <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a> and in the Voice of Dog archive.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "french-for-goodbye-by-alex-t-dragonson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "by:alex-t-dragonson",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cFrench for Goodbye\u201d by Alex T. Dragonson"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67a0d13f-e3a1-420c-a39c-cc759841e1a4/Love-Against-Aggravation-by-Rob-MacWolf.mp3",
             "published_date": "2025-04-25T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://sofurrybeta.com/u/RobMacWolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who\u2019s going to force poetry into anywhere he can, which you can see for yourself in his book <a href=\"https://bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> from Bewere Books, and you can find more of his stories on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">itchio.</a></p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11913,6 +11928,7 @@
             "tempus-imperfectum-by-al-song-part-1-of-3"
         ],
         "by:alex-t-dragonson": [
+            "french-for-goodbye-by-alex-t-dragonson",
             "children-of-dusk-by-alex-t-dragonson",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "long-road-home-by-alex-t-dragonson",
@@ -12892,6 +12908,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
@@ -15024,6 +15041,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "french-for-goodbye-by-alex-t-dragonson",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
             "boars-three-different-kinds-by-whale-the-boar",
@@ -15501,6 +15519,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",

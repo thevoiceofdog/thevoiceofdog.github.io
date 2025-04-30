@@ -346,6 +346,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf2f8da2-c298-4adf-b090-3314bd0e0dc8/Hope-by-Russell-Knight.mp3",
+            "published_date": "2025-04-30T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://www.furaffinity.net/user/-arcaefox-\" rel=\"noopener noreferrer\" target=\"_blank\">Russell Knight</a>, an aardwolf-fox who puts stuff on paper from time to time. You can find his poetry and other scribblings on <a href=\"https://www.furaffinity.net/user/-arcaefox-\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity.</a></p><p>{{snippet-3}} </p><p>With that, we conclude Poetry Month for this year. Please come back next week for our regularly scheduled story, and Thank you for listening to Poetry Month on The Voice of Dog.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "hope-by-russell-knight",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "poem",
+                "medieval",
+                "by:russell-knight",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cHope\u201d by Russell Knight"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8f6747c3-16d3-4810-ac07-9fb663f62cd2/French-for-Goodbye-by-Alex-T-Dragonson.mp3",
             "published_date": "2025-04-28T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://wizardofdocs.neocities.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Alex T. Dragonson</a>, who spins a horde of cozy yarns from atop a hoard of cozy yarn, and you can find more of his stories on his <a href=\"https://publish.ministryofinternet.eu/wayside-parliament/\" rel=\"noopener noreferrer\" target=\"_blank\">worldbuilding blog</a> and in the Voice of Dog archive.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12693,6 +12710,9 @@
             "to-catch-the-lightning-by-royce-day-part-1-of-2",
             "at-prayer-by-royce-day"
         ],
+        "by:russell-knight": [
+            "hope-by-russell-knight"
+        ],
         "by:ryan-campbell": [
             "6-unbelievable-facts-about-unicorns-that-will-completely-blow-your-mind-by-ryan-campbell",
             "eagle-s-splendour-by-ryan-campbell"
@@ -12908,6 +12928,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
@@ -14493,6 +14514,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "hope-by-russell-knight",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "kinwa-and-the-engineer-by-ritter",
@@ -15041,6 +15063,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
             "i-was-there-by-raynarde",
             "un-feathered-bipeds-by-michel-vincent-corbeaux",
@@ -15458,6 +15481,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "hope-by-russell-knight",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "i-was-there-by-raynarde",
@@ -15519,6 +15543,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",

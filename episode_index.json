@@ -346,6 +346,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/695af206-2f2f-4c3f-9208-7eea9eb85f37/18-Ishkode-Dreaming-by-Kohitsuji.mp3",
+            "published_date": "2025-05-05T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>A frustrated young bear wrestles with himself, his doubts and fears, and the man he can\u2019t admit to loving while in the throes of a dream.</em></p><p>Today\u2019s story is \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Ishkode Dreaming</a>\u201d by <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Kohitsuji</a>, who has been caught carrying off sheep for the last time, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>Read by Leuna, your Internet Half-Creature.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-ishkode-dreaming-by-kohitsuji",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "legend",
+                "action/adventure",
+                "historical",
+                "nsfw",
+                "by:kohitsuji",
+                "narrator:leuna"
+            ],
+            "title": "[18+] \u201cIshkode Dreaming\u201d by Kohitsuji (read by Leuna)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf2f8da2-c298-4adf-b090-3314bd0e0dc8/Hope-by-Russell-Knight.mp3",
             "published_date": "2025-04-30T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://www.furaffinity.net/user/-arcaefox-\" rel=\"noopener noreferrer\" target=\"_blank\">Russell Knight</a>, an aardwolf-fox who puts stuff on paper from time to time. You can find his poetry and other scribblings on <a href=\"https://www.furaffinity.net/user/-arcaefox-\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity.</a></p><p>{{snippet-3}} </p><p>With that, we conclude Poetry Month for this year. Please come back next week for our regularly scheduled story, and Thank you for listening to Poetry Month on The Voice of Dog.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -11586,6 +11604,7 @@
     },
     "tags": {
         "action/adventure": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -12433,6 +12452,7 @@
             "machine-learning-by-kohitsugi"
         ],
         "by:kohitsuji": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "i-remember-you-by-kohitsuji",
             "18-the-darkest-place-by-kohitsuji",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
@@ -12928,6 +12948,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",
@@ -14114,6 +14135,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "solstice-gifts-by-royce-day",
@@ -14344,6 +14366,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "unspoken-by-arian-mabe",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
             "every-nine-lives-or-so-by-tempo",
@@ -15026,6 +15049,7 @@
             "homeworld-by-buddy-goodboy-read-by-killick"
         ],
         "narrator:leuna": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "all-means-all-by-rob-macwolf",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "rites-of-wood-and-bone-by-utunu",
@@ -15325,6 +15349,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-ishkode-dreaming-by-kohitsuji",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",

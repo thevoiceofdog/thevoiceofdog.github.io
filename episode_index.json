@@ -347,6 +347,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/44ea002a-8af4-402a-aa1e-3950f830fa5b/A-Dragon-s-Redemption-by-Evan-Drake-part-1-of-2.mp3",
+            "published_date": "2025-05-12T09:50:00.000Z",
+            "shownotes": "<p><em>In a world where dragons were once considered divine, humans and dragons live on in fragile peace.</em></p><p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today\u2019s story is the first of two parts of \u201c<a href=\"https://www.sofurry.com/view/1857080\" rel=\"noopener noreferrer\" target=\"_blank\">A Dragon's Redemption</a>\u201d by <a href=\"https://www.patreon.com/evandrake?view_as=patron\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Drake</a>, who writes fantasy stories, and <a href=\"https://www.amazon.com/gp/product/B09MCLS2YC/ref=dbs_a_def_rwt_bibl_vppi_i0\" rel=\"noopener noreferrer\" target=\"_blank\">Where Dragons Rule: Dissent</a>, and you can find more of his stories on <a href=\"https://mr-drake.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>.</p><p>Read by Sierra, the Small Blue One.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "a-dragons-redemption-by-evan-drake-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "humor",
+                "fantasy",
+                "by:evan-drake",
+                "narrator:sierra"
+            ],
+            "title": "\u201cA Dragon\u2019s Redemption\u201d by Evan Drake (part 1 of 2, read by Sierra)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/695af206-2f2f-4c3f-9208-7eea9eb85f37/18-Ishkode-Dreaming-by-Kohitsuji.mp3",
             "published_date": "2025-05-05T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>A frustrated young bear wrestles with himself, his doubts and fears, and the man he can\u2019t admit to loving while in the throes of a dream.</em></p><p>Today\u2019s story is \u201c<a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Ishkode Dreaming</a>\u201d by <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Kohitsuji</a>, who has been caught carrying off sheep for the last time, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/kohitsujiwrites/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>Read by Leuna, your Internet Half-Creature.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12223,6 +12240,7 @@
             "memory-by-et-al-"
         ],
         "by:evan-drake": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "an-act-of-kindness-by-evan-drake",
             "a-dragons-dilemma-by-evan-drake",
             "a-dragons-tale-by-evan-drake"
@@ -12950,6 +12968,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "18-ishkode-dreaming-by-kohitsuji",
             "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
@@ -13892,6 +13911,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "children-of-dusk-by-alex-t-dragonson",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -14323,6 +14343,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",
@@ -14407,6 +14428,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -15240,6 +15262,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
+            "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "solstice-gifts-by-royce-day",
             "mother-by-chase-anderson",
             "reticence-a-poem-by-et-al-"

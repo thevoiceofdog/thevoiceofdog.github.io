@@ -351,6 +351,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/56ddf783-e169-440e-9fc6-dfe8739fe583/A-Dragon-s-Redemption-by-Evan-Drake-part-2-of-2.mp3",
+            "published_date": "2025-05-19T09:50:00.000Z",
+            "shownotes": "<p><em>In a world where dragons were once considered divine, humans and dragons live on in fragile peace.</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://www.sofurry.com/view/1857080\" rel=\"noopener noreferrer\" target=\"_blank\">A Dragon's Redemption</a>\u201d by <a href=\"https://www.patreon.com/evandrake?view_as=patron\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Drake</a>, who writes fantasy stories, and <a href=\"https://www.amazon.com/gp/product/B09MCLS2YC/ref=dbs_a_def_rwt_bibl_vppi_i0\" rel=\"noopener noreferrer\" target=\"_blank\">Where Dragons Rule: Dissent</a>, and you can find more of his stories on <a href=\"https://mr-drake.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>.</p><p>Read by Sierra, the Small Blue One.</p><p>Last time, Quinn met the wandering dragon, Rowen, and learned she is a domesticate. They agreed the best hope for her survival was to get the Matriarch, Ragenta, to accept her, and Quinn has to hope Ragenta\u2019s feelings for him are enough to earn approval.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "a-dragons-redemption-by-evan-drake-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "mystery",
+                "fantasy",
+                "by:evan-drake",
+                "narrator:sierra"
+            ],
+            "title": "\u201cA Dragon's Redemption\u201d by Evan Drake (part 2 of 2, read by Sierra)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/44ea002a-8af4-402a-aa1e-3950f830fa5b/A-Dragon-s-Redemption-by-Evan-Drake-part-1-of-2.mp3",
             "published_date": "2025-05-12T09:50:00.000Z",
             "shownotes": "<p><em>In a world where dragons were once considered divine, humans and dragons live on in fragile peace.</em></p><p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today\u2019s story is the first of two parts of \u201c<a href=\"https://www.sofurry.com/view/1857080\" rel=\"noopener noreferrer\" target=\"_blank\">A Dragon's Redemption</a>\u201d by <a href=\"https://www.patreon.com/evandrake?view_as=patron\" rel=\"noopener noreferrer\" target=\"_blank\">Evan Drake</a>, who writes fantasy stories, and <a href=\"https://www.amazon.com/gp/product/B09MCLS2YC/ref=dbs_a_def_rwt_bibl_vppi_i0\" rel=\"noopener noreferrer\" target=\"_blank\">Where Dragons Rule: Dissent</a>, and you can find more of his stories on <a href=\"https://mr-drake.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>.</p><p>Read by Sierra, the Small Blue One.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12248,6 +12265,7 @@
             "memory-by-et-al-"
         ],
         "by:evan-drake": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "an-act-of-kindness-by-evan-drake",
             "a-dragons-dilemma-by-evan-drake",
@@ -12976,6 +12994,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "18-ishkode-dreaming-by-kohitsuji",
             "hope-by-russell-knight",
@@ -13919,6 +13938,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "children-of-dusk-by-alex-t-dragonson",
@@ -14436,6 +14456,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -14630,6 +14651,7 @@
             "to-find-you-by-kandrel-18"
         ],
         "mystery": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-2-of-2",
@@ -15270,6 +15292,7 @@
             "bad-dog-by-rob-baird"
         ],
         "narrator:sierra": [
+            "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "solstice-gifts-by-royce-day",
             "mother-by-chase-anderson",

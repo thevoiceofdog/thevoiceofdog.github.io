@@ -291,7 +291,7 @@
             "narrator:tempe-o-kun",
             "narrator:tempo",
             "narrator:the-author",
-            "narrator:the-poet-happy-pride",
+            "narrator:the-poet",
             "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog",
             "narrator:william-dingo",
             "narrator:yuugen",
@@ -331,8 +331,10 @@
             "human",
             "magical-realism",
             "narrator",
+            "non-binary",
             "political",
             "pulift",
+            "queerphobia nsfw",
             "sci-fi by:tempe-o-kun",
             "superhero by:buddy-goodboy",
             "ta'kom-ironhoof",
@@ -361,7 +363,7 @@
             "slug": "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "summary": "",
             "tags": [
-                "check-tags",
+                "pride-month",
                 "lgbtq+",
                 "queer",
                 "gay",
@@ -370,8 +372,8 @@
                 "drama",
                 "historical",
                 "queerphobia",
-                "by:tiberiusrings-fruitz",
-                "narrator:solomon-harries"
+                "narrator:solomon-harries",
+                "by:tiberiusrings-fruitz"
             ],
             "title": "\u201cJumping to Conclusions\u201d by TiberiusRings & Fruitz (read by Solomon)"
         },
@@ -383,19 +385,13 @@
             "slug": "18-squirrel-your-stuff-by-field-t-mouse",
             "summary": "",
             "tags": [
-                "check-tags",
-                "lgbtq+",
                 "adult",
-                "gay",
-                "queer",
-                "holiday",
                 "humor",
                 "drama",
-                "historical",
                 "nsfw",
                 "drugs/alcohol",
-                "by:field-t-mouse",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:field-t-mouse"
             ],
             "title": "[18+] \u201cSquirrel Your Stuff\u201d by Field T. Mouse"
         },
@@ -11625,7 +11621,7 @@
         "narrator:altivo-overo": "Narrator: Altivo Overo",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
-        "narrator:bandanadog": "Narrator: BandanaDog",
+        "narrator:bandanadog": "Narrator: Bandanadog",
         "narrator:carrizo": "Narrator: Carrizo",
         "narrator:crimson-ruari": "Narrator: Crimson Ruari",
         "narrator:cross": "Narrator: Cross",
@@ -11657,12 +11653,13 @@
         "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
-        "narrator:the-poet-happy-pride": "Narrator: the poet. Happy Pride",
+        "narrator:the-poet": "Narrator: The Poet",
         "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog": "Narrator: The Poet. You can find more stories on the web at thevoice.dog",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
         "narrator:zilch-woofs": "Narrator: Zilch Woofs",
+        "non-binary": "Non Binary",
         "non-consensual": "Non-consensual",
         "non-queer": "Non-queer",
         "nonbinary": "Non-Binary",
@@ -11681,6 +11678,7 @@
         "puplift": "Puplift",
         "queer": "Queer",
         "queerphobia": "Queerphobia",
+        "queerphobia nsfw": "Queerphobia Nsfw",
         "renaissance": "Renaissance",
         "romance": "Romance",
         "sci-fi": "Sci-fi",
@@ -13053,8 +13051,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "18-ishkode-dreaming-by-kohitsuji",
@@ -14092,7 +14088,6 @@
         ],
         "gay": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -14252,7 +14247,6 @@
         ],
         "historical": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "18-ishkode-dreaming-by-kohitsuji",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
@@ -14383,7 +14377,6 @@
         ],
         "holiday": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
@@ -14528,7 +14521,6 @@
         ],
         "lgbtq+": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "toad-toad-hall-by-tempo",
@@ -15808,6 +15800,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -15882,7 +15875,6 @@
         ],
         "queer": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
-            "18-squirrel-your-stuff-by-field-t-mouse",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
             "18-steam-by-brathor-cyr-part-2-of-2",

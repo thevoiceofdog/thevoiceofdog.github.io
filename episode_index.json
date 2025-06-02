@@ -355,6 +355,28 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/010f7931-aa55-419a-b250-f2dc3fde4e50/Jumping-to-Conclusions-by-Tiberius-Rings-Fruitz.mp3",
+            "published_date": "2025-06-02T09:50:00.000Z",
+            "shownotes": "<p><em>A quiet lake. A coyote searching for meaning. A mysterious fox with a timeless smile. In a town that remembers what others forget, two strangers meet under summer\u2019s fading light\u2014and nothing will ever be the same.</em></p><p>It is with great pleasure, and indeed Pride, that we welcome you, friends of every shape, ability, gender, and species, once again to Pride Month. Today\u2019s story is \u201cJumping to Conclusions,\u201d a story about growth and choice by Tiberius Rings and Fruitz of Fruitzberg Press, co authors of the trilogy series, <a href=\"https://fruitzberg.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Come to Dust</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "jumping-to-conclusions-by-tiberiusrings-fruitz",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "gay",
+                "holiday",
+                "romance",
+                "drama",
+                "historical",
+                "queerphobia",
+                "by:tiberiusrings-fruitz",
+                "narrator:solomon-harries"
+            ],
+            "title": "\u201cJumping to Conclusions\u201d by TiberiusRings & Fruitz (read by Solomon)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a89722cc-be91-4127-9ff6-e6942d3215bf/18-Squirrel-Your-Stuff-by-Field-T-Mouse.mp3",
             "published_date": "2025-05-26T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>From the creator of Mouse Your House comes the newest hit show on SCURRY-TV: Squirrel Your Stuff! Five squirrels, one mission: to unclutter your sorry home!</em></p><p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today\u2019s story is \u201cSquirrel Your Stuff\u201d by Field T. Mouse, who is a purveyor of critter-centric tales. You can find more of his work at squirrel.sofurry.com. </p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12960,6 +12982,9 @@
             "vagabond-by-tiberiusrings-fruitz-part-2-of-2",
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2"
         ],
+        "by:tiberiusrings-fruitz": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz"
+        ],
         "by:tj-minde": [
             "missed-feelings-by-tj-minde-18",
             "like-playing-a-volkswagen-by-tj-minde"
@@ -13028,6 +13053,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -13618,6 +13644,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "children-of-dusk-by-alex-t-dragonson",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
@@ -14064,6 +14091,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
@@ -14223,6 +14251,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "18-ishkode-dreaming-by-kohitsuji",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
@@ -14353,6 +14382,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -14497,6 +14527,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -15342,6 +15373,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "love-against-aggravation-by-rob-macwolf",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
@@ -15849,6 +15881,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -15924,6 +15957,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "justice-is-brewing-by-vincenzo-pasquarella-part-2-of-2",
             "a-different-kind-of-make-believe-by-renee-carter-hall-part-1-of-2-live",
@@ -15953,6 +15987,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "love-against-aggravation-by-rob-macwolf",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",

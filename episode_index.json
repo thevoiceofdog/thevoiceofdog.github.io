@@ -357,6 +357,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e136b667-84cc-49d8-a186-39141e2d696a/there-is-a-werewolf-in-the-town-by-jesse-hawke.mp3",
+            "published_date": "2025-06-03T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cthere is a werewolf in the town,\u201d a poem by <a href=\"http://jessehawke.carrd.co\" rel=\"noopener noreferrer\" target=\"_blank\">jesse hawke</a>, a Scottish &amp; nonbinary artist and writer, and you can find more of their stories <a href=\"https://cityelf.tumblr.com/tagged/writing+tag\" rel=\"noopener noreferrer\" target=\"_blank\">on their tumblr account, cityelf</a>.</p><p>Read by Icefang, in the Cozy Corner of the Cafe, and by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "non-binary",
+                "poem",
+                "narrator:icefang",
+                "by:jesse-hawke"
+            ],
+            "title": "\u201cthere is a werewolf in the town,\u201da poem by jesse hawke (Read by Ta'kom & Icefang.)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/010f7931-aa55-419a-b250-f2dc3fde4e50/Jumping-to-Conclusions-by-Tiberius-Rings-Fruitz.mp3",
             "published_date": "2025-06-02T09:50:00.000Z",
             "shownotes": "<p><em>A quiet lake. A coyote searching for meaning. A mysterious fox with a timeless smile. In a town that remembers what others forget, two strangers meet under summer\u2019s fading light\u2014and nothing will ever be the same.</em></p><p>It is with great pleasure, and indeed Pride, that we welcome you, friends of every shape, ability, gender, and species, once again to Pride Month. Today\u2019s story is \u201cJumping to Conclusions,\u201d a story about growth and choice by Tiberius Rings and Fruitz of Fruitzberg Press, co authors of the trilogy series, <a href=\"https://fruitzberg.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Come to Dust</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12478,6 +12495,9 @@
         "by:jay-shirou-coughlan": [
             "dragon-roasted-coffee-beans-by-jay-shirou-coughlan"
         ],
+        "by:jesse-hawke": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke"
+        ],
         "by:joaquin-baldwin": [
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2"
@@ -14520,6 +14540,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -14875,6 +14896,7 @@
             "darker-things-than-man-by-casimir-laski"
         ],
         "narrator:icefang": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -15465,6 +15487,9 @@
             "rekindling-by-al-song-part-2-of-2",
             "rekindling-by-al-song-part-1-of-2"
         ],
+        "non-binary": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke"
+        ],
         "non-consensual": [
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2"
         ],
@@ -15630,6 +15655,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "hope-by-russell-knight",
             "love-against-aggravation-by-rob-macwolf",
             "the-dog-man-of-the-forest-by-corran-orreaux",
@@ -15800,6 +15826,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-a-small-gesture-by-pendoggo",
             "the-gods-in-between-by-nighteyes-dayspring",

@@ -357,6 +357,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a4151f8f-0f62-478b-89c8-0953a01c5246/Coming-Ott-by-Geo-Holms.mp3",
+            "published_date": "2025-06-04T09:50:00.000Z",
+            "shownotes": "<p><em>Jaye is waiting in their car for their friend, who is coming out to their family about who he really is, a North American River Otter, and assist in untangling the aftermath.</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/59992059/\" rel=\"noopener noreferrer\" target=\"_blank\">Coming Ott</a>\u201d by <a href=\"https://www.furaffinity.net/user/geoholms\" rel=\"noopener noreferrer\" target=\"_blank\">Geo Holms</a>, who is a raccoon from the internet occasionally writing quirky tales, where inevitably some character is turned from one thing into another. You can find his tales on his FurAffinity @ GeoHolms, along with his collab tales written with a certain spiffin\u2019 bard fox (and maybe others).</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "coming-ott-by-geo-holms",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "drama",
+                "fantasy",
+                "narrator:rob-macwolf",
+                "by:geo-holms"
+            ],
+            "title": "\u201cComing Ott\u201d by Geo Holms"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e136b667-84cc-49d8-a186-39141e2d696a/there-is-a-werewolf-in-the-town-by-jesse-hawke.mp3",
             "published_date": "2025-06-03T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cthere is a werewolf in the town,\u201d a poem by <a href=\"http://jessehawke.carrd.co\" rel=\"noopener noreferrer\" target=\"_blank\">jesse hawke</a>, a Scottish &amp; nonbinary artist and writer, and you can find more of their stories <a href=\"https://cityelf.tumblr.com/tagged/writing+tag\" rel=\"noopener noreferrer\" target=\"_blank\">on their tumblr account, cityelf</a>.</p><p>Read by Icefang, in the Cozy Corner of the Cafe, and by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12399,6 +12416,7 @@
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
         ],
         "by:geo-holms": [
+            "coming-ott-by-geo-holms",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms"
         ],
         "by:gre7g-luterman": [
@@ -13660,6 +13678,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "coming-ott-by-geo-holms",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "children-of-dusk-by-alex-t-dragonson",
@@ -14018,6 +14037,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "coming-ott-by-geo-holms",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
@@ -14540,6 +14560,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "coming-ott-by-geo-holms",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
@@ -15228,6 +15249,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "coming-ott-by-geo-holms",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
@@ -15826,6 +15848,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "coming-ott-by-geo-holms",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-a-small-gesture-by-pendoggo",

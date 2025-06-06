@@ -357,21 +357,43 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3eb161d6-3ff3-4d1b-a80d-3615f5fac2ee/18-Shame-and-Desperation-Will-Kill-You-Someday-by-Pascal-Farful.mp3",
+            "published_date": "2025-06-06T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Fame and fortune. Burnt to the ground. It only took one secret to destroy their lives. But it only takes one promise to start over again.</em></p><p>Today\u2019s story is the second and final part of \u201cShame and Desperation Will Kill You Someday\u201d by <a href=\"http://@pascalfarful.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has been featured in multiple books by the Furry Historical Fiction Society and hosts the April writing workshop GoFourth!, and you can find more of his stories on <a href=\"https://pascalfarful.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>Last time, metal singer Randy and race car driver Thomas found their \u201cfuck-and-forget\u201d relationship completely unforgettable. As their lust brought them together, the fear of being outed made them force one another apart. Years after their second fuck and second argument, both men found themselves in Italy, and at rock bottom. Thomas suffered a horrific accident during a race and Randy suffers a drink and drug overdose. Both end up meeting in the same hospital, just in time to discover that their secret, that they had gone through so much meticulous trouble and mental and physical torture to keep secret, has just landed on the front page of the Italian press.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "queerphobia",
+                "nsfw",
+                "drugs/alcohol",
+                "gay",
+                "contemporary",
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
+            ],
+            "title": "[18+] \u201cShame and Desperation Will Kill You Someday\u201d by Pascal Farful (part 2 of 2)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/814eea24-3dd3-48d0-bbd1-dfd029b2a027/18-Shame-and-Desperation-Will-Kill-You-Someday-by-Pascal-Farful.mp3",
             "published_date": "2025-06-05T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Shadowy meetings. Code phrases. Secret packages. No, they're not spies. They're just gay. But if anyone finds out, they're as good as dead.</em></p><p>Today\u2019s story is the first of two parts of \u201cShame and Desperation Will Kill You Someday\u201d by <a href=\"http://@pascalfarful.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has been featured in multiple books by the Furry Historical Fiction Society and hosts the April writing workshop GoFourth!, and you can find more of his stories on <a href=\"https://pascalfarful.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
             "slug": "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
+                "gay",
                 "lgbtq+",
                 "pride-month",
                 "romance",
                 "contemporary",
                 "nsfw",
                 "queerphobia",
-                "by:pascal-farful",
-                "narrator:rob-macwolf"
+                "drugs/alcohol",
+                "narrator:rob-macwolf",
+                "by:pascal-farful"
             ],
             "title": "[18+] \u201cShame and Desperation Will Kill You Someday\u201d by Pascal Farful (part 1 of 2)"
         },
@@ -12756,6 +12778,7 @@
             "grenadine-by-partvoid"
         ],
         "by:pascal-farful": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "signalbox-by-pascal-farful",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -13110,7 +13133,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "18-ishkode-dreaming-by-kohitsuji",
@@ -13524,6 +13546,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
@@ -13882,6 +13905,8 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "spooklunking-by-tana-simensis",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
@@ -14150,6 +14175,8 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
@@ -14583,6 +14610,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
@@ -15273,6 +15301,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",
             "18-squirrel-your-stuff-by-field-t-mouse",
@@ -15544,6 +15573,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "18-ishkode-dreaming-by-kohitsuji",
@@ -15874,6 +15904,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
@@ -16026,6 +16057,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -16057,6 +16089,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "love-against-aggravation-by-rob-macwolf",

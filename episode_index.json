@@ -358,6 +358,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/05b7d4e9-7558-4aff-9e9d-d6ffeeade096/The-Young-Man-Who-Knew-Where-He-Was-Going-by-Rob-MacWolf.mp3",
+            "published_date": "2025-06-07T09:50:00.000Z",
+            "shownotes": "<p><em>A fairy tale, for pride. A personal myth, as if there were any other kind. A story of becoming who we are, because everyone should have one.</em></p><p>\ufeffToday\u2019s story is \u201cThe Young Man Who Knew Where He Was Going\u201d by <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who means it when he calls himself werewolf hitchhiker and knows to whom he owes it. You can get his book <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> winner of a C\u00f3yotl award, from <a href=\"https://www.bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a>, and you can find more of his books on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Itchio</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "fantasy",
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cThe Young Man Who Knew Where He Was Going\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3eb161d6-3ff3-4d1b-a80d-3615f5fac2ee/18-Shame-and-Desperation-Will-Kill-You-Someday-by-Pascal-Farful.mp3",
             "published_date": "2025-06-06T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Fame and fortune. Burnt to the ground. It only took one secret to destroy their lives. But it only takes one promise to start over again.</em></p><p>Today\u2019s story is the second and final part of \u201cShame and Desperation Will Kill You Someday\u201d by <a href=\"http://@pascalfarful.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has been featured in multiple books by the Furry Historical Fiction Society and hosts the April writing workshop GoFourth!, and you can find more of his stories on <a href=\"https://pascalfarful.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>Last time, metal singer Randy and race car driver Thomas found their \u201cfuck-and-forget\u201d relationship completely unforgettable. As their lust brought them together, the fear of being outed made them force one another apart. Years after their second fuck and second argument, both men found themselves in Italy, and at rock bottom. Thomas suffered a horrific accident during a race and Randy suffers a drink and drug overdose. Both end up meeting in the same hospital, just in time to discover that their secret, that they had gone through so much meticulous trouble and mental and physical torture to keep secret, has just landed on the front page of the Italian press.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12851,6 +12867,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "love-against-aggravation-by-rob-macwolf",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-1-of-2",
@@ -14087,6 +14104,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "coming-ott-by-geo-holms",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -14612,6 +14630,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",
@@ -15303,6 +15322,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",
@@ -15906,6 +15926,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "coming-ott-by-geo-holms",

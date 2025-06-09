@@ -358,6 +358,28 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/88580a92-88c5-41ff-a899-97b1eac74934/Fraternity-by-Domus-Vocis.mp3",
+            "published_date": "2025-06-09T09:50:00.000Z",
+            "shownotes": "<p><em>Franklin, president of his college\u2019s Pride Alliance, is recruited by a frat house to help their leader come to terms with his sexuality. </em></p><p>Today\u2019s story is \u201cFraternity\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to vaporwave music &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside his co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories by Domus Vocis on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "fraternity-by-domus-vocis",
+            "summary": "",
+            "tags": [
+                "pride-month",
+                "lgbtq+",
+                "queer",
+                "gay",
+                "asexual",
+                "holiday",
+                "romance",
+                "drama",
+                "queerphobia",
+                "narrator:ta-kom-ironhoof",
+                "by:domus-vocis"
+            ],
+            "title": "\u201cFraternity\u201d by Domus Vocis (read by Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/05b7d4e9-7558-4aff-9e9d-d6ffeeade096/The-Young-Man-Who-Knew-Where-He-Was-Going-by-Rob-MacWolf.mp3",
             "published_date": "2025-06-07T09:50:00.000Z",
             "shownotes": "<p><em>A fairy tale, for pride. A personal myth, as if there were any other kind. A story of becoming who we are, because everyone should have one.</em></p><p>\ufeffToday\u2019s story is \u201cThe Young Man Who Knew Where He Was Going\u201d by <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who means it when he calls himself werewolf hitchhiker and knows to whom he owes it. You can get his book <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> winner of a C\u00f3yotl award, from <a href=\"https://www.bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a>, and you can find more of his books on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Itchio</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12018,6 +12040,7 @@
             "18live-for-love-by-holly-a-morrison"
         ],
         "asexual": [
+            "fraternity-by-domus-vocis",
             "love-against-aggravation-by-rob-macwolf",
             "toad-toad-hall-by-tempo",
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
@@ -12366,6 +12389,7 @@
             "you-can-watch-me-dance-by-dirt-coyote"
         ],
         "by:domus-vocis": [
+            "fraternity-by-domus-vocis",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
             "goodbye-new-mexico-by-domus-vocis-part-2-of-2",
@@ -13743,6 +13767,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "fraternity-by-domus-vocis",
             "coming-ott-by-geo-holms",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "18-squirrel-your-stuff-by-field-t-mouse",
@@ -14195,6 +14220,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -14486,6 +14512,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "fraternity-by-domus-vocis",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -14630,6 +14657,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -15529,6 +15557,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "fraternity-by-domus-vocis",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "ink-by-aetherwolf76",
             "unspoken-by-arian-mabe",
@@ -15926,6 +15955,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -16005,6 +16035,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "fraternity-by-domus-vocis",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "18-intense-research-by-scribbles-monhagen-part-1-of-2",
@@ -16080,6 +16111,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -16112,6 +16144,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",

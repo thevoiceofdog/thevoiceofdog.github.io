@@ -358,6 +358,26 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d767c699-3c64-4235-800b-c4ea7a9dcde7/Expectations-by-Pendoggo.mp3",
+            "published_date": "2025-06-10T09:50:00.000Z",
+            "shownotes": "<p><em>A mastiff decides to accompany his boyfriend for a visit to his parents. While nervous about introducing himself as his boyfriend\u2019s older partner, he decides to go and see what happens. </em></p><p>Today\u2019s story is \u201cExpectations\u201d by Pendoggo, who is a hobbyist writer and artist.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "expectations-by-pendoggo",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "gay",
+                "queer",
+                "pride-month",
+                "romance",
+                "contemporary",
+                "by:pendoggo",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cExpectations\u201d by Pendoggo"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/88580a92-88c5-41ff-a899-97b1eac74934/Fraternity-by-Domus-Vocis.mp3",
             "published_date": "2025-06-09T09:50:00.000Z",
             "shownotes": "<p><em>Franklin, president of his college\u2019s Pride Alliance, is recruited by a frat house to help their leader come to terms with his sexuality. </em></p><p>Today\u2019s story is \u201cFraternity\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to vaporwave music &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside his co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories by Domus Vocis on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12851,6 +12871,7 @@
             "getting-naked-at-gunnison-by-patrigue"
         ],
         "by:pendoggo": [
+            "expectations-by-pendoggo",
             "the-healers-quarters-by-pendoggo",
             "18-a-small-gesture-by-pendoggo"
         ],
@@ -13176,6 +13197,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "expectations-by-pendoggo",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
             "18-ishkode-dreaming-by-kohitsuji",
@@ -13589,6 +13611,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "expectations-by-pendoggo",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
@@ -14220,6 +14243,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -14657,6 +14681,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
@@ -15350,6 +15375,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "expectations-by-pendoggo",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -15955,6 +15981,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
@@ -16035,6 +16062,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -16144,6 +16172,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",

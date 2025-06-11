@@ -358,6 +358,28 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/56357c38-7882-43c9-996e-9a1868854308/Splitting-Hares-by-Lauren-Rivers.mp3",
+            "published_date": "2025-06-11T09:50:00.000Z",
+            "shownotes": "<p><em>Coming out is never easy, especially to the people you love.&nbsp; But there\u2019s always someone you choose as your first.</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/60404472/\" rel=\"noopener noreferrer\" target=\"_blank\">Splitting Hares</a>\u201d by <a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a>, <a href=\"https://www.amazon.com/Blue-Moon-Lauren-Rivers/dp/0999617001/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1637796814&amp;sr=8-1\" rel=\"noopener noreferrer\" target=\"_blank\">Author of Blue Moon</a> by Iridescence Studios, and you can find more of her stories on <a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "splitting-hares-by-lauren-rivers",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "transgender",
+                "gay",
+                "pride-month",
+                "family-saga",
+                "drama",
+                "contemporary",
+                "by:lauren-rivers",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cSplitting Hares\u201d by Lauren Rivers"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d767c699-3c64-4235-800b-c4ea7a9dcde7/Expectations-by-Pendoggo.mp3",
             "published_date": "2025-06-10T09:50:00.000Z",
             "shownotes": "<p><em>A mastiff decides to accompany his boyfriend for a visit to his parents. While nervous about introducing himself as his boyfriend\u2019s older partner, he decides to go and see what happens. </em></p><p>Today\u2019s story is \u201cExpectations\u201d by Pendoggo, who is a hobbyist writer and artist.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12716,6 +12738,7 @@
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms"
         ],
         "by:lauren-rivers": [
+            "splitting-hares-by-lauren-rivers",
             "winterfall-beyond-the-white-by-lauren-rivers",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
             "winterfall-the-dark-mile-by-lauren-rivers-part-1-of-2",
@@ -13197,6 +13220,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -13611,6 +13635,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -13790,6 +13815,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "splitting-hares-by-lauren-rivers",
             "fraternity-by-domus-vocis",
             "coming-ott-by-geo-holms",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -14094,6 +14120,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -14243,6 +14270,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
@@ -14681,6 +14709,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
@@ -15375,6 +15404,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
@@ -15981,6 +16011,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
@@ -16062,6 +16093,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "splitting-hares-by-lauren-rivers",
             "expectations-by-pendoggo",
             "fraternity-by-domus-vocis",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -16613,6 +16645,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "splitting-hares-by-lauren-rivers",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "morning-of-by-madison-scott-clary",
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2",

@@ -358,6 +358,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f9767323-ae49-4203-abd3-8114c5d76b9b/The-Package-by-NightEyes-DaySpring.mp3",
+            "published_date": "2025-06-18T09:50:00.000Z",
+            "shownotes": "<p><em>Sometimes the things we miss the most in life are the little things, as Theo is about to find out\u2026</em></p><p>Today\u2019s story is \u201cThe Package\u201d by <a href=\"https://nighteyes-dayspring.com/\" rel=\"noopener noreferrer\" target=\"_blank\">NightEyes DaySpring</a>, a known troublemaker who is rumored to have a penchant for coffee and an interest in dead, ancient civilizations. Information about him and his writing can be found at <a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-package-by-nighteyes-dayspring",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "drama",
+                "contemporary",
+                "narrator:rob-macwolf",
+                "by:nighteyes-dayspring"
+            ],
+            "title": "\u201cThe Package\u201d by NightEyes DaySpring"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/192fe74d-1043-409a-9b4e-3b3575741390/Chase-the-Pride-by-D-J-Fahl-part-2-of-2.mp3",
             "published_date": "2025-06-17T09:50:00.000Z",
             "shownotes": "<p><em>Chase, a young red panda has met a literally colorful group of fellow travelers at first pride. But can he sort out these new feelings about one of them in particular?</em></p><p>\ufeffToday\u2019s story is the second and final part of \u201cChase the Pride\u201d by D.J. Fahl, American Southwest native and baking enthusiast and author of <a href=\"https://furplanet.com/shop/item.aspx?itemid=437\" rel=\"noopener noreferrer\" target=\"_blank\">Save the Day</a>, published by FurPlanet. Though he insisted we tell you instead to go find some Asian American furry authors, of which there are several, and give them more attention then his book.</p><p>Last time, Chase St. James had been considering going home early from his first Pride until he ran into Vic, a fellow Red Panda, who introduced him to a cadre of other red pandas from many walks of life with different colored stripes dyed on their tails. Just as Chase was settling into the warm afternoon with picnic food a stranger arrived and Chase is about to learn Pride is about Attitude as much as Orientation.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12948,6 +12965,7 @@
             "unpredictability-by-nenekiri-bookwyrm"
         ],
         "by:nighteyes-dayspring": [
+            "the-package-by-nighteyes-dayspring",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18binding-spirits-by-nighteyes-dayspring",
             "the-gods-in-between-by-nighteyes-dayspring",
@@ -13753,6 +13771,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "otter-ways-to-build-confidence-by-equine-essayist",
@@ -13936,6 +13955,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "splitting-hares-by-lauren-rivers",
             "fraternity-by-domus-vocis",
@@ -14835,6 +14855,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -15539,6 +15560,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "otter-ways-to-build-confidence-by-equine-essayist",
@@ -16152,6 +16174,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",

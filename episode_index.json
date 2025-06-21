@@ -358,6 +358,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d4890b05-2435-4464-886e-13a4049265ff/Proud-Lament-by-Rob-MacWolf.mp3",
+            "published_date": "2025-06-21T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cProud Lament\u201d a poem by <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>. You can get his book <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> winner of a C\u00f3yotl award, from <a href=\"https://www.bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a>, and you can find more of his books on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Itchio</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "proud-lament-by-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "poem",
+                "narrator:the-poet",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cProud Lament\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4614403d-3814-4d89-a469-1da721d5c8c7/18-Desire-s-Wings-by-Rykar-Thornpaw-part-2-of-2.mp3",
             "published_date": "2025-06-20T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>On an unassuming day, Rykar finds himself challenged by new desires awakened by going out to a leather bar with his friends. </em></p><p>Today\u2019s story is the second and final part of \u201cDesire\u2019s Wings\u201d by Rykar Thornpaw, he is a wheelchair-using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.&nbsp;</p><p>Last time, Rykar found out he enjoys leather, and now he\u2019s going to have to finally come to terms with his desires.&nbsp;</p><p>Read by Greyloch, your Northwoods Guide.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13110,6 +13126,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "proud-lament-by-rob-macwolf",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "love-against-aggravation-by-rob-macwolf",
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
@@ -14911,6 +14928,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "the-package-by-nighteyes-dayspring",
@@ -15871,6 +15889,9 @@
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
+        "narrator:the-poet": [
+            "proud-lament-by-rob-macwolf"
+        ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -16065,6 +16086,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "proud-lament-by-rob-macwolf",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "hope-by-russell-knight",
             "love-against-aggravation-by-rob-macwolf",
@@ -16236,6 +16258,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "the-package-by-nighteyes-dayspring",

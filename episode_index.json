@@ -358,6 +358,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ce11c742-db54-476f-ad4d-0741fce292a6/Reclamation-by-Timber-Donk.mp3",
+            "published_date": "2025-06-23T09:50:00.000Z",
+            "shownotes": "<p><em>When Theo and his friends break into his deceased grandfather\u2019s house, they only intend to retrieve his childhood belongings. Things get more complicated when they realize they are not alone in the house.</em></p><p>Today\u2019s story is \u201cReclamation\u201d by <a href=\"https://bsky.app/profile/timberdonk.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">TimberDonk</a>, and is dedicated to the rat who helped edit it. TimberDonk is a comic artist and author. His current comic, The Devil of Altar Lake, is currently running on his <a href=\"https://patreon.com/TimberDonk?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>. You can find more of his work on his <a href=\"https://bsky.app/profile/timberdonk.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky account</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "reclamation-by-timber-donk",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "spooky",
+                "drama",
+                "blood",
+                "narrator:ta-kom-ironhoof",
+                "by:timber-donk"
+            ],
+            "title": "\u201cReclamation\u201d by Timber Donk (read by Ta'kom)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d4890b05-2435-4464-886e-13a4049265ff/Proud-Lament-by-Rob-MacWolf.mp3",
             "published_date": "2025-06-21T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cProud Lament\u201d a poem by <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>. You can get his book <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">\"You Look Lost, Pup\"</a> winner of a C\u00f3yotl award, from <a href=\"https://www.bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a>, and you can find more of his books on <a href=\"https://werewolfhitchhiker.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Itchio</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12289,6 +12307,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-fawning-over-fear-by-kergiby",
@@ -13352,6 +13371,9 @@
         "by:tiberiusrings-fruitz": [
             "jumping-to-conclusions-by-tiberiusrings-fruitz"
         ],
+        "by:timber-donk": [
+            "reclamation-by-timber-donk"
+        ],
         "by:tj-minde": [
             "missed-feelings-by-tj-minde-18",
             "like-playing-a-volkswagen-by-tj-minde"
@@ -14026,6 +14048,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "reclamation-by-timber-donk",
             "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "splitting-hares-by-lauren-rivers",
@@ -14928,6 +14951,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
@@ -15851,6 +15875,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "reclamation-by-timber-donk",
             "fraternity-by-domus-vocis",
             "the-dog-man-of-the-forest-by-corran-orreaux",
             "ink-by-aetherwolf76",
@@ -16258,6 +16283,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
@@ -16733,6 +16759,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",
             "the-scratching-by-renard-avec-histoire",

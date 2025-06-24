@@ -358,6 +358,26 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/97fe1f5a-8319-41dd-9015-af43657b0723/18-Diagnosis-Code-Z7253-by-Nenekiri-Bookwyrm.mp3",
+            "published_date": "2025-06-24T09:50:00.000Z",
+            "shownotes": "<p>[18+] Today we present \u201cDiagnosis Code: Z7253,\u201d a poem by <a href=\"http://www.nenekiri.com\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a>, who makes games and writes stories. He has a short story collection that all feature dragons in some way titled \u201cTales of Scales\u201d from <a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a>. You can find more of his poems on his <a href=\"https://www.sofurry.com/browse/folder/stories?by=520851&amp;folder=66067\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry page</a>.</p><p>Read by the Poet.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "adult",
+                "pride-month",
+                "poem",
+                "nsfw",
+                "by:nenekiri-bookwyrm",
+                "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog"
+            ],
+            "title": "[18+] \u201cDiagnosis Code: Z7253\u201d by Nenekiri Bookwyrm (read by the poet)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ce11c742-db54-476f-ad4d-0741fce292a6/Reclamation-by-Timber-Donk.mp3",
             "published_date": "2025-06-23T09:50:00.000Z",
             "shownotes": "<p><em>When Theo and his friends break into his deceased grandfather\u2019s house, they only intend to retrieve his childhood belongings. Things get more complicated when they realize they are not alone in the house.</em></p><p>Today\u2019s story is \u201cReclamation\u201d by <a href=\"https://bsky.app/profile/timberdonk.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">TimberDonk</a>, and is dedicated to the rat who helped edit it. TimberDonk is a comic artist and author. His current comic, The Devil of Altar Lake, is currently running on his <a href=\"https://patreon.com/TimberDonk?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>. You can find more of his work on his <a href=\"https://bsky.app/profile/timberdonk.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky account</a>.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12134,6 +12154,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -13036,6 +13057,7 @@
             "the-first-shall-not-be-last-by-nalz"
         ],
         "by:nenekiri-bookwyrm": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "better-things-are-possible-by-nenekiri-bookwyrm",
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
@@ -13442,6 +13464,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
@@ -14951,6 +14974,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
@@ -15917,6 +15941,9 @@
         "narrator:the-poet": [
             "proud-lament-by-rob-macwolf"
         ],
+        "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
+        ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -15946,6 +15973,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -16111,6 +16139,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "proud-lament-by-rob-macwolf",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",
             "hope-by-russell-knight",
@@ -16283,6 +16312,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
@@ -16375,6 +16405,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",

@@ -358,6 +358,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/acf7aa6d-cace-4503-b68d-b00376305c53/Scooped-Up-by-Packwolf-Lupestripe.mp3",
+            "published_date": "2025-06-25T09:50:00.000Z",
+            "shownotes": "<p><em>Belittled by their boss working a dead-end beat, this newspaper reporter calls up a friend and finds a story worth telling.</em></p><p>Today\u2019s story is \u201cScooped Up\u201d by <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Packwolf Lupestripe</a>. This is one of 21 stories in the self-help furry short story collection <a href=\"https://workfurhirebook.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Work \"Fur\" Hire</a>, by Edwin@Work, this collection shares useful advice through short stories about animal people looking for work. In this book you will find a rich collection of genres, including slice-of-life, drama, comedy, light romance, horror, and dystopian. Each includes insights into the hiring practices of the United States and an activity to help reinforce what was discussed.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "scooped-up-by-packwolf-lupestripe",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "pride-month",
+                "contemporary",
+                "by:packwolf-lupestripe",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cScooped Up\u201d by Packwolf Lupestripe"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/97fe1f5a-8319-41dd-9015-af43657b0723/18-Diagnosis-Code-Z7253-by-Nenekiri-Bookwyrm.mp3",
             "published_date": "2025-06-24T09:50:00.000Z",
             "shownotes": "<p>[18+] Today we present \u201cDiagnosis Code: Z7253,\u201d a poem by <a href=\"http://www.nenekiri.com\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a>, who makes games and writes stories. He has a short story collection that all feature dragons in some way titled \u201cTales of Scales\u201d from <a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a>. You can find more of his poems on his <a href=\"https://www.sofurry.com/browse/folder/stories?by=520851&amp;folder=66067\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry page</a>.</p><p>Read by the Poet.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13088,6 +13106,7 @@
             "food-feuds-and-fake-flora-by-ocean-tigrox"
         ],
         "by:packwolf-lupestripe": [
+            "scooped-up-by-packwolf-lupestripe",
             "1725-by-packwolf-lupestripe",
             "the-year-of-the-dragon-by-packwolf-lupestripe"
         ],
@@ -13464,6 +13483,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
@@ -13885,6 +13905,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "scooped-up-by-packwolf-lupestripe",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "the-package-by-nighteyes-dayspring",
@@ -14974,6 +14995,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
@@ -15686,6 +15708,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "scooped-up-by-packwolf-lupestripe",
             "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
@@ -16312,6 +16335,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
             "proud-lament-by-rob-macwolf",
@@ -16405,6 +16429,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",

@@ -293,7 +293,7 @@
             "narrator:tempo",
             "narrator:the-author",
             "narrator:the-poet",
-            "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog",
+            "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
             "narrator:william-dingo",
             "narrator:yuugen",
             "narrator:yuugenshou",
@@ -327,6 +327,7 @@
         ],
         "uncategorized": [
             "alcohol",
+            "bi",
             "contemorary",
             "drama queerphobia",
             "human",
@@ -358,19 +359,41 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1b5746c0-08c9-40bd-b5c5-d5e98393bf6c/All-Of-The-Stars-In-The-Sky-by-Anhedral.mp3",
+            "published_date": "2025-06-26T09:50:00.000Z",
+            "shownotes": "<p><em>On the dry steppe of central Asia, an unlikely romance blossoms between a burly Grey Wolf army engineer and his Unit\u2019s twinkish Indian Wolf translator.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/49615974/\" rel=\"noopener noreferrer\" target=\"_blank\">All Of The Stars In The Sky</a>\u201d by <a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Anhedral</a>, a music teacher and writer whose works have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his stories at his <a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>.</p><p>Read by BandanaDog, Unorthodox Spacetime Drifter.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "all-of-the-stars-in-the-sky-by-anhedral",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "gay",
+                "queer",
+                "pride-month",
+                "romance",
+                "epic",
+                "military",
+                "blood",
+                "by:anhedral",
+                "narrator:bandanadog"
+            ],
+            "title": "\u201cAll Of The Stars In The Sky\u201d by Anhedral (read by BandanaDog)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/acf7aa6d-cace-4503-b68d-b00376305c53/Scooped-Up-by-Packwolf-Lupestripe.mp3",
             "published_date": "2025-06-25T09:50:00.000Z",
             "shownotes": "<p><em>Belittled by their boss working a dead-end beat, this newspaper reporter calls up a friend and finds a story worth telling.</em></p><p>Today\u2019s story is \u201cScooped Up\u201d by <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Packwolf Lupestripe</a>. This is one of 21 stories in the self-help furry short story collection <a href=\"https://workfurhirebook.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Work \"Fur\" Hire</a>, by Edwin@Work, this collection shares useful advice through short stories about animal people looking for work. In this book you will find a rich collection of genres, including slice-of-life, drama, comedy, light romance, horror, and dystopian. Each includes insights into the hiring practices of the United States and an activity to help reinforce what was discussed.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
             "slug": "scooped-up-by-packwolf-lupestripe",
             "summary": "",
             "tags": [
-                "check-tags",
                 "lgbtq+",
+                "non-binary",
                 "queer",
                 "pride-month",
                 "contemporary",
-                "by:packwolf-lupestripe",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:packwolf-lupestripe"
             ],
             "title": "\u201cScooped Up\u201d by Packwolf Lupestripe"
         },
@@ -382,15 +405,15 @@
             "slug": "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "summary": "",
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "queer",
+                "bi",
                 "adult",
                 "pride-month",
                 "poem",
                 "nsfw",
-                "by:nenekiri-bookwyrm",
-                "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog"
+                "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "by:nenekiri-bookwyrm"
             ],
             "title": "[18+] \u201cDiagnosis Code: Z7253\u201d by Nenekiri Bookwyrm (read by the poet)"
         },
@@ -11759,6 +11782,7 @@
         "alcohol": "Alcohol",
         "asexual": "Asexual",
         "autobiography": "Autobiography",
+        "bi": "Bi",
         "bisexual": "Bisexual",
         "blood": "Blood",
         "by:K.C.-Shaw": "Author: K.C. Shaw",
@@ -12045,7 +12069,7 @@
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
         "narrator:the-poet": "Narrator: The Poet",
-        "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog": "Narrator: The Poet. You can find more stories on the web at thevoice.dog",
+        "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": "Narrator: The Poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -12338,6 +12362,9 @@
         "autobiography": [
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson"
         ],
+        "bi": [
+            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
+        ],
         "bisexual": [
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2",
@@ -12346,6 +12373,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
@@ -12503,6 +12531,7 @@
             "of-a-hawk-and-a-lighthouse-by-amy-clare-fontaine"
         ],
         "by:anhedral": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
             "jaeger-by-anhedral-part-1-of-2-read-by-crimson-ruari",
             "abstinence-by-anhedral"
@@ -13483,8 +13512,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "scooped-up-by-packwolf-lupestripe",
-            "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
@@ -14351,6 +14379,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "the-scratching-by-renard-avec-histoire",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
             "18-brandy-and-fire-by-driftwood",
@@ -14552,6 +14581,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "splitting-hares-by-lauren-rivers",
@@ -14995,6 +15025,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
@@ -15179,6 +15210,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "machine-learning-by-kohitsugi",
             "i-remember-you-by-kohitsuji",
@@ -15275,6 +15307,7 @@
             "daydreaming-by-dirt-coyote-read-by-b-p-rugger"
         ],
         "narrator:bandanadog": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
@@ -15964,7 +15997,7 @@
         "narrator:the-poet": [
             "proud-lament-by-rob-macwolf"
         ],
-        "narrator:the-poet-you-can-find-more-stories-on-the-web-at-thevoice-dog": [
+        "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": [
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
         ],
         "narrator:william-dingo": [
@@ -15987,6 +16020,7 @@
             "rekindling-by-al-song-part-1-of-2"
         ],
         "non-binary": [
+            "scooped-up-by-packwolf-lupestripe",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke"
         ],
         "non-consensual": [
@@ -16335,6 +16369,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "reclamation-by-timber-donk",
@@ -16429,6 +16464,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
@@ -16546,6 +16582,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "all-of-the-stars-in-the-sky-by-anhedral",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",

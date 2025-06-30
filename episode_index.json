@@ -359,6 +359,29 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2a752525-6d15-48e7-98ae-1527a31689b8/Fireside-Meeting-at-the-Pride-Festival-by-Friends-of-the-Firepl.mp3",
+            "published_date": "2025-06-30T09:50:00.000Z",
+            "shownotes": "<p>Today\u2019s story is a collaborative piece with contributions by <a href=\"https://www.sofurry.com/view/2216402\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">Norm, the Inadequate Cat</a>, <a href=\"https://bsky.app/profile/skymckinnon.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Marshe Summers</a>, and <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>.</p><p>Read by Dralen, the Dapper Dragonfox, Rhubarb, Feathered Starfarer, Cross, a Composed Hyena, Icefang, in the Cozy Corner of the Cafe, and Rob MacWolf, Werewolf Hitchhiker.</p><p>This concludes, for this year, Pride Month. But Pride, like the fire around which we tell our stories, is inextinguishable. So please return, perhaps next week as we resume our regular schedule, for another story, another time. You can find more stories on the web at thevoice.dog, or find the show wherever you get your podcasts. Happy Pride, and Thank you, friends of every shape, ability, gender, and species, for listening to The Voice of Dog.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
+            "summary": "",
+            "tags": [
+                "lgbtq+",
+                "gay",
+                "queer",
+                "polyamory",
+                "pride-month",
+                "fireside-meeting",
+                "romance",
+                "drama",
+                "historical",
+                "queerphobia",
+                "narrator:cross",
+                "by:friends-of-the-fireplace"
+            ],
+            "title": "\u201cFireside Meeting at the Pride Festival\u201d by Friends of the Fireplace"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2d295d3f-4bb9-4b75-88ef-62a50241e4f8/18-Last-Night-at-the-Whip-and-Boot-by-Herr-Wozzeck-part-2-of-2.mp3",
             "published_date": "2025-06-28T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Derek and Frank have begun to ramp up their night. But bittersweetness sets in as reality slowly creeps back in\u2026</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://www.furaffinity.net/view/59200073/\" rel=\"noopener noreferrer\" target=\"_blank\">Last Night at the Whip and Boot</a>\u201d by <a href=\"https://bsky.app/profile/herrwozzeck.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Herr Wozzeck</a>, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novel <a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a>, as well as the poetry collection <a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>. They are also the author of the novel <a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a>, which this story is a stand-alone follow-up to. You can see them perform with Trio Menagerie, and you can find more of their stories on <a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></p><p>Last time, Derek and Frank had a rather intense flogging session in the middle of the club, and are ready to take on the rest of the night.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12843,6 +12866,7 @@
             "where-stories-are-told-by-khaki-and-friends"
         ],
         "by:friends-of-the-fireplace": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
@@ -14166,6 +14190,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "reclamation-by-timber-donk",
             "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
@@ -14620,6 +14645,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "fireside-meeting-at-the-rearguard-bivouac-by-friends-of-the-fireplace",
@@ -14627,6 +14653,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
@@ -14794,6 +14821,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -15073,6 +15101,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -15386,6 +15415,7 @@
             "galician-sled-by-crimson-ruari-part-1-of-2"
         ],
         "narrator:cross": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "your-family-and-mine-by-alex-t-dragonson",
             "18-solar-eclipse-saturday-october-tenth-a-poem-by-rob-macwolf"
         ],
@@ -16400,6 +16430,7 @@
             "secret-by-toledo"
         ],
         "polyamory": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari"
         ],
         "post-apocalyptic": [
@@ -16423,6 +16454,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -16520,6 +16552,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -16605,6 +16638,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -16638,6 +16672,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",

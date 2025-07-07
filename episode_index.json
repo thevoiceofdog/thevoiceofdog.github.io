@@ -360,6 +360,22 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cae43937-4cab-449f-9690-4c6c211add6f/Carcinographic-Classifieds-by-Chase-Anderson.mp3",
+            "published_date": "2025-07-07T09:50:00.000Z",
+            "shownotes": "<p><em>Across a tropical sea, the resident dragons have a unique way to keep in touch</em></p><p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today's story is being read before a live audience at Furlandia 2025.</p><p>That story is \u201c<a href=\"https://androidsanddragons.substack.com/p/carcinographic-classifieds\" rel=\"noopener noreferrer\" target=\"_blank\">Carcinographic Classifieds</a>\u201d by Chase Anderson, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first printed on \u201c<a href=\"https://androidsanddragons.substack.com/p/carcinographic-classifieds\" rel=\"noopener noreferrer\" target=\"_blank\">Androids and Dragons</a>,\u201d and you can find more of the author\u2019s stories on his website, <a href=\"https://www.chasej.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "carcinographic-classifieds-by-chase-anderson-live",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "thriller/suspense",
+                "fantasy",
+                "by:chase-anderson",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cCarcinographic Classifieds\u201d by Chase Anderson (Live)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2a752525-6d15-48e7-98ae-1527a31689b8/Fireside-Meeting-at-the-Pride-Festival-by-Friends-of-the-Firepl.mp3",
             "published_date": "2025-06-30T09:50:00.000Z",
             "shownotes": "<p>Today\u2019s story is a collaborative piece with contributions by <a href=\"https://www.sofurry.com/view/2216402\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, <a href=\"https://archiveofourown.org/users/Inadequate_Cat\" rel=\"noopener noreferrer\" target=\"_blank\">Norm, the Inadequate Cat</a>, <a href=\"https://bsky.app/profile/skymckinnon.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Marshe Summers</a>, and <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>.</p><p>Read by Dralen, the Dapper Dragonfox, Rhubarb, Feathered Starfarer, Cross, a Composed Hyena, Icefang, in the Cozy Corner of the Cafe, and Rob MacWolf, Werewolf Hitchhiker.</p><p>This concludes, for this year, Pride Month. But Pride, like the fire around which we tell our stories, is inextinguishable. So please return, perhaps next week as we resume our regular schedule, for another story, another time. You can find more stories on the web at thevoice.dog, or find the show wherever you get your podcasts. Happy Pride, and Thank you, friends of every shape, ability, gender, and species, for listening to The Voice of Dog.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12691,6 +12707,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "mother-by-chase-anderson",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "the-fox-and-the-unicorns-by-chase-anderson",
@@ -13582,6 +13599,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -14561,6 +14579,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
@@ -15823,6 +15842,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "scooped-up-by-packwolf-lupestripe",
             "the-package-by-nighteyes-dayspring",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
@@ -17099,6 +17119,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",

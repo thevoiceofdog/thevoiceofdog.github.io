@@ -258,6 +258,7 @@
         "narrator": [
             "narrator:",
             "narrator:altivo-overo",
+            "narrator:anhedral",
             "narrator:ardy-hart",
             "narrator:b-p-rugger",
             "narrator:bandanadog",
@@ -12114,6 +12115,7 @@
         "narrator": "Narrator",
         "narrator:": "Narrator:  ",
         "narrator:altivo-overo": "Narrator: Altivo Overo",
+        "narrator:anhedral": "Narrator: Anhedral",
         "narrator:ardy-hart": "Narrator: Ardy Hart",
         "narrator:b-p-rugger": "Narrator: B. P. Rugger",
         "narrator:bandanadog": "Narrator: BandanaDog",

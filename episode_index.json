@@ -333,6 +333,7 @@
             "contemorary",
             "drama queerphobia",
             "human",
+            "live",
             "magical-realism",
             "narrator",
             "non-binary",
@@ -367,11 +368,11 @@
             "slug": "carcinographic-classifieds-by-chase-anderson-live",
             "summary": "",
             "tags": [
-                "check-tags",
-                "thriller/suspense",
+                "live",
+                "humor",
                 "fantasy",
-                "by:chase-anderson",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:chase-anderson"
             ],
             "title": "\u201cCarcinographic Classifieds\u201d by Chase Anderson (Live)"
         },
@@ -12106,6 +12107,7 @@
         "lesbian": "Lesbian",
         "lgbtq+": "LGBTQ+",
         "literary": "Literary",
+        "live": "Live",
         "m/f": "M/F",
         "m/m": "M/M",
         "magical-realism": "Magical Realism",
@@ -13601,7 +13603,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "carcinographic-classifieds-by-chase-anderson-live",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -15037,6 +15038,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2",
             "18-squirrel-your-stuff-by-field-t-mouse",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -15264,6 +15266,9 @@
             "food-feuds-and-fake-flora-by-ocean-tigrox",
             "of-his-flesh-the-mystery-sing-by-b-p-rugger-18",
             "agent-friendzone-by-kyell-gold"
+        ],
+        "live": [
+            "carcinographic-classifieds-by-chase-anderson-live"
         ],
         "m/m": [
             "18-a-stop-for-recaulking-by-rob-macwolf-part-2-of-2",
@@ -17121,7 +17126,6 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
-            "carcinographic-classifieds-by-chase-anderson-live",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",

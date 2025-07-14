@@ -362,6 +362,21 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/05c1cef1-a38a-43c2-9bad-6e9bccc90a38/Awakening-a-poem-by-Aetherwolf76.mp3",
+            "published_date": "2025-07-14T09:50:00.000Z",
+            "shownotes": "<p>Today we present a poem by <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Aetherwolf76</a>, who is a writer, crafter, mechanic and author of <a href=\"http://www.amazon.com/Beneath-Silver-Moon-Wayne-Benninger/dp/150765359X/ref=sr_1_5\" rel=\"noopener noreferrer\" target=\"_blank\">Beneath A Silver Moon</a>, and you can find more of his poems on <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Deviantart</a>.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "awakening-by-aetherwolf76",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "poem",
+                "by:aetherwolf76",
+                "narrator:cider"
+            ],
+            "title": "\u201cAwakening\u201d by Aetherwolf76 (read by Cider)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cae43937-4cab-449f-9690-4c6c211add6f/Carcinographic-Classifieds-by-Chase-Anderson.mp3",
             "published_date": "2025-07-07T09:50:00.000Z",
             "shownotes": "<p><em>Across a tropical sea, the resident dragons have a unique way to keep in touch</em></p><p>You\u2019re listening to The Voice of Dog.&nbsp; This is Rob MacWolf, your fellow traveler, and Today's story is being read before a live audience at Furlandia 2025.</p><p>That story is \u201c<a href=\"https://androidsanddragons.substack.com/p/carcinographic-classifieds\" rel=\"noopener noreferrer\" target=\"_blank\">Carcinographic Classifieds</a>\u201d by Chase Anderson, a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first printed on \u201c<a href=\"https://androidsanddragons.substack.com/p/carcinographic-classifieds\" rel=\"noopener noreferrer\" target=\"_blank\">Androids and Dragons</a>,\u201d and you can find more of the author\u2019s stories on his website, <a href=\"https://www.chasej.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">chase.xyz</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12560,6 +12575,7 @@
             "firekeepers-by-aether-breeze"
         ],
         "by:aetherwolf76": [
+            "awakening-by-aetherwolf76",
             "ink-by-aetherwolf76"
         ],
         "by:akronia": [
@@ -13603,6 +13619,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "awakening-by-aetherwolf76",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -15425,6 +15442,9 @@
             "anarchy-by-vixyy-fox-read-by-carrizo",
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
+        "narrator:cider": [
+            "awakening-by-aetherwolf76"
+        ],
         "narrator:crimson-ruari": [
             "king-of-pentacles-takes-knave-of-diamonds-by-rob-macwolf",
             "marian-a-rescue-from-latin-by-tempe-okun-part-2-of-2-read-by-crimson-ruari",
@@ -16309,6 +16329,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "awakening-by-aetherwolf76",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "proud-lament-by-rob-macwolf",
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke",

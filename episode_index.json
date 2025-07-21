@@ -363,6 +363,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e5ac0936-dc9e-4522-a724-14dea1b42fa6/18-Unchained-by-Anhedral.mp3",
+            "published_date": "2025-07-21T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Five percent of teenage humans have abruptly started turning into werewolves, and Canadian society is struggling to contort itself around the new reality. Facing prejudice and fear, a mixed-species gay couple commit to continuing their relationship </em>\u2013<em> whatever the cost.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/52636960/\" rel=\"noopener noreferrer\" target=\"_blank\">Unchained</a>\u201d by <a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Anhedral</a>, a music teacher and writer whose works have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his stories at his <a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>Read by the Author. </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-unchained-by-anhedral",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "spooky",
+                "contemporary",
+                "nsfw",
+                "queerphobia",
+                "by:anhedral",
+                "narrator:anhedral"
+            ],
+            "title": "[18+] \u201cUnchained\u201d by Anhedral"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/05c1cef1-a38a-43c2-9bad-6e9bccc90a38/Awakening-a-poem-by-Aetherwolf76.mp3",
             "published_date": "2025-07-14T09:50:00.000Z",
             "shownotes": "<p>Today we present a poem by <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Aetherwolf76</a>, who is a writer, crafter, mechanic and author of <a href=\"http://www.amazon.com/Beneath-Silver-Moon-Wayne-Benninger/dp/150765359X/ref=sr_1_5\" rel=\"noopener noreferrer\" target=\"_blank\">Beneath A Silver Moon</a>, and you can find more of his poems on <a href=\"https://www.deviantart.com/aetherwolf76\" rel=\"noopener noreferrer\" target=\"_blank\">Deviantart</a>.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12636,6 +12654,7 @@
             "of-a-hawk-and-a-lighthouse-by-amy-clare-fontaine"
         ],
         "by:anhedral": [
+            "18-unchained-by-anhedral",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
             "jaeger-by-anhedral-part-1-of-2-read-by-crimson-ruari",
@@ -13621,6 +13640,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-unchained-by-anhedral",
             "awakening-by-aetherwolf76",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -14045,6 +14065,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-unchained-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2",
@@ -15414,6 +15435,9 @@
         "narrator:altivo-overo": [
             "beyond-mundane-horizons-by-altivo-overo"
         ],
+        "narrator:anhedral": [
+            "18-unchained-by-anhedral"
+        ],
         "narrator:ardy-hart": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "dark-garden-lake-by-kayode-lycaon-part-2-of-2",
@@ -16163,6 +16187,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-unchained-by-anhedral",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -16690,6 +16715,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "18-unchained-by-anhedral",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fraternity-by-domus-vocis",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
@@ -16997,6 +17023,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-unchained-by-anhedral",
             "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",

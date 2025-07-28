@@ -363,6 +363,24 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3c539f0a-6461-4dec-a880-fcfd53c8339b/Dicking-Around-by-Dirt-Coyote.mp3",
+            "published_date": "2025-07-28T09:50:00.000Z",
+            "shownotes": "<p><em>Garret and Barry should be manning the pizza restaurant they work at, but they can\u2019t go five minutes without getting lost in pirates, spies, medieval wars, and space adventures.</em></p><p>\ufeffToday\u2019s story is \u201cDicking Around\u201d by <a href=\"https://x.com/DirtCoyote/status/1808272771694449073\" rel=\"noopener noreferrer\" target=\"_blank\">Dirt Coyote</a>, whom it\u2019ll take more than that to stop. You can find updates on his furaffinity and sofurry accounts.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "dicking-around-by-dirt-coyote",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "humor",
+                "epic",
+                "political/espionage",
+                "blood",
+                "by:dirt-coyote",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cDicking Around\u201d by Dirt Coyote"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e5ac0936-dc9e-4522-a724-14dea1b42fa6/18-Unchained-by-Anhedral.mp3",
             "published_date": "2025-07-21T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Five percent of teenage humans have abruptly started turning into werewolves, and Canadian society is struggling to contort itself around the new reality. Facing prejudice and fear, a mixed-species gay couple commit to continuing their relationship </em>\u2013<em> whatever the cost.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/52636960/\" rel=\"noopener noreferrer\" target=\"_blank\">Unchained</a>\u201d by <a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Anhedral</a>, a music teacher and writer whose works have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his stories at his <a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>Read by the Author. </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12495,6 +12513,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
@@ -12805,6 +12824,7 @@
             "mischief-makers-by-dire"
         ],
         "by:dirt-coyote": [
+            "dicking-around-by-dirt-coyote",
             "the-hole-inside-by-dirt-coyote",
             "taco-tuesday-by-dirt-coyote",
             "monsters-of-the-daylight-by-dirt-coyote-part-2-of-2",
@@ -13640,6 +13660,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
             "awakening-by-aetherwolf76",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -14513,6 +14534,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "the-scratching-by-renard-avec-histoire",
             "18-zekes-blue-hole-by-televassi-part-1-of-2",
@@ -15078,6 +15100,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "dicking-around-by-dirt-coyote",
             "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2",
             "18-squirrel-your-stuff-by-field-t-mouse",
@@ -15895,6 +15918,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "dicking-around-by-dirt-coyote",
             "carcinographic-classifieds-by-chase-anderson-live",
             "scooped-up-by-packwolf-lupestripe",
             "the-package-by-nighteyes-dayspring",
@@ -16474,6 +16498,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "dicking-around-by-dirt-coyote",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-1-of-2",

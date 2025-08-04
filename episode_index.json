@@ -366,6 +366,25 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/27c4eddf-b196-4500-8be0-006b1ea864ff/Fireside-Meeting-at-the-Cumuliform-Arches-by-Friends-of-the-Fir.mp3",
+            "published_date": "2025-08-04T09:50:00.000Z",
+            "shownotes": "<p>Today\u2019s story is a collaborative piece with contributions by Partvoid, who still doesn\u2019t know what to say about themselves, <a href=\"https://www.furaffinity.net/user/picoplume\" rel=\"noopener noreferrer\" target=\"_blank\">Pico</a>, who hopes to write much more over the coming months, and whose upcoming stories can be found on <a href=\"https://www.furaffinity.net/user/picoplume\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, and <a href=\"https://packmates.org/@jshawthorne\" rel=\"noopener noreferrer\" target=\"_blank\">J.S. Hawthorne</a>, who can be found in \u201cThe Heavens Within Our Grasp\u201d and other works from the <a href=\"https://fhfs.ink/\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a>.</p><p>Read by Rob MacWolf, Werewolf Hitchhiker, BP Rugger, the Ineffable Moo-Moon, and Yuugenshou, Wolf of Wanderlust.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "fireside-meeting",
+                "spooky",
+                "drama",
+                "historical",
+                "blood",
+                "by:friends-of-the-fireplace",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cFireside Meeting at the Cumuliform Arches\u201d by Friends of the Fireplace"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3c539f0a-6461-4dec-a880-fcfd53c8339b/Dicking-Around-by-Dirt-Coyote.mp3",
             "published_date": "2025-07-28T09:50:00.000Z",
             "shownotes": "<p><em>Garret and Barry should be manning the pizza restaurant they work at, but they can\u2019t go five minutes without getting lost in pirates, spies, medieval wars, and space adventures.</em></p><p>\ufeffToday\u2019s story is \u201cDicking Around\u201d by <a href=\"https://x.com/DirtCoyote/status/1808272771694449073\" rel=\"noopener noreferrer\" target=\"_blank\">Dirt Coyote</a>, whom it\u2019ll take more than that to stop. You can find updates on his furaffinity and sofurry accounts.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12519,6 +12538,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "reclamation-by-timber-donk",
@@ -12952,6 +12972,7 @@
             "where-stories-are-told-by-khaki-and-friends"
         ],
         "by:friends-of-the-fireplace": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -13666,6 +13687,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
             "awakening-by-aetherwolf76",
@@ -14280,6 +14302,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "reclamation-by-timber-donk",
             "the-package-by-nighteyes-dayspring",
@@ -14737,6 +14760,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -14913,6 +14937,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -15924,6 +15949,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "carcinographic-classifieds-by-chase-anderson-live",
             "scooped-up-by-packwolf-lupestripe",
@@ -17054,6 +17080,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "18-unchained-by-anhedral",
             "reclamation-by-timber-donk",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",

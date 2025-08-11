@@ -366,6 +366,23 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4659e297-c23e-4f69-9fdb-686e1acfb1eb/An-Atomic-Fairy-Tale-by-Chase-Anderson.mp3",
+            "published_date": "2025-08-11T09:50:00.000Z",
+            "shownotes": "<p><em>A mother tells her daughter the tale of Urania, the biggest, greediest dragon that had ever lived, and the tiny thing that was her downfall.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.loreleisignal.com/an-atomic-fairy-tale\" rel=\"noopener noreferrer\" target=\"_blank\">An Atomic Fairy Tale</a>\u201d by <a href=\"https://www.chasej.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, who is a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first printed in \u201c<a href=\"https://www.loreleisignal.com/an-atomic-fairy-tale\" rel=\"noopener noreferrer\" target=\"_blank\">The Lorelei Signal</a>,\u201d and you can find more of the author\u2019s stories on his website, chasej.xyz.</p><p>Read by Apollo Brightflank, who still returns to the prairie.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "an-atomic-fairy-tale-by-chase-anderson",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "legend",
+                "action/adventure",
+                "fantasy",
+                "by:chase-anderson",
+                "narrator:apollo-brightflank"
+            ],
+            "title": "\u201cAn Atomic Fairy Tale\u201d by Chase Anderson (read by Apollo Brightflank)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/27c4eddf-b196-4500-8be0-006b1ea864ff/Fireside-Meeting-at-the-Cumuliform-Arches-by-Friends-of-the-Fir.mp3",
             "published_date": "2025-08-04T09:50:00.000Z",
             "shownotes": "<p>Today\u2019s story is a collaborative piece with contributions by Partvoid, who still doesn\u2019t know what to say about themselves, <a href=\"https://www.furaffinity.net/user/picoplume\" rel=\"noopener noreferrer\" target=\"_blank\">Pico</a>, who hopes to write much more over the coming months, and whose upcoming stories can be found on <a href=\"https://www.furaffinity.net/user/picoplume\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>, and <a href=\"https://packmates.org/@jshawthorne\" rel=\"noopener noreferrer\" target=\"_blank\">J.S. Hawthorne</a>, who can be found in \u201cThe Heavens Within Our Grasp\u201d and other works from the <a href=\"https://fhfs.ink/\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a>.</p><p>Read by Rob MacWolf, Werewolf Hitchhiker, BP Rugger, the Ineffable Moo-Moon, and Yuugenshou, Wolf of Wanderlust.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12278,6 +12295,7 @@
     },
     "tags": {
         "action/adventure": [
+            "an-atomic-fairy-tale-by-chase-anderson",
             "18-ishkode-dreaming-by-kohitsuji",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -12793,6 +12811,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
+            "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
             "mother-by-chase-anderson",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
@@ -13687,6 +13706,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "an-atomic-fairy-tale-by-chase-anderson",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -14673,6 +14693,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2",
@@ -15181,6 +15202,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "an-atomic-fairy-tale-by-chase-anderson",
             "18-ishkode-dreaming-by-kohitsuji",
             "unspoken-by-arian-mabe",
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2",
@@ -15491,6 +15513,9 @@
         ],
         "narrator:anhedral": [
             "18-unchained-by-anhedral"
+        ],
+        "narrator:apollo-brightflank": [
+            "an-atomic-fairy-tale-by-chase-anderson"
         ],
         "narrator:ardy-hart": [
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",

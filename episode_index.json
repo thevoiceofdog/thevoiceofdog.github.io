@@ -366,6 +366,26 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/82537928-269c-4639-ae1a-2c7395ab0c5f/18-Icarus-Dreams-a-Glass-Heart-and-Slippers-to-Take-Me-Home-by-.mp3",
+            "published_date": "2025-08-18T09:50:00.000Z",
+            "shownotes": "<p>[18+] An exotic dancer comes to an epiphany regarding his lost boyfriend and his own loneliness.</p><p>Today\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/2668564/\" rel=\"noopener noreferrer\" target=\"_blank\">Icarus Dreams, a Glass Heart, and Slippers to Take Me Home</a>\u201d by Andrew \u201cAethan\u201d French, who wrote the comic Circles and writes the weekly comic strip The Pigpen. You can find more of his stories on <a href=\"https://www.furaffinity.net/user/aethan/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "gay",
+                "queer",
+                "romance",
+                "drama",
+                "fantasy",
+                "by:andrew-french",
+                "narrator:andrew-french"
+            ],
+            "title": "[18+] \u201cIcarus Dreams, a Glass Heart, and Slippers to Take Me Home\u201d by Andrew French (read by the Author)"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4659e297-c23e-4f69-9fdb-686e1acfb1eb/An-Atomic-Fairy-Tale-by-Chase-Anderson.mp3",
             "published_date": "2025-08-11T09:50:00.000Z",
             "shownotes": "<p><em>A mother tells her daughter the tale of Urania, the biggest, greediest dragon that had ever lived, and the tiny thing that was her downfall.</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.loreleisignal.com/an-atomic-fairy-tale\" rel=\"noopener noreferrer\" target=\"_blank\">An Atomic Fairy Tale</a>\u201d by <a href=\"https://www.chasej.xyz/\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a>, who is a speculative fiction writer, spreadsheet wrangler, and internet bird. This story was first printed in \u201c<a href=\"https://www.loreleisignal.com/an-atomic-fairy-tale\" rel=\"noopener noreferrer\" target=\"_blank\">The Lorelei Signal</a>,\u201d and you can find more of the author\u2019s stories on his website, chasej.xyz.</p><p>Read by Apollo Brightflank, who still returns to the prairie.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12716,6 +12736,9 @@
         "by:amy-clare-fontaine": [
             "of-a-hawk-and-a-lighthouse-by-amy-clare-fontaine"
         ],
+        "by:andrew-french": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french"
+        ],
         "by:anhedral": [
             "18-unchained-by-anhedral",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -13706,6 +13729,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
@@ -14322,6 +14346,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "reclamation-by-timber-donk",
@@ -14693,6 +14718,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -14790,6 +14816,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
@@ -15242,6 +15269,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -15510,6 +15538,9 @@
         ],
         "narrator:altivo-overo": [
             "beyond-mundane-horizons-by-altivo-overo"
+        ],
+        "narrator:andrew-french": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french"
         ],
         "narrator:anhedral": [
             "18-unchained-by-anhedral"
@@ -16711,6 +16742,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
@@ -16832,6 +16864,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",

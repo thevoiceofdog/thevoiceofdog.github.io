@@ -368,6 +368,27 @@
     "episodes": [
         {
             "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/31964d33-8792-4479-b115-944954cd7e26/Winterfall-Empty-Places-by-Lauren-Rivers.mp3",
+            "published_date": "2025-09-01T09:50:00.000Z",
+            "shownotes": "<p><em>When Joe\u2019s father dies, he must face the world without him.&nbsp; But he soon discovers that strength comes from many places.</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/61400365/\" rel=\"noopener noreferrer\" target=\"_blank\">Winterfall: Empty Places</a>\u201d by <a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a>, <a href=\"https://www.amazon.com/Blue-Moon-Lauren-Rivers/dp/0999617001/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1637796814&amp;sr=8-1\" rel=\"noopener noreferrer\" target=\"_blank\">Author of Blue Moon</a> by Iridescence Studios, and you can find more of her stories on <a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "winterfall-empty-places-by-lauren-rivers",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "adult",
+                "family-saga",
+                "drama",
+                "historical",
+                "violence",
+                "blood",
+                "nsfw",
+                "by:lauren-rivers",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cWinterfall: Empty Places\u201d by Lauren Rivers"
+        },
+        {
+            "episode_art": "",
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d507cf48-8ecb-48af-9bc9-e80dbed50216/Dear-Rabbit-by-Str8aura.mp3",
             "published_date": "2025-08-25T09:50:00.000Z",
             "shownotes": "<p><em>A young woman who has decided to forgo humanity entirely must defend the decision to her father.</em></p><p>Today's story contains mention of Suicidal Ideation. Listener Discretion is advised.</p><p>\ufeffToday\u2019s story is \u201cDear Rabbit\u201d by <a href=\"https://www.tumblr.com/blog/str8aura-no-not-that-one\" rel=\"noopener noreferrer\" target=\"_blank\">Str8aura</a>, who draws on the side and very much prefers depicting animal subjects over humans, especially if they talk. She would like you to know she is NOT the Str8aura who draws Pokemon, that was an unfortunate coincidence. You can find more of her stories on <a href=\"https://archiveofourown.org/users/Str8aura/works\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a> and <a href=\"https://www.furaffinity.net/gallery/str8aurayesthatone/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12417,6 +12438,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "winterfall-empty-places-by-lauren-rivers",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -12596,6 +12618,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "winterfall-empty-places-by-lauren-rivers",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -13252,6 +13275,7 @@
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms"
         ],
         "by:lauren-rivers": [
+            "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "winterfall-beyond-the-white-by-lauren-rivers",
             "winterfall-the-dark-mile-by-lauren-rivers-part-2-of-2",
@@ -13752,6 +13776,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
@@ -14370,6 +14395,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "winterfall-empty-places-by-lauren-rivers",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
@@ -14683,6 +14709,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
             "solstice-gifts-by-royce-day",
@@ -15009,6 +15036,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
@@ -16030,6 +16058,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
@@ -16325,6 +16354,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "winterfall-empty-places-by-lauren-rivers",
             "18-unchained-by-anhedral",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -17377,6 +17407,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "winterfall-empty-places-by-lauren-rivers",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "18-of-friends-and-foes-by-solomon-harries",

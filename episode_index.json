@@ -161,6 +161,7 @@
             "by:russell-knight",
             "by:ryan-campbell",
             "by:rykar-thornpaw",
+            "by:ryker-thornpaw",
             "by:sakarafox",
             "by:scribbles-monhagen",
             "by:sean-duroc-silva",
@@ -375,15 +376,12 @@
             "slug": "the-forest",
             "summary": "",
             "tags": [
-                "check-tags",
                 "adult",
-                "ghost-of-dog",
-                "family-saga",
+                "fantasy",
                 "action/adventure",
-                "stone-age",
                 "nsfw",
-                "by:bandanadog",
-                "narrator:rob-macwolf"
+                "narrator:bandanadog",
+                "by:bandanadog"
             ],
             "title": "[18+] \u201cThe Forest\u201d (read by BandanaDog)"
         },
@@ -12198,6 +12196,7 @@
         "by:russell-knight": "Author: Russell Knight",
         "by:ryan-campbell": "Author: Ryan Campbell",
         "by:rykar-thornpaw": "Author: Rykar Thornpaw",
+        "by:ryker-thornpaw": "Author: Ryker Thornpaw",
         "by:sakarafox": "Author: SakaraFox",
         "by:scribbles-monhagen": "Author: Scribbles Monhagen",
         "by:sean-duroc-silva": "Author: Sean Duroc Silva",
@@ -13803,7 +13802,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -14737,7 +14735,6 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
-            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
@@ -14798,6 +14795,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-forest",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
@@ -14961,7 +14959,6 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
-            "the-forest",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -15650,6 +15647,7 @@
             "daydreaming-by-dirt-coyote-read-by-b-p-rugger"
         ],
         "narrator:bandanadog": [
+            "the-forest",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
@@ -16088,7 +16086,6 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
-            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -17349,7 +17346,6 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "stone-age": [
-            "the-forest",
             "rites-of-wood-and-bone-by-utunu",
             "reflections-by-sakarafox-rob-macwolf",
             "18-my-initiation-to-the-wolf-way-by-tannihn",

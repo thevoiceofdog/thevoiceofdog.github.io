@@ -369,6 +369,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/55d28ad0-d264-4554-907e-b0ee35c4720c/18-The-Forest-by-Rykar-Thornpaw.mp3",
+            "published_date": "2025-09-08T09:50:00.000Z",
+            "shownotes": "<p>[18+]<em> A young human named Asa stumbles upon a secret: Wolfhead Trail is home to a real werewolf. Little does he know, Lyros is waiting for a mate.</em></p><p>Today\u2019s story is \u201cThe Forest\u201d by Rykar Thornpaw, a wheel-chair using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.</p><p>Read by BandanaDog, Unorthodox Spacetime Drifter.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-forest",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "adult",
+                "ghost-of-dog",
+                "family-saga",
+                "action/adventure",
+                "stone-age",
+                "nsfw",
+                "by:bandanadog",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cThe Forest\u201d (read by BandanaDog)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b0dc6949-b673-4474-b9e3-4beff453cd12/Winterfall-Empty-Places-by-Lauren-Rivers.mp3",
             "published_date": "2025-09-01T09:50:00.000Z",
             "shownotes": "<p><em>When Joe\u2019s father dies, he must face the world without him.&nbsp; But he soon discovers that strength comes from many places.</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/61400365/\" rel=\"noopener noreferrer\" target=\"_blank\">Winterfall: Empty Places</a>\u201d by <a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a>, <a href=\"https://www.amazon.com/Blue-Moon-Lauren-Rivers/dp/0999617001/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1637796814&amp;sr=8-1\" rel=\"noopener noreferrer\" target=\"_blank\">Author of Blue Moon</a> by Iridescence Studios, and you can find more of her stories on <a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12358,6 +12378,7 @@
     },
     "tags": {
         "action/adventure": [
+            "the-forest",
             "an-atomic-fairy-tale-by-chase-anderson",
             "18-ishkode-dreaming-by-kohitsuji",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
@@ -12440,6 +12461,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -12818,6 +12840,9 @@
             "satan-dearie-by-b-p-rugger-18",
             "colour-me-terrified-by-b-p-rugger-18",
             "of-his-flesh-the-mystery-sing-by-b-p-rugger-18"
+        ],
+        "by:bandanadog": [
+            "the-forest"
         ],
         "by:bartan-tirix": [
             "all-for-you-4-by-bartan-tirix-18"
@@ -13778,6 +13803,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -14711,6 +14737,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
@@ -14934,6 +14961,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-forest",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -16060,6 +16088,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -16356,6 +16385,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "18-unchained-by-anhedral",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -17319,6 +17349,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "stone-age": [
+            "the-forest",
             "rites-of-wood-and-bone-by-utunu",
             "reflections-by-sakarafox-rob-macwolf",
             "18-my-initiation-to-the-wolf-way-by-tannihn",

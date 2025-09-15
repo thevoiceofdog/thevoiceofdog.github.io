@@ -370,6 +370,24 @@
     },
     "episodes": [
         {
+            "episode_art": "",
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/648958dd-0fc9-454b-aca7-efd0674c081b/Awake-by-Jim-Redfoot-part-1-of-2.mp3",
+            "published_date": "2025-09-15T09:50:00.000Z",
+            "shownotes": "<p><em>Wyatt is a reluctant modern-day werewolf, whose struggle with his beastly nature and keeping his identity secret are beginning to cause physical illness. </em></p><p>\ufeffToday\u2019s story is the first of two parts of \u201c<a href=\"https://www.furaffinity.net/view/59966457/\" rel=\"noopener noreferrer\" target=\"_blank\">Awake</a>\u201d by<a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> Jim Redfoot</a>, who is an engineer, novice author and aspiring werewolf that loves to read and write. You can find this story in<a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\"> WEREWOLVES VERSUS: EVERYTHING</a>, and you can find more of Jim and his other work on<a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\"> Bluesky</a> and<a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "awake-by-jim-redfoot-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "romance",
+                "drama",
+                "historical",
+                "blood",
+                "by:jim-redfoot",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cAwake\u201d by Jim Redfoot (part 1 of 2)"
+        },
+        {
             "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/55d28ad0-d264-4554-907e-b0ee35c4720c/18-The-Forest-by-Rykar-Thornpaw.mp3",
             "published_date": "2025-09-08T09:50:00.000Z",
@@ -12643,6 +12661,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
@@ -13206,6 +13225,9 @@
         ],
         "by:jesse-hawke": [
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke"
+        ],
+        "by:jim-redfoot": [
+            "awake-by-jim-redfoot-part-1-of-2"
         ],
         "by:joaquin-baldwin": [
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
@@ -13804,6 +13826,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -14423,6 +14446,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -15065,6 +15089,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -16088,6 +16113,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -16951,6 +16977,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "awake-by-jim-redfoot-part-1-of-2",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",

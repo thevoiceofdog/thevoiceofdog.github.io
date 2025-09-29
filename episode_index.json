@@ -374,6 +374,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/794a3b5a-7b3c-49bb-b403-4af14187a382/A-Shadow-Over-the-Desert-by-Rebecca-Cascane.mp3",
+            "published_date": "2025-09-29T09:50:00.000Z",
+            "shownotes": "<p><em>A rabbit explorer finds himself at the mercy of a towering goddess that hides in the shadows. But not all is what it seems\u2026</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/53087697/\" rel=\"noopener noreferrer\" target=\"_blank\">A Shadow Over the Desert</a>\u201d by <a href=\"https://www.furaffinity.net/user/beckycascane/\" rel=\"noopener noreferrer\" target=\"_blank\">Rebecca Cascane</a>, who enjoys writing stories about characters that are larger than life. She is the author of <a href=\"https://vulpesmaximus.itch.io/under-a-violet-sky\" rel=\"noopener noreferrer\" target=\"_blank\">Under A Violet Sky</a>, and you can find more of her stories on <a href=\"https://www.patreon.com/vulpesmaximus\" rel=\"noopener noreferrer\" target=\"_blank\">her Patreon</a>. You can also find more of her work on <a href=\"https://www.furaffinity.net/user/beckycascane/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "a-shadow-over-the-desert-by-rebecca-cascane",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "humor",
+                "historical",
+                "by:rebecca-cascane",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cA Shadow Over the Desert\u201d by Rebecca Cascane"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d803bd49-5217-4201-8d23-c20045e3c7a0/Awake-by-Jim-Redfoot-part-2-of-2.mp3",
             "published_date": "2025-09-22T09:50:00.000Z",
             "shownotes": "<p><em>Wyatt is a reluctant modern-day werewolf, whose struggle with his beastly nature and keeping his identity secret are beginning to cause physical illness.</em></p><p>\ufeffToday\u2019s story is the second and final part of \u201c<a href=\"https://www.furaffinity.net/view/59966457/\" rel=\"noopener noreferrer\" target=\"_blank\">Awake</a>\u201d by<a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> Jim Redfoot</a>, who is an engineer, novice author and aspiring werewolf that loves to read and write. You can find this story in<a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\"> WEREWOLVES VERSUS: EVERYTHING</a>, and you can find more of Jim and his other work on<a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\"> Bluesky</a> and<a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> Furaffinity</a>.</p><p>Last time, we left Wyatt as sunset was approaching, confronted by an unexpected stranger in the wilderness. Time is running short, and Brick seems to know more about the hiker\u2019s death than he is letting on.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13525,6 +13542,9 @@
         "by:raynarde": [
             "i-was-there-by-raynarde"
         ],
+        "by:rebecca-cascane": [
+            "a-shadow-over-the-desert-by-rebecca-cascane"
+        ],
         "by:reid-minnich": [
             "teatime-on-the-titanic-by-reid-minnich-read-by-william-dingo",
             "hostage-by-reid-minnich",
@@ -13853,6 +13873,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
@@ -15014,6 +15035,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "a-shadow-over-the-desert-by-rebecca-cascane",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -15118,6 +15140,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
@@ -15315,6 +15338,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "a-shadow-over-the-desert-by-rebecca-cascane",
             "dicking-around-by-dirt-coyote",
             "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2",
@@ -16142,6 +16166,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",

@@ -374,6 +374,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ad7559ec-d3cb-431b-a148-cf5a11d56181/18-Firsts-by-TJ-Minde-part-1-of-2.mp3",
+            "published_date": "2025-10-01T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>When sheltered Anthony tells Jude he\u2019s never celebrated Halloween, the outgoing dhole makes it his mission to run Anthony through seasonal events.</em></p><p>Welcome back to The Ghost of Dog on the Voice of Dog.&nbsp;</p><p>Tonight\u2019s story is the first of two parts of \u201cFirsts\u201d by <a href=\"https://bsky.app/profile/did:plc:xry5e2qtnqlhlrldns3hl2dk\" rel=\"noopener noreferrer\" target=\"_blank\">TJ Minde</a>, whose story first appeared in <a href=\"https://furplanet.com/shop/item.aspx?itemid=1051\" rel=\"noopener noreferrer\" target=\"_blank\">Fang 9</a>, published by FurPlanet. Most recently, he was the lead editor for <a href=\"https://furplanet.com/shop/item.aspx?itemid=1301\" rel=\"noopener noreferrer\" target=\"_blank\">Altered States: Draconic Desires</a> also published by FurPlanet. He is also currently working on his first novel.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-firsts-by-tj-minde-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "family-saga",
+                "drama",
+                "fantasy",
+                "by:tj-minde",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "[18+] \u201cFirsts\u201d by TJ Minde (read by Ta'kom, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/794a3b5a-7b3c-49bb-b403-4af14187a382/A-Shadow-Over-the-Desert-by-Rebecca-Cascane.mp3",
             "published_date": "2025-09-29T09:50:00.000Z",
             "shownotes": "<p><em>A rabbit explorer finds himself at the mercy of a towering goddess that hides in the shadows. But not all is what it seems\u2026</em></p><p>\ufeffToday\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/53087697/\" rel=\"noopener noreferrer\" target=\"_blank\">A Shadow Over the Desert</a>\u201d by <a href=\"https://www.furaffinity.net/user/beckycascane/\" rel=\"noopener noreferrer\" target=\"_blank\">Rebecca Cascane</a>, who enjoys writing stories about characters that are larger than life. She is the author of <a href=\"https://vulpesmaximus.itch.io/under-a-violet-sky\" rel=\"noopener noreferrer\" target=\"_blank\">Under A Violet Sky</a>, and you can find more of her stories on <a href=\"https://www.patreon.com/vulpesmaximus\" rel=\"noopener noreferrer\" target=\"_blank\">her Patreon</a>. You can also find more of her work on <a href=\"https://www.furaffinity.net/user/beckycascane/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13806,6 +13824,7 @@
             "reclamation-by-timber-donk"
         ],
         "by:tj-minde": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "missed-feelings-by-tj-minde-18",
             "like-playing-a-volkswagen-by-tj-minde"
         ],
@@ -13873,6 +13892,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -14496,6 +14516,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -14811,6 +14832,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
@@ -14871,6 +14893,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "the-forest",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
@@ -15035,6 +15058,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
@@ -16388,6 +16412,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "18-firsts-by-tj-minde-part-1-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "reclamation-by-timber-donk",

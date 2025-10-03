@@ -374,6 +374,30 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ab8276b5-8322-4e6c-879f-a4ffc46e332b/18-Firsts-by-TJ-Minde-part-2-of-2.mp3",
+            "published_date": "2025-10-03T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>After an intimate evening with Jude, Anthony has to deal with his emotional and religious baggage.</em></p><p>Tonight\u2019s story is the second and final part of \u201cFirsts\u201d by <a href=\"https://bsky.app/profile/did:plc:xry5e2qtnqlhlrldns3hl2dk\" rel=\"noopener noreferrer\" target=\"_blank\">TJ Minde</a>, whose story first appeared in <a href=\"https://furplanet.com/shop/item.aspx?itemid=1051\" rel=\"noopener noreferrer\" target=\"_blank\">Fang 9</a>, published by FurPlanet. Most recently, he was the lead editor for <a href=\"https://furplanet.com/shop/item.aspx?itemid=1301\" rel=\"noopener noreferrer\" target=\"_blank\">Altered States: Draconic Desires</a> also published by FurPlanet. He is also currently working on his first novel.</p><p>Last time, outgoing and confident Jude took sheltered Anthony out on a day through the town with a corn maze and pumpkin picking. That evening, the two started drinking pumpkin ales and hanging out. We left as the two were about to start a film\u2026</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-firsts-by-tj-minde-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "queer",
+                "lgbtq+",
+                "gay",
+                "adult",
+                "ghost-of-dog",
+                "romance",
+                "drama",
+                "historical",
+                "nsfw",
+                "drugs/alcohol",
+                "by:tj-minde",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "[18+] \u201cFirsts\u201d by TJ Minde (read by Ta'kom, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ad7559ec-d3cb-431b-a148-cf5a11d56181/18-Firsts-by-TJ-Minde-part-1-of-2.mp3",
             "published_date": "2025-10-01T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>When sheltered Anthony tells Jude he\u2019s never celebrated Halloween, the outgoing dhole makes it his mission to run Anthony through seasonal events.</em></p><p>Welcome back to The Ghost of Dog on the Voice of Dog.&nbsp;</p><p>Tonight\u2019s story is the first of two parts of \u201cFirsts\u201d by <a href=\"https://bsky.app/profile/did:plc:xry5e2qtnqlhlrldns3hl2dk\" rel=\"noopener noreferrer\" target=\"_blank\">TJ Minde</a>, whose story first appeared in <a href=\"https://furplanet.com/shop/item.aspx?itemid=1051\" rel=\"noopener noreferrer\" target=\"_blank\">Fang 9</a>, published by FurPlanet. Most recently, he was the lead editor for <a href=\"https://furplanet.com/shop/item.aspx?itemid=1301\" rel=\"noopener noreferrer\" target=\"_blank\">Altered States: Draconic Desires</a> also published by FurPlanet. He is also currently working on his first novel.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12540,6 +12564,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -13824,6 +13849,7 @@
             "reclamation-by-timber-donk"
         ],
         "by:tj-minde": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "missed-feelings-by-tj-minde-18",
             "like-playing-a-volkswagen-by-tj-minde"
@@ -13892,6 +13918,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
@@ -14516,6 +14543,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
@@ -14708,6 +14736,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
             "18-squirrel-your-stuff-by-field-t-mouse",
@@ -14993,6 +15022,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "gay": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -15058,6 +15088,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "signalbox-by-pascal-farful",
@@ -15164,6 +15195,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
@@ -15453,6 +15485,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -16412,6 +16445,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -16490,6 +16524,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
             "18-unchained-by-anhedral",
@@ -16935,6 +16970,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -17057,6 +17093,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-firsts-by-tj-minde-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",

@@ -374,6 +374,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/582170c7-2c63-4f2e-8d54-3bcc17df28b6/Where-The-Stars-Gnash-Their-Teeth-by-Corran-Orreaux.mp3",
+            "published_date": "2025-10-06T09:50:00.000Z",
+            "shownotes": "<p><em>After an unprecedented wait, Captain Howard's cargo ship finally gets the go-ahead to enter Chitterspace, with a warning that the things that lurk inside this dark stretch seem more agitated than usual. </em></p><p>\ufeffTonight\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/60234348/\" rel=\"noopener noreferrer\" target=\"_blank\">Where The Stars Gnash Their Teeth</a>\u201d by <a href=\"https://www.furaffinity.net/user/corranorreaux/\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a>, who is a deer known to haunt local forests, terrorizing the commonfolk and writing between raids, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/corranorreaux/\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a> and <a href=\"https://corran-orreaux.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "where-the-stars-gnash-their-teeth-by-corran-orreaux",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "political/espionage",
+                "by:corran-orreaux",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cWhere The Stars Gnash Their Teeth\u201d by Corran Orreaux"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ab8276b5-8322-4e6c-879f-a4ffc46e332b/18-Firsts-by-TJ-Minde-part-2-of-2.mp3",
             "published_date": "2025-10-03T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>After an intimate evening with Jude, Anthony has to deal with his emotional and religious baggage.</em></p><p>Tonight\u2019s story is the second and final part of \u201cFirsts\u201d by <a href=\"https://bsky.app/profile/did:plc:xry5e2qtnqlhlrldns3hl2dk\" rel=\"noopener noreferrer\" target=\"_blank\">TJ Minde</a>, whose story first appeared in <a href=\"https://furplanet.com/shop/item.aspx?itemid=1051\" rel=\"noopener noreferrer\" target=\"_blank\">Fang 9</a>, published by FurPlanet. Most recently, he was the lead editor for <a href=\"https://furplanet.com/shop/item.aspx?itemid=1301\" rel=\"noopener noreferrer\" target=\"_blank\">Altered States: Draconic Desires</a> also published by FurPlanet. He is also currently working on his first novel.</p><p>Last time, outgoing and confident Jude took sheltered Anthony out on a day through the town with a corn maze and pumpkin picking. That evening, the two started drinking pumpkin ales and hanging out. We left as the two were about to start a film\u2026</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13025,6 +13042,7 @@
             "born-to-be-wild-by-coda"
         ],
         "by:corran-orreaux": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "the-dog-man-of-the-forest-by-corran-orreaux"
         ],
         "by:crimson-ruari": [
@@ -13918,6 +13936,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
@@ -15088,6 +15107,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
@@ -16223,6 +16243,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -16814,6 +16835,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "dicking-around-by-dirt-coyote",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -17370,6 +17392,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "awake-by-jim-redfoot-part-2-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "18-unchained-by-anhedral",

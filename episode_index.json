@@ -374,6 +374,28 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6f7f0869-e1a6-477c-b500-bce2501d0315/18-Housing-Crisis-by-Royce-Day.mp3",
+            "published_date": "2025-10-08T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Pete and Chaula are best friends with benefits, who are investigating a house on behalf of Chaula's real estate developer uncle. </em></p><p>Tonight\u2019s story is \u201c<a href=\"https://www.deviantart.com/sir-talen/art/Housing-Crisis-NSFW-1139729003\" rel=\"noopener noreferrer\" target=\"_blank\">Housing Crisis</a>\u201d by <a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a>, author of <a href=\"https://www.amazon.com/dp/1520660243\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Red Vixen Adventures</em></a> and<em> </em><a href=\"https://www.amazon.com/dp/B0DYPD989P\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Meeting Dominique</em></a>, and you can find more of his stories on his <a href=\"https://www.patreon.com/c/RoyceDay\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a> page.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-housing-crisis-by-royce-day",
+            "summary": "",
+            "tags": [
+                "check-tags",
+                "adult",
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "historical",
+                "nsfw",
+                "eating-disorders",
+                "trauma",
+                "by:royce-day",
+                "narrator:royce-day"
+            ],
+            "title": "[18+] \u201cHousing Crisis\u201d by Royce Day (read by the Author)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/582170c7-2c63-4f2e-8d54-3bcc17df28b6/Where-The-Stars-Gnash-Their-Teeth-by-Corran-Orreaux.mp3",
             "published_date": "2025-10-06T09:50:00.000Z",
             "shownotes": "<p><em>After an unprecedented wait, Captain Howard's cargo ship finally gets the go-ahead to enter Chitterspace, with a warning that the things that lurk inside this dark stretch seem more agitated than usual. </em></p><p>\ufeffTonight\u2019s story is \u201c<a href=\"https://www.furaffinity.net/view/60234348/\" rel=\"noopener noreferrer\" target=\"_blank\">Where The Stars Gnash Their Teeth</a>\u201d by <a href=\"https://www.furaffinity.net/user/corranorreaux/\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a>, who is a deer known to haunt local forests, terrorizing the commonfolk and writing between raids, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/corranorreaux/\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a> and <a href=\"https://corran-orreaux.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12581,6 +12603,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
             "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
@@ -13695,6 +13718,7 @@
             "furta-sacra-by-rose-lacroix"
         ],
         "by:royce-day": [
+            "18-housing-crisis-by-royce-day",
             "solstice-gifts-by-royce-day",
             "silence-and-sword-by-royce-day-part-2-of-2",
             "silence-and-sword-by-royce-day-part-1-of-2",
@@ -13936,6 +13960,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
@@ -14562,6 +14587,7 @@
             "bad-dog-by-rob-baird"
         ],
         "drama": [
+            "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -14801,6 +14827,9 @@
             "flying-rat-by-dan-leinir-turthra-jensen",
             "colour-me-terrified-by-b-p-rugger-18",
             "bad-dog-by-rob-baird"
+        ],
+        "eating-disorders": [
+            "18-housing-crisis-by-royce-day"
         ],
         "eldritch": [
             "kinwa-and-the-engineer-by-ritter",
@@ -15107,6 +15136,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
@@ -15215,6 +15245,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -16414,6 +16445,9 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "bad-dog-by-rob-baird"
         ],
+        "narrator:royce-day": [
+            "18-housing-crisis-by-royce-day"
+        ],
         "narrator:sierra": [
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -16545,6 +16579,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
             "the-forest",
             "winterfall-empty-places-by-lauren-rivers",
@@ -17392,6 +17427,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "awake-by-jim-redfoot-part-2-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -17587,6 +17623,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "18-housing-crisis-by-royce-day",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
             "18-good-bones-by-galen-lk-part-1-of-2",

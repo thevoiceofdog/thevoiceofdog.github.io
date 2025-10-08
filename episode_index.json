@@ -343,6 +343,7 @@
             "alcohol",
             "bi",
             "contemorary",
+            "death",
             "drama queerphobia",
             "human",
             "live",
@@ -380,17 +381,14 @@
             "slug": "18-housing-crisis-by-royce-day",
             "summary": "",
             "tags": [
-                "check-tags",
                 "adult",
                 "ghost-of-dog",
                 "spooky",
                 "drama",
-                "historical",
                 "nsfw",
-                "eating-disorders",
                 "trauma",
-                "by:royce-day",
-                "narrator:royce-day"
+                "narrator:royce-day",
+                "by:royce-day"
             ],
             "title": "[18+] \u201cHousing Crisis\u201d by Royce Day (read by the Author)"
         },
@@ -402,12 +400,12 @@
             "slug": "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "summary": "",
             "tags": [
-                "check-tags",
                 "ghost-of-dog",
                 "spooky",
-                "political/espionage",
-                "by:corran-orreaux",
-                "narrator:rob-macwolf"
+                "horror",
+                "sci-fi",
+                "narrator:rob-macwolf",
+                "by:corran-orreaux"
             ],
             "title": "\u201cWhere The Stars Gnash Their Teeth\u201d by Corran Orreaux"
         },
@@ -419,7 +417,6 @@
             "slug": "18-firsts-by-tj-minde-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "queer",
                 "lgbtq+",
                 "gay",
@@ -427,11 +424,10 @@
                 "ghost-of-dog",
                 "romance",
                 "drama",
-                "historical",
                 "nsfw",
                 "drugs/alcohol",
-                "by:tj-minde",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:tj-minde"
             ],
             "title": "[18+] \u201cFirsts\u201d by TJ Minde (read by Ta'kom, part 2 of 2)"
         },
@@ -443,13 +439,13 @@
             "slug": "18-firsts-by-tj-minde-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "ghost-of-dog",
-                "family-saga",
+                "queer",
+                "lgbtq+",
+                "adult",
                 "drama",
-                "fantasy",
-                "by:tj-minde",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:tj-minde"
             ],
             "title": "[18+] \u201cFirsts\u201d by TJ Minde (read by Ta'kom, part 1 of 2)"
         },
@@ -461,12 +457,10 @@
             "slug": "a-shadow-over-the-desert-by-rebecca-cascane",
             "summary": "",
             "tags": [
-                "check-tags",
-                "ghost-of-dog",
                 "humor",
                 "historical",
-                "by:rebecca-cascane",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:rebecca-cascane"
             ],
             "title": "\u201cA Shadow Over the Desert\u201d by Rebecca Cascane"
         },
@@ -478,13 +472,13 @@
             "slug": "awake-by-jim-redfoot-part-2-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
                 "spooky",
+                "drama",
                 "action/adventure",
                 "contemporary",
                 "blood",
-                "by:jim-redfoot",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:jim-redfoot"
             ],
             "title": "\u201cAwake\u201d by Jim Redfoot (part 2 of 2)"
         },
@@ -496,13 +490,13 @@
             "slug": "awake-by-jim-redfoot-part-1-of-2",
             "summary": "",
             "tags": [
-                "check-tags",
-                "romance",
+                "action/adventure",
                 "drama",
-                "historical",
+                "spooky",
                 "blood",
-                "by:jim-redfoot",
-                "narrator:rob-macwolf"
+                "contemporary",
+                "narrator:rob-macwolf",
+                "by:jim-redfoot"
             ],
             "title": "\u201cAwake\u201d by Jim Redfoot (part 1 of 2)"
         },
@@ -531,16 +525,14 @@
             "slug": "winterfall-empty-places-by-lauren-rivers",
             "summary": "",
             "tags": [
-                "check-tags",
-                "adult",
+                "sci-fi",
                 "family-saga",
                 "drama",
-                "historical",
                 "violence",
                 "blood",
                 "nsfw",
-                "by:lauren-rivers",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:lauren-rivers"
             ],
             "title": "\u201cWinterfall: Empty Places\u201d by Lauren Rivers"
         },
@@ -552,11 +544,11 @@
             "slug": "dear-rabbit-by-str8aura",
             "summary": "",
             "tags": [
-                "check-tags",
-                "romance",
-                "historical",
-                "by:str8aura",
-                "narrator:rob-macwolf"
+                "family-saga",
+                "lgbtq+",
+                "contemporary",
+                "narrator:rob-macwolf",
+                "by:str8aura"
             ],
             "title": "\u201cDear Rabbit\u201d by Str8aura"
         },
@@ -568,15 +560,13 @@
             "slug": "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "summary": "",
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "gay",
                 "queer",
                 "romance",
                 "drama",
-                "fantasy",
-                "by:andrew-french",
-                "narrator:andrew-french"
+                "narrator:andrew-french",
+                "by:andrew-french"
             ],
             "title": "[18+] \u201cIcarus Dreams, a Glass Heart, and Slippers to Take Me Home\u201d by Andrew French (read by the Author)"
         },
@@ -588,12 +578,11 @@
             "slug": "an-atomic-fairy-tale-by-chase-anderson",
             "summary": "",
             "tags": [
-                "check-tags",
                 "legend",
-                "action/adventure",
+                "sci-fi",
                 "fantasy",
-                "by:chase-anderson",
-                "narrator:apollo-brightflank"
+                "narrator:apollo-brightflank",
+                "by:chase-anderson"
             ],
             "title": "\u201cAn Atomic Fairy Tale\u201d by Chase Anderson (read by Apollo Brightflank)"
         },
@@ -12396,6 +12385,7 @@
         "contemporary": "Contemporary",
         "cozy": "Cozy",
         "crime": "Crime",
+        "death": "Death",
         "drama": "Drama",
         "drama queerphobia": "Drama Queerphobia",
         "drugs/alcohol": "Drugs/Alcohol",
@@ -12520,8 +12510,8 @@
     "tags": {
         "action/adventure": [
             "awake-by-jim-redfoot-part-2-of-2",
+            "awake-by-jim-redfoot-part-1-of-2",
             "the-forest",
-            "an-atomic-fairy-tale-by-chase-anderson",
             "18-ishkode-dreaming-by-kohitsuji",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -12605,8 +12595,8 @@
         "adult": [
             "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
+            "18-firsts-by-tj-minde-part-1-of-2",
             "the-forest",
-            "winterfall-empty-places-by-lauren-rivers",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -13960,17 +13950,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "18-housing-crisis-by-royce-day",
-            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
-            "18-firsts-by-tj-minde-part-2-of-2",
-            "18-firsts-by-tj-minde-part-1-of-2",
-            "a-shadow-over-the-desert-by-rebecca-cascane",
-            "awake-by-jim-redfoot-part-2-of-2",
-            "awake-by-jim-redfoot-part-1-of-2",
-            "winterfall-empty-places-by-lauren-rivers",
-            "dear-rabbit-by-str8aura",
-            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
-            "an-atomic-fairy-tale-by-chase-anderson",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -14399,6 +14378,8 @@
         ],
         "contemporary": [
             "awake-by-jim-redfoot-part-2-of-2",
+            "awake-by-jim-redfoot-part-1-of-2",
+            "dear-rabbit-by-str8aura",
             "18-unchained-by-anhedral",
             "scooped-up-by-packwolf-lupestripe",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
@@ -14590,6 +14571,7 @@
             "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
+            "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -14828,9 +14810,6 @@
             "colour-me-terrified-by-b-p-rugger-18",
             "bad-dog-by-rob-baird"
         ],
-        "eating-disorders": [
-            "18-housing-crisis-by-royce-day"
-        ],
         "eldritch": [
             "kinwa-and-the-engineer-by-ritter",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",
@@ -14909,8 +14888,8 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
-            "18-firsts-by-tj-minde-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
+            "dear-rabbit-by-str8aura",
             "splitting-hares-by-lauren-rivers",
             "children-of-dusk-by-alex-t-dragonson",
             "solstice-gifts-by-royce-day",
@@ -14970,9 +14949,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
-            "18-firsts-by-tj-minde-part-1-of-2",
             "the-forest",
-            "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -15140,7 +15117,6 @@
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
-            "a-shadow-over-the-desert-by-rebecca-cascane",
             "signalbox-by-pascal-farful",
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "18-good-bones-by-galen-lk-part-2-of-2",
@@ -15245,12 +15221,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
-            "18-housing-crisis-by-royce-day",
-            "18-firsts-by-tj-minde-part-2-of-2",
             "a-shadow-over-the-desert-by-rebecca-cascane",
-            "awake-by-jim-redfoot-part-1-of-2",
-            "winterfall-empty-places-by-lauren-rivers",
-            "dear-rabbit-by-str8aura",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -15431,6 +15402,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-the-darkest-place-by-kohitsuji",
             "the-presence-between-the-pages-by-madison-scott-clary",
             "the-vixen-and-the-vampire-by-kohitsuji-part-2-of-2",
@@ -15537,6 +15509,8 @@
         ],
         "lgbtq+": [
             "18-firsts-by-tj-minde-part-2-of-2",
+            "18-firsts-by-tj-minde-part-1-of-2",
+            "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -16870,7 +16844,6 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
-            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "dicking-around-by-dirt-coyote",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -17028,6 +17001,7 @@
         ],
         "queer": [
             "18-firsts-by-tj-minde-part-2-of-2",
+            "18-firsts-by-tj-minde-part-1-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -17151,8 +17125,6 @@
         ],
         "romance": [
             "18-firsts-by-tj-minde-part-2-of-2",
-            "awake-by-jim-redfoot-part-1-of-2",
-            "dear-rabbit-by-str8aura",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -17365,6 +17337,9 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "where-the-stars-gnash-their-teeth-by-corran-orreaux",
+            "winterfall-empty-places-by-lauren-rivers",
+            "an-atomic-fairy-tale-by-chase-anderson",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
@@ -17430,6 +17405,7 @@
             "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "awake-by-jim-redfoot-part-2-of-2",
+            "awake-by-jim-redfoot-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "18-unchained-by-anhedral",
             "reclamation-by-timber-donk",

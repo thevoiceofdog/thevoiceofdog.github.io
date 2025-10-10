@@ -375,6 +375,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d61dff86-b83f-4db6-b38d-11c029fcaf98/Faju-by-TiberiusRings-Fruitz.mp3",
+            "published_date": "2025-10-10T09:50:00.000Z",
+            "shownotes": "<p><em>What do you do when you don\u2019t believe in monsters until its too late?&nbsp; Nyx finds out a folktale isn\u2019t so much a tale as it is a warning.</em></p><p>Tonight\u2019s story is \u201cFaju\u201d by TiberiusRings &amp; Fruitz, authors of the Simon King trilogy: Come to Dust, Burn Down the Tower, and A Lonely Dragon.&nbsp; Their new book, Between Two Blades, is set to release soon.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "faju-by-tiberiusrings-fruitz",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "horror",
+                "death",
+                "narrator:rob-macwolf",
+                "by:tiberiusrings-fruitz"
+            ],
+            "title": "\u201cFaju\u201d by TiberiusRings & Fruitz"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6f7f0869-e1a6-477c-b500-bce2501d0315/18-Housing-Crisis-by-Royce-Day.mp3",
             "published_date": "2025-10-08T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Pete and Chaula are best friends with benefits, who are investigating a house on behalf of Chaula's real estate developer uncle. </em></p><p>Tonight\u2019s story is \u201c<a href=\"https://www.deviantart.com/sir-talen/art/Housing-Crisis-NSFW-1139729003\" rel=\"noopener noreferrer\" target=\"_blank\">Housing Crisis</a>\u201d by <a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a>, author of <a href=\"https://www.amazon.com/dp/1520660243\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Red Vixen Adventures</em></a> and<em> </em><a href=\"https://www.amazon.com/dp/B0DYPD989P\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Meeting Dominique</em></a>, and you can find more of his stories on his <a href=\"https://www.patreon.com/c/RoyceDay\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a> page.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -4988,8 +5005,8 @@
                 "pride-month",
                 "spooky",
                 "stone-age",
-                "drugs/alcohol",
                 "blood",
+                "drugs/alcohol",
                 "by:sakarafox",
                 "narrator:dirt-coyote"
             ],
@@ -8310,7 +8327,6 @@
                 "check-tags",
                 "eldritch",
                 "historical",
-                "drugs/alcohol",
                 "by:nalz",
                 "narrator:khaki"
             ],
@@ -10489,7 +10505,6 @@
                 "historical",
                 "nsfw",
                 "blood",
-                "drugs/alcohol",
                 "police-violence",
                 "by:madison-scott-clary",
                 "narrator:madison-scott-clary"
@@ -11003,7 +11018,6 @@
                 "check-tags",
                 "family-saga",
                 "drama",
-                "drugs/alcohol",
                 "trauma",
                 "by:dan-leinir-turthra-jensen",
                 "narrator:khaki"
@@ -13875,6 +13889,7 @@
             "vagabond-by-tiberiusrings-fruitz-part-1-of-2"
         ],
         "by:tiberiusrings-fruitz": [
+            "faju-by-tiberiusrings-fruitz",
             "jumping-to-conclusions-by-tiberiusrings-fruitz"
         ],
         "by:timber-donk": [
@@ -14567,6 +14582,9 @@
             "gibbous-moon-waning-by-altivo-overo",
             "bad-dog-by-rob-baird"
         ],
+        "death": [
+            "faju-by-tiberiusrings-fruitz"
+        ],
         "drama": [
             "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -14797,16 +14815,13 @@
             "a-friend-in-winter-by-mikasiwolf-part-1-of-2-18",
             "and-the-chunnering-wyrm-doth-chide-by-rob-macwolf-read-by-the-author",
             "the-green-night-by-rob-macwolf-part-1-of-2-read-by-the-author-18",
-            "the-first-shall-not-be-last-by-nalz",
             "followers-of-the-jackal-by-domus-vocis-part-2-of-2-read-by-crimson-ruari-18",
             "tearing-ole-by-j-z-belexes-mixdown",
             "jaeger-by-anhedral-part-2-of-2-read-by-crimson-ruari",
             "do-not-disturb-by-psydrosis",
             "date-night-by-kayode-lycaon",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
-            "disappearance-by-madison-scott-clary-18",
             "at-the-inn-salted-beef-by-metassus",
-            "flying-rat-by-dan-leinir-turthra-jensen",
             "colour-me-terrified-by-b-p-rugger-18",
             "bad-dog-by-rob-baird"
         ],
@@ -15113,6 +15128,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -15402,6 +15418,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "faju-by-tiberiusrings-fruitz",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-the-darkest-place-by-kohitsuji",
             "the-presence-between-the-pages-by-madison-scott-clary",
@@ -16248,6 +16265,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "faju-by-tiberiusrings-fruitz",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "awake-by-jim-redfoot-part-2-of-2",
@@ -17402,6 +17420,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "awake-by-jim-redfoot-part-2-of-2",

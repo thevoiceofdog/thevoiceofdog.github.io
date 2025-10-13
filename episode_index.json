@@ -375,6 +375,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a81125ff-a461-48ea-b2b9-aa0bb7eede04/18-Votive-by-Packwolf-Lupestripe.mp3",
+            "published_date": "2025-10-13T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>On the anniversary of his girlfriend\u2019s death, a young man goes to pay his respects and is seduced by her spirit in equine form\u2026 </em></p><p>Tonight\u2019s story is \u201cVotive\u201d by <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Packwolf Lupestripe</a>. This is an exclusive tale for this year\u2019s Ghost of Dog, but you can find more of her stories on <a href=\"https://sofurrybeta.com/u/Lupestripe\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> and check out <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">her website</a> for details of her published work.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-votive-by-packwolf-lupestripe",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "romance",
+                "horror",
+                "contemporary",
+                "blood",
+                "death",
+                "narrator:ta-kom-ironhoof",
+                "by:packwolf-lupestripe"
+            ],
+            "title": "[18+] \u201cVotive\u201d by Packwolf Lupestripe (read by Ta'kom)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d61dff86-b83f-4db6-b38d-11c029fcaf98/Faju-by-TiberiusRings-Fruitz.mp3",
             "published_date": "2025-10-10T09:50:00.000Z",
             "shownotes": "<p><em>What do you do when you don\u2019t believe in monsters until its too late?&nbsp; Nyx finds out a folktale isn\u2019t so much a tale as it is a warning.</em></p><p>Tonight\u2019s story is \u201cFaju\u201d by TiberiusRings &amp; Fruitz, authors of the Simon King trilogy: Come to Dust, Burn Down the Tower, and A Lonely Dragon.&nbsp; Their new book, Between Two Blades, is set to release soon.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12790,6 +12809,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
@@ -13578,6 +13598,7 @@
             "food-feuds-and-fake-flora-by-ocean-tigrox"
         ],
         "by:packwolf-lupestripe": [
+            "18-votive-by-packwolf-lupestripe",
             "scooped-up-by-packwolf-lupestripe",
             "1725-by-packwolf-lupestripe",
             "the-year-of-the-dragon-by-packwolf-lupestripe"
@@ -14392,6 +14413,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "dear-rabbit-by-str8aura",
@@ -14583,6 +14605,7 @@
             "bad-dog-by-rob-baird"
         ],
         "death": [
+            "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
@@ -15128,6 +15151,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
@@ -15418,6 +15442,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "18-the-darkest-place-by-kohitsuji",
@@ -16492,6 +16517,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "18-votive-by-packwolf-lupestripe",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -17142,6 +17168,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-votive-by-packwolf-lupestripe",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",

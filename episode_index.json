@@ -375,6 +375,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf56bfc9-8a6b-425b-add3-f01139e5fae1/The-Other-by-J-S-Hawthorne-part-1-of-2.mp3",
+            "published_date": "2025-10-15T09:50:00.000Z",
+            "shownotes": "<p><em>David Steward is New York\u2019s premier supernatural private eye, so it\u2019s no surprise when a ghost hires him to solve her own murder. Not so routine is the ancient terror which killed Steward\u2019s client, or dealing with one of his exes, the cop assigned to investigate the case.</em></p><p>\ufeffTonight\u2019s story is the first of two parts of \u201cThe Other\u201d by J.S. Hawthorne, who almost definitely isn\u2019t lurking in that dark alley across the street. J.S.\u2019s most recent work can be found in the forthcoming The Wideness of the World, by the Furry Historical Fiction Society, and in <a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>, available now from Fenris Publishing.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-other-by-js-hawthorne-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "crime",
+                "blood",
+                "contemporary",
+                "violence",
+                "narrator:apollo-brightflank",
+                "by:js-hawthorne"
+            ],
+            "title": "\u201cThe Other\u201d by JS Hawthorne (part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a81125ff-a461-48ea-b2b9-aa0bb7eede04/18-Votive-by-Packwolf-Lupestripe.mp3",
             "published_date": "2025-10-13T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>On the anniversary of his girlfriend\u2019s death, a young man goes to pay his respects and is seduced by her spirit in equine form\u2026 </em></p><p>Tonight\u2019s story is \u201cVotive\u201d by <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Packwolf Lupestripe</a>. This is an exclusive tale for this year\u2019s Ghost of Dog, but you can find more of her stories on <a href=\"https://sofurrybeta.com/u/Lupestripe\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a> and check out <a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">her website</a> for details of her published work.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12809,6 +12828,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -13391,6 +13411,9 @@
         ],
         "by:john-bailey": [
             "twilight-sparkle-goes-to-bed-by-john-bailey"
+        ],
+        "by:js-hawthorne": [
+            "the-other-by-js-hawthorne-part-1-of-2"
         ],
         "by:k-c-shaw": [
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
@@ -14413,6 +14436,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -14558,6 +14582,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
             "solstice-gifts-by-royce-day",
@@ -15151,6 +15176,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",
@@ -15830,6 +15856,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "an-atomic-fairy-tale-by-chase-anderson"
         ],
         "narrator:ardy-hart": [
@@ -17447,6 +17474,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
@@ -17665,6 +17693,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "the-other-by-js-hawthorne-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",

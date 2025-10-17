@@ -375,6 +375,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d52b9c99-f602-4853-87d4-dc4383b38b8a/The-Other-by-J-S-Hawthorne-part-2-of-2.mp3",
+            "published_date": "2025-10-17T09:50:00.000Z",
+            "shownotes": "<p><em>David Steward is New York\u2019s premier supernatural detective, and ghosts coming to him for help solving their own murders is just routine for him. The routine went out the door, however, in the combination of Steward\u2019s ex, his adoptive mother-in-law, and centuries worth of Manhattan\u2019s unquiet dead. Whatever the consequences, however, David Steward will not rest until he has learned the secret of the Other.</em></p><p>Tonight\u2019s story is the second and final part of \u201cThe Other\u201d by <a href=\"http://link/\" rel=\"noopener noreferrer\" target=\"_blank\">J</a>.S. Hawthorne, who most likely isn\u2019t speeding across the Midtown Tunnel like a thing possessed. J.S.\u2019s most recent work can be found in the forthcoming The Wideness of the World, by the Furry Historical Fiction Society, and <a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>, available now from Fenris Publishing.&nbsp;</p><p>Read by Apollo Brightflank, who still returns to the prairie.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-other-by-js-hawthorne-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "crime",
+                "contemporary",
+                "blood",
+                "narrator:apollo-brightflank",
+                "by:js-hawthorne"
+            ],
+            "title": "\u201cThe Other\u201d by JS Hawthorne (read by Apollo, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf56bfc9-8a6b-425b-add3-f01139e5fae1/The-Other-by-J-S-Hawthorne-part-1-of-2.mp3",
             "published_date": "2025-10-15T09:50:00.000Z",
             "shownotes": "<p><em>David Steward is New York\u2019s premier supernatural private eye, so it\u2019s no surprise when a ghost hires him to solve her own murder. Not so routine is the ancient terror which killed Steward\u2019s client, or dealing with one of his exes, the cop assigned to investigate the case.</em></p><p>\ufeffTonight\u2019s story is the first of two parts of \u201cThe Other\u201d by J.S. Hawthorne, who almost definitely isn\u2019t lurking in that dark alley across the street. J.S.\u2019s most recent work can be found in the forthcoming The Wideness of the World, by the Furry Historical Fiction Society, and in <a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>, available now from Fenris Publishing.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12828,6 +12846,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
@@ -13413,6 +13432,7 @@
             "twilight-sparkle-goes-to-bed-by-john-bailey"
         ],
         "by:js-hawthorne": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2"
         ],
         "by:k-c-shaw": [
@@ -14436,6 +14456,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "awake-by-jim-redfoot-part-2-of-2",
@@ -14582,6 +14603,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -15176,6 +15198,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz",
@@ -15856,6 +15879,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "an-atomic-fairy-tale-by-chase-anderson"
         ],
@@ -17474,6 +17498,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "faju-by-tiberiusrings-fruitz",
             "18-housing-crisis-by-royce-day",

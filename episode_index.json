@@ -377,6 +377,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8c2e5b5d-9ce8-416c-82ff-41177ed24ee7/La-Leyenda-de-Marisa-Gritaluna-by-Juan-C-Moreno-part-1-of-2.mp3",
+            "published_date": "2025-10-22T09:50:00.000Z",
+            "shownotes": "<p><em>The world is quieter now, but for two young coyotes, the night fills with the cries of a legend stalking the riverbanks searching for souls.</em></p><p>Tonight\u2019s story is the first of two parts of \u201cLa Leyenda de Marisa Gritaluna\u201d by <a href=\"https://furrywritersguild.com/juan-c-moreno-wanderinggoose-colo-otter/\" rel=\"noopener noreferrer\" target=\"_blank\">Juan C. Moreno</a>, who knows the mountains of Colorado like the back of his paw and will be your guide across a wilderness of action, adventure, and mystery. This reimagined folktale first appeared in <a href=\"https://fenrispublishing.com/product.php?id=717\" rel=\"noopener noreferrer\" target=\"_blank\">Selections of Anthropomorphic Regalements: Volume 1</a>, edited by the late K.C. Alpinus and published by <a href=\"https://fenrispublishing.com/info.php\" rel=\"noopener noreferrer\" target=\"_blank\">Goal Publications but now available from Fenris Publishing</a>. You can find more of his stories in \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1081\" rel=\"noopener noreferrer\" target=\"_blank\">Reclamation Project: Year One</a>,\u201d \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1198\" rel=\"noopener noreferrer\" target=\"_blank\">ROAR Volume 11</a>,\u201d the Furry Writers\u2019 Guild\u2019s latest anthology, \u201c<a href=\"https://fenrispublishing.com/product.php?id=1158\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>,\u201d or Juan\u2019s <a href=\"https://www.deviantart.com/wanderinggoose\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt gallery</a>.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
+            "summary": "",
+            "tags": [
+                "family-saga",
+                "ghost-of-dog",
+                "spooky",
+                "action/adventure",
+                "blood",
+                "violence",
+                "narrator:cider",
+                "by:juan-c-moreno"
+            ],
+            "title": "\u201cLa Leyenda de Marisa Gritaluna\u201d by Juan C. Moreno (read by Cider, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d966cfc7-91bc-4df7-af7e-ab1a3139395d/18-Victor-Tremblay-in-Mystery-at-Moon-Lake-by-Pascal-Farful.mp3",
             "published_date": "2025-10-20T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Detectives like to deal in facts and certainties. But those are luxuries, and sometimes you have to live without them...</em></p><p>Tonight\u2019s story is \u201cVictor Tremblay in: Mystery of Moon Lake\u201d by <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a>, who has been featured in two anthologies by the <a href=\"https://fhfs.ink/\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a>, and you can find more of his stories on <a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a>.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12605,6 +12624,7 @@
     },
     "tags": {
         "action/adventure": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
             "the-forest",
@@ -12873,6 +12893,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
@@ -13461,6 +13482,9 @@
         "by:js-hawthorne": [
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2"
+        ],
+        "by:juan-c-moreno": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2"
         ],
         "by:k-c-shaw": [
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
@@ -15002,6 +15026,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
             "splitting-hares-by-lauren-rivers",
@@ -15228,6 +15253,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
@@ -15948,6 +15974,7 @@
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
         "narrator:cider": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awakening-by-aetherwolf76"
         ],
         "narrator:crimson-ruari": [
@@ -17535,6 +17562,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "faju-by-tiberiusrings-fruitz",
@@ -17755,6 +17783,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",

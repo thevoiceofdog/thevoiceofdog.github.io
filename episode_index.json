@@ -378,6 +378,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f4f9dd0e-0ec1-443e-9de8-698d724fbaee/La-Leyenda-de-Marisa-Gritaluna-by-Juan-C-Moreno-part-2-of-2.mp3",
+            "published_date": "2025-10-24T09:50:00.000Z",
+            "shownotes": "<p><em>In the full moonlight, two young coyotes are about to discover the legend of La Llorona is more than myth as the deadly spirit closes in.</em></p><p>Tonight\u2019s story is the second and final part of \u201cLa Leyenda de Marisa Gritaluna\u201d by <a href=\"https://furrywritersguild.com/juan-c-moreno-wanderinggoose-colo-otter/\" rel=\"noopener noreferrer\" target=\"_blank\">Juan C. Moreno</a>, who knows the mountains of Colorado like the back of his paw and will be your guide across a wilderness of action, adventure, and mystery. This reimagined folktale first appeared in <a href=\"https://fenrispublishing.com/product.php?id=717\" rel=\"noopener noreferrer\" target=\"_blank\">Selections of Anthropomorphic Regalements: Volume 1</a>, edited by the late K.C. Alpinus and published by <a href=\"https://fenrispublishing.com/info.php\" rel=\"noopener noreferrer\" target=\"_blank\">Goal Publications but now available from Fenris Publishing</a>. You can find more of his stories in \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1081\" rel=\"noopener noreferrer\" target=\"_blank\">Reclamation Project: Year One</a>,\u201d \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1198\" rel=\"noopener noreferrer\" target=\"_blank\">ROAR Volume 11</a>,\u201d the Furry Writers\u2019 Guild\u2019s latest anthology, \u201c<a href=\"https://fenrispublishing.com/product.php?id=1158\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>,\u201d or Juan\u2019s <a href=\"https://www.deviantart.com/wanderinggoose\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt gallery</a>.</p><p>Last time, Marisa the teenaged coyote followed her younger brother to the riverbank after he ignored his grandmother\u2019s warnings as superstitious folktales. However, as moonlight covers the land and the air fills with mournful howling, the coyotes will discover some legends are terrifyingly real.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "family-saga",
+                "ghost-of-dog",
+                "spooky",
+                "action/adventure",
+                "blood",
+                "violence",
+                "narrator:cider",
+                "by:juan-c-moreno"
+            ],
+            "title": "\u201cLa Leyenda de Marisa Gritaluna\u201d by Juan C. Moreno (read by Cider, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8c2e5b5d-9ce8-416c-82ff-41177ed24ee7/La-Leyenda-de-Marisa-Gritaluna-by-Juan-C-Moreno-part-1-of-2.mp3",
             "published_date": "2025-10-22T09:50:00.000Z",
             "shownotes": "<p><em>The world is quieter now, but for two young coyotes, the night fills with the cries of a legend stalking the riverbanks searching for souls.</em></p><p>Tonight\u2019s story is the first of two parts of \u201cLa Leyenda de Marisa Gritaluna\u201d by <a href=\"https://furrywritersguild.com/juan-c-moreno-wanderinggoose-colo-otter/\" rel=\"noopener noreferrer\" target=\"_blank\">Juan C. Moreno</a>, who knows the mountains of Colorado like the back of his paw and will be your guide across a wilderness of action, adventure, and mystery. This reimagined folktale first appeared in <a href=\"https://fenrispublishing.com/product.php?id=717\" rel=\"noopener noreferrer\" target=\"_blank\">Selections of Anthropomorphic Regalements: Volume 1</a>, edited by the late K.C. Alpinus and published by <a href=\"https://fenrispublishing.com/info.php\" rel=\"noopener noreferrer\" target=\"_blank\">Goal Publications but now available from Fenris Publishing</a>. You can find more of his stories in \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1081\" rel=\"noopener noreferrer\" target=\"_blank\">Reclamation Project: Year One</a>,\u201d \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1198\" rel=\"noopener noreferrer\" target=\"_blank\">ROAR Volume 11</a>,\u201d the Furry Writers\u2019 Guild\u2019s latest anthology, \u201c<a href=\"https://fenrispublishing.com/product.php?id=1158\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>,\u201d or Juan\u2019s <a href=\"https://www.deviantart.com/wanderinggoose\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt gallery</a>.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12626,6 +12645,7 @@
     },
     "tags": {
         "action/adventure": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2",
@@ -12895,6 +12915,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
@@ -13486,6 +13507,7 @@
             "the-other-by-js-hawthorne-part-1-of-2"
         ],
         "by:juan-c-moreno": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2"
         ],
         "by:k-c-shaw": [
@@ -15028,6 +15050,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
             "dear-rabbit-by-str8aura",
@@ -15255,6 +15278,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "the-other-by-js-hawthorne-part-2-of-2",
@@ -15976,6 +16000,7 @@
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
         "narrator:cider": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awakening-by-aetherwolf76"
         ],
@@ -17564,6 +17589,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
@@ -17785,6 +17811,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",

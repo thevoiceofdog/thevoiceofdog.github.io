@@ -378,6 +378,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b26e4467-1569-4f97-b3aa-544e3d2a83e6/18-Just-Another-Echo-Between-Rest-Stops-by-Domus-Vocis.mp3",
+            "published_date": "2025-10-27T09:50:00.000Z",
+            "shownotes": "<p>[18+]<em>During the summer of 1985, a bear trucker has an erotic paranormal tryst at a random rest stop. However, this ghost has a personal vendetta.</em></p><p>Tonight\u2019s story is \u201cJust Another Echo Between Rest Stops\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to horror podcasts &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Kergiby, a Full Time Panther.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-just-another-echo-between-rest-stops-by-domus-vocis",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "nsfw",
+                "blood",
+                "narrator:kergiby",
+                "by:domus-vocis"
+            ],
+            "title": "[18+] \u201cJust Another Echo Between Rest Stops\u201d by Domus Vocis (read by Kergiby)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f4f9dd0e-0ec1-443e-9de8-698d724fbaee/La-Leyenda-de-Marisa-Gritaluna-by-Juan-C-Moreno-part-2-of-2.mp3",
             "published_date": "2025-10-24T09:50:00.000Z",
             "shownotes": "<p><em>In the full moonlight, two young coyotes are about to discover the legend of La Llorona is more than myth as the deadly spirit closes in.</em></p><p>Tonight\u2019s story is the second and final part of \u201cLa Leyenda de Marisa Gritaluna\u201d by <a href=\"https://furrywritersguild.com/juan-c-moreno-wanderinggoose-colo-otter/\" rel=\"noopener noreferrer\" target=\"_blank\">Juan C. Moreno</a>, who knows the mountains of Colorado like the back of his paw and will be your guide across a wilderness of action, adventure, and mystery. This reimagined folktale first appeared in <a href=\"https://fenrispublishing.com/product.php?id=717\" rel=\"noopener noreferrer\" target=\"_blank\">Selections of Anthropomorphic Regalements: Volume 1</a>, edited by the late K.C. Alpinus and published by <a href=\"https://fenrispublishing.com/info.php\" rel=\"noopener noreferrer\" target=\"_blank\">Goal Publications but now available from Fenris Publishing</a>. You can find more of his stories in \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1081\" rel=\"noopener noreferrer\" target=\"_blank\">Reclamation Project: Year One</a>,\u201d \u201c<a href=\"https://furplanet.com/shop/item.aspx?itemid=1198\" rel=\"noopener noreferrer\" target=\"_blank\">ROAR Volume 11</a>,\u201d the Furry Writers\u2019 Guild\u2019s latest anthology, \u201c<a href=\"https://fenrispublishing.com/product.php?id=1158\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>,\u201d or Juan\u2019s <a href=\"https://www.deviantart.com/wanderinggoose\" rel=\"noopener noreferrer\" target=\"_blank\">DeviantArt gallery</a>.</p><p>Last time, Marisa the teenaged coyote followed her younger brother to the riverbank after he ignored his grandmother\u2019s warnings as superstitious folktales. However, as moonlight covers the land and the air fills with mournful howling, the coyotes will discover some legends are terrifyingly real.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12915,6 +12933,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
@@ -13269,6 +13288,7 @@
             "you-can-watch-me-dance-by-dirt-coyote"
         ],
         "by:domus-vocis": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "fraternity-by-domus-vocis",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2",
@@ -14732,6 +14752,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -15278,6 +15299,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
@@ -16108,6 +16130,7 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2"
         ],
         "narrator:kergiby": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
             "run-by-dirt-coyote-part-2-of-2",
@@ -16736,6 +16759,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-housing-crisis-by-royce-day",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -17589,6 +17613,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",

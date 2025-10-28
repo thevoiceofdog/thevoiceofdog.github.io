@@ -378,6 +378,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0a61b409-7d8a-4e8d-aa0e-ae9bf546b336/There-Was-A-Lock-On-The-Door-by-Rob-MacWolf.mp3",
+            "published_date": "2025-10-28T09:50:00.000Z",
+            "shownotes": "<p><em>The last man on earth, as far as he knows, is sitting alone in a room.</em></p><p>Tonight\u2019s story is \u201cThere Was A Lock On The Door\u201d by <a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, which was originally published in <a href=\"https://a.co/d/cWw4sZl\" rel=\"noopener noreferrer\" target=\"_blank\">Howlin' For You: A Werewolf Charity Anthology</a> from <a href=\"https://bsky.app/profile/frommausoleum.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Voices From the Mausoleum</a>. If you prefer some more wholesome werewolves, you can get his book \u201cYou Look Lost, Pup,\u201d as well as others, from <a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a>.</p><p>Read by Solomon Harries, Cuddly Badger Dad.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "there-was-a-lock-on-the-door-by-rob-macwolf",
+            "summary": "",
+            "tags": [
+                "post-apocalyptic",
+                "ghost-of-dog",
+                "spooky",
+                "action/adventure",
+                "narrator:solomon-harries",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cThere Was A Lock On The Door\u201d by Rob MacWolf (read by Solomon Harries)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b26e4467-1569-4f97-b3aa-544e3d2a83e6/18-Just-Another-Echo-Between-Rest-Stops-by-Domus-Vocis.mp3",
             "published_date": "2025-10-27T09:50:00.000Z",
             "shownotes": "<p>[18+]<em>During the summer of 1985, a bear trucker has an erotic paranormal tryst at a random rest stop. However, this ghost has a personal vendetta.</em></p><p>Tonight\u2019s story is \u201cJust Another Echo Between Rest Stops\u201d by <a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a>, who spends his free time listening to horror podcasts &amp; working the graveyard shift while writing/reading furry fiction. He also recently published a historical romance novella titled \u201c<a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a>\u201d alongside co-author <a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a> in 2023. You can also find more stories on his <a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>.</p><p>Read by Kergiby, a Full Time Panther.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12663,6 +12680,7 @@
     },
     "tags": {
         "action/adventure": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awake-by-jim-redfoot-part-2-of-2",
@@ -13821,6 +13839,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "proud-lament-by-rob-macwolf",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
             "love-against-aggravation-by-rob-macwolf",
@@ -15299,6 +15318,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
@@ -16635,6 +16655,7 @@
             "reticence-a-poem-by-et-al-"
         ],
         "narrator:solomon-harries": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
             "love-against-aggravation-by-rob-macwolf",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
@@ -17090,6 +17111,7 @@
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari"
         ],
         "post-apocalyptic": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-the-creation-of-water-by-leuna",
             "winterfall-beyond-the-white-by-lauren-rivers",
             "eat-your-heart-your-feelings-or-both-by-leuna",
@@ -17613,6 +17635,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",

@@ -378,6 +378,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1c1aca1a-99e4-4839-abf2-39a3f5c2f94d/18-Beyond-the-Forest-by-Ziegenbock-part-2-of-2.mp3",
+            "published_date": "2025-10-30T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Can Igor fend off the threat of the (were)wolves and save his fellow foxes? Or will the feared wolf leader take control?&nbsp;</em></p><p>Tonight\u2019s story is the second and final part of \u201c<a href=\"https://drive.google.com/file/d/1RMZTuZ-FZ6voeyR7MrP0QsmZvr9IhZwO/view?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">Beyond the Forest</a>\u201d by <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Ziegenbock</a>, who a goat who wields both pen and sword (though rarely at the same time). He was the winner of the 2021 Sofurry Short Story Contest, and his work has been published by Thurston Howl Publications and Fenris Publishing. You can find more of his stories on <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a> and <a href=\"http://www.furaffinity.net/user/ziegenbock\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></p><p>Last time, the wolf clan threatened the foxes, determined to make them submit. Igor, the beast-hunting fox, vowed to challenge the leader of the wolves, with the aim of ending the feud once and for all.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
+            "summary": "",
+            "tags": [
+                "adult",
+                "ghost-of-dog",
+                "action/adventure",
+                "historical",
+                "nsfw",
+                "narrator:rob-macwolf",
+                "by:ziegenbock"
+            ],
+            "title": "[18+] \u201cBeyond the Forest\u201d by Ziegenbock (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bd8b930e-f1b2-4ecd-8b9d-48de5484e8df/18-Beyond-the-Forest-by-Ziegenbock-part-1-of-2.mp3",
             "published_date": "2025-10-29T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Werewolves? Surely they don\u2019t exist! But when Igor hears rumours of the beasts threatening a faraway fox clan, the creature-hunting vulpine sets out to investigate.</em></p><p>\ufeffTonight\u2019s story is the first of two parts of \u201c<a href=\"https://drive.google.com/file/d/1YiZ3DM2q7184mXvURQQVpyF9eeFK7iut/view?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">Beyond the Forest</a>\u201d by <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Ziegenbock</a>, a goat who wields both pen and sword (though rarely at the same time). He was the winner of the 2021 Sofurry Short Story Contest, and his work has been published by Thurston Howl Publications and Fenris Publishing. You can find more of his stories on <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a> and <a href=\"http://www.furaffinity.net/user/ziegenbock\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12698,6 +12716,7 @@
     },
     "tags": {
         "action/adventure": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
@@ -12786,6 +12805,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-housing-crisis-by-royce-day",
@@ -14160,6 +14180,7 @@
             "screw-the-looking-glass-by-zack-loup"
         ],
         "by:ziegenbock": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "18-when-in-rome-by-ziegenbock",
             "confluence-by-ziegenbock-18"
@@ -15339,6 +15360,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
@@ -15457,6 +15479,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "a-shadow-over-the-desert-by-rebecca-cascane",
@@ -16495,6 +16518,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "faju-by-tiberiusrings-fruitz",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
@@ -16804,6 +16828,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",

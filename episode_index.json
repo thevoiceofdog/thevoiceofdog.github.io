@@ -378,6 +378,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/78ad1343-897a-40f9-9c2b-8d30b737d3d6/Code-White-by-Madison-Rye-Progress.mp3",
+            "published_date": "2025-10-31T09:50:00.000Z",
+            "shownotes": "<p><em>All of captain Soot's confidence is shaken when a shift starts to go horribly wrong, and the ghosts of the past demand attention\u2026</em></p><p>Tonight\u2019s story is \u201cCode White\u201d by <a href=\"https://makyo.ink\" rel=\"noopener noreferrer\" target=\"_blank\">Madison Rye Progress</a>, whose graphomania occasionally gets the best of her. She is the author of a round dozen books, with her most recent, <em>Idumea</em>, telling of the escape from samsara in a digital world.</p><p>Read by Kergiby, a Full Time Panther.</p><p><a href=\"https://github.com/Skyrat-SS13/Skyrat13/pull/2202\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Alert sound effects</em></a><em> by Afya212, licensed under a Creative Commons license.</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "code-white-by-madison-rye-progress",
+            "summary": "",
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "sci-fi",
+                "trauma",
+                "violence",
+                "narrator:kergiby",
+                "by:madison-rye-progress"
+            ],
+            "title": "\u201cCode White\u201d by Madison Rye Progress (read by Kergiby)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1c1aca1a-99e4-4839-abf2-39a3f5c2f94d/18-Beyond-the-Forest-by-Ziegenbock-part-2-of-2.mp3",
             "published_date": "2025-10-30T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Can Igor fend off the threat of the (were)wolves and save his fellow foxes? Or will the feared wolf leader take control?&nbsp;</em></p><p>Tonight\u2019s story is the second and final part of \u201c<a href=\"https://drive.google.com/file/d/1RMZTuZ-FZ6voeyR7MrP0QsmZvr9IhZwO/view?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">Beyond the Forest</a>\u201d by <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Ziegenbock</a>, who a goat who wields both pen and sword (though rarely at the same time). He was the winner of the 2021 Sofurry Short Story Contest, and his work has been published by Thurston Howl Publications and Fenris Publishing. You can find more of his stories on <a href=\"http://ziegenbock.sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a> and <a href=\"http://www.furaffinity.net/user/ziegenbock\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></p><p>Last time, the wolf clan threatened the foxes, determined to make them submit. Igor, the beast-hunting fox, vowed to challenge the leader of the wolves, with the aim of ending the feud once and for all.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13692,6 +13710,9 @@
             "the-widehorn-herd-by-madison-keller",
             "bucking-the-trend-by-madison-keller"
         ],
+        "by:madison-rye-progress": [
+            "code-white-by-madison-rye-progress"
+        ],
         "by:madison-scott-clary": [
             "the-presence-between-the-pages-by-madison-scott-clary",
             "morning-of-by-madison-scott-clary",
@@ -15360,6 +15381,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "code-white-by-madison-rye-progress",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
@@ -16196,6 +16218,7 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2"
         ],
         "narrator:kergiby": [
+            "code-white-by-madison-rye-progress",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-2-of-2",
             "18-upon-thy-grave-from-the-ashes-of-my-heart-by-batced-part-1-of-2",
@@ -17620,6 +17643,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "code-white-by-madison-rye-progress",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "winterfall-empty-places-by-lauren-rivers",
             "an-atomic-fairy-tale-by-chase-anderson",
@@ -17685,6 +17709,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "code-white-by-madison-rye-progress",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
@@ -17889,6 +17914,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "code-white-by-madison-rye-progress",
             "18-housing-crisis-by-royce-day",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",
             "18-cozy-beginnings-by-herr-wozzeck-part-1-of-2",
@@ -17909,6 +17935,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "code-white-by-madison-rye-progress",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",

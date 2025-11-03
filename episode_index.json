@@ -379,6 +379,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/adf1a382-9b76-4434-b3f1-f55f61287090/Antiherd-Tendencies-by-Bighorn-Bill.mp3",
+            "published_date": "2025-11-03T09:50:00.000Z",
+            "shownotes": "<p><em>The forebearers left us roads and blueprints, but our animal instincts remain. </em></p><p>\ufeffToday\u2019s story is \u201cAntiherd Tendencies\u201d by <a href=\"https://www.furaffinity.net/user/muttonchopped/\" rel=\"noopener noreferrer\" target=\"_blank\">Bighorn Bill</a>, a student of the natural world.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "antiherd-tendencies-by-bighorn-bill",
+            "summary": null,
+            "tags": [
+                "spooky",
+                "action/adventure",
+                "post-apocalyptic",
+                "blood",
+                "narrator:rob-macwolf",
+                "by:bighorn-bill"
+            ],
+            "title": "\u201cAntiherd Tendencies\u201d by Bighorn Bill"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/78ad1343-897a-40f9-9c2b-8d30b737d3d6/Code-White-by-Madison-Rye-Progress.mp3",
             "published_date": "2025-10-31T09:50:00.000Z",
             "shownotes": "<p><em>All of captain Soot's confidence is shaken when a shift starts to go horribly wrong, and the ghosts of the past demand attention\u2026</em></p><p>Tonight\u2019s story is \u201cCode White\u201d by <a href=\"https://makyo.ink\" rel=\"noopener noreferrer\" target=\"_blank\">Madison Rye Progress</a>, whose graphomania occasionally gets the best of her. She is the author of a round dozen books, with her most recent, <em>Idumea</em>, telling of the escape from samsara in a digital world.</p><p>Read by Kergiby, a Full Time Panther.</p><p><a href=\"https://github.com/Skyrat-SS13/Skyrat13/pull/2202\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Alert sound effects</em></a><em> by Afya212, licensed under a Creative Commons license.</em></p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12736,6 +12753,7 @@
     },
     "tags": {
         "action/adventure": [
+            "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
@@ -13011,6 +13029,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "antiherd-tendencies-by-bighorn-bill",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
@@ -13238,6 +13257,9 @@
         ],
         "by:bering": [
             "if-only-for-a-night-by-bering"
+        ],
+        "by:bighorn-bill": [
+            "antiherd-tendencies-by-bighorn-bill"
         ],
         "by:bill-ricardi": [
             "unseelie-pie-by-bill-ricardi",
@@ -16543,6 +16565,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "faju-by-tiberiusrings-fruitz",
@@ -17186,6 +17209,7 @@
             "snow-puppy-by-patrigue-18-read-by-crimson-ruari"
         ],
         "post-apocalyptic": [
+            "antiherd-tendencies-by-bighorn-bill",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-the-creation-of-water-by-leuna",
             "winterfall-beyond-the-white-by-lauren-rivers",
@@ -17711,6 +17735,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "antiherd-tendencies-by-bighorn-bill",
             "code-white-by-madison-rye-progress",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",

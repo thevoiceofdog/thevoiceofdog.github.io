@@ -381,6 +381,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cd729d92-7357-4a70-8d23-74c76c37f2be/Aces-High-by-J-Daniel-Phillips-Part-1-of-2.mp3",
+            "published_date": "2025-11-10T09:50:00.000Z",
+            "shownotes": "<p><em>A murdered bank robber is revived to enact otherworldly justice on his former companions. Tracking his first target, he heads into the Rockies\u2026</em></p><p>Today\u2019s story is the first of two parts of an excerpt from \u201c<a href=\"https://boundtales.storenvy.com/products/33918145-aces-high\" rel=\"noopener noreferrer\" target=\"_blank\">Aces High</a>\u201d by <a href=\"https://twitter.com/Greyhound1211\" rel=\"noopener noreferrer\" target=\"_blank\">J. Daniel Phillips</a>, runner-up for the Coyotl Award for best novel in 2021. The full book is available from <a href=\"https://smile.amazon.com/dp/B09HQH2B8Y/ref=cm_sw_r_tw_dp_CS75QKQWNNCV1FM7JBWS\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon,</a> or (preferably) from <a href=\"https://fenrispublishing.com/product.php?id=1167\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a> if you\u2019re interested in learning how the rest of the story develops, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/greyhound1211/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity and Amazon</a>.</p><p>Read by Carrizo, your Coyote in Court.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "aces-high-by-j-daniel-phillips-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "spooky",
+                "military",
+                "western",
+                "crime",
+                "historical",
+                "blood",
+                "narrator:carrizo",
+                "by:j-daniel-phillips"
+            ],
+            "title": "\u201cAces High\u201d by J. Daniel Phillips (read by Carizzo, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/adf1a382-9b76-4434-b3f1-f55f61287090/Antiherd-Tendencies-by-Bighorn-Bill.mp3",
             "published_date": "2025-11-03T09:50:00.000Z",
             "shownotes": "<p><em>The forebearers left us roads and blueprints, but our animal instincts remain. </em></p><p>\ufeffToday\u2019s story is \u201cAntiherd Tendencies\u201d by <a href=\"https://www.furaffinity.net/user/muttonchopped/\" rel=\"noopener noreferrer\" target=\"_blank\">Bighorn Bill</a>, a student of the natural world.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13033,6 +13052,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
@@ -13581,6 +13601,9 @@
         "by:j-b-rockwell": [
             "monkeyshines-by-j-b-rockwell-part-2-of-2",
             "monkeyshines-by-j-b-rockwell-part-1-of-2"
+        ],
+        "by:j-daniel-phillips": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2"
         ],
         "by:j-f-r-coates": [
             "lights-in-the-sky-by-j-fr-coates-part-2-of-2",
@@ -14809,6 +14832,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
@@ -15529,6 +15553,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
@@ -16017,6 +16042,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "a-fox-walks-into-a-bar-by-spottystuff-part-1-of-2",
             "machine-learning-by-kohitsugi",
@@ -16131,6 +16157,7 @@
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-1-of-2",
             "same-as-me-by-nighteyes-dayspring",
@@ -17739,6 +17766,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",
             "code-white-by-madison-rye-progress",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
@@ -17987,6 +18015,7 @@
             "eagle-s-splendour-by-ryan-campbell"
         ],
         "western": [
+            "aces-high-by-j-daniel-phillips-part-1-of-2",
             "firekeepers-by-aether-breeze",
             "the-hole-inside-by-dirt-coyote",
             "sing-in-me-holy-one-and-through-me-by-rob-macwolf-part-2-of-2",

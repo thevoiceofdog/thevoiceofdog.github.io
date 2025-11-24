@@ -381,6 +381,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0d6b9281-06c8-47f6-a464-6c14cbf3aa76/18-Rapture-by-Shiloh-Skye-part-1-of-2.mp3",
+            "published_date": "2025-11-24T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>When Petra, a 20 year old trans man, is baptised into the Gnostic church, the Rapture occurs, transforming him and his two lovers into beasts.</em></p><p>Today\u2019s story is the first of two parts of \u201c<a href=\"https://www.shilohskye.com/post/rapture-a-short-story\" rel=\"noopener noreferrer\" target=\"_blank\">Rapture</a>\u201d by <a href=\"https://www.shilohskye.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Shiloh Skye</a>, writer, editor, dog. You can find more of his work, as well as book reviews, recommendations, and info about where to find more great furry fiction, on his website at <a href=\"https://ShilohSkye.com\" rel=\"noopener noreferrer\" target=\"_blank\">ShilohSkye.com</a>.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "rapture-by-shiloh-skye-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "queer",
+                "transgender",
+                "legend",
+                "epic",
+                "fantasy",
+                "by:shiloh-skye",
+                "narrator:shiloh-skye"
+            ],
+            "title": "[18+] \u201cRapture\u201d by Shiloh Skye (read by the Author, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6bef531c-2f48-4822-9cad-80e86e8fd42a/Aces-High-by-J-Daniel-Phillips-part-2-of-2.mp3",
             "published_date": "2025-11-17T09:50:00.000Z",
             "shownotes": "<p><em>Having intimidated the young Robin Valentine, John follows his bloody trail to where his first quarry - and his murderer - hides.</em></p><p>Today\u2019s story is the second and final part of and excerpt from \u201c<a href=\"https://boundtales.storenvy.com/products/33918145-aces-high\" rel=\"noopener noreferrer\" target=\"_blank\">Aces High</a>\u201d by <a href=\"https://twitter.com/Greyhound1211\" rel=\"noopener noreferrer\" target=\"_blank\">J. Daniel Phillips</a>, in 2021 the runner-up for a Coyotl Award for best novel. The full book is available from <a href=\"https://smile.amazon.com/dp/B09HQH2B8Y/ref=cm_sw_r_tw_dp_CS75QKQWNNCV1FM7JBWS\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon,</a> or (preferably) from <a href=\"https://fenrispublishing.com/product.php?id=1167\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a> if you\u2019re interested in learning how the story develops, and you can find more of his stories on <a href=\"https://www.furaffinity.net/user/greyhound1211/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity and Amazon</a>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -14075,6 +14094,9 @@
             "second-chance-by-sean-duroc-silva-part-2-of-2",
             "second-chance-by-sean-duroc-silva-part-1-of-2"
         ],
+        "by:shiloh-skye": [
+            "rapture-by-shiloh-skye-part-1-of-2"
+        ],
         "by:signatelli": [
             "where-no-man-walks-by-signatelli-part-2-of-2",
             "where-no-man-walks-by-signatelli-part-1-of-2"
@@ -14279,6 +14301,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -15176,6 +15199,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "the-scratching-by-renard-avec-histoire",
@@ -15290,6 +15314,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "the-forest",
             "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
@@ -15829,6 +15854,7 @@
             "always-tomorrow-by-frances-pauli"
         ],
         "legend": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "an-atomic-fairy-tale-by-chase-anderson",
             "18-ishkode-dreaming-by-kohitsuji",
             "unspoken-by-arian-mabe",
@@ -16799,6 +16825,9 @@
         "narrator:royce-day": [
             "18-housing-crisis-by-royce-day"
         ],
+        "narrator:shiloh-skye": [
+            "rapture-by-shiloh-skye-part-1-of-2"
+        ],
         "narrator:sierra": [
             "a-dragons-redemption-by-evan-drake-part-2-of-2",
             "a-dragons-redemption-by-evan-drake-part-1-of-2",
@@ -17385,6 +17414,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
@@ -17987,6 +18017,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "rapture-by-shiloh-skye-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "splitting-hares-by-lauren-rivers",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",

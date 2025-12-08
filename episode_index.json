@@ -382,6 +382,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/00c2307c-bd1c-4f3e-9011-02858934e927/Letters-to-Luzia-by-Casterway-part-1-of-2.mp3",
+            "published_date": "2025-12-08T09:50:00.000Z",
+            "shownotes": "<p><em>Fideli the fox is torn between his affection for the otter prince Kuniwin and his loyalties towards his imprisoned mother Luzia.</em></p><p>Today\u2019s story is the first of two parts of Letters to Luzia by Casterway, a young ursine writer whose obsession with history led him to join the Furry Historical Fiction Society. You can find this story, among others, in the Early Modern anthology \u201c<a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-print\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a>,\u201d available later this week. Casterway originally entered the field of writing by way of fanfictions about Redwall and the Elder Scrolls which could be found on <a href=\"https://archiveofourown.org/users/Casterway\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a>, and he can also be contacted on <a href=\"https://bsky.app/profile/lazrin.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a>.</p><p>Read by Dralen, the Dapper Dragonfox, and Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "letters-to-luzia-by-casterway-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "historical",
+                "lgbtq+",
+                "romance",
+                "drama",
+                "narrator:dralen",
+                "by:casterway"
+            ],
+            "title": "\u201cLetters to Luzia\u201d by Casterway (read by Dralen and Khaki, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/3322d6a3-3e83-468e-b527-b5bad8b35df2/18-Rapture-by-Shiloh-Skye-part-2-of-2.mp3",
             "published_date": "2025-12-01T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>As Petra, Mark, and Seth reach Thunder Hill, Petra struggles to suppress his desires, and the true nature of the Rapture is revealed.</em></p><p>Today\u2019s story is the second and final part of \u201c<a href=\"https://www.shilohskye.com/post/rapture-a-short-story\" rel=\"noopener noreferrer\" target=\"_blank\">Rapture</a>\u201d by <a href=\"https://www.shilohskye.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Shiloh Skye</a>, writer, editor, dog. You can find more of his work, as well as book reviews, recommendations, and info about where to find more great furry fiction, on his website at <a href=\"https://ShilohSkye.com\" rel=\"noopener noreferrer\" target=\"_blank\">ShilohSkye.com</a>.</p><p>Read by the Author.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -13384,6 +13401,9 @@
             "darker-things-than-man-by-casimir-laski",
             "riddles-with-a-raven-by-casimir-laski"
         ],
+        "by:casterway": [
+            "letters-to-luzia-by-casterway-part-1-of-2"
+        ],
         "by:celtic-kitsune": [
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
@@ -14955,6 +14975,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "letters-to-luzia-by-casterway-part-1-of-2",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-housing-crisis-by-royce-day",
@@ -15625,6 +15646,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "letters-to-luzia-by-casterway-part-1-of-2",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
@@ -15920,6 +15942,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "letters-to-luzia-by-casterway-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
@@ -16293,6 +16316,7 @@
             "hi-im-jack-and-im-not-from-this-world-by-dirt-coyote-read-by-the-author"
         ],
         "narrator:dralen": [
+            "letters-to-luzia-by-casterway-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "through-the-fog-by-tyto-phoenix",
             "18-brandy-and-fire-by-driftwood",
@@ -17570,6 +17594,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "letters-to-luzia-by-casterway-part-1-of-2",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "18-votive-by-packwolf-lupestripe",
             "18-firsts-by-tj-minde-part-2-of-2",

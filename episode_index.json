@@ -24,7 +24,6 @@
             "by:arilin-thorferra",
             "by:ashe-valisca",
             "by:b-p-rugger",
-            "by:bandanadog",
             "by:bartan-tirix",
             "by:batced",
             "by:beachfox",
@@ -863,14 +862,14 @@
             "published_date": "2025-09-08T09:50:00.000Z",
             "shownotes": "<p>[18+]<em> A young human named Asa stumbles upon a secret: Wolfhead Trail is home to a real werewolf. Little does he know, Lyros is waiting for a mate.</em></p><p>Today\u2019s story is \u201cThe Forest\u201d by Rykar Thornpaw, a wheel-chair using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.</p><p>Read by BandanaDog, Unorthodox Spacetime Drifter.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
             "slug": "the-forest",
-            "summary": "",
+            "summary": null,
             "tags": [
                 "adult",
                 "fantasy",
                 "action/adventure",
                 "nsfw",
                 "narrator:bandanadog",
-                "by:bandanadog"
+                "by:rykar-thornpaw"
             ],
             "title": "[18+] \u201cThe Forest\u201d (read by BandanaDog)"
         },
@@ -12540,7 +12539,6 @@
         "by:arilin-thorferra": "Author: Arilin Thorferra",
         "by:ashe-valisca": "Author: Ashe Valisca",
         "by:b-p-rugger": "Author: B. P. Rugger",
-        "by:bandanadog": "Author: BandanaDog)",
         "by:bartan-tirix": "Author: Bartan Tirix",
         "by:batced": "Author: Batced",
         "by:beachfox": "Author: Beachfox",
@@ -13356,9 +13354,6 @@
             "colour-me-terrified-by-b-p-rugger-18",
             "of-his-flesh-the-mystery-sing-by-b-p-rugger-18"
         ],
-        "by:bandanadog": [
-            "the-forest"
-        ],
         "by:bartan-tirix": [
             "all-for-you-4-by-bartan-tirix-18"
         ],
@@ -14130,6 +14125,7 @@
             "eagle-s-splendour-by-ryan-campbell"
         ],
         "by:rykar-thornpaw": [
+            "the-forest",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2"
         ],

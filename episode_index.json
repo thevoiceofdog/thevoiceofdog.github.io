@@ -386,6 +386,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/46389e70-f4f1-43da-8f58-bb2df4a12b59/Winterwreath-by-J-S-Hawthorne.mp3",
+            "published_date": "2025-12-22T09:50:00.000Z",
+            "shownotes": "<p><em>The holiday of Winterwreath has come once again, though not everyone is celebrating.</em></p><p>Today\u2019s story is \u201cWinterwreath\u201d by J.S. Hawthorne, who keeps wandering off on sidequests, and whose work can be found in \u201cThe Wideness of the World\u201d and other anthologies by the <a href=\"https://www.tfpublishing.com.au/store?category=Anthology\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a>. You can read more about Micah and Tarr in <a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>, available now from Fenris Publishing.</p><p>Read by Apollo Brightflank, who still returns to the prairie.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "winterwreath-by-j-s-hawthorne",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "holiday",
+                "romance",
+                "action/adventure",
+                "fantasy",
+                "police-violence",
+                "by:j-s-hawthorne",
+                "narrator:apollo-brightflank"
+            ],
+            "title": "\u201cWinterwreath\u201d by J.S. Hawthorne (read by Apollo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0b9d1abf-75e7-437a-9686-279be22b5b1a/Letters-to-Luzia-by-Casterway-part-2-of-2.mp3",
             "published_date": "2025-12-15T09:50:00.000Z",
             "shownotes": "<p><em>Fideli\u2019s first attempt at both romancing Kuniwin and securing his mother Luzia\u2019s release has failed resoundingly. He resolves to try again.</em></p><p>Today\u2019s story is the second and final part of Letters to Luzia by Casterway, a young ursine writer whose obsession with history influenced him to join the Furry Historical Fiction Society. You can find this story, among others, in the just-released anthology \u201c<a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-print\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a>.\u201d Casterway originally entered the field of writing by way of fanfictions about Redwall and the Elder Scrolls which could be found on <a href=\"https://archiveofourown.org/users/Casterway\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a>, and he can also be contacted on <a href=\"https://bsky.app/profile/lazrin.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a>.</p><p>Read by Dralen, the Dapper Dragonfox, and Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12878,6 +12897,7 @@
     },
     "tags": {
         "action/adventure": [
+            "winterwreath-by-j-s-hawthorne",
             "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
@@ -13715,6 +13735,7 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "winterwreath-by-j-s-hawthorne",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "love-like-echoed-fire-by-js-hawthorne",
@@ -14368,6 +14389,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -15384,6 +15406,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
             "the-forest",
@@ -15813,6 +15836,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "winterwreath-by-j-s-hawthorne",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "fraternity-by-domus-vocis",
             "jumping-to-conclusions-by-tiberiusrings-fruitz",
@@ -16254,6 +16278,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "winterwreath-by-j-s-hawthorne",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "an-atomic-fairy-tale-by-chase-anderson"
@@ -17317,6 +17342,7 @@
             "grenadine-by-partvoid"
         ],
         "police-violence": [
+            "winterwreath-by-j-s-hawthorne",
             "all-means-all-by-rob-macwolf",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
             "18-the-creation-of-water-by-leuna",
@@ -17622,6 +17648,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "winterwreath-by-j-s-hawthorne",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
             "18-rapture-by-shiloh-skye-part-2-of-2",

@@ -386,6 +386,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c140808c-4aa9-4a6b-a9e3-22988f470c24/Not-To-This-Retreat-of-Mine-by-Rob-MacWolf.mp3",
+            "published_date": "2025-12-24T09:50:00.000Z",
+            "shownotes": "<p><em>Hearken to a Winter\u2019s Tale, from Olden Times, of Castles Cold and Firesides Warm, wherein may be reveal\u2019d Secret Wisdom to those Fortunate enough to Discern it.</em></p><p>Today\u2019s story is \u201cNot to This Retreat of Mine\u201d by <a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who wishes every other lone wanderer on the winter roads a fireside to rest at. He is author of <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">You Look Lost, Pup</a> and <a href=\"https://www.bewere.net/product.php?id=1161\" rel=\"noopener noreferrer\" target=\"_blank\">Of Late Belonging</a>, and you can find more of his stories from both <a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a> and <a href=\"https://baddogbooks.com/product-tag/rob-macwolf/\" rel=\"noopener noreferrer\" target=\"_blank\">Bad Dog Books</a>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "not-to-this-retreat-of-mine-by-rob-macwolf",
+            "summary": null,
+            "tags": [
+                "holiday",
+                "historical",
+                "epic",
+                "medieval",
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cNot To This Retreat of Mine\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/46389e70-f4f1-43da-8f58-bb2df4a12b59/Winterwreath-by-J-S-Hawthorne.mp3",
             "published_date": "2025-12-22T09:50:00.000Z",
             "shownotes": "<p><em>The holiday of Winterwreath has come once again, though not everyone is celebrating.</em></p><p>Today\u2019s story is \u201cWinterwreath\u201d by J.S. Hawthorne, who keeps wandering off on sidequests, and whose work can be found in \u201cThe Wideness of the World\u201d and other anthologies by the <a href=\"https://www.tfpublishing.com.au/store?category=Anthology\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a>. You can read more about Micah and Tarr in <a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild: Blood and Water</a>, available now from Fenris Publishing.</p><p>Read by Apollo Brightflank, who still returns to the prairie.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -14060,6 +14077,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "proud-lament-by-rob-macwolf",
             "the-young-man-who-knew-where-he-was-going-by-rob-macwolf",
@@ -15263,6 +15281,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "rapture-by-shiloh-skye-part-1-of-2",
             "dicking-around-by-dirt-coyote",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -15666,6 +15685,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
@@ -15808,6 +15828,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "winterwreath-by-j-s-hawthorne",
             "solstice-gifts-by-royce-day",
             "the-seekers-of-winter-by-alex-t-dragonson",
@@ -16128,6 +16149,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "hope-by-russell-knight",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -16716,6 +16738,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "not-to-this-retreat-of-mine-by-rob-macwolf",
             "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",

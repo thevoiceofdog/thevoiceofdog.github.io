@@ -386,6 +386,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/034f5d21-6cbc-4cc8-81e3-15f3b5b9bd44/The-Whole-Moon-by-K-C-Shaw.mp3",
+            "published_date": "2025-12-29T09:50:00.000Z",
+            "shownotes": "<p><em>A raccoon and a skunk try to summon the moon, but the results aren\u2019t what they want\u2026but maybe they\u2019re what they both need. </em></p><p>Today\u2019s story is \u201cThe Whole Moon\u201d by K.C. Shaw, who lives in Atlanta with her lucky black cats, Dracula and Belladonna. You can find more of her stories on her <a href=\"https://www.patreon.com/cw/KateShaw\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>, or in the collection <a href=\"https://www.goodreads.com/book/show/222115194-catfish-and-other-stories\" rel=\"noopener noreferrer\" target=\"_blank\">Catfish and Other Stories</a>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-whole-moon-by-k-c-shaw",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "holiday",
+                "romance",
+                "crime",
+                "contemporary",
+                "by:k-c-shaw",
+                "narrator:k-c-shaw"
+            ],
+            "title": "\u201cThe Whole Moon\u201d by K.C. Shaw"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c140808c-4aa9-4a6b-a9e3-22988f470c24/Not-To-This-Retreat-of-Mine-by-Rob-MacWolf.mp3",
             "published_date": "2025-12-24T09:50:00.000Z",
             "shownotes": "<p><em>Hearken to a Winter\u2019s Tale, from Olden Times, of Castles Cold and Firesides Warm, wherein may be reveal\u2019d Secret Wisdom to those Fortunate enough to Discern it.</em></p><p>Today\u2019s story is \u201cNot to This Retreat of Mine\u201d by <a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a>, who wishes every other lone wanderer on the winter roads a fireside to rest at. He is author of <a href=\"https://www.bewere.net/product.php?id=1088\" rel=\"noopener noreferrer\" target=\"_blank\">You Look Lost, Pup</a> and <a href=\"https://www.bewere.net/product.php?id=1161\" rel=\"noopener noreferrer\" target=\"_blank\">Of Late Belonging</a>, and you can find more of his stories from both <a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a> and <a href=\"https://baddogbooks.com/product-tag/rob-macwolf/\" rel=\"noopener noreferrer\" target=\"_blank\">Bad Dog Books</a>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13784,6 +13802,7 @@
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2"
         ],
         "by:k-c-shaw": [
+            "the-whole-moon-by-k-c-shaw",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
             "sound-check-by-k-c-shaw"
         ],
@@ -14390,6 +14409,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
@@ -14809,6 +14829,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "the-whole-moon-by-k-c-shaw",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
@@ -14956,6 +14977,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "the-whole-moon-by-k-c-shaw",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "the-other-by-js-hawthorne-part-2-of-2",
@@ -15828,6 +15850,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
+            "the-whole-moon-by-k-c-shaw",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "winterwreath-by-j-s-hawthorne",
             "solstice-gifts-by-royce-day",
@@ -16409,6 +16432,9 @@
             "18-good-bones-by-galen-lk-part-1-of-2",
             "18-how-they-brought-the-good-news-to-the-beast-of-aix-by-solomon-harries-and-rob-macwolf",
             "18-the-creation-of-water-by-leuna"
+        ],
+        "narrator:k-c-shaw": [
+            "the-whole-moon-by-k-c-shaw"
         ],
         "narrator:kai": [
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2",
@@ -17637,6 +17663,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",

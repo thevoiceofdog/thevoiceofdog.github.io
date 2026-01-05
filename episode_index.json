@@ -386,6 +386,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a5a8dac-404e-4c61-a5ac-e5580de8e3be/18-Summer-by-Lou-le-Loup.mp3",
+            "published_date": "2026-01-05T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>During an intense heat wave, a couple, Flynn the fox and Sage the deer, finally share an intimate night for the first time in their relationship.</em></p><p>\ufeffToday\u2019s story is \u201cSummer\u201d by Lou le Loup, a biologist and internet wolf who writes in his free time as a hobby. He posts his work to his <a href=\"https://www.furaffinity.net/user/louleloup/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>. This story is an excerpt from his longer work, <a href=\"https://www.furaffinity.net/view/57873830/\" rel=\"noopener noreferrer\" target=\"_blank\">Winter</a>, a work with an overall tone much darker than that of this more lighthearted excerpt.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "18-summer-by-lou-le-loup",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "excerpt",
+                "nsfw",
+                "by:lou-le-loup",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cSummer\u201d by Lou le Loup"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/034f5d21-6cbc-4cc8-81e3-15f3b5b9bd44/The-Whole-Moon-by-K-C-Shaw.mp3",
             "published_date": "2025-12-29T09:50:00.000Z",
             "shownotes": "<p><em>A raccoon and a skunk try to summon the moon, but the results aren\u2019t what they want\u2026but maybe they\u2019re what they both need. </em></p><p>Today\u2019s story is \u201cThe Whole Moon\u201d by K.C. Shaw, who lives in Atlanta with her lucky black cats, Dracula and Belladonna. You can find more of her stories on her <a href=\"https://www.patreon.com/cw/KateShaw\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a>, or in the collection <a href=\"https://www.goodreads.com/book/show/222115194-catfish-and-other-stories\" rel=\"noopener noreferrer\" target=\"_blank\">Catfish and Other Stories</a>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13902,6 +13919,9 @@
             "eat-your-heart-your-feelings-or-both-by-leuna",
             "hunter-on-the-shelves-by-leuna"
         ],
+        "by:lou-le-loup": [
+            "18-summer-by-lou-le-loup"
+        ],
         "by:madison-keller": [
             "the-widehorn-herd-by-madison-keller",
             "bucking-the-trend-by-madison-keller"
@@ -14409,6 +14429,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-summer-by-lou-le-loup",
             "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
@@ -15346,6 +15367,7 @@
             "to-find-you-by-kandrel-18"
         ],
         "excerpt": [
+            "18-summer-by-lou-le-loup",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-2-of-2",
             "excerpt-from-wolf-of-withervale-by-joaquin-baldwin-part-1-of-2",
             "lost-inside-the-blue-line-by-harry-a-wozzeck",
@@ -16764,6 +16786,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-summer-by-lou-le-loup",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
@@ -17080,6 +17103,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-summer-by-lou-le-loup",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
@@ -17663,6 +17687,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-summer-by-lou-le-loup",
             "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",
             "letters-to-luzia-by-casterway-part-2-of-2",

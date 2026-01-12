@@ -351,11 +351,13 @@
             "western"
         ],
         "uncategorized": [
+            " holiday",
             "alcohol",
             "bi",
             "contemorary",
             "death",
             "drama queerphobia",
+            "folktale",
             "human",
             "live",
             "magical-realism",
@@ -392,12 +394,12 @@
             "slug": "18-summer-by-lou-le-loup",
             "summary": null,
             "tags": [
-                "check-tags",
+                "lgbtq+",
                 "romance",
                 "excerpt",
                 "nsfw",
-                "by:lou-le-loup",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:lou-le-loup"
             ],
             "title": "[18+] \u201cSummer\u201d by Lou le Loup"
         },
@@ -409,13 +411,12 @@
             "slug": "the-whole-moon-by-k-c-shaw",
             "summary": null,
             "tags": [
-                "check-tags",
-                "holiday",
+                " holiday",
                 "romance",
                 "crime",
                 "contemporary",
-                "by:k-c-shaw",
-                "narrator:k-c-shaw"
+                "narrator:k-c-shaw",
+                "by:k-c-shaw"
             ],
             "title": "\u201cThe Whole Moon\u201d by K.C. Shaw"
         },
@@ -444,14 +445,13 @@
             "slug": "winterwreath-by-j-s-hawthorne",
             "summary": null,
             "tags": [
-                "check-tags",
                 "holiday",
                 "romance",
                 "action/adventure",
                 "fantasy",
                 "police-violence",
-                "by:j-s-hawthorne",
-                "narrator:apollo-brightflank"
+                "narrator:apollo-brightflank",
+                "by:j-s-hawthorne"
             ],
             "title": "\u201cWinterwreath\u201d by J.S. Hawthorne (read by Apollo)"
         },
@@ -497,15 +497,14 @@
             "slug": "18-rapture-by-shiloh-skye-part-2-of-2",
             "summary": null,
             "tags": [
-                "check-tags",
                 "queer",
                 "transgender",
                 "romance",
                 "mystery",
                 "fantasy",
                 "nsfw",
-                "by:shiloh-skye",
-                "narrator:shiloh-skye"
+                "narrator:shiloh-skye",
+                "by:shiloh-skye"
             ],
             "title": "[18+] \u201cRapture\u201d by Shiloh Skye (read by the Author, part 2 of 2)"
         },
@@ -517,14 +516,13 @@
             "slug": "rapture-by-shiloh-skye-part-1-of-2",
             "summary": null,
             "tags": [
-                "check-tags",
                 "queer",
                 "transgender",
                 "legend",
                 "epic",
                 "fantasy",
-                "by:shiloh-skye",
-                "narrator:shiloh-skye"
+                "narrator:shiloh-skye",
+                "by:shiloh-skye"
             ],
             "title": "[18+] \u201cRapture\u201d by Shiloh Skye (read by the Author, part 1 of 2)"
         },
@@ -12567,6 +12565,7 @@
         }
     ],
     "tagnames": {
+        " holiday": " Holiday",
         "action/adventure": "Action/Adventure",
         "adult": "Adult",
         "alcohol": "Alcohol",
@@ -12818,6 +12817,7 @@
         "family-saga": "Family Saga",
         "fantasy": "Fantasy",
         "fireside-meeting": "Fireside Meeting",
+        "folktale": "Folktale",
         "gay": "Gay",
         "ghost-of-dog": "Ghost of Dog",
         "gore": "Gore",
@@ -12863,7 +12863,7 @@
         "narrator:ian-madison-keller": "Narrator: Ian Madison Keller",
         "narrator:ianus-j-wolf": "Narrator: Ianus J. Wolf",
         "narrator:icefang": "Narrator: Icefang",
-        "narrator:k-c-shaw": "Narrator: K.C. Shaw",
+        "narrator:k-c-shaw": "Narrator: K C Shaw",
         "narrator:kai": "Narrator: Kai",
         "narrator:kergiby": "Narrator: Kergiby",
         "narrator:khaki": "Narrator: Khaki",
@@ -12931,6 +12931,9 @@
         "western": "Western"
     },
     "tags": {
+        " holiday": [
+            "the-whole-moon-by-k-c-shaw"
+        ],
         "action/adventure": [
             "winterwreath-by-j-s-hawthorne",
             "antiherd-tendencies-by-bighorn-bill",
@@ -14429,11 +14432,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "18-summer-by-lou-le-loup",
-            "the-whole-moon-by-k-c-shaw",
-            "winterwreath-by-j-s-hawthorne",
-            "18-rapture-by-shiloh-skye-part-2-of-2",
-            "rapture-by-shiloh-skye-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -15872,7 +15870,6 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "holiday": [
-            "the-whole-moon-by-k-c-shaw",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "winterwreath-by-j-s-hawthorne",
             "solstice-gifts-by-royce-day",
@@ -16025,6 +16022,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-summer-by-lou-le-loup",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",

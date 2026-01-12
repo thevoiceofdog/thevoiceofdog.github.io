@@ -388,6 +388,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e6dff875-12c0-440e-ab0c-322351379190/Appleseed-by-Marisca-Pichette.mp3",
+            "published_date": "2026-01-12T09:50:00.000Z",
+            "shownotes": "<p><em>You may have heard this story as a child, but you did not hear all of it. Wolves inhabit more than fairytales and folklore sprouts from real history\u2026</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Appleseed</a>\u201d by <a href=\"https://www.mariscapichette.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Marisca Pichette</a>, who has published more than a hundred short stories and three hundred poems, and whose eco-horror novella, <a href=\"https://ghostorchidpress.square.site/product/every-dark-cloud-by-marisca-pichette-paperback-/60?cp=true&amp;sa=false&amp;sbp=false&amp;q=false&amp;category_id=3\" rel=\"noopener noreferrer\" target=\"_blank\">EVERY DARK CLOUD,</a> is out now from <a href=\"https://ghostorchidpress.square.site/\" rel=\"noopener noreferrer\" target=\"_blank\">Ghost Orchid Press</a>. Find links to all her work on <a href=\"https://www.mariscapichette.com/\" rel=\"noopener noreferrer\" target=\"_blank\">mariscapichette.com</a>. You can find this, alongside other wolf stories, in <a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Spirit of the Wolf</a> from Wolfsinger Publications, proceeds of which go to benefit a wolf sanctuary.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "appleseed-by-marisca-pichette",
+            "summary": null,
+            "tags": [
+                "folktale",
+                "action/adventure",
+                "blood",
+                "narrator:rob-macwolf",
+                "by:marisca-pichette"
+            ],
+            "title": "\u201cAppleseed\u201d by Marisca Pichette"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a5a8dac-404e-4c61-a5ac-e5580de8e3be/18-Summer-by-Lou-le-Loup.mp3",
             "published_date": "2026-01-05T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>During an intense heat wave, a couple, Flynn the fox and Sage the deer, finally share an intimate night for the first time in their relationship.</em></p><p>\ufeffToday\u2019s story is \u201cSummer\u201d by Lou le Loup, a biologist and internet wolf who writes in his free time as a hobby. He posts his work to his <a href=\"https://www.furaffinity.net/user/louleloup/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a>. This story is an excerpt from his longer work, <a href=\"https://www.furaffinity.net/view/57873830/\" rel=\"noopener noreferrer\" target=\"_blank\">Winter</a>, a work with an overall tone much darker than that of this more lighthearted excerpt.</p><p>{{snippet-3}} </p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
@@ -12935,6 +12951,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "appleseed-by-marisca-pichette",
             "winterwreath-by-j-s-hawthorne",
             "antiherd-tendencies-by-bighorn-bill",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
@@ -13212,6 +13229,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "appleseed-by-marisca-pichette",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",
@@ -13953,6 +13971,9 @@
         ],
         "by:marcus-heckinberry": [
             "please-dont-fail-me-for-this-by-marcus-heckinberry"
+        ],
+        "by:marisca-pichette": [
+            "appleseed-by-marisca-pichette"
         ],
         "by:matt-trepal": [
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
@@ -15539,6 +15560,9 @@
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
+        "folktale": [
+            "appleseed-by-marisca-pichette"
+        ],
         "gay": [
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -16784,6 +16808,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "appleseed-by-marisca-pichette",
             "18-summer-by-lou-le-loup",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "antiherd-tendencies-by-bighorn-bill",

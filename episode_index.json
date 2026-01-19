@@ -388,6 +388,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/469bce96-760a-4d6c-a7a3-010c48dca0d3/The-Eyes-of-a-Ghost-by-Klayton-McCoy.mp3",
+            "published_date": "2026-01-19T09:50:00.000Z",
+            "shownotes": "<p><em>When the stars call Laika away, Yakul must face the ache of being left behind and the chance to belong again.</em></p><p>Today\u2019s story is \u201cThe Eyes of a Ghost\u201d by Klayton McCoy, who writes breath-driven fantasy about hope, silence, and found family in the world of Earos. You can find more of his stories on <a href=\"https://www.patreon.com/KlaytonMcCoy\" rel=\"noopener noreferrer\" target=\"_blank\">his Patreon.</a></p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}} </p><p>{{d-episode-link}} </p>",
+            "slug": "the-eyes-of-a-ghost-by-klayton-mccoy",
+            "summary": null,
+            "tags": [
+                "humor",
+                "action/adventure",
+                "historical",
+                "queerphobia",
+                "narrator:carrizo",
+                "by:klayton-mccoy"
+            ],
+            "title": "\u201cThe Eyes of a Ghost\u201d by Klayton McCoy (read by Carrizo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e6dff875-12c0-440e-ab0c-322351379190/Appleseed-by-Marisca-Pichette.mp3",
             "published_date": "2026-01-12T09:50:00.000Z",
             "shownotes": "<p><em>You may have heard this story as a child, but you did not hear all of it. Wolves inhabit more than fairytales and folklore sprouts from real history\u2026</em></p><p>Today\u2019s story is \u201c<a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Appleseed</a>\u201d by <a href=\"https://www.mariscapichette.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Marisca Pichette</a>, who has published more than a hundred short stories and three hundred poems, and whose eco-horror novella, <a href=\"https://ghostorchidpress.square.site/product/every-dark-cloud-by-marisca-pichette-paperback-/60?cp=true&amp;sa=false&amp;sbp=false&amp;q=false&amp;category_id=3\" rel=\"noopener noreferrer\" target=\"_blank\">EVERY DARK CLOUD,</a> is out now from <a href=\"https://ghostorchidpress.square.site/\" rel=\"noopener noreferrer\" target=\"_blank\">Ghost Orchid Press</a>. Find links to all her work on <a href=\"https://www.mariscapichette.com/\" rel=\"noopener noreferrer\" target=\"_blank\">mariscapichette.com</a>. You can find this, alongside other wolf stories, in <a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Spirit of the Wolf</a> from Wolfsinger Publications, proceeds of which go to benefit a wolf sanctuary.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -12951,6 +12968,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy",
             "appleseed-by-marisca-pichette",
             "winterwreath-by-j-s-hawthorne",
             "antiherd-tendencies-by-bighorn-bill",
@@ -13894,6 +13912,9 @@
         ],
         "by:kirisis-kc-alpinus": [
             "no-dogs-by-kirisis-kc-alpinus"
+        ],
+        "by:klayton-mccoy": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy"
         ],
         "by:ko-bunny": [
             "18-the-witch-of-whatcom-county-by-kristina-orrery-tracer-and-ko-bunny-part-2-of-2",
@@ -15751,6 +15772,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
@@ -15954,6 +15976,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy",
             "a-shadow-over-the-desert-by-rebecca-cascane",
             "dicking-around-by-dirt-coyote",
             "carcinographic-classifieds-by-chase-anderson-live",
@@ -16363,6 +16386,7 @@
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "18-victor-tremblay-in-saving-wendell-olsen-by-pascal-farful-part-2-of-2",
@@ -17674,6 +17698,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "the-eyes-of-a-ghost-by-klayton-mccoy",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-unchained-by-anhedral",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",

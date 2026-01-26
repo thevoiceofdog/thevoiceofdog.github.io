@@ -389,6 +389,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/25aa3ac9-9d97-45f6-b43c-10a56108d4ba/Mating-Net-by-Caesar.mp3",
+            "published_date": "2026-01-26T09:50:00.000Z",
+            "shownotes": "<p><em>Igor is at the apex of his chess career but he has never been more dissatisfied. When he plays a rising star, Arun, he wonders: is there more to chess than winning?</em></p><p>Today\u2019s story is \u201c<a href=\"https://marginalia-oscure.neocities.org/stories/mating-net\" rel=\"noopener noreferrer\" target=\"_blank\">Mating Net</a>\u201d by <a href=\"https://bsky.app/profile/caesarsays.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Caesar</a>, who wants to know where we go when we dream. You can find more of his stories on his blog, <a href=\"http://marginalia-oscure.neocities.org\" rel=\"noopener noreferrer\" target=\"_blank\">marginalia-oscure.neocities.org</a></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "mating-net-by-caesar",
+            "summary": null,
+            "tags": [
+                "contemporary",
+                "lgbtq+",
+                "narrator:rob-macwolf",
+                "by:caesar"
+            ],
+            "title": "\u201cMating Net\u201d by Caesar"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/faa0e2fc-070e-4806-a217-64a5582e7384/The-Eyes-of-a-Ghost-by-Klayton-McCoy.mp3",
             "published_date": "2026-01-19T09:50:00.000Z",
             "shownotes": "<p><em>When the stars call Laika away, Yakul must face the ache of being left behind and the chance to belong again.</em></p><p>Today\u2019s story is \u201cThe Eyes of a Ghost\u201d by Klayton McCoy, who writes breath-driven fantasy about hope, silence, and found family in the world of Earos. You can find more of his stories on <a href=\"https://www.patreon.com/KlaytonMcCoy\" rel=\"noopener noreferrer\" target=\"_blank\">his Patreon.</a></p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13504,6 +13519,9 @@
         "by:c-f-becker": [
             "a-day-with-the-skaraks-by-c-f-becker"
         ],
+        "by:caesar": [
+            "mating-net-by-caesar"
+        ],
         "by:caliope-sparks": [
             "matters-of-the-mind-by-caliope-sparks"
         ],
@@ -14892,6 +14910,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "mating-net-by-caesar",
             "the-whole-moon-by-k-c-shaw",
             "the-other-by-js-hawthorne-part-2-of-2",
             "the-other-by-js-hawthorne-part-1-of-2",
@@ -16071,6 +16090,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "mating-net-by-caesar",
             "18-summer-by-lou-le-loup",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
@@ -16834,6 +16854,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "mating-net-by-caesar",
             "appleseed-by-marisca-pichette",
             "18-summer-by-lou-le-loup",
             "not-to-this-retreat-of-mine-by-rob-macwolf",

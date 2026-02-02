@@ -389,6 +389,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/52c006b0-55e4-40b5-b596-70f6c775edf3/The-Dragonslayer-s-Quest-by-Ryx.mp3",
+            "published_date": "2026-02-02T09:50:00.000Z",
+            "shownotes": "<p>The dragonslayer, a killer of great and deadly beasts of the air, a rainbow with a sword who has lain seven great dragons under his blade, is under quest given by his king. One that would pit him against a challenge that would define his life, or end in blood. He goes to face another dragon.</p><p>Today\u2019s story is \u201cThe Dragonslayer\u2019s Quest\u201d by Ryx, who also goes by Nachtfangen, who once wrote prolifically but now needs a new starter, battery, and engine to get his words rolling again. As Ryx he helped spawn the Metamor Keep story setting which is still going after almost 25 years. As Nachfangen he tries. His stories can be found on Sofurry under the user name <u><a href=\"https://sofurry.com/u/nachtfangen\" rel=\"noopener noreferrer\" target=\"_blank\">Nachtfangen</a></u>.</p><p>Read by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-dragonslayers-quest-by-ryx",
+            "summary": null,
+            "tags": [
+                "action/adventure",
+                "fantasy",
+                "narrator:rhubarb",
+                "by:ryx"
+            ],
+            "title": "\u201cThe Dragonslayer\u2019s Quest\u201d by Ryx (read by Rhubarb)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/25aa3ac9-9d97-45f6-b43c-10a56108d4ba/Mating-Net-by-Caesar.mp3",
             "published_date": "2026-01-26T09:50:00.000Z",
             "shownotes": "<p><em>Igor is at the apex of his chess career but he has never been more dissatisfied. When he plays a rising star, Arun, he wonders: is there more to chess than winning?</em></p><p>Today\u2019s story is \u201c<a href=\"https://marginalia-oscure.neocities.org/stories/mating-net\" rel=\"noopener noreferrer\" target=\"_blank\">Mating Net</a>\u201d by <a href=\"https://bsky.app/profile/caesarsays.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Caesar</a>, who wants to know where we go when we dream. You can find more of his stories on his blog, <a href=\"http://marginalia-oscure.neocities.org\" rel=\"noopener noreferrer\" target=\"_blank\">marginalia-oscure.neocities.org</a></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -12985,6 +13000,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "the-dragonslayers-quest-by-ryx",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
             "appleseed-by-marisca-pichette",
             "winterwreath-by-j-s-hawthorne",
@@ -14265,6 +14281,9 @@
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2"
         ],
+        "by:ryx": [
+            "the-dragonslayers-quest-by-ryx"
+        ],
         "by:sakarafox": [
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
@@ -15502,6 +15521,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-dragonslayers-quest-by-ryx",
             "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
@@ -16848,6 +16868,9 @@
             "the-lone-and-level-sands-stretch-far-away-by-pascal-farful-and-rob-macwolf-part-1-of-2",
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
+        ],
+        "narrator:rhubarb": [
+            "the-dragonslayers-quest-by-ryx"
         ],
         "narrator:rhythm-bastard": [
             "neon-bruises-by-domus-vocis-part-2-of-2",

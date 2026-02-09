@@ -389,6 +389,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/53d8c073-32e3-4f8c-91ee-ff246314d733/18-I-Hear-Him-Call-by-Remus-Solken.mp3",
+            "published_date": "2026-02-09T09:50:00.000Z",
+            "shownotes": "<p>[18+]<em>To have love torn away so quickly and without reason\u2026 How does one move on?</em></p><p>Today\u2019s story is \u201cI Hear Him Call\u201d by Remus Solken (also known as Remus the Lion), an amateur writer and developer of the Visual Novel \u201cWild Harmonies\u201d, which you can read a demo of over on <u><a href=\"https://remusthelion.itch.io/wild-harmonies\" rel=\"noopener noreferrer\" target=\"_blank\">Remus\u2019 itchio page</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "i-hear-him-call-by-remus-the-lion",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "spooky",
+                "by:remus-the-lion",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cI Hear Him Call\u201d by Remus the Lion"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/52c006b0-55e4-40b5-b596-70f6c775edf3/The-Dragonslayer-s-Quest-by-Ryx.mp3",
             "published_date": "2026-02-02T09:50:00.000Z",
             "shownotes": "<p>The dragonslayer, a killer of great and deadly beasts of the air, a rainbow with a sword who has lain seven great dragons under his blade, is under quest given by his king. One that would pit him against a challenge that would define his life, or end in blood. He goes to face another dragon.</p><p>Today\u2019s story is \u201cThe Dragonslayer\u2019s Quest\u201d by Ryx, who also goes by Nachtfangen, who once wrote prolifically but now needs a new starter, battery, and engine to get his words rolling again. As Ryx he helped spawn the Metamor Keep story setting which is still going after almost 25 years. As Nachfangen he tries. His stories can be found on Sofurry under the user name <u><a href=\"https://sofurry.com/u/nachtfangen\" rel=\"noopener noreferrer\" target=\"_blank\">Nachtfangen</a></u>.</p><p>Read by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14174,6 +14189,9 @@
             "hostage-by-reid-minnich",
             "chinchilla-attack-by-reid-minnich"
         ],
+        "by:remus-the-lion": [
+            "i-hear-him-call-by-remus-the-lion"
+        ],
         "by:renard-avec-histoire": [
             "the-scratching-by-renard-avec-histoire"
         ],
@@ -14513,6 +14531,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "i-hear-him-call-by-remus-the-lion",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -16877,6 +16896,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "i-hear-him-call-by-remus-the-lion",
             "mating-net-by-caesar",
             "appleseed-by-marisca-pichette",
             "18-summer-by-lou-le-loup",
@@ -18067,6 +18087,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "i-hear-him-call-by-remus-the-lion",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",

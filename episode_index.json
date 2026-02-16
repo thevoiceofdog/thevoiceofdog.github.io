@@ -389,6 +389,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fa7b5e2f-60d7-427c-b0de-1e733e0c2341/18-Exchange-Student-by-Celtic-Kitsune.mp3",
+            "published_date": "2026-02-16T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>In a world much like our own a curious student meets a young Kitsune with life-changing consequences for them both.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/51158897/\" rel=\"noopener noreferrer\" target=\"_blank\">Exchange Student</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/atomicalex/\" rel=\"noopener noreferrer\" target=\"_blank\">Celtic Kitsune</a></u>, who can usually be found with a notebook close at hand, she can be found at FurAffinity under the username Atomic_Alex. A regular participant in the Thursday Prompt where she often finds inspiration for her writing.</p><p>Read by BandanaDog, Unorthodox Spacetime Drifter.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-exchange-student-by-celtic-kitsune",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "drama",
+                "nsfw",
+                "blood",
+                "by:celtic-kitsune",
+                "narrator:bandanadog"
+            ],
+            "title": "[18+] \u201cExchange Student\u201d by Celtic Kitsune (read by BandanaDog)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/53d8c073-32e3-4f8c-91ee-ff246314d733/18-I-Hear-Him-Call-by-Remus-Solken.mp3",
             "published_date": "2026-02-09T09:50:00.000Z",
             "shownotes": "<p>[18+]<em>To have love torn away so quickly and without reason\u2026 How does one move on?</em></p><p>Today\u2019s story is \u201cI Hear Him Call\u201d by Remus Solken (also known as Remus the Lion), an amateur writer and developer of the Visual Novel \u201cWild Harmonies\u201d, which you can read a demo of over on <u><a href=\"https://remusthelion.itch.io/wild-harmonies\" rel=\"noopener noreferrer\" target=\"_blank\">Remus\u2019 itchio page</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13295,6 +13313,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-exchange-student-by-celtic-kitsune",
             "appleseed-by-marisca-pichette",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
@@ -13573,6 +13592,7 @@
             "letters-to-luzia-by-casterway-part-1-of-2"
         ],
         "by:celtic-kitsune": [
+            "18-exchange-student-by-celtic-kitsune",
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
@@ -14531,6 +14551,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-exchange-student-by-celtic-kitsune",
             "i-hear-him-call-by-remus-the-lion",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
@@ -15153,6 +15174,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "18-exchange-student-by-celtic-kitsune",
             "letters-to-luzia-by-casterway-part-2-of-2",
             "letters-to-luzia-by-casterway-part-1-of-2",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
@@ -16441,6 +16463,7 @@
             "daydreaming-by-dirt-coyote-read-by-b-p-rugger"
         ],
         "narrator:bandanadog": [
+            "18-exchange-student-by-celtic-kitsune",
             "the-forest",
             "all-of-the-stars-in-the-sky-by-anhedral",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
@@ -17216,6 +17239,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-exchange-student-by-celtic-kitsune",
             "18-summer-by-lou-le-loup",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
@@ -17801,6 +17825,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-exchange-student-by-celtic-kitsune",
             "18-summer-by-lou-le-loup",
             "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",

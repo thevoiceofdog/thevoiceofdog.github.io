@@ -326,7 +326,6 @@
             "narrator:the-poet",
             "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
             "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
-            "narrator:the-staff-br-br-wow",
             "narrator:william-dingo",
             "narrator:yuugen",
             "narrator:yuugenshou",
@@ -375,9 +374,11 @@
             "pulift",
             "queerphobia nsfw",
             "sci-fi by:tempe-o-kun",
+            "scifi",
             "superhero by:buddy-goodboy",
             "ta'kom-ironhoof",
-            "transformation"
+            "transformation",
+            "werewolf"
         ],
         "warning": [
             "blood",
@@ -402,11 +403,11 @@
             "slug": "18-love-by-vixyy-fox",
             "summary": null,
             "tags": [
-                "check-tags",
+                "nsfw",
                 "romance",
                 "drama",
-                "by:vixyy-fox",
-                "narrator:carrizo"
+                "narrator:carrizo",
+                "by:vixyy-fox"
             ],
             "title": "[18+] \u201cLove\u201d by Vixyy Fox (read by Carrizo)"
         },
@@ -418,13 +419,12 @@
             "slug": "18-exchange-student-by-celtic-kitsune",
             "summary": null,
             "tags": [
-                "check-tags",
                 "romance",
                 "drama",
                 "nsfw",
                 "blood",
-                "by:celtic-kitsune",
-                "narrator:bandanadog"
+                "narrator:bandanadog",
+                "by:celtic-kitsune"
             ],
             "title": "[18+] \u201cExchange Student\u201d by Celtic Kitsune (read by BandanaDog)"
         },
@@ -436,10 +436,10 @@
             "slug": "i-hear-him-call-by-remus-the-lion",
             "summary": null,
             "tags": [
-                "check-tags",
-                "spooky",
-                "by:remus-the-lion",
-                "narrator:rob-macwolf"
+                "romance",
+                "werewolf",
+                "narrator:rob-macwolf",
+                "by:remus-the-lion"
             ],
             "title": "[18+] \u201cI Hear Him Call\u201d by Remus the Lion"
         },
@@ -13013,8 +13013,7 @@
         "narrator:the-author": "Narrator: the author",
         "narrator:the-poet": "Narrator: The Poet",
         "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": "Narrator: The Poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: the poet. Thank you for listening to The Voice of Dog. ",
-        "narrator:the-staff-br-br-wow": "Narrator: the staff. <br> <br>\u201cWow",
+        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: The Poet Thank You For Listening To The Voice Of Dog",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -13043,6 +13042,7 @@
         "romance": "Romance",
         "sci-fi": "Sci-fi",
         "sci-fi by:tempe-o-kun": "Sci Fi Author: Tempe O Kun",
+        "scifi": "Scifi",
         "self-harm": "Self-Harm",
         "slice-of-life": "Slice of Life",
         "speculative": "Speculative",
@@ -13056,6 +13056,7 @@
         "transgender": "Trans",
         "trauma": "Trauma",
         "violence": "Violence",
+        "werewolf": "Werewolf",
         "western": "Western"
     },
     "tags": {
@@ -14582,9 +14583,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "18-love-by-vixyy-fox",
-            "18-exchange-student-by-celtic-kitsune",
-            "i-hear-him-call-by-remus-the-lion",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
             "18-unchained-by-anhedral",
@@ -17273,6 +17271,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-love-by-vixyy-fox",
             "18-exchange-student-by-celtic-kitsune",
             "18-summer-by-lou-le-loup",
             "18-rapture-by-shiloh-skye-part-2-of-2",
@@ -17861,6 +17860,7 @@
         "romance": [
             "18-love-by-vixyy-fox",
             "18-exchange-student-by-celtic-kitsune",
+            "i-hear-him-call-by-remus-the-lion",
             "18-summer-by-lou-le-loup",
             "the-whole-moon-by-k-c-shaw",
             "winterwreath-by-j-s-hawthorne",
@@ -18147,7 +18147,6 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
-            "i-hear-him-call-by-remus-the-lion",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",
@@ -18398,6 +18397,9 @@
             "a-close-port-of-call-by-altivo-overo",
             "the-zeroth-protocol-by-huskyteer",
             "eagle-s-splendour-by-ryan-campbell"
+        ],
+        "werewolf": [
+            "i-hear-him-call-by-remus-the-lion"
         ],
         "western": [
             "aces-high-by-j-daniel-phillips-part-2-of-2",

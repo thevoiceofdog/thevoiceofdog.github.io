@@ -398,6 +398,20 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/7384b70e-1f95-4e53-833b-39e3ba8f3d17/Lyra-by-Laura-Rodley.mp3",
+            "published_date": "2026-03-02T09:50:00.000Z",
+            "shownotes": "<p><em>In a brand new world filled with snow and wonder, hunters arrive for a day of sport and take the wolf pups\u2019 mother away. One wolf pup bravely follows, clearly disobeying his mother\u2019s oft spoken \u201crule of threes\u201d that she used to save their lives.</em></p><p>Today\u2019s story is Lyra by Pushcart Prize winner <u><a href=\"https://laurarodley.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Laura Rodley</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "lyra-by-laura-rodley",
+            "summary": null,
+            "tags": [
+                "blood",
+                "narrator:rob-macwolf",
+                "by:laura-rodley"
+            ],
+            "title": "\u201cLyra\u201d by Laura Rodley"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/106c8b40-0ab9-4c66-8e00-12e16e4398c3/18-Love-by-Vixyy-Fox.mp3",
             "published_date": "2026-02-23T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>In the world we live in, reality dictates that we will need to make life changing choices, but what happens when a wrong choice is made, leaving love to come looking for you? </em></p><p>Today\u2019s story is \u201cLove\u201d by Vixyy Fox, who has been seriously writing since the turn of the century. <u><a href=\"https://www.furaffinity.net/user/vixyyfox/\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a></u> is her home, and you can find a whole gallery of stories there.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13346,6 +13360,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "lyra-by-laura-rodley",
             "18-exchange-student-by-celtic-kitsune",
             "appleseed-by-marisca-pichette",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
@@ -14048,6 +14063,9 @@
         ],
         "by:lappi-t-fox": [
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms"
+        ],
+        "by:laura-rodley": [
+            "lyra-by-laura-rodley"
         ],
         "by:lauren-rivers": [
             "winterfall-empty-places-by-lauren-rivers",
@@ -16953,6 +16971,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "lyra-by-laura-rodley",
             "i-hear-him-call-by-remus-the-lion",
             "mating-net-by-caesar",
             "appleseed-by-marisca-pichette",

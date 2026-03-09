@@ -398,6 +398,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bb91a80b-f64e-4ef9-a390-0c93a858c7d8/Shifting-Winds-A-Red-Vixen-Adventures-Story-by-Lauren-Rivers.mp3",
+            "published_date": "2026-03-09T09:50:00.000Z",
+            "shownotes": "<p><em>In the far reaches of space, a Stellar Patrol officer answers a distress signal. But all is not as it seems.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/59183434/\" rel=\"noopener noreferrer\" target=\"_blank\">Shifting Winds: A Red Vixen Adventures Story</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a></u>, author of <u><a href=\"https://www.amazon.com/Blue-Moon-Lauren-Rivers/dp/0999617001/ref=sr_1_1?crid=TO95718TASNE&amp;dib=eyJ2IjoiMSJ9.qrKLOmP0-eUSf0KVnILmkEY9R6XW6D3gd_xN6_ITEmKVGF5Xgi1rHMIeihfItnt9zdmiM_wdJEqCmqHga3RNgQsNOz4jRMs8HW64Bg205iNedw_x9fzv4a4QxniK_4LPYyACbMHWeOE93leHxY1H91XLApo8h3fzXG-M7c3XxTOLie3Jky5zea9f1pRVNXlqV0lejw7wl4glns3uWXnkOv5NQcJYKjJBRGBs8Sjs2MM.hE8oG4N6FgNzWrk42hxjIVMKVf7q2DKF5XylxfPLNoM&amp;dib_tag=se&amp;keywords=blue+moon+lauren+rivers&amp;qid=1739135021&amp;sprefix=blue+moon+lauren+rivers%2Caps%2C134&amp;sr=8-1\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Moon</a></u> by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Iridescence Studios</a></u>, and you can find more of her stories on <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Set in the world of the <em>Red Vixen Adventures</em> by <u><a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a></u></p><p>Red by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
+            "summary": null,
+            "tags": [
+                "romance",
+                "crime",
+                "scifi",
+                "narrator:rhubarb",
+                "by:lauren-rivers"
+            ],
+            "title": "\u201cShifting Winds: A Red Vixen Adventures Story\u201d by Lauren Rivers (read by Rhubarb)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/7384b70e-1f95-4e53-833b-39e3ba8f3d17/Lyra-by-Laura-Rodley.mp3",
             "published_date": "2026-03-02T09:50:00.000Z",
             "shownotes": "<p><em>In a brand new world filled with snow and wonder, hunters arrive for a day of sport and take the wolf pups\u2019 mother away. One wolf pup bravely follows, clearly disobeying his mother\u2019s oft spoken \u201crule of threes\u201d that she used to save their lives.</em></p><p>Today\u2019s story is Lyra by Pushcart Prize winner <u><a href=\"https://laurarodley.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Laura Rodley</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14068,6 +14084,7 @@
             "lyra-by-laura-rodley"
         ],
         "by:lauren-rivers": [
+            "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
             "winterfall-beyond-the-white-by-lauren-rivers",
@@ -15168,6 +15185,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-whole-moon-by-k-c-shaw",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
@@ -16964,6 +16982,7 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:rhubarb": [
+            "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-dragonslayers-quest-by-ryx"
         ],
         "narrator:rhythm-bastard": [
@@ -17879,6 +17898,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "18-love-by-vixyy-fox",
             "18-exchange-student-by-celtic-kitsune",
             "i-hear-him-call-by-remus-the-lion",
@@ -18134,6 +18154,9 @@
         ],
         "sci-fi by:tempe-o-kun": [
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
+        ],
+        "scifi": [
+            "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers"
         ],
         "self-harm": [
             "skykomish-never-sleeps-by-heya-baru",

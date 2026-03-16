@@ -398,6 +398,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bfc36a48-a217-4289-b543-5f871992c957/Gemini-Lunae-by-Aelius.mp3",
+            "published_date": "2026-03-16T09:50:00.000Z",
+            "shownotes": "<p><em>Facing incursions from beyond reality, two rabbits learn not all conflicts are against the supernatural. Some come from the closest of bonds.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/58944807/\" rel=\"noopener noreferrer\" target=\"_blank\">Gemini Lunae</a></u>\u201d by <u><a href=\"https://bsky.app/profile/aelius.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Aelius</a></u>, who has had work published in <u><a href=\"https://furplanet.com/shop/\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet\u2019s</a></u> <u><a href=\"https://furplanet.com/shop/item.aspx?itemid=811\" rel=\"noopener noreferrer\" target=\"_blank\">Inhuman Acts</a></u> and <u><a href=\"https://furplanet.com/shop/item.aspx?itemid=905\" rel=\"noopener noreferrer\" target=\"_blank\">ROAR volume 8</a></u> anthologies, with further works found at both <u><a href=\"https://www.furaffinity.net/user/aelius/\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> and <u><a href=\"https://aelius.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u>.</p><p>Read by Rhythm Bastard, Swole Raccoon Punk.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "gemini-lunae-by-aelius",
+            "summary": null,
+            "tags": [
+                "fantasy",
+                "action/adventure",
+                "violence",
+                "blood",
+                "narrator:rhythm-bastard",
+                "by:aelius"
+            ],
+            "title": "\u201cGemini Lunae\u201d by Aelius (read by Rhythm Bastard)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/456b64a0-d4f3-410d-8b01-c734bda83e6d/Shifting-Winds-A-Red-Vixen-Adventures-Story-by-Lauren-Rivers.mp3",
             "published_date": "2026-03-09T09:50:00.000Z",
             "shownotes": "<p><em>In the far reaches of space, a Stellar Patrol officer answers a distress signal. But all is not as it seems.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/59183434/\" rel=\"noopener noreferrer\" target=\"_blank\">Shifting Winds: A Red Vixen Adventures Story</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a></u>, author of <u><a href=\"https://www.amazon.com/Blue-Moon-Lauren-Rivers/dp/0999617001/ref=sr_1_1?crid=TO95718TASNE&amp;dib=eyJ2IjoiMSJ9.qrKLOmP0-eUSf0KVnILmkEY9R6XW6D3gd_xN6_ITEmKVGF5Xgi1rHMIeihfItnt9zdmiM_wdJEqCmqHga3RNgQsNOz4jRMs8HW64Bg205iNedw_x9fzv4a4QxniK_4LPYyACbMHWeOE93leHxY1H91XLApo8h3fzXG-M7c3XxTOLie3Jky5zea9f1pRVNXlqV0lejw7wl4glns3uWXnkOv5NQcJYKjJBRGBs8Sjs2MM.hE8oG4N6FgNzWrk42hxjIVMKVf7q2DKF5XylxfPLNoM&amp;dib_tag=se&amp;keywords=blue+moon+lauren+rivers&amp;qid=1739135021&amp;sprefix=blue+moon+lauren+rivers%2Caps%2C134&amp;sr=8-1\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Moon</a></u> by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Iridescence Studios</a></u>, and you can find more of her stories on <u><a href=\"https://www.furaffinity.net/user/iridescencestudios/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Set in the world of the <em>Red Vixen Adventures</em> by <u><a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a></u></p><p>Red by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13096,6 +13113,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
             "appleseed-by-marisca-pichette",
@@ -13376,6 +13394,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "gemini-lunae-by-aelius",
             "lyra-by-laura-rodley",
             "18-exchange-student-by-celtic-kitsune",
             "appleseed-by-marisca-pichette",
@@ -13480,6 +13499,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "by:aelius": [
+            "gemini-lunae-by-aelius",
             "rune-weaver-by-aelius-part-2-of-2",
             "rune-weaver-by-aelius-part-1-of-2",
             "urban-mystic-by-aelius-part-2-of-2",
@@ -15631,6 +15651,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
             "winterwreath-by-j-s-hawthorne",
             "18-rapture-by-shiloh-skye-part-2-of-2",
@@ -16986,6 +17007,7 @@
             "the-dragonslayers-quest-by-ryx"
         ],
         "narrator:rhythm-bastard": [
+            "gemini-lunae-by-aelius",
             "neon-bruises-by-domus-vocis-part-2-of-2",
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
@@ -18422,6 +18444,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "gemini-lunae-by-aelius",
             "code-white-by-madison-rye-progress",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",

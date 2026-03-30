@@ -398,6 +398,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9e3464c0-d8fc-4eca-b443-292706c92191/Dandelion-Fox-by-Domus-Vocis-part-2-of-2.mp3",
+            "published_date": "2026-03-30T09:50:00.000Z",
+            "shownotes": "<p><em>Set during early Imperial Germany, a noble fox &amp; blacksmith mouse forge a romantic relationship that transcends class, species, and gender.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://www.sofurry.com/view/1734595\" rel=\"noopener noreferrer\" target=\"_blank\">Dandelion Fox</a></u>\u201d by <u><a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a></u>, who spends his nights working the graveyard shift while writing/reading furry fiction. Besides writing \u201cThe Adventures of Peter Gray\u201d, which \u201cDandelion Fox\u201d serves as a standalone prequel to, he also recently published a historical romance novella titled \u201c<u><a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a></u>\u201d alongside his co-author <u><a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a></u> in 2023. You can also find more stories by Domus Vocis on his <u><a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a></u>.</p><p>Last time, Hansel has reciprocated his feelings to Eduard, and together, they maintain a secret relationship that threatens to put them in danger. Not only with the law, but their own families too.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "dandelion-fox-by-domus-vocis-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "romance",
+                "drama",
+                "historical",
+                "queerphobia",
+                "narrator:apollo-brightflank",
+                "by:domus-vocis"
+            ],
+            "title": "\u201cDandelion Fox\u201d by Domus Vocis (read by Apollo, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2ea99b68-d67c-4499-a9e3-6a3dc7c11ed4/Dandelion-Fox-by-Domus-Vocis-part-1-of-2.mp3",
             "published_date": "2026-03-23T09:50:00.000Z",
             "shownotes": "<p><em>Set during early Imperial Germany, a noble fox &amp; blacksmith mouse forge a romantic relationship that transcends class, species, and gender.</em></p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://www.sofurry.com/view/1734595\" rel=\"noopener noreferrer\" target=\"_blank\">Dandelion Fox</a></u>\u201d by <u><a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a></u>, who spends his nights working the graveyard shift while writing/reading furry fiction. Besides writing \u201cThe Adventures of Peter Gray\u201d, which \u201cDandelion Fox\u201d serves as a standalone prequel to, he also recently published a historical romance novella titled \u201c<u><a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a></u>\u201d alongside his co-author <u><a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a></u> in 2023. You can also find more stories by Domus Vocis on his <u><a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a></u>.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13782,6 +13799,7 @@
             "you-can-watch-me-dance-by-dirt-coyote"
         ],
         "by:domus-vocis": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
             "fraternity-by-domus-vocis",
@@ -15280,6 +15298,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "18-love-by-vixyy-fox",
             "18-exchange-student-by-celtic-kitsune",
@@ -15963,6 +15982,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
@@ -16549,6 +16569,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "winterwreath-by-j-s-hawthorne",
             "the-other-by-js-hawthorne-part-2-of-2",
@@ -17904,6 +17925,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
@@ -17942,6 +17964,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "18-love-by-vixyy-fox",

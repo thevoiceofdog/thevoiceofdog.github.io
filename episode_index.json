@@ -398,6 +398,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/78d7c909-2b3d-49a1-a1ef-53f4b6926f6c/The-Wolves-Are-Always-Walking-by-Corran-Orreaux.mp3",
+            "published_date": "2026-04-01T09:50:00.000Z",
+            "shownotes": "<p>Welcome to Poetry Month on The Voice of Dog. This month, every Monday, Wednesday, and Friday, we at the Fireside will be reading you poems from and for the furry community.</p><p>Today we present \u201c<u><a href=\"https://www.furaffinity.net/view/62682913/\" rel=\"noopener noreferrer\" target=\"_blank\">The Wolves Are Always Walking</a></u>\u201d a poem by <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a></u>, who is a deer that bleats in common meter, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a>.</u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-wolves-are-always-walking-by-corran-orreaux",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:corran-orreaux"
+            ],
+            "title": "\u201cThe Wolves Are Always Walking\u201d by Corran Orreaux"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9e3464c0-d8fc-4eca-b443-292706c92191/Dandelion-Fox-by-Domus-Vocis-part-2-of-2.mp3",
             "published_date": "2026-03-30T09:50:00.000Z",
             "shownotes": "<p><em>Set during early Imperial Germany, a noble fox &amp; blacksmith mouse forge a romantic relationship that transcends class, species, and gender.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://www.sofurry.com/view/1734595\" rel=\"noopener noreferrer\" target=\"_blank\">Dandelion Fox</a></u>\u201d by <u><a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a></u>, who spends his nights working the graveyard shift while writing/reading furry fiction. Besides writing \u201cThe Adventures of Peter Gray\u201d, which \u201cDandelion Fox\u201d serves as a standalone prequel to, he also recently published a historical romance novella titled \u201c<u><a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a></u>\u201d alongside his co-author <u><a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a></u> in 2023. You can also find more stories by Domus Vocis on his <u><a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a></u>.</p><p>Last time, Hansel has reciprocated his feelings to Eduard, and together, they maintain a secret relationship that threatens to put them in danger. Not only with the law, but their own families too.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13729,6 +13744,7 @@
             "born-to-be-wild-by-coda"
         ],
         "by:corran-orreaux": [
+            "the-wolves-are-always-walking-by-corran-orreaux",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "the-dog-man-of-the-forest-by-corran-orreaux"
         ],
@@ -17054,6 +17070,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-wolves-are-always-walking-by-corran-orreaux",
             "lyra-by-laura-rodley",
             "i-hear-him-call-by-remus-the-lion",
             "mating-net-by-caesar",
@@ -17556,6 +17573,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "the-wolves-are-always-walking-by-corran-orreaux",
             "awakening-by-aetherwolf76",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "proud-lament-by-rob-macwolf",
@@ -17622,6 +17640,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "the-wolves-are-always-walking-by-corran-orreaux",
             "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
             "love-against-aggravation-by-rob-macwolf",

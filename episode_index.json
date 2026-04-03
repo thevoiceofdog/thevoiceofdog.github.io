@@ -398,6 +398,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e9fee6aa-7985-452f-b928-0b4273d65c6d/Hindsight-by-Jim-Redfoot.mp3",
+            "published_date": "2026-04-03T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cHindsight\u201d a poem by<a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Jim Redfoot</a></u>, who is an engineer, novice author and aspiring werewolf that loves to read and write. You can find this story in<a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\">WEREWOLVES VERSUS: EVERYTHING</a></u>, and you can find more of Jim and his other work on<a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u> and<a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "hindsight-by-jim-redfoot",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "spooky",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:jim-redfoot"
+            ],
+            "title": "\u201cHindsight\u201d by Jim Redfoot"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/78d7c909-2b3d-49a1-a1ef-53f4b6926f6c/The-Wolves-Are-Always-Walking-by-Corran-Orreaux.mp3",
             "published_date": "2026-04-01T09:50:00.000Z",
             "shownotes": "<p>Welcome to Poetry Month on The Voice of Dog. This month, every Monday, Wednesday, and Friday, we at the Fireside will be reading you poems from and for the furry community.</p><p>Today we present \u201c<u><a href=\"https://www.furaffinity.net/view/62682913/\" rel=\"noopener noreferrer\" target=\"_blank\">The Wolves Are Always Walking</a></u>\u201d a poem by <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a></u>, who is a deer that bleats in common meter, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a>.</u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14042,6 +14058,7 @@
             "there-is-a-werewolf-in-the-town-a-poem-by-jesse-hawke"
         ],
         "by:jim-redfoot": [
+            "hindsight-by-jim-redfoot",
             "awake-by-jim-redfoot-part-2-of-2",
             "awake-by-jim-redfoot-part-1-of-2"
         ],
@@ -17070,6 +17087,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "lyra-by-laura-rodley",
             "i-hear-him-call-by-remus-the-lion",
@@ -17573,6 +17591,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "awakening-by-aetherwolf76",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -17640,6 +17659,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "hope-by-russell-knight",
             "french-for-goodbye-by-alex-t-dragonson",
@@ -18278,6 +18298,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "hindsight-by-jim-redfoot",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",

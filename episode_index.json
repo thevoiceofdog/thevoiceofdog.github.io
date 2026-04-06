@@ -398,6 +398,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/05f9df35-b17e-4dbe-a910-c1196458c6ae/No-One-is-Worthy-by-Nenekiri-Bookwyrm.mp3",
+            "published_date": "2026-04-06T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cNo One is Worthy\u201d a poem by <u><a href=\"https://bsky.app/profile/nenekiribookwyrm.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a></u>, who makes games and writes stories. More of his poems can be found on his <u><a href=\"https://www.furaffinity.net/user/nenekiri\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity page</a></u>. When he\u2019s not reading from his hoard of To-Read books, he makes time to write some stories of his own. His debut short story collection, <u><a href=\"https://www.fenrispublishing.com/product.php?id=1120\" rel=\"noopener noreferrer\" target=\"_blank\">Tales of Scales</a></u>, is available from Fenris Publishing. You can find more of his stories on <u><a href=\"http://nenekiri.com\" rel=\"noopener noreferrer\" target=\"_blank\">www.nenekiri.com</a></u>.</p><p>Read by the Poet.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "no-one-is-worthy-by-nenekiri-bookwyrm",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "drama",
+                "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
+                "by:nenekiri-bookwyrm"
+            ],
+            "title": "\u201cNo One is Worthy\u201d by Nenekiri Bookwyrm (read by the poet)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e9fee6aa-7985-452f-b928-0b4273d65c6d/Hindsight-by-Jim-Redfoot.mp3",
             "published_date": "2026-04-03T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cHindsight\u201d a poem by<a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://www.furaffinity.net/user/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Jim Redfoot</a></u>, who is an engineer, novice author and aspiring werewolf that loves to read and write. You can find this story in<a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://argylewerewolf.itch.io/wv10\" rel=\"noopener noreferrer\" target=\"_blank\">WEREWOLVES VERSUS: EVERYTHING</a></u>, and you can find more of Jim and his other work on<a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://bsky.app/profile/jimmyredfoot.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u> and<a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://www.furaffinity.net/gallery/jimredfoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14273,6 +14289,7 @@
             "the-first-shall-not-be-last-by-nalz"
         ],
         "by:nenekiri-bookwyrm": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
             "better-things-are-possible-by-nenekiri-bookwyrm",
@@ -15331,6 +15348,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "18-love-by-vixyy-fox",
@@ -17380,6 +17398,9 @@
         "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": [
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
         ],
+        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm"
+        ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
@@ -17591,6 +17612,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm",
             "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "awakening-by-aetherwolf76",
@@ -17659,6 +17681,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm",
             "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "hope-by-russell-knight",

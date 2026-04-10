@@ -398,6 +398,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf15b2ae-84e2-4433-92f0-da1b46bdb735/Old-Hues-by-Tulip-Farthing.mp3",
+            "published_date": "2026-04-10T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cOld Hues\u201d a poem by <u><a href=\"https://bsky.app/profile/goosonesq.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Tulip Farthing</a></u>, who is an English teacher doing voice-acting, Japanese translations, and writing as a hobby, and you can find more of his stories and samples on <u><a href=\"https://www.youtube.com/@goosonesq-va\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "old-hues-by-tulip-farthing",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:tulip-farthing"
+            ],
+            "title": "\u201cOld Hues\u201d by Tulip Farthing"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/500ffe5c-ea11-4af8-879c-267a376840f8/18-Jesus-Robbed-A-Liquor-Store-by-Wyatt-M.mp3",
             "published_date": "2026-04-08T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cJesus Robbed A Liquor Store\u201d a poem by <u><a href=\"https://bsky.app/profile/linsang.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Wyatt M</a></u>, which you can find, among others, in their pay-what-you-want poetry collection <u><a href=\"https://ko-fi.com/s/2505837e8e\" rel=\"noopener noreferrer\" target=\"_blank\">Anal Fisting</a></u>, which makes this, I believe, the first episode which must be marked adult listeners only not for the piece, but for the intro.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14691,6 +14706,9 @@
             "come-the-storm-by-tony-greyfox-part-2-of-2",
             "come-the-storm-by-tony-greyfox-part-1-of-2"
         ],
+        "by:tulip-farthing": [
+            "old-hues-by-tulip-farthing"
+        ],
         "by:ty-fox": [
             "18-an-alien-in-our-midst-by-ty-fox-part-2-of-2",
             "18-an-alien-in-our-midst-by-ty-fox-part-1-of-2"
@@ -17126,6 +17144,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "hindsight-by-jim-redfoot",
             "the-wolves-are-always-walking-by-corran-orreaux",
@@ -17635,6 +17654,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "hindsight-by-jim-redfoot",
@@ -17705,6 +17725,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "hindsight-by-jim-redfoot",

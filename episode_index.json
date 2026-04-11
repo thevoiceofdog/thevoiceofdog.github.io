@@ -311,6 +311,7 @@
             "narrator:madison-scott-clary",
             "narrator:mary-e-lowd",
             "narrator:nenekiri",
+            "narrator:nenekiri-bookworm",
             "narrator:nenekiri-bookwyrm",
             "narrator:rhubarb",
             "narrator:rhythm-bastard",
@@ -326,7 +327,6 @@
             "narrator:the-author",
             "narrator:the-poet",
             "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-            "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
             "narrator:william-dingo",
             "narrator:yuugen",
             "narrator:yuugenshou",
@@ -439,7 +439,7 @@
                 "poetry-month",
                 "poem",
                 "drama",
-                "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog",
+                "narrator:nenekiri-bookworm",
                 "by:nenekiri-bookwyrm"
             ],
             "title": "\u201cNo One is Worthy\u201d by Nenekiri Bookwyrm (read by the poet)"
@@ -13160,6 +13160,7 @@
         "narrator:madison-scott-clary": "Narrator: Madison Scott-Clary",
         "narrator:mary-e-lowd": "Narrator: Mary E. Lowd",
         "narrator:nenekiri": "Narrator: Nenekiri",
+        "narrator:nenekiri-bookworm": "Narrator: Nenekiri Bookworm",
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
         "narrator:rhubarb": "Narrator: Rhubarb",
         "narrator:rhythm-bastard": "Narrator: Rhythm Bastard",
@@ -13175,7 +13176,6 @@
         "narrator:the-author": "Narrator: the author",
         "narrator:the-poet": "Narrator: The Poet",
         "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": "Narrator: The Poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": "Narrator: The Poet Thank You For Listening To The Voice Of Dog",
         "narrator:william-dingo": "Narrator: William Dingo",
         "narrator:yuugen": "Narrator: Yuugen",
         "narrator:yuugenshou": "Narrator: Yuugenshou",
@@ -17125,6 +17125,9 @@
         "narrator:nenekiri": [
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm"
         ],
+        "narrator:nenekiri-bookworm": [
+            "no-one-is-worthy-by-nenekiri-bookwyrm"
+        ],
         "narrator:nenekiri-bookwyrm": [
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
@@ -17438,9 +17441,6 @@
         ],
         "narrator:the-poet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": [
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
-        ],
-        "narrator:the-poet-thank-you-for-listening-to-the-voice-of-dog": [
-            "no-one-is-worthy-by-nenekiri-bookwyrm"
         ],
         "narrator:william-dingo": [
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",

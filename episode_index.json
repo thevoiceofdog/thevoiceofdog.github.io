@@ -398,6 +398,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5fd1a12f-682e-46dd-ac2b-29b163772a33/With-All-Faults-by-Tempe-O-Kun.mp3",
+            "published_date": "2026-04-13T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cWith All Faults,\u201d a poem by Tempo, staff writer at Furry Film Burrow and author of the Sixes Wild, Windfall, and Puplift series. You can buy his work from <u><a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a></u>, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> or <u><a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a></u>. This poem previously appeared in Heat 13 from Sofawolf Press.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie, and by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "with-all-faults-by-tempe-okun",
+            "summary": null,
+            "tags": [
+                "romance",
+                "poetry-month",
+                "poem",
+                "narrator:apollo-brightflank",
+                "narrator:carrizo",
+                "by:tempe-o-kun"
+            ],
+            "title": "\u201cWith All Faults\u201d by Tempe O\u2019Kun (read by Apollo and Carrizo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bf15b2ae-84e2-4433-92f0-da1b46bdb735/Old-Hues-by-Tulip-Farthing.mp3",
             "published_date": "2026-04-10T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cOld Hues\u201d a poem by <u><a href=\"https://bsky.app/profile/goosonesq.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Tulip Farthing</a></u>, who is an English teacher doing voice-acting, Japanese translations, and writing as a hobby, and you can find more of his stories and samples on <u><a href=\"https://www.youtube.com/@goosonesq-va\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14645,6 +14662,9 @@
             "bluebucks-by-televassi-18",
             "counter-culture-by-televassi"
         ],
+        "by:tempe-o-kun": [
+            "with-all-faults-by-tempe-okun"
+        ],
         "by:tempo": [
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
             "toad-toad-hall-by-tempo",
@@ -16659,6 +16679,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "winterwreath-by-j-s-hawthorne",
@@ -16692,6 +16713,7 @@
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "with-all-faults-by-tempe-okun",
             "18-love-by-vixyy-fox",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
@@ -17654,6 +17676,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
@@ -17725,6 +17748,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
@@ -18072,6 +18096,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",

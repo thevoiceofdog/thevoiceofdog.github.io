@@ -398,6 +398,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d94ba3c7-ffd2-4994-9794-038beba4c338/Tail-Dream-by-A-Griffin.mp3",
+            "published_date": "2026-04-15T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cTail Dream\u201d a poem by <u><a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">A</a><a href=\"https://supertrainstationh.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">. Griffin</a></u>, also known as SuperTrainStationH, an autistic YouTuber and <u><a href=\"https://www.twitch.tv/supertrainstationh\" rel=\"noopener noreferrer\" target=\"_blank\">Twitch Streamer</a></u> who also writes creature poems, and you can find more of his stories on<u><a href=\"https://www.furaffinity.net/user/a.griffinwrites/\" rel=\"noopener noreferrer\" target=\"_blank\"> Furaffinity</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "tail-dream-by-a-griffin",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:carrizo",
+                "by:a-griffin"
+            ],
+            "title": "\u201cTail Dream\u201d by A. Griffin (read by Carrizo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5fd1a12f-682e-46dd-ac2b-29b163772a33/With-All-Faults-by-Tempe-O-Kun.mp3",
             "published_date": "2026-04-13T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cWith All Faults,\u201d a poem by Tempo, staff writer at Furry Film Burrow and author of the Sixes Wild, Windfall, and Puplift series. You can buy his work from <u><a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a></u>, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> or <u><a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a></u>. This poem previously appeared in Heat 13 from Sofawolf Press.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie, and by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13629,6 +13644,9 @@
             "eagle-s-splendour-by-ryan-campbell",
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
+        "by:a-griffin": [
+            "tail-dream-by-a-griffin"
+        ],
         "by:aelius": [
             "gemini-lunae-by-aelius",
             "rune-weaver-by-aelius-part-2-of-2",
@@ -16713,6 +16731,7 @@
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "18-love-by-vixyy-fox",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
@@ -17676,6 +17695,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
@@ -17748,6 +17768,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",

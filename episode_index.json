@@ -398,6 +398,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/83e8de75-afb1-407e-98ca-c5c6041a623e/He-of-Me-by-Fortain.mp3",
+            "published_date": "2026-04-17T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cHe of Me\u201d a poem by <u><a href=\"https://bsky.app/profile/fortain3.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Fortain</a></u>, who is a quiet and reserved otter, who writes mostly to himself. At times you may see him come out of his shell. This is his public poetry debut.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "he-of-me-by-fortain",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:fortain"
+            ],
+            "title": "\u201cHe of Me\u201d by Fortain"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d94ba3c7-ffd2-4994-9794-038beba4c338/Tail-Dream-by-A-Griffin.mp3",
             "published_date": "2026-04-15T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cTail Dream\u201d a poem by <u><a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">A</a><a href=\"https://supertrainstationh.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">. Griffin</a></u>, also known as SuperTrainStationH, an autistic YouTuber and <u><a href=\"https://www.twitch.tv/supertrainstationh\" rel=\"noopener noreferrer\" target=\"_blank\">Twitch Streamer</a></u> who also writes creature poems, and you can find more of his stories on<u><a href=\"https://www.furaffinity.net/user/a.griffinwrites/\" rel=\"noopener noreferrer\" target=\"_blank\"> Furaffinity</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13999,6 +14014,9 @@
             "a-city-wolf-joins-the-pack-by-fopfox-part-2-of-2-18",
             "a-city-wolf-joins-the-pack-by-fopfox-part-1-of-2"
         ],
+        "by:fortain": [
+            "he-of-me-by-fortain"
+        ],
         "by:frances-pauli": [
             "drunk-spider-ii-by-frances-pauli",
             "lead-a-unicorn-to-water-by-frances-pauli",
@@ -17188,6 +17206,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "he-of-me-by-fortain",
             "old-hues-by-tulip-farthing",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "hindsight-by-jim-redfoot",
@@ -17695,6 +17714,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "he-of-me-by-fortain",
             "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",
@@ -17768,6 +17788,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "he-of-me-by-fortain",
             "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "old-hues-by-tulip-farthing",

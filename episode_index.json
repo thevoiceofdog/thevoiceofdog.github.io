@@ -400,6 +400,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ac46836e-6fb7-400c-b6bf-bc8d4bda06af/The-Fourth-Lunation-by-Anhedral-part-2-of-2.mp3",
+            "published_date": "2026-04-21T09:50:00.000Z",
+            "shownotes": "<p>Today we present the second and final part of \u201cThe Fourth Lunation\u201d a poem by Anhedral, a music teacher and writer whose stories have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his work, including photos and explanatory notes, on his <u><a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Last time, the poet\u2019s werewolf partner took them out into the countryside to finally deliver the long-awaited transformative bite.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-fourth-lunation-by-anhedral-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "poetry-month",
+                "spooky",
+                "poem",
+                "by:anhedral",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Fourth Lunation\u201d by Anhedral (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/91da8616-8663-4515-a934-62fb77919f7b/The-Fourth-Lunation-by-Anhedral-part-1-of-2.mp3",
             "published_date": "2026-04-20T09:50:00.000Z",
             "shownotes": "<p>Today we present the first of two parts of \u201cThe Fourth Lunation\u201d a poem by Anhedral, a music teacher and writer whose stories have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his work, including photos and explanatory notes, on his <u><a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13759,6 +13776,7 @@
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french"
         ],
         "by:anhedral": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "18-unchained-by-anhedral",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -14842,6 +14860,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "dicking-around-by-dirt-coyote",
@@ -17228,6 +17247,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",
             "old-hues-by-tulip-farthing",
@@ -17737,6 +17757,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",
             "tail-dream-by-a-griffin",
@@ -17812,6 +17833,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",
             "tail-dream-by-a-griffin",
@@ -18459,6 +18481,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-fourth-lunation-by-anhedral-part-2-of-2",
             "hindsight-by-jim-redfoot",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",

@@ -400,6 +400,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fc2144f6-d420-4fca-b70d-1b1f8ed27ff9/Ink-on-Paws-by-NightEyes-Dayspring.mp3",
+            "published_date": "2026-04-22T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cInk on Paws\u201d a poem by NightEyes DaySpring, a known troublemaker who is rumored to have a penchant for coffee and an interest in dead, ancient civilizations. NightEyes is the author of two novels, two short story collections, and one poetry chapbook. Information about him and his writing can be found at <u><a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a></u>.</p><p>Read by Cider, the Library Martin.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "ink-on-paws-by-nighteyes-dayspring",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:cider",
+                "by:nighteyes-dayspring"
+            ],
+            "title": "\u201cInk on Paws\u201d by NightEyes Dayspring (read by Cider)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ac46836e-6fb7-400c-b6bf-bc8d4bda06af/The-Fourth-Lunation-by-Anhedral-part-2-of-2.mp3",
             "published_date": "2026-04-21T09:50:00.000Z",
             "shownotes": "<p>Today we present the second and final part of \u201cThe Fourth Lunation\u201d a poem by Anhedral, a music teacher and writer whose stories have appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his work, including photos and explanatory notes, on his <u><a href=\"https://www.furaffinity.net/user/anhedral\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Last time, the poet\u2019s werewolf partner took them out into the countryside to finally deliver the long-awaited transformative bite.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14426,6 +14441,7 @@
             "unpredictability-by-nenekiri-bookwyrm"
         ],
         "by:nighteyes-dayspring": [
+            "ink-on-paws-by-nighteyes-dayspring",
             "the-package-by-nighteyes-dayspring",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "18binding-spirits-by-nighteyes-dayspring",
@@ -16803,6 +16819,7 @@
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
         "narrator:cider": [
+            "ink-on-paws-by-nighteyes-dayspring",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "awakening-by-aetherwolf76"
@@ -17757,6 +17774,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",
@@ -17833,6 +17851,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",

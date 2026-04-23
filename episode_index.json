@@ -400,6 +400,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19998247-6210-4569-845e-19d3a911af16/To-the-Last-Memory-of-John-and-Syd-by-Rob-MacWolf.mp3",
+            "published_date": "2026-04-23T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cTo the Last Memory of John and Syd\u201d a poem by <u><a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who read the Ballad of Reading Gaol one time and couldn\u2019t help himself. You can find this, alongside other poems, in the collection <u><a href=\"https://www.bewere.net/product.php?id=1182\" rel=\"noopener noreferrer\" target=\"_blank\">The Wind Remembers</a></u>, which you can get, alongside other books, <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">from Bewere Books</a></u>. And you can find more of his stories <u><a href=\"https://thevoice.dog/?episode=fourth-man-left-outside-by-rob-macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">right here on the Voice of Dog</a></u>.</p><p>Read by William Dingo, the Sunrise Spectator.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
+            "summary": null,
+            "tags": [
+                "poem",
+                "poetry-month",
+                "romance",
+                "crime",
+                "historical",
+                "narrator:william-dingo",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cTo the Last Memory of John and Syd\u201d by Rob MacWolf (read by William Dingo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/fc2144f6-d420-4fca-b70d-1b1f8ed27ff9/Ink-on-Paws-by-NightEyes-Dayspring.mp3",
             "published_date": "2026-04-22T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cInk on Paws\u201d a poem by NightEyes DaySpring, a known troublemaker who is rumored to have a penchant for coffee and an interest in dead, ancient civilizations. NightEyes is the author of two novels, two short story collections, and one poetry chapbook. Information about him and his writing can be found at <u><a href=\"http://nighteyes-dayspring.com\" rel=\"noopener noreferrer\" target=\"_blank\">nighteyes-dayspring.com</a></u>.</p><p>Read by Cider, the Library Martin.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14550,6 +14568,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "proud-lament-by-rob-macwolf",
@@ -15443,6 +15462,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-whole-moon-by-k-c-shaw",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
@@ -16185,6 +16205,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
@@ -17563,6 +17584,7 @@
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm"
         ],
         "narrator:william-dingo": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-2-of-2",
             "let-him-that-speaketh-fate-to-men-have-no-fate-of-his-own-by-rob-macwolf-part-1-of-2",
             "the-reason-why-by-j-s-hawthorne",
@@ -17774,6 +17796,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
@@ -17851,6 +17874,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
@@ -18204,6 +18228,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",

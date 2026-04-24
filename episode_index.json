@@ -400,6 +400,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/55a3237f-6392-4e5c-a2a7-fe1b8262ef46/Catch-Them-All-by-squidpizza.mp3",
+            "published_date": "2026-04-24T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cCatch Them All\u201d a poem by <u><a href=\"https://bsky.app/profile/squidpizza.art\" rel=\"noopener noreferrer\" target=\"_blank\">squidpizza</a></u>, who writes mostly original short stories with a focus on gay sci-fi and fantasy, and also writes and publishes the gay fantasy web serial <u><a href=\"https://www.royalroad.com/fiction/77269/gilded-rose\" rel=\"noopener noreferrer\" target=\"_blank\">Gilded Rose</a></u> on Royal Road. You can find more of his short stories on on <u><a href=\"https://bsky.app/profile/squidpizza.art\" rel=\"noopener noreferrer\" target=\"_blank\">bluesky</a></u> and <u><a href=\"https://archiveofourown.org/users/squidpizza\" rel=\"noopener noreferrer\" target=\"_blank\">ao3</a></u>.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "catch-them-all-by-squidpizza",
+            "summary": null,
+            "tags": [
+                "gay",
+                "lgbtq+",
+                "queer",
+                "poetry-month",
+                "poem",
+                "narrator:apollo-brightflank",
+                "by:squidpizza"
+            ],
+            "title": "\u201cCatch Them All\u201d by squidpizza (read by Apollo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19998247-6210-4569-845e-19d3a911af16/To-the-Last-Memory-of-John-and-Syd-by-Rob-MacWolf.mp3",
             "published_date": "2026-04-23T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cTo the Last Memory of John and Syd\u201d a poem by <u><a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who read the Ballad of Reading Gaol one time and couldn\u2019t help himself. You can find this, alongside other poems, in the collection <u><a href=\"https://www.bewere.net/product.php?id=1182\" rel=\"noopener noreferrer\" target=\"_blank\">The Wind Remembers</a></u>, which you can get, alongside other books, <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">from Bewere Books</a></u>. And you can find more of his stories <u><a href=\"https://thevoice.dog/?episode=fourth-man-left-outside-by-rob-macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">right here on the Voice of Dog</a></u>.</p><p>Read by William Dingo, the Sunrise Spectator.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14734,6 +14752,9 @@
             "nonna-by-spottystuff",
             "let-them-have-cake-by-spottystuff"
         ],
+        "by:squidpizza": [
+            "catch-them-all-by-squidpizza"
+        ],
         "by:stephen-coghlan": [
             "lamb-of-god-by-stephen-coghlan"
         ],
@@ -16018,6 +16039,7 @@
             "appleseed-by-marisca-pichette"
         ],
         "gay": [
+            "catch-them-all-by-squidpizza",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french",
@@ -16505,6 +16527,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "catch-them-all-by-squidpizza",
             "mating-net-by-caesar",
             "18-summer-by-lou-le-loup",
             "letters-to-luzia-by-casterway-part-2-of-2",
@@ -16793,6 +16816,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "catch-them-all-by-squidpizza",
             "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
@@ -17796,6 +17820,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "catch-them-all-by-squidpizza",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
@@ -17874,6 +17899,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "catch-them-all-by-squidpizza",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
@@ -18097,6 +18123,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "catch-them-all-by-squidpizza",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
             "18-victor-tremblay-in-mystery-at-moon-lake-by-pascal-farful",

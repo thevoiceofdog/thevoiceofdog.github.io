@@ -400,6 +400,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/b5fc2ea0-977e-4c0b-b397-47abb507b4ad/The-Fourth-Death-by-Utunu.mp3",
+            "published_date": "2026-04-27T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cThe Fourth Death\u201d a poem by Utunu, author of \u2018Rafts\u2019 and \u2018Far Flung\u2019; you can find out more about him and his books at <u><a href=\"http://mapakuvillage.com\" rel=\"noopener noreferrer\" target=\"_blank\">mapakuvillage.com</a>.</u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-fourth-death-by-utunu",
+            "summary": null,
+            "tags": [
+                "poetry-month",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:utunu"
+            ],
+            "title": "\u201cThe Fourth Death\u201d by Utunu"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/55a3237f-6392-4e5c-a2a7-fe1b8262ef46/Catch-Them-All-by-squidpizza.mp3",
             "published_date": "2026-04-24T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cCatch Them All\u201d a poem by <u><a href=\"https://bsky.app/profile/squidpizza.art\" rel=\"noopener noreferrer\" target=\"_blank\">squidpizza</a></u>, who writes mostly original short stories with a focus on gay sci-fi and fantasy, and also writes and publishes the gay fantasy web serial <u><a href=\"https://www.royalroad.com/fiction/77269/gilded-rose\" rel=\"noopener noreferrer\" target=\"_blank\">Gilded Rose</a></u> on Royal Road. You can find more of his short stories on on <u><a href=\"https://bsky.app/profile/squidpizza.art\" rel=\"noopener noreferrer\" target=\"_blank\">bluesky</a></u> and <u><a href=\"https://archiveofourown.org/users/squidpizza\" rel=\"noopener noreferrer\" target=\"_blank\">ao3</a></u>.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14872,6 +14887,7 @@
             "friends-and-collies-by-ursus-arctos"
         ],
         "by:utunu": [
+            "the-fourth-death-by-utunu",
             "rites-of-wood-and-bone-by-utunu",
             "nudging-the-sky-by-utunu",
             "water-by-utunu-part-2-of-2",
@@ -17309,6 +17325,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-fourth-death-by-utunu",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "he-of-me-by-fortain",
@@ -17820,6 +17837,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "the-fourth-death-by-utunu",
             "catch-them-all-by-squidpizza",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",
@@ -17899,6 +17917,7 @@
             "rest-less-a-poem-by-rob-macwolf"
         ],
         "poetry-month": [
+            "the-fourth-death-by-utunu",
             "catch-them-all-by-squidpizza",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "ink-on-paws-by-nighteyes-dayspring",

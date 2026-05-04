@@ -401,6 +401,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2ce571c1-09de-4c61-b97f-7576b042b98e/Twenty-Miles-to-McNair-by-Mekyro.mp3",
+            "published_date": "2026-05-04T09:50:00.000Z",
+            "shownotes": "<p><em>Those who venture to the poles often tell tales of strange happenings under the aurora's light.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/63565870/\" rel=\"noopener noreferrer\" target=\"_blank\">Twenty Miles to McNair</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/mekyro/\" rel=\"noopener noreferrer\" target=\"_blank\">Mekyro</a></u>, who is submitting their first short story. You can find more from him at <u><a href=\"https://www.furaffinity.net/user/mekyro/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "twenty-miles-to-mcnair-by-mekyro",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "survival",
+                "action/adventure",
+                "historical",
+                "by:mekyro",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cTwenty Miles to McNair\u201d by Mekyro"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/32d736ef-bdf4-4367-a4af-34b65ab85e25/Jueju-The-Grackle-by-Michel-Vincent-Corbeaux.mp3",
             "published_date": "2026-04-29T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201c<u><a href=\"https://www.black-plume.com/2024/08/13/jueju-the-grackle/\" rel=\"noopener noreferrer\" target=\"_blank\">Jueju: The Grackle</a></u>\u201d a poem by <u><a href=\"https://www.black-plume.com/info/\" rel=\"noopener noreferrer\" target=\"_blank\">Michel-Vincent Corbeaux</a></u>, who resides in Texas and has been writing poetry for over a decade; he has recently self-published a poetry chapbook, titled \u201cHeraclitean Bird-Songs\u201d which will soon be available for purchase in print or e-book form. You can find more of his poetry on his website, <u><a href=\"https://www.black-plume.com/\" rel=\"noopener noreferrer\" target=\"_blank\">The Black Plume (</a><a href=\"http://www.black-plume.com\" rel=\"noopener noreferrer\" target=\"_blank\">www.black-plume.com</a><a href=\"https://www.black-plume.com/\" rel=\"noopener noreferrer\" target=\"_blank\">)</a></u>, his <u><a href=\"https://t.me/black_plume_poet\" rel=\"noopener noreferrer\" target=\"_blank\">Telegram poetry channel</a></u>, or his <u><a href=\"https://www.furaffinity.net/user/corvidconquest\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity userpage</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13393,6 +13410,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "twenty-miles-to-mcnair-by-mekyro",
             "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
@@ -14452,6 +14470,9 @@
             "songs-in-the-garden-by-matt-trepal-part-2-of-2",
             "songs-in-the-garden-by-matt-trepal-part-1-of-2"
         ],
+        "by:mekyro": [
+            "twenty-miles-to-mcnair-by-mekyro"
+        ],
         "by:metassus": [
             "hero-worship-by-metassus-read-by-madison-scott-clary",
             "the-library-by-metassus",
@@ -14950,6 +14971,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "twenty-miles-to-mcnair-by-mekyro",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
@@ -16261,6 +16283,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "twenty-miles-to-mcnair-by-mekyro",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
@@ -17343,6 +17366,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "twenty-miles-to-mcnair-by-mekyro",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
             "the-fourth-death-by-utunu",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
@@ -18754,6 +18778,7 @@
             "merry-christmas-professor-nemesis-by-buddy-goodboy"
         ],
         "survival": [
+            "twenty-miles-to-mcnair-by-mekyro",
             "love-like-echoed-fire-by-js-hawthorne",
             "event-horizon-by-arcane-reno",
             "a-part-of-the-machine-by-mikasiwolf",

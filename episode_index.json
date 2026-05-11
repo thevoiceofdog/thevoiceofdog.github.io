@@ -402,6 +402,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/059c72fd-44be-4dcb-bb92-69599037e45f/Love-Song-for-the-Moon-by-Janice-Rider.mp3",
+            "published_date": "2026-05-11T09:50:00.000Z",
+            "shownotes": "<p><em>This is a world where wolves have their own mythology and know about their ancestral roots. It is a place where the rhythms of nature play out against a dramatic backdrop. Here, predators and prey struggle to survive while, high above them, Sun and Moon play their own pivotal roles.</em></p><p>Today\u2019s story is \u201cLove Song for the Moon\u201d by Janice Rider, whose stories are inspired by her love of the natural world. This story is in the anthology Spirit of the Wolf by <u><a href=\"https://www.wolfsingerpubs.com/shop\" rel=\"noopener noreferrer\" target=\"_blank\">WolfSinger Publications</a></u>. You can find more of her stories through Speculation Publications, Critical Blast Publishing, Word Balloon Books, The North American Jules Verne Society, and Gypsum Sound Tales.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "love-song-for-the-moon-by-janice-rider",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "romance",
+                "drama",
+                "by:janice-rider",
+                "narrator:carrizo"
+            ],
+            "title": "\u201cLove Song for the Moon\u201d by Janice Rider"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/2ce571c1-09de-4c61-b97f-7576b042b98e/Twenty-Miles-to-McNair-by-Mekyro.mp3",
             "published_date": "2026-05-04T09:50:00.000Z",
             "shownotes": "<p><em>Those who venture to the poles often tell tales of strange happenings under the aurora's light.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/63565870/\" rel=\"noopener noreferrer\" target=\"_blank\">Twenty Miles to McNair</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/mekyro/\" rel=\"noopener noreferrer\" target=\"_blank\">Mekyro</a></u>, who is submitting their first short story. You can find more from him at <u><a href=\"https://www.furaffinity.net/user/mekyro/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14295,6 +14312,9 @@
             "the-stars-in-your-dreams-are-the-eyes-of-what-hunts-you-by-james-stone",
             "cat-problems-by-james-stone"
         ],
+        "by:janice-rider": [
+            "love-song-for-the-moon-by-janice-rider"
+        ],
         "by:jay-shirou-coughlan": [
             "dragon-roasted-coffee-beans-by-jay-shirou-coughlan"
         ],
@@ -14973,6 +14993,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "love-song-for-the-moon-by-janice-rider",
             "twenty-miles-to-mcnair-by-mekyro",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
@@ -15599,6 +15620,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "love-song-for-the-moon-by-janice-rider",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
@@ -16586,6 +16608,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "love-song-for-the-moon-by-janice-rider",
             "catch-them-all-by-squidpizza",
             "mating-net-by-caesar",
             "18-summer-by-lou-le-loup",
@@ -16910,6 +16933,7 @@
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "love-song-for-the-moon-by-janice-rider",
             "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
             "18-love-by-vixyy-fox",
@@ -18321,6 +18345,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "love-song-for-the-moon-by-janice-rider",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",

@@ -403,6 +403,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/395330ff-850a-4c9b-86cf-bf27746ce3fe/18-Brookhurst-s-Smell-by-Rykar-Thornpaw.mp3",
+            "published_date": "2026-05-18T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>A horse coming home from work gets drawn into a seductive, passionate relationship with a leather-wearing otter on the subway.</em></p><p>Today\u2019s story is \u201cBrookhurst\u2019s Smell\u201d by Rykar Thornpaw, He is a wheelchair-using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer, and by Rob MacWolf, Werewolf Hitchhiker.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-brookhursts-smell-by-rykar-thornpaw",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "drama",
+                "nsfw",
+                "by:rykar-thornpaw",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "[18+] \u201cBrookhurst\u2019s Smell\u201d by Rykar Thornpaw (read by Ta'kom and Rob)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/059c72fd-44be-4dcb-bb92-69599037e45f/Love-Song-for-the-Moon-by-Janice-Rider.mp3",
             "published_date": "2026-05-11T09:50:00.000Z",
             "shownotes": "<p><em>This is a world where wolves have their own mythology and know about their ancestral roots. It is a place where the rhythms of nature play out against a dramatic backdrop. Here, predators and prey struggle to survive while, high above them, Sun and Moon play their own pivotal roles.</em></p><p>Today\u2019s story is \u201cLove Song for the Moon\u201d by Janice Rider, whose stories are inspired by her love of the natural world. This story is in the anthology Spirit of the Wolf by <u><a href=\"https://www.wolfsingerpubs.com/shop\" rel=\"noopener noreferrer\" target=\"_blank\">WolfSinger Publications</a></u>. You can find more of her stories through Speculation Publications, Critical Blast Publishing, Word Balloon Books, The North American Jules Verne Society, and Gypsum Sound Tales.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14745,6 +14762,7 @@
             "eagle-s-splendour-by-ryan-campbell"
         ],
         "by:rykar-thornpaw": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "the-forest",
             "18-desires-wings-by-rykar-thornpaw-part-2-of-2",
             "18-desires-wings-by-rykar-thornpaw-part-1-of-2"
@@ -14995,6 +15013,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "twenty-miles-to-mcnair-by-mekyro",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
@@ -15622,6 +15641,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
@@ -17645,6 +17665,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "18-votive-by-packwolf-lupestripe",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-firsts-by-tj-minde-part-1-of-2",
@@ -17726,6 +17747,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "18-love-by-vixyy-fox",
             "18-exchange-student-by-celtic-kitsune",
@@ -18347,6 +18369,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "with-all-faults-by-tempe-okun",

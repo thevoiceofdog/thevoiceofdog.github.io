@@ -404,6 +404,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/db788782-f147-4c53-9e0d-3a91ed3010ad/Grey-Cats-and-White-Hounds-by-Huskyteer.mp3",
+            "published_date": "2026-05-25T09:50:00.000Z",
+            "shownotes": "<p><em>In 17th-century France, a fight breaks out between a King\u2019s White Hound and a Cardinal\u2019s Cat. Hauled before their two masters in disgrace, they are charged with a mission vital to their country\u2019s future\u2026</em></p><p>Today\u2019s story is \u201cGrey Cats and White Hounds\u201d by <u><a href=\"http://huskyteer.co.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Huskyteer</a></u> (words are her sword!). This story was first published in <u><a href=\"https://www.tfpublishing.com.au/store?category=Anthology\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u> by <u><a href=\"https://www.tfpublishing.com.au\" rel=\"noopener noreferrer\" target=\"_blank\">Transcendent Fiction Publishing</a></u>. You can find more of Huskyteer\u2019s stories at <u><a href=\"https://huskyteer.co.uk/bibliography.php\" rel=\"noopener noreferrer\" target=\"_blank\">huskyteer.co.uk</a></u>.</p><p>Staring next week, we will again present an entire month of stories, and poems, of Queer Joy, Resilience, and Solidarity in an age in sore need of all three. Please join us, friends of every shape, ability, gender, and species, for the first episode of Pride Month 2026.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "grey-cats-and-white-hounds-by-huskyteer",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "action/adventure",
+                "medieval",
+                "blood",
+                "by:huskyteer",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cGrey Cats and White Hounds\u201d by Huskyteer"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/395330ff-850a-4c9b-86cf-bf27746ce3fe/18-Brookhurst-s-Smell-by-Rykar-Thornpaw.mp3",
             "published_date": "2026-05-18T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>A horse coming home from work gets drawn into a seductive, passionate relationship with a leather-wearing otter on the subway.</em></p><p>Today\u2019s story is \u201cBrookhurst\u2019s Smell\u201d by Rykar Thornpaw, He is a wheelchair-using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.</p><p>Read by Ta\u2019kom Ironhoof, the Equine Charmer, and by Rob MacWolf, Werewolf Hitchhiker.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13450,6 +13470,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
             "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
@@ -13733,6 +13754,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "gemini-lunae-by-aelius",
             "lyra-by-laura-rodley",
             "18-exchange-student-by-celtic-kitsune",
@@ -14278,6 +14300,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "by:huskyteer": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "the-mouse-from-mykonos-by-huskyteer-read-khaki-and-friends",
             "jenny-burnt-tail-by-huskyteer-read-by-the-author",
             "the-lion-of-the-low-countries-by-huskyteer",
@@ -15015,6 +15038,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "twenty-miles-to-mcnair-by-mekyro",
@@ -16632,6 +16656,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "love-song-for-the-moon-by-janice-rider",
             "catch-them-all-by-squidpizza",
             "mating-net-by-caesar",
@@ -16805,6 +16830,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "hope-by-russell-knight",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -17416,6 +17442,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
             "the-fourth-death-by-utunu",
@@ -18141,6 +18168,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -18371,6 +18399,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "grey-cats-and-white-hounds-by-huskyteer",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",

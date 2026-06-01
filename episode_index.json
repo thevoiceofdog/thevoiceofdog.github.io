@@ -407,6 +407,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ce47bd1d-40e5-44f0-8c82-157669cf137b/C-mon-No-One-s-Lookin-by-Tiberius-Rings-Edouard-part-1-of-2.mp3",
+            "published_date": "2026-06-01T09:50:00.000Z",
+            "shownotes": "<p><em>A stranger\u2019s hand. A hidden door. A life long buried begins to stir. Some worlds only exist if you\u2019re brave enough to enter.</em></p><p>It is with great pleasure, and indeed Pride, that we welcome you, friends of every shape, ability, gender, and species, once again to Pride Month.</p><p>Today\u2019s story is the first of two parts of \u201cC\u2019mon! No Ones\u2019 Lookin\u2019!\u201d, by TiberiusRings and Edouard!  You can find more of their individual works on BlueSky and Tiberius\u2019 Writings on SoFurry.com.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "drugs/alcohol",
+                "by:tiberius-rings-edouard",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cC\u2019mon!  No One\u2019s Lookin\u2019!\u201d by Tiberius Rings & Edouard (part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/db788782-f147-4c53-9e0d-3a91ed3010ad/Grey-Cats-and-White-Hounds-by-Huskyteer.mp3",
             "published_date": "2026-05-25T09:50:00.000Z",
             "shownotes": "<p><em>In 17th-century France, a fight breaks out between a King\u2019s White Hound and a Cardinal\u2019s Cat. Hauled before their two masters in disgrace, they are charged with a mission vital to their country\u2019s future\u2026</em></p><p>Today\u2019s story is \u201cGrey Cats and White Hounds\u201d by <u><a href=\"http://huskyteer.co.uk\" rel=\"noopener noreferrer\" target=\"_blank\">Huskyteer</a></u> (words are her sword!). This story was first published in <u><a href=\"https://www.tfpublishing.com.au/store?category=Anthology\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u> by <u><a href=\"https://www.tfpublishing.com.au\" rel=\"noopener noreferrer\" target=\"_blank\">Transcendent Fiction Publishing</a></u>. You can find more of Huskyteer\u2019s stories at <u><a href=\"https://huskyteer.co.uk/bibliography.php\" rel=\"noopener noreferrer\" target=\"_blank\">huskyteer.co.uk</a></u>.</p><p>Staring next week, we will again present an entire month of stories, and poems, of Queer Joy, Resilience, and Solidarity in an age in sore need of all three. Please join us, friends of every shape, ability, gender, and species, for the first episode of Pride Month 2026.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14947,6 +14965,9 @@
         "by:thurston-howl": [
             "ghosts-of-cinnamon-and-lavender-by-thurston-howl-18"
         ],
+        "by:tiberius-rings-edouard": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2"
+        ],
         "by:tiberiusrings": [
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-2-of-2",
             "open-and-shut-case-of-love-by-tiberiusrings-fruitz-part-1-of-2",
@@ -15044,6 +15065,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
@@ -15879,6 +15901,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "18-firsts-by-tj-minde-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-2-of-2",
             "18-shame-and-desperation-will-kill-you-someday-by-pascal-farful-part-1-of-2",
@@ -16662,6 +16685,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "love-song-for-the-moon-by-janice-rider",
             "catch-them-all-by-squidpizza",
@@ -17448,6 +17472,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
@@ -18174,6 +18199,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
@@ -18405,6 +18431,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",

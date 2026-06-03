@@ -408,6 +408,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ee3d85d7-4cf4-4c5c-b529-948333ef5f0e/I-Once-Fell-in-Love-With-a-Jackalope-by-Chase-Anderson.mp3",
+            "published_date": "2026-06-03T09:50:00.000Z",
+            "shownotes": "<p><em>An owl travels far to find the sacred waters of transformation, and meets a creature who\u2019s already survived the changes.</em></p><p>Today\u2019s story is \u201cI Once Fell in Love With a Jackalope\u201d by Chase Anderson, who is a speculative fiction writer, computer meddler, and internet bird. This story was first printed in Small Wonders and you can find more words, both interactive and not, on his website, <u><a href=\"https://chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chasej.xyz</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "pride-month",
+                "romance",
+                "fantasy",
+                "by:chase-anderson",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cI Once Fell in Love With a Jackalope\u201d by Chase Anderson"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/af24be1c-72c0-4135-9e6e-9c8ec8b376ab/C-mon-No-One-s-Lookin-By-TiberiusRings-Edouard-part-2-of-2.mp3",
             "published_date": "2026-06-02T09:50:00.000Z",
             "shownotes": "<p><em>A stranger\u2019s hand. A hidden door. A life long buried begins to stir. Some worlds only exist if you\u2019re brave enough to enter.</em></p><p>Today\u2019s story is the second and final part of \u201cC\u2019mon! No One\u2019s Lookin\u2019!\u201d by TiberiusRings &amp; Edouard You can find more of their individual works on BlueSky and Tiberius\u2019 writing on <u><a href=\"http://sofurry.com\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry.com</a></u>.</p><p>Last time, beneath the noise and lights of the city, Phil Deveraux discovered a hidden world few are meant to see. Drawn in by curiosity and something deeper, he followed a stranger beyond the threshold, uncertain of what waits for him on the other side.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14088,6 +14107,7 @@
             "ghost-in-the-machine-by-celtic-kitsune"
         ],
         "by:chase-anderson": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "an-atomic-fairy-tale-by-chase-anderson",
             "carcinographic-classifieds-by-chase-anderson-live",
             "mother-by-chase-anderson",
@@ -15083,6 +15103,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -16109,6 +16130,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
             "winterwreath-by-j-s-hawthorne",
@@ -16704,6 +16726,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -17492,6 +17515,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -18220,6 +18244,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -18321,6 +18346,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "catch-them-all-by-squidpizza",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
@@ -18453,6 +18479,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",

@@ -408,6 +408,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c8270356-e94d-494c-a8de-4c6dead3c3df/A-Donation-circa-1970-by-Corran-Orreaux.mp3",
+            "published_date": "2026-06-04T09:50:00.000Z",
+            "shownotes": "<p><em>Secondhand shops are hit or miss. For Alex, volunteer at his local library\u2019s bookstore, it\u2019s always miss. A day sorting donations takes a turn when he finds a bit of himself in an old pulp novel, not in any way he could have predicted.</em></p><p>Today\u2019s story is \u201cA Donation, circa 1970\u201d by <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a></u>, who puts words on paper pretty well for a guy with hooves, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "a-donation-circa-1970-by-corran-orreaux",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "crime",
+                "by:corran-orreaux",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cA Donation, circa 1970\u201d by Corran Orreaux"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ee3d85d7-4cf4-4c5c-b529-948333ef5f0e/I-Once-Fell-in-Love-With-a-Jackalope-by-Chase-Anderson.mp3",
             "published_date": "2026-06-03T09:50:00.000Z",
             "shownotes": "<p><em>An owl travels far to find the sacred waters of transformation, and meets a creature who\u2019s already survived the changes.</em></p><p>Today\u2019s story is \u201cI Once Fell in Love With a Jackalope\u201d by Chase Anderson, who is a speculative fiction writer, computer meddler, and internet bird. This story was first printed in Small Wonders and you can find more words, both interactive and not, on his website, <u><a href=\"https://chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">chasej.xyz</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14123,6 +14140,7 @@
             "born-to-be-wild-by-coda"
         ],
         "by:corran-orreaux": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "the-dog-man-of-the-forest-by-corran-orreaux"
@@ -15103,6 +15121,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
@@ -15677,6 +15696,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-whole-moon-by-k-c-shaw",
@@ -16726,6 +16746,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
@@ -17515,6 +17536,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
@@ -18244,6 +18266,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",

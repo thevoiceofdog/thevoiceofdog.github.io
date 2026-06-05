@@ -408,6 +408,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19dabd71-419a-41dc-80c0-19c61a7df1b2/18-Fireside-Meeting-at-the-Isles-of-the-Blest.mp3",
+            "published_date": "2026-06-05T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>The goal of our longstanding collaborative format has always been to remind us that storytelling is a collaborative activity. One cannot tell stories and remain alone. Since Pride is something we celebrate as a community, then it was fitting that Pride, last year, received the first specially themed episode of this type. So it is our hope that you agree it is just as fitting that pride also receive the first ever Adults Only episode of Fireside Meeting.</em></p><p>Today\u2019s story is a collaborative piece with contributions by <u><a href=\"https://bsky.app/profile/roscoegbeetle.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Roscoe G. Beetle</a></u>, <u><a href=\"https://thekamenwriter.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">David the KamenWriter</a></u>, and <u><a href=\"https://bsky.app/profile/pascalfarful.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a></u>.</p><p>Read by Dralen, the Dapper Dragonfox, Icefang, in the Cozy Corner of the Cafe, and Nenekiri Bookwyrm, the Bespectacled Dragon.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "adult",
+                "fireside-meeting",
+                "romance",
+                "nsfw",
+                "by:friends-of-the-fireplace",
+                "narrator:nenekiri-bookwyrm"
+            ],
+            "title": "[18+] \u201cFireside Meeting at the Isles of the Blest\u201d by Friends of the Fireplace"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c8270356-e94d-494c-a8de-4c6dead3c3df/A-Donation-circa-1970-by-Corran-Orreaux.mp3",
             "published_date": "2026-06-04T09:50:00.000Z",
             "shownotes": "<p><em>Secondhand shops are hit or miss. For Alex, volunteer at his local library\u2019s bookstore, it\u2019s always miss. A day sorting donations takes a turn when he finds a bit of himself in an old pulp novel, not in any way he could have predicted.</em></p><p>Today\u2019s story is \u201cA Donation, circa 1970\u201d by <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a></u>, who puts words on paper pretty well for a guy with hooves, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13645,6 +13664,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
@@ -14314,6 +14334,7 @@
             "where-stories-are-told-by-khaki-and-friends"
         ],
         "by:friends-of-the-fireplace": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -15121,6 +15142,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -16245,6 +16267,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -16746,6 +16769,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -17518,6 +17542,7 @@
             "no-one-is-worthy-by-nenekiri-bookwyrm"
         ],
         "narrator:nenekiri-bookwyrm": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "how-often-do-you-ask-a-poem-by-nenekiri-bookwyrm",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2",
             "forest-by-nenekiri-bookwyrm",
@@ -17874,6 +17899,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m",
             "18-love-by-vixyy-fox",
@@ -18502,6 +18528,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",

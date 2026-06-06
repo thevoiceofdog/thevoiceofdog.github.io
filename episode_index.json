@@ -408,6 +408,28 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/679a3620-4aa7-4a34-967f-28795c23b462/Subversive-Materials-by-Domus-Vocis.mp3",
+            "published_date": "2026-06-06T09:50:00.000Z",
+            "shownotes": "<p><em>Nancy is your average widowed vixen. She pays taxes, enjoys her retirement as a former librarian, &amp; rebels against an authoritarian regime.</em></p><p>Today\u2019s story is \u201cSubversive Materials\u201d by <u><a href=\"https://domus-vocis.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Domus Vocis</a></u>, who spends his free time reading escapist fiction &amp; working the graveyard shift while writing furry fiction. He also recently published a historical romance novella titled \u201c<u><a href=\"https://www.amazon.com/Souls-Fangcrest-Manor-Domus-Vocis-ebook/dp/B0CLJKNHF2?ref_=ast_author_mpb\" rel=\"noopener noreferrer\" target=\"_blank\">Two Souls of Fangcrest Manor</a></u>\u201d alongside his co-author <u><a href=\"https://fruitzjam.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Fruitz</a></u> in 2023. You can also find more stories by Domus Vocis on his <u><a href=\"https://www.patreon.com/domusvocis\" rel=\"noopener noreferrer\" target=\"_blank\">Patreon</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "subversive-materials-by-domus-vocis",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "transgender",
+                "pride-month",
+                "romance",
+                "drama",
+                "historical",
+                "queerphobia",
+                "by:domus-vocis",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cSubversive Materials\u201d by Domus Vocis"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/19dabd71-419a-41dc-80c0-19c61a7df1b2/18-Fireside-Meeting-at-the-Isles-of-the-Blest.mp3",
             "published_date": "2026-06-05T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>The goal of our longstanding collaborative format has always been to remind us that storytelling is a collaborative activity. One cannot tell stories and remain alone. Since Pride is something we celebrate as a community, then it was fitting that Pride, last year, received the first specially themed episode of this type. So it is our hope that you agree it is just as fitting that pride also receive the first ever Adults Only episode of Fireside Meeting.</em></p><p>Today\u2019s story is a collaborative piece with contributions by <u><a href=\"https://bsky.app/profile/roscoegbeetle.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Roscoe G. Beetle</a></u>, <u><a href=\"https://thekamenwriter.itch.io/\" rel=\"noopener noreferrer\" target=\"_blank\">David the KamenWriter</a></u>, and <u><a href=\"https://bsky.app/profile/pascalfarful.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Pascal Farful</a></u>.</p><p>Read by Dralen, the Dapper Dragonfox, Icefang, in the Cozy Corner of the Cafe, and Nenekiri Bookwyrm, the Bespectacled Dragon.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14232,6 +14254,7 @@
             "you-can-watch-me-dance-by-dirt-coyote"
         ],
         "by:domus-vocis": [
+            "subversive-materials-by-domus-vocis",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
@@ -15142,6 +15165,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
@@ -15777,6 +15801,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "subversive-materials-by-domus-vocis",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
@@ -16468,6 +16493,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "subversive-materials-by-domus-vocis",
             "twenty-miles-to-mcnair-by-mekyro",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
@@ -16769,6 +16795,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
@@ -17561,6 +17588,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "subversive-materials-by-domus-vocis",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -18292,6 +18320,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "subversive-materials-by-domus-vocis",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -18395,6 +18424,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "subversive-materials-by-domus-vocis",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "catch-them-all-by-squidpizza",
             "18-rapture-by-shiloh-skye-part-2-of-2",
@@ -18489,6 +18519,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "subversive-materials-by-domus-vocis",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
             "dandelion-fox-by-domus-vocis-part-1-of-2",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
@@ -18528,6 +18559,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -19031,6 +19063,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "subversive-materials-by-domus-vocis",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",

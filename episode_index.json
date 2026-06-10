@@ -408,6 +408,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/14088d3e-a478-4140-96ee-5bdb8b33b0ef/Red-by-ItomaIsFuzzy.mp3",
+            "published_date": "2026-06-10T09:50:00.000Z",
+            "shownotes": "<p><em>Once upon a time, a handsome young man took his paramour home to meet his parents, as many have done.</em></p><p>Today\u2019s story is \u201cRed\u201d by <u><a href=\"https://bsky.app/profile/itomaisfuzzy.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">ItomaIsFuzzy</a></u>, artist, streamer, and co-author of <u><a href=\"https://bsky.app/profile/maresolatiumvn.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Mare Solatium the Visual Novel</a></u>.</p><p>Read by Eddyratt, not a modest mouse.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "red-by-itomaisfuzzy",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "romance",
+                "fantasy",
+                "by:itomaisfuzzy",
+                "narrator:eddyratt"
+            ],
+            "title": "\u201cRed\u201d by ItomaIsFuzzy (read by Eddyratt)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8673fb79-6fcf-49c8-ad75-99060dd521ed/18-A-Tale-of-Two-Whirlwinds-by-Herr-Wozzeck-part-2-of-2.mp3",
             "published_date": "2026-06-09T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>LaShawn\u2019s first whirlwind romance ended tumultuously. And right as he thinks it\u2019s too late for him, in comes a parrot many years his junior\u2026</em></p><p>Today\u2019s story is the second and final part of a revamped version of a revamped version of \u201cA Tale of Two Whirlwinds\u201d by Herr Wozzeck, who is a composer, violist, Thereminist, and writer based in Boston. They are the author of the novels <u><a href=\"https://boundtales.storenvy.com/products/30326551-whip-boot\" rel=\"noopener noreferrer\" target=\"_blank\">Whip and Boot</a></u> and <u><a href=\"https://www.amazon.com/Lost-Inside-Blue-Harry-Wozzeck/dp/B0B39MZYW4\" rel=\"noopener noreferrer\" target=\"_blank\">Lost Inside the Blue Line</a></u>, as well as the poetry collection <u><a href=\"https://www.amazon.com/dp/B0CRQ6DRBQ?ref_=d6k_applink_bb_dls\" rel=\"noopener noreferrer\" target=\"_blank\">The Enigma Letters</a>.</u> His stories are also in various anthologies, including \u201cThe Wideness of the World\u201d and \u201cThe Furry Game Show Network\u201d. You can also see them perform with Trio Menagerie, and you can find more of their stories on <u><a href=\"https://www.furaffinity.net/user/herr-wozzeck/\" rel=\"noopener noreferrer\" target=\"_blank\">their FurAffinity account.</a></u></p><p>Read by True, Speaking Directly Into Your Mind.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14509,6 +14527,9 @@
         "by:itoma-the-fuzzy": [
             "sea-of-stars-by-itoma-the-fuzzy"
         ],
+        "by:itomaisfuzzy": [
+            "red-by-itomaisfuzzy"
+        ],
         "by:j-b-rockwell": [
             "monkeyshines-by-j-b-rockwell-part-2-of-2",
             "monkeyshines-by-j-b-rockwell-part-1-of-2"
@@ -15226,6 +15247,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
@@ -16264,6 +16286,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "red-by-itomaisfuzzy",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "gemini-lunae-by-aelius",
             "the-dragonslayers-quest-by-ryx",
@@ -16863,6 +16886,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
@@ -17281,6 +17305,9 @@
             "tradewind-vs-accord-by-rob-macwolf-read-by-dralen",
             "forever-forever-forever-by-dirt-coyote-read-by-dralen",
             "the-fate-of-frank-wright-by-pascal-farful-read-by-dralen"
+        ],
+        "narrator:eddyratt": [
+            "red-by-itomaisfuzzy"
         ],
         "narrator:friends-of-the-fireplace": [
             "the-session-by-khaki-and-friends",
@@ -18394,6 +18421,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
@@ -18637,6 +18665,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",

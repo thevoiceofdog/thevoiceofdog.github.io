@@ -79,6 +79,7 @@
             "by:frank-lerenard",
             "by:friends",
             "by:friends-of-the-fireplace",
+            "by:fritz-wolf",
             "by:fruitz",
             "by:galen-lk",
             "by:gar-sahoni-atkins",
@@ -113,6 +114,7 @@
             "by:john-bailey",
             "by:js-hawthorne",
             "by:juan-c-moreno",
+            "by:juniper",
             "by:k-c-shaw",
             "by:kandrel",
             "by:katlina-sommerberg",
@@ -519,7 +521,14 @@
             "shownotes": "<p>Today we present \u201cFeeling\u201d a poem by Juniper, who holds a Ph.D. in English for her dissertation on furry\u2019s print history and, on the weekends, moonlights as a dancer for other women.</p><p>Read by Cider, the Library Marten.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
             "slug": "feeling-by-juniper",
             "summary": null,
-            "tags": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "poem",
+                "by:juniper",
+                "narrator:cider"
+            ],
             "title": "\u201cFeeling\u201d by Juniper (read by Cider)"
         },
         {
@@ -13394,6 +13403,7 @@
         "by:frank-lerenard": "Author: Frank LeRenard",
         "by:friends": "Author: Friends",
         "by:friends-of-the-fireplace": "Author: Friends of the Fireplace",
+        "by:fritz-wolf": "Author: Fritz Wolf",
         "by:fruitz": "Author: Fruitz",
         "by:galen-lk": "Author: Galen LK",
         "by:gar-sahoni-atkins": "Author: Gar \u201cSahoni\u201d Atkins",
@@ -13428,6 +13438,7 @@
         "by:john-bailey": "Author: John Bailey",
         "by:js-hawthorne": "Author: JS Hawthorne",
         "by:juan-c-moreno": "Author: Juan C. Moreno",
+        "by:juniper": "Author: Juniper",
         "by:k-c-shaw": "Author: K.C. Shaw",
         "by:kandrel": "Author: Kandrel",
         "by:katlina-sommerberg": "Author: Katlina Sommerberg",
@@ -14631,6 +14642,9 @@
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2"
         ],
+        "by:juniper": [
+            "feeling-by-juniper"
+        ],
         "by:k-c-shaw": [
             "the-whole-moon-by-k-c-shaw",
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm",
@@ -15291,6 +15305,7 @@
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
+            "feeling-by-juniper",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -16929,6 +16944,7 @@
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
+            "feeling-by-juniper",
             "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "a-donation-circa-1970-by-corran-orreaux",
@@ -17275,6 +17291,7 @@
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
         "narrator:cider": [
+            "feeling-by-juniper",
             "ink-on-paws-by-nighteyes-dayspring",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
@@ -18254,6 +18271,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "feeling-by-juniper",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
             "the-fourth-death-by-utunu",
             "catch-them-all-by-squidpizza",
@@ -18468,6 +18486,7 @@
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
+            "feeling-by-juniper",
             "subversive-materials-by-domus-vocis",
             "a-donation-circa-1970-by-corran-orreaux",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",

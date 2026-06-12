@@ -435,18 +435,16 @@
             "slug": "18-the-first-to-know-by-patrigue",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "queer",
                 "gay",
                 "adult",
                 "pride-month",
-                "romance",
                 "drama",
                 "nsfw",
                 "queerphobia",
-                "by:patrigue",
-                "narrator:kergiby"
+                "narrator:kergiby",
+                "by:patrigue"
             ],
             "title": "[18+] \u201cThe First to Know\u201d by Patrigue"
         },
@@ -532,17 +530,15 @@
             "slug": "subversive-materials-by-domus-vocis",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "queer",
                 "transgender",
                 "pride-month",
-                "romance",
                 "drama",
                 "historical",
                 "queerphobia",
-                "by:domus-vocis",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:domus-vocis"
             ],
             "title": "\u201cSubversive Materials\u201d by Domus Vocis"
         },
@@ -573,12 +569,10 @@
             "slug": "a-donation-circa-1970-by-corran-orreaux",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "pride-month",
-                "crime",
-                "by:corran-orreaux",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:corran-orreaux"
             ],
             "title": "\u201cA Donation, circa 1970\u201d by Corran Orreaux"
         },
@@ -590,14 +584,13 @@
             "slug": "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "queer",
                 "pride-month",
                 "romance",
                 "fantasy",
-                "by:chase-anderson",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:chase-anderson"
             ],
             "title": "\u201cI Once Fell in Love With a Jackalope\u201d by Chase Anderson"
         },
@@ -625,13 +618,13 @@
             "slug": "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
                 "pride-month",
                 "romance",
+                "historical",
                 "drugs/alcohol",
-                "by:tiberius-rings-edouard",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:tiberius-rings-edouard"
             ],
             "title": "\u201cC\u2019mon!  No One\u2019s Lookin\u2019!\u201d by Tiberius Rings & Edouard (part 1 of 2)"
         },
@@ -643,15 +636,13 @@
             "slug": "grey-cats-and-white-hounds-by-huskyteer",
             "summary": null,
             "tags": [
-                "check-tags",
                 "lgbtq+",
-                "pride-month",
                 "romance",
                 "action/adventure",
-                "medieval",
+                "historical",
                 "blood",
-                "by:huskyteer",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:huskyteer"
             ],
             "title": "\u201cGrey Cats and White Hounds\u201d by Huskyteer"
         },
@@ -663,12 +654,11 @@
             "slug": "18-brookhursts-smell-by-rykar-thornpaw",
             "summary": null,
             "tags": [
-                "check-tags",
                 "romance",
                 "drama",
                 "nsfw",
-                "by:rykar-thornpaw",
-                "narrator:ta-kom-ironhoof"
+                "narrator:ta-kom-ironhoof",
+                "by:rykar-thornpaw"
             ],
             "title": "[18+] \u201cBrookhurst\u2019s Smell\u201d by Rykar Thornpaw (read by Ta'kom and Rob)"
         },
@@ -15298,18 +15288,11 @@
         ],
         "check-tags": [
             "coffee-and-free-fall-by-s-park-part-1-of-2",
-            "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
-            "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
-            "a-donation-circa-1970-by-corran-orreaux",
-            "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
-            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
-            "grey-cats-and-white-hounds-by-huskyteer",
-            "18-brookhursts-smell-by-rykar-thornpaw",
             "love-song-for-the-moon-by-janice-rider",
             "twenty-miles-to-mcnair-by-mekyro",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
@@ -15880,7 +15863,6 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
-            "a-donation-circa-1970-by-corran-orreaux",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-whole-moon-by-k-c-shaw",
@@ -16639,6 +16621,8 @@
         "historical": [
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
+            "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
+            "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
@@ -17125,7 +17109,6 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
-            "grey-cats-and-white-hounds-by-huskyteer",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "hope-by-russell-knight",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -18490,7 +18473,6 @@
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
-            "grey-cats-and-white-hounds-by-huskyteer",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-2-of-2",
             "18-last-night-at-the-whip-and-boot-by-herr-wozzeck-part-1-of-2",
@@ -18729,11 +18711,9 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
-            "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
-            "subversive-materials-by-domus-vocis",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",

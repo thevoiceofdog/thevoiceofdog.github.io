@@ -408,6 +408,27 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/30e79b9b-f19c-4de4-b740-057c45f0ad6b/Coffee-and-Free-fall-by-S-Park-part-1-of-2.mp3",
+            "published_date": "2026-06-12T09:50:00.000Z",
+            "shownotes": "<p><em>Emily was born and raised on Mars, where on paper morphs and humans are equals, but in reality there are opportunities available to humans that just aren't options for most morphs. Such as transition.</em></p><p>Today\u2019s story is the first of two parts of \u201cCoffee and Free-fall\u201d by <u><a href=\"https://bsky.app/profile/sparkblade.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">S. Park</a></u>, who has been writing queer, furry , and weird fiction since he was six, you can find more of his stories at <u><a href=\"https://microcosmpublishing.com/catalog/artist/s-park\" rel=\"noopener noreferrer\" target=\"_blank\">Microcosm</a></u>, and <u><a href=\"https://www.etsy.com/shop/sparkcreatures?ref=seller-platform-mcnav&amp;section_id=38121996\" rel=\"noopener noreferrer\" target=\"_blank\">on Etsy</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "coffee-and-free-fall-by-s-park-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "transgender",
+                "pride-month",
+                "speculative",
+                "action/adventure",
+                "sci-fi",
+                "by:s-park",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cCoffee and Free-fall\u201d by S. Park (part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c570e6e8-0679-4753-99a2-aff59a6c0280/18-The-First-to-Know-by-Patrigue.mp3",
             "published_date": "2026-06-11T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Spending the night together, Perci recounts her time with a previous lover to Patrigue, her current avian boyfriend. Her story brings about a revelation to the bird, as well as some complicated feelings he\u2019s not sure how to handle.</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://docs.google.com/document/d/e/2PACX-1vQylI481TqSQeIaLNpu_QBfs-22Zv4wsLuVrDiEwBeX9nJTZZUr75h1O4ryrD6kR2SkwTW15T6wWJ_0/pub\" rel=\"noopener noreferrer\" target=\"_blank\">The First to Know</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/patrigue\" rel=\"noopener noreferrer\" target=\"_blank\">Patrigue</a></u>, a writer and art commissioner that enjoys writing stories about nudism, exhibitionism, consensual kink, and the LGBTQ+ community, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/patrigue\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u>, <u><a href=\"https://patrigue.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u>, and <u><a href=\"https://bsky.app/profile/patrigue.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">BlueSky</a></u>.</p><p>Read by Kergiby, a Full-Time Panther.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13686,6 +13707,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
             "gemini-lunae-by-aelius",
@@ -15026,6 +15048,9 @@
         "by:ryx": [
             "the-dragonslayers-quest-by-ryx"
         ],
+        "by:s-park": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2"
+        ],
         "by:sakarafox": [
             "reflections-by-sakarafox-rob-macwolf",
             "18-bragging-rights-by-sakarafox-and-rob-macwolf-part-2-of-2",
@@ -15272,6 +15297,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -16914,6 +16940,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -17715,6 +17742,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
@@ -18452,6 +18480,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -18560,6 +18589,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
@@ -18939,6 +18969,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "code-white-by-madison-rye-progress",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
             "winterfall-empty-places-by-lauren-rivers",
@@ -18991,6 +19022,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
             "signalbox-by-pascal-farful",
@@ -19207,6 +19239,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "coffee-and-free-fall-by-s-park-part-1-of-2",
             "subversive-materials-by-domus-vocis",
             "18-rapture-by-shiloh-skye-part-2-of-2",
             "rapture-by-shiloh-skye-part-1-of-2",

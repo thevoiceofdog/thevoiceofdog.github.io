@@ -410,6 +410,27 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1da5ef10-897b-4071-b391-73d10964b324/Coffee-and-Free-fall-by-S-Park-part-2-of-2.mp3",
+            "published_date": "2026-06-13T09:50:00.000Z",
+            "shownotes": "<p><em>Now that Emily\u2019s successfully emigrated to the Alliance of Sentients, far from the solar system she grew up in, she has more options. It feels scary, like falling, to think about becoming Eli. But it also feels strangely free...</em></p><p>Today\u2019s story is the second and final part of \u201cCoffee and Free-gall\u201d by <u><a href=\"https://bsky.app/profile/sparkblade.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">S. Park</a></u>, who has been writing queer, furry , and weird fiction since he was six, you can find more of his stories at <u><a href=\"https://microcosmpublishing.com/catalog/artist/s-park\" rel=\"noopener noreferrer\" target=\"_blank\">Microcosm</a></u>, and <u><a href=\"https://www.etsy.com/shop/sparkcreatures?ref=seller-platform-mcnav&amp;section_id=38121996\" rel=\"noopener noreferrer\" target=\"_blank\">on Etsy</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "coffee-and-free-fall-by-s-park-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "transgender",
+                "queer",
+                "pride-month",
+                "speculative",
+                "drama",
+                "historical",
+                "by:s-park",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cCoffee and Free-fall\u201d by S. Park (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/30e79b9b-f19c-4de4-b740-057c45f0ad6b/Coffee-and-Free-fall-by-S-Park-part-1-of-2.mp3",
             "published_date": "2026-06-12T09:50:00.000Z",
             "shownotes": "<p><em>Emily was born and raised on Mars, where on paper morphs and humans are equals, but in reality there are opportunities available to humans that just aren't options for most morphs. Such as transition.</em></p><p>Today\u2019s story is the first of two parts of \u201cCoffee and Free-fall\u201d by <u><a href=\"https://bsky.app/profile/sparkblade.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">S. Park</a></u>, who has been writing queer, furry , and weird fiction since he was six, you can find more of his stories at <u><a href=\"https://microcosmpublishing.com/catalog/artist/s-park\" rel=\"noopener noreferrer\" target=\"_blank\">Microcosm</a></u>, and <u><a href=\"https://www.etsy.com/shop/sparkcreatures?ref=seller-platform-mcnav&amp;section_id=38121996\" rel=\"noopener noreferrer\" target=\"_blank\">on Etsy</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15053,6 +15074,7 @@
             "the-dragonslayers-quest-by-ryx"
         ],
         "by:s-park": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2"
         ],
         "by:sakarafox": [
@@ -15301,6 +15323,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "red-by-itomaisfuzzy",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -15936,6 +15959,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "18-the-first-to-know-by-patrigue",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
@@ -16634,6 +16658,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
             "subversive-materials-by-domus-vocis",
             "cmon-no-ones-lookin-by-tiberius-rings-edouard-part-1-of-2",
@@ -16939,6 +16964,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
@@ -17742,6 +17768,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
@@ -18481,6 +18508,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "red-by-itomaisfuzzy",
@@ -18590,6 +18618,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -19021,6 +19050,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",
             "that-damnable-heavy-shade-by-takom-ironhoof-read-by-the-author",
@@ -19238,6 +19268,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "subversive-materials-by-domus-vocis",
             "18-rapture-by-shiloh-skye-part-2-of-2",

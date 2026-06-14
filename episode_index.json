@@ -410,6 +410,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6303c597-5632-4f09-ad64-3bfee87db9ea/Tom-an-Mac-by-Corran-Orreaux.mp3",
+            "published_date": "2026-06-14T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cTom \u2018an Mac\u201d a poem by <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Corran Orreaux</a></u>, who has some neat stuff on The Voice of Dog, and you can find more of his stories on random trees in the woods, but also <u><a href=\"https://www.furaffinity.net/user/corranorreaux\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity</a></u>.</p><p>{{snippet-3}}</p><p>Instrumental arrangement by Cross, a Composed Hyena.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "tom-an-mac-by-corran-orreaux",
+            "summary": null,
+            "tags": [
+                "pride-month",
+                "lgbtq+",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:corran-orreaux"
+            ],
+            "title": "\u201cTom \u2018an Mac\u201d by Corran Orreaux"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1da5ef10-897b-4071-b391-73d10964b324/Coffee-and-Free-fall-by-S-Park-part-2-of-2.mp3",
             "published_date": "2026-06-13T09:50:00.000Z",
             "shownotes": "<p><em>Now that Emily\u2019s successfully emigrated to the Alliance of Sentients, far from the solar system she grew up in, she has more options. It feels scary, like falling, to think about becoming Eli. But it also feels strangely free...</em></p><p>Today\u2019s story is the second and final part of \u201cCoffee and Free-Fall\u201d by <u><a href=\"https://bsky.app/profile/sparkblade.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">S. Park</a></u>, who has been writing queer, furry , and weird fiction since he was six, you can find more of his stories at <u><a href=\"https://microcosmpublishing.com/catalog/artist/s-park\" rel=\"noopener noreferrer\" target=\"_blank\">Microcosm</a></u>, and <u><a href=\"https://www.etsy.com/shop/sparkcreatures?ref=seller-platform-mcnav&amp;section_id=38121996\" rel=\"noopener noreferrer\" target=\"_blank\">on Etsy</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14327,6 +14343,7 @@
             "born-to-be-wild-by-coda"
         ],
         "by:corran-orreaux": [
+            "tom-an-mac-by-corran-orreaux",
             "a-donation-circa-1970-by-corran-orreaux",
             "the-wolves-are-always-walking-by-corran-orreaux",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
@@ -16964,6 +16981,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "tom-an-mac-by-corran-orreaux",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
@@ -17768,6 +17786,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "tom-an-mac-by-corran-orreaux",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -18298,6 +18317,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "tom-an-mac-by-corran-orreaux",
             "feeling-by-juniper",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
             "the-fourth-death-by-utunu",
@@ -18508,6 +18528,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "tom-an-mac-by-corran-orreaux",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",

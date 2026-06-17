@@ -410,6 +410,28 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1622970e-1321-415b-9822-db528c71f78a/Winterfall-Butterflies-by-Lauren-Rivers.mp3",
+            "published_date": "2026-06-17T09:50:00.000Z",
+            "shownotes": "<p><em>When Lucas arrives at the Garden, he finds adjustment difficult. He soon learns sometimes the journey matters as much as the destination.</em></p><p>Today\u2019s story is \u201cButterflies\u201d by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">Lauren Rivers</a></u>, author of <u><a href=\"http://book\" rel=\"noopener noreferrer\" target=\"_blank\">Winterfall</a></u> and <u><a href=\"http://book\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Moon</a></u> by <u><a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">IridescenceStudios</a></u>, and you can find more of her stories on <u><a href=\"https://www.furaffinity.net/user/iridescencestudios\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Read by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "winterfall-butterflies-by-lauren-rivers",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "queer",
+                "lgbtq+",
+                "transgender",
+                "pride-month",
+                "family-saga",
+                "action/adventure",
+                "military",
+                "queerphobia",
+                "by:lauren-rivers",
+                "narrator:rhubarb"
+            ],
+            "title": "\u201cWinterfall: Butterflies\u201d by Lauren Rivers (read by Rhubarb)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0db70173-a41b-483e-b2b6-78a745b0e228/18-Echo-by-Shutaro-Highwind-part-2-of-2.mp3",
             "published_date": "2026-06-16T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Return to a nostalgic synthwave daydream: At a large midwestern university a quiet fox and a restless heir realize that some bells can\u2019t be un-rung and some echos never truly fade.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://www.furaffinity.net/view/64434987/\" rel=\"noopener noreferrer\" target=\"_blank\">Echo</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/foxtraining\" rel=\"noopener noreferrer\" target=\"_blank\">Shutaro Highwind</a></u>, who recently returned to the craft of writing after a decade away from the keyboard and has other tales from the Greyhaven universe which will (hopefully) be appearing on <u><a href=\"https://www.furaffinity.net/user/foxtraining\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> and <u><a href=\"https://sofurry.com/u/shutaro\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u> in the very near future.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13786,6 +13808,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "winterfall-butterflies-by-lauren-rivers",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
             "twenty-miles-to-mcnair-by-mekyro",
@@ -14818,6 +14841,7 @@
             "lyra-by-laura-rodley"
         ],
         "by:lauren-rivers": [
+            "winterfall-butterflies-by-lauren-rivers",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "winterfall-empty-places-by-lauren-rivers",
             "splitting-hares-by-lauren-rivers",
@@ -15387,6 +15411,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
@@ -16365,6 +16390,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "family-saga": [
+            "winterfall-butterflies-by-lauren-rivers",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-2-of-2",
             "la-leyenda-de-marisa-gritaluna-by-juan-c-moreno-part-1-of-2",
             "winterfall-empty-places-by-lauren-rivers",
@@ -17034,6 +17060,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
             "tom-an-mac-by-corran-orreaux",
@@ -17253,6 +17280,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "winterfall-butterflies-by-lauren-rivers",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
             "all-of-the-stars-in-the-sky-by-anhedral",
@@ -17832,6 +17860,7 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:rhubarb": [
+            "winterfall-butterflies-by-lauren-rivers",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-dragonslayers-quest-by-ryx"
         ],
@@ -18587,6 +18616,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
             "tom-an-mac-by-corran-orreaux",
@@ -18700,6 +18730,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "winterfall-butterflies-by-lauren-rivers",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "18-the-first-to-know-by-patrigue",
@@ -18800,6 +18831,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "winterfall-butterflies-by-lauren-rivers",
             "18-the-first-to-know-by-patrigue",
             "subversive-materials-by-domus-vocis",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
@@ -19351,6 +19383,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "transgender": [
+            "winterfall-butterflies-by-lauren-rivers",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "subversive-materials-by-domus-vocis",

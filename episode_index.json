@@ -410,6 +410,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/65c00120-a563-44e2-975c-1ba2f08b7ec4/Spy-Games-by-J-S-Hawthorne-part-1-of-2.mp3",
+            "published_date": "2026-06-19T09:50:00.000Z",
+            "shownotes": "<p><em>Ven Takhar is on vacation, but he finds himself drawn into a hidden world of intrigue that he scarcely knew existed after a chance encounter with a handsome and dashing spy.</em></p><p>Today\u2019s story is the first of two parts of \u201cSpy Games\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society, who has decided to expand to writing future history. You can find more of her work in \u201c<u><a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u>\u201d and \u201c<u><a href=\"https://fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales From The Guild: Blood And Water</a></u>.\u201d</p><p>Read by Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "spy-games-by-j-s-hawthorne-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "thriller/suspense",
+                "action/adventure",
+                "sci-fi",
+                "narrator:khaki",
+                "by:j-s-hawthorne"
+            ],
+            "title": "\u201cSpy Games\u201d by J.S. Hawthorne (part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/37c5719b-72e3-488c-8b13-24d2e8bc794c/18-Welcome-to-the-Rainbow-Parade-by-Rykar-Thornpaw.mp3",
             "published_date": "2026-06-18T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>A liotter goes to his first pride parade with his friends and meets new people. </em></p><p>Today\u2019s story is \u201cWelcome to the Rainbow Parade\u201d by Rykar Thornpaw, He is a wheelchair-using liotter who loves science fiction and fantasy. He is currently outlining and drafting a trilogy of science-fantasy books set in his own world named Oros.</p><p>Read by Radium, your Dear Deer Friend.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13831,6 +13849,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -14718,6 +14737,7 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "winterwreath-by-j-s-hawthorne",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -17089,6 +17109,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
@@ -17579,6 +17600,7 @@
             "hey-buddy-by-dirt-coyote-read-by-kergiby"
         ],
         "narrator:khaki": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
             "18-shell-game-by-kandrel-part-2-of-2",
@@ -18650,6 +18672,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
@@ -19147,6 +19170,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "code-white-by-madison-rye-progress",
             "where-the-stars-gnash-their-teeth-by-corran-orreaux",
@@ -19392,6 +19416,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "spy-games-by-j-s-hawthorne-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",

@@ -410,6 +410,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/96378dbd-95d3-4d46-bca2-486e6856f6c1/Spy-Games-by-J-S-Hawthorne-part-2-of-2.mp3",
+            "published_date": "2026-06-20T09:50:00.000Z",
+            "shownotes": "<p><em>Ven Takhar was on vacation when the dashing spy Caudus Fratelion drew him into a world of intrigue. Assaulted, manipulated, and angry, Takhar must now wrestle with the clash between his attraction to Fratelion and the danger that Fratelion represents.</em></p><p>Today\u2019s story is the second and final part of \u201cSpy Games\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society, who has decided to expand to writing future history. You can find more of her work in \u201c<u><a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u>\u201d and \u201c<u><a href=\"https://fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales From The Guild: Blood And Water</a></u>\u201d.</p><p>Last time, Ven Takhar was on vacation when he was approached by the spy, Caudus Fratelion, who swiftly drew Takhar into a dangerous game; angered by Fratelion\u2019s manipulation, Takhar has stormed away in a fury.</p><p>Read by Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "spy-games-by-j-s-hawthorne-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "thriller/suspense",
+                "drama",
+                "political/espionage",
+                "sci-fi",
+                "narrator:khaki",
+                "by:j-s-hawthorne"
+            ],
+            "title": "\u201cSpy Games\u201d by J.S. Hawthorne (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/65c00120-a563-44e2-975c-1ba2f08b7ec4/Spy-Games-by-J-S-Hawthorne-part-1-of-2.mp3",
             "published_date": "2026-06-19T09:50:00.000Z",
             "shownotes": "<p><em>Ven Takhar is on vacation, but he finds himself drawn into a hidden world of intrigue that he scarcely knew existed after a chance encounter with a handsome and dashing spy.</em></p><p>Today\u2019s story is the first of two parts of \u201cSpy Games\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society, who has decided to expand to writing future history. You can find more of her work in \u201c<u><a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u>\u201d and \u201c<u><a href=\"https://fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales From The Guild: Blood And Water</a></u>.\u201d</p><p>Read by Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14737,6 +14756,7 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "winterwreath-by-j-s-hawthorne",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -16096,6 +16116,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
@@ -17109,6 +17130,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
@@ -17600,6 +17622,7 @@
             "hey-buddy-by-dirt-coyote-read-by-kergiby"
         ],
         "narrator:khaki": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "toad-toad-hall-by-tempo",
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-2-of-2",
@@ -18612,6 +18635,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "dicking-around-by-dirt-coyote",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
             "thats-a-good-one-by-kyell-gold-part-2-of-2",
@@ -18672,6 +18696,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
@@ -19170,6 +19195,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "code-white-by-madison-rye-progress",
@@ -19416,6 +19442,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
             "chase-the-pride-by-d-j-fahl-part-1-of-2",

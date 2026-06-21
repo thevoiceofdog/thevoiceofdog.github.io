@@ -410,6 +410,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8590b105-abed-4125-b466-c56090400009/18-Poor-Queer-Paradise-by-Wyatt-M.mp3",
+            "published_date": "2026-06-21T09:50:00.000Z",
+            "shownotes": "<p>[18+] Today we present \u201cPoor Queer Paradise\u201d a poem by <u><a href=\"https://bsky.app/profile/linsang.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Wyatt M</a></u>, whose pay-what-you-want poetry collection <u><a href=\"https://ko-fi.com/s/2505837e8e\" rel=\"noopener noreferrer\" target=\"_blank\">Anal Fisting</a></u> is available on Ko-fi, and which again means I must mark this episode 18-plus not only for the poem, but also for the intro.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-poor-queer-paradise-by-wyatt-m",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "adult",
+                "pride-month",
+                "poem",
+                "nsfw",
+                "by:wyatt-m",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cPoor Queer Paradise\u201d by Wyatt M"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/96378dbd-95d3-4d46-bca2-486e6856f6c1/Spy-Games-by-J-S-Hawthorne-part-2-of-2.mp3",
             "published_date": "2026-06-20T09:50:00.000Z",
             "shownotes": "<p><em>Ven Takhar was on vacation when the dashing spy Caudus Fratelion drew him into a world of intrigue. Assaulted, manipulated, and angry, Takhar must now wrestle with the clash between his attraction to Fratelion and the danger that Fratelion represents.</em></p><p>Today\u2019s story is the second and final part of \u201cSpy Games\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society, who has decided to expand to writing future history. You can find more of her work in \u201c<u><a href=\"https://www.tfpublishing.com.au/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">The Wideness of the World</a></u>\u201d and \u201c<u><a href=\"https://fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales From The Guild: Blood And Water</a></u>\u201d.</p><p>Last time, Ven Takhar was on vacation when he was approached by the spy, Caudus Fratelion, who swiftly drew Takhar into a dangerous game; angered by Fratelion\u2019s manipulation, Takhar has stormed away in a fury.</p><p>Read by Khaki, your Faithful Fireside Companion.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -13968,6 +13988,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
@@ -15461,6 +15482,7 @@
             "a-stranger-in-the-woods-by-writer-a"
         ],
         "by:wyatt-m": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-jesus-robbed-a-liquor-store-by-wyatt-m"
         ],
         "by:yuugenshou": [
@@ -15476,6 +15498,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
             "18-echo-by-shutaro-highwind-part-2-of-2",
@@ -17130,6 +17153,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
@@ -17948,6 +17972,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
             "tom-an-mac-by-corran-orreaux",
@@ -18294,6 +18319,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
@@ -18484,6 +18510,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "tom-an-mac-by-corran-orreaux",
             "feeling-by-juniper",
             "jueju-the-grackle-by-michel-vincent-corbeaux",
@@ -18696,6 +18723,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
@@ -18813,6 +18841,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "18-poor-queer-paradise-by-wyatt-m",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
             "coffee-and-free-fall-by-s-park-part-2-of-2",

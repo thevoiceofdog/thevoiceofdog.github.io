@@ -410,6 +410,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e4993f61-da3b-4086-be2f-8a168aec0f17/The-Embrace-by-Lou-le-Loup-part-1-of-2.mp3",
+            "published_date": "2026-06-22T09:50:00.000Z",
+            "shownotes": "<p>Today\u2019s story contains mention of self-destructive ideation, and self harm. Please listen at your own discretion.</p><p><em>When a friend drags Jay to his first pride event, he has to come to terms with aspects about himself and his dark past.</em></p><p>Today\u2019s story is the first of two parts of \u201cThe Embrace\u201d by Lou le Loup, a biologist and internet wolf who writes in his free time as a hobby. He posts his work to his <u><a href=\"https://www.furaffinity.net/user/louleloup/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Read by Carrizo, Your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-embrace-by-lou-le-loup-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "pride-month",
+                "speculative",
+                "historical",
+                "queerphobia",
+                "by:lou-le-loup",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cThe Embrace\u201d by Lou le Loup (read by Carrizo, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/8590b105-abed-4125-b466-c56090400009/18-Poor-Queer-Paradise-by-Wyatt-M.mp3",
             "published_date": "2026-06-21T09:50:00.000Z",
             "shownotes": "<p>[18+] Today we present \u201cPoor Queer Paradise\u201d a poem by <u><a href=\"https://bsky.app/profile/linsang.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Wyatt M</a></u>, whose pay-what-you-want poetry collection <u><a href=\"https://ko-fi.com/s/2505837e8e\" rel=\"noopener noreferrer\" target=\"_blank\">Anal Fisting</a></u> is available on Ko-fi, and which again means I must mark this episode 18-plus not only for the poem, but also for the intro.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14944,6 +14963,7 @@
             "hunter-on-the-shelves-by-leuna"
         ],
         "by:lou-le-loup": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-summer-by-lou-le-loup"
         ],
         "by:madison-keller": [
@@ -15498,6 +15518,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "winterfall-butterflies-by-lauren-rivers",
@@ -16844,6 +16865,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2",
@@ -17153,6 +17175,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
@@ -17972,6 +17995,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "18-echo-by-shutaro-highwind-part-1-of-2",
@@ -18723,6 +18747,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
@@ -18944,6 +18969,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "queerphobia": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
             "18-the-first-to-know-by-patrigue",
             "subversive-materials-by-domus-vocis",
@@ -19279,6 +19305,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-echo-by-shutaro-highwind-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",

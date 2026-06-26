@@ -410,6 +410,27 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/77f43de5-fad4-42c3-85ce-283c55df3fa1/Theodore-Has-a-Boyfriend-Now-by-Cardigan.mp3",
+            "published_date": "2026-06-26T09:50:00.000Z",
+            "shownotes": "<p><em>After an early retirement, Theodore grapples with rebuilding his relationship with his son and navigating his new queer identity in his 50s.</em></p><p>Today\u2019s story is \u201cTheodore Has a Boyfriend Now\u201d by <u><a href=\"https://linktr.ee/cardiganfur\" rel=\"noopener noreferrer\" target=\"_blank\">Cardigan</a></u>, a bull who makes, translates and reviews Furry writing and games. This story is part of the anthology <u><a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild - Blood and Water</a></u> available from Fenris Publishing.</p><p>Read by Apollo Brightmane.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "theodore-has-a-boyfriend-now-by-cardigan",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "queer",
+                "gay",
+                "pride-month",
+                "romance",
+                "drama",
+                "contemporary",
+                "by:cardigan",
+                "narrator:ta-kom-ironhoof"
+            ],
+            "title": "\u201cTheodore Has a Boyfriend Now\u201d by Cardigan (read by Ta'kom)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/dad71e26-1fe7-4824-b60e-7d212fc8287c/Remind-Me-Who-I-Am-by-Ritter.mp3",
             "published_date": "2026-06-25T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cRemind Me Who I Am\u201d a poem by Ritter, a musical retriever with a passion for literature. You can find more of his stories, including the Loom of Hours story cycle, on <u><a href=\"https://archiveofourown.org/users/ritter_reiter\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14534,6 +14555,7 @@
             "matters-of-the-mind-by-caliope-sparks"
         ],
         "by:cardigan": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "the-painful-yearning-by-cardigan",
             "your-lancer-adored-by-cardigan-part-2-of-2-18",
             "your-lancer-adored-by-cardigan-part-1-of-2-18"
@@ -15582,6 +15604,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "the-embrace-by-lou-le-loup-part-1-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
@@ -16017,6 +16040,7 @@
             "bad-dog-by-rob-baird"
         ],
         "contemporary": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "mating-net-by-caesar",
             "the-whole-moon-by-k-c-shaw",
@@ -16225,6 +16249,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
@@ -16743,6 +16768,7 @@
             "appleseed-by-marisca-pichette"
         ],
         "gay": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "18-the-first-to-know-by-patrigue",
             "catch-them-all-by-squidpizza",
@@ -17244,6 +17270,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
@@ -18336,6 +18363,7 @@
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
         "narrator:ta-kom-ironhoof": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "18-brookhursts-smell-by-rykar-thornpaw",
             "18-votive-by-packwolf-lupestripe",
             "18-firsts-by-tj-minde-part-2-of-2",
@@ -18824,6 +18852,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
@@ -18946,6 +18975,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "18-poor-queer-paradise-by-wyatt-m",
@@ -19094,6 +19124,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",

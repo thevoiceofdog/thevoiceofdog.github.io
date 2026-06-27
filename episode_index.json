@@ -410,6 +410,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67764684-829d-486a-847f-7fba8881600a/Nil-Inultum-Remanebit-by-Rob-MacWolf.mp3",
+            "published_date": "2026-06-27T09:50:00.000Z",
+            "shownotes": "<p><em>A lost soul, a soul in paradise, and the god who finds he must settle some serious disagreements about which is which.</em></p><p>You\u2019re listening to Pride Month on The Voice of Dog. Today\u2019s story is \u201cNil Inultum Remanebit\u201d by <u><a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who if nothing else is theologically consistent. You can get his books <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">from Bewere Books</a></u>, and you can find more of his stories <u><a href=\"https://thevoice.dog/?episode=fourth-man-left-outside-by-rob-macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">right here on the Voice of Dog</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "nil-inultum-remanebit-by-rob-macwolf",
+            "summary": null,
+            "tags": [
+                "lgbtq+",
+                "pride-month",
+                "narrator:rob-macwolf",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cNil Inultum Remanebit\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/77f43de5-fad4-42c3-85ce-283c55df3fa1/Theodore-Has-a-Boyfriend-Now-by-Cardigan.mp3",
             "published_date": "2026-06-26T09:50:00.000Z",
             "shownotes": "<p><em>After an early retirement, Theodore grapples with rebuilding his relationship with his son and navigating his new queer identity in his 50s.</em></p><p>Today\u2019s story is \u201cTheodore Has a Boyfriend Now\u201d by <u><a href=\"https://linktr.ee/cardiganfur\" rel=\"noopener noreferrer\" target=\"_blank\">Cardigan</a></u>, a bull who makes, translates and reviews Furry writing and games. This story is part of the anthology <u><a href=\"https://www.fenrispublishing.com/product.php?id=1156\" rel=\"noopener noreferrer\" target=\"_blank\">Tales from the Guild - Blood and Water</a></u> available from Fenris Publishing.</p><p>Read by Apollo Brightmane.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15259,6 +15274,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "nil-inultum-remanebit-by-rob-macwolf",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
@@ -17270,6 +17286,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "nil-inultum-remanebit-by-rob-macwolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
@@ -18094,6 +18111,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "nil-inultum-remanebit-by-rob-macwolf",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
@@ -18852,6 +18870,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "nil-inultum-remanebit-by-rob-macwolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",

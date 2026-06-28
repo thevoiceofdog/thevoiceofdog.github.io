@@ -410,6 +410,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bc58a2d4-bdeb-451f-b4c7-81138c5e00a5/Coming-Out-Poem-by-Fritz-Wolf.mp3",
+            "published_date": "2026-06-28T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201c<u><a href=\"https://fritzwolfpoetry.wordpress.com/coming-out-poem/\" rel=\"noopener noreferrer\" target=\"_blank\">Coming Out Poem</a></u>\u201d, by <u><a href=\"https://fritzwolfpoetry.wordpress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Fritz Wolf</a></u>.  You can find more of his poetry on <u><a href=\"https://fritzwolfpoetry.wordpress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website.</a></u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "coming-out-poem-by-fritz-wolf",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "lgbtq+",
+                "gay",
+                "queer",
+                "pride-month",
+                "humor",
+                "poem",
+                "by:fritz-wolf",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cComing Out Poem\u201d by Fritz Wolf"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67764684-829d-486a-847f-7fba8881600a/Nil-Inultum-Remanebit-by-Rob-MacWolf.mp3",
             "published_date": "2026-06-27T09:50:00.000Z",
             "shownotes": "<p><em>A lost soul, a soul in paradise, and the god who finds he must settle some serious disagreements about which is which.</em></p><p>You\u2019re listening to Pride Month on The Voice of Dog. Today\u2019s story is \u201cNil Inultum Remanebit\u201d by <u><a href=\"https://linktr.ee/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who if nothing else is theologically consistent. You can get his books <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">from Bewere Books</a></u>, and you can find more of his stories <u><a href=\"https://thevoice.dog/?episode=fourth-man-left-outside-by-rob-macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">right here on the Voice of Dog</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14792,6 +14812,9 @@
             "fireside-meeting-at-the-abandoned-tavern-by-friends-of-the-fireplace",
             "fireside-meeting-in-the-outer-kuiper-belt-by-friends-of-the-fireplace-read-by-killick-takom-ironhoof-nenekiri-bookwyrm"
         ],
+        "by:fritz-wolf": [
+            "coming-out-poem-by-fritz-wolf"
+        ],
         "by:fruitz": [
             "18-unmasking-pride-by-tiberiusrings-and-fruitz-part-2-of-2"
         ],
@@ -15620,6 +15643,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "coming-out-poem-by-fritz-wolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "the-embrace-by-lou-le-loup-part-1-of-2",
@@ -16784,6 +16808,7 @@
             "appleseed-by-marisca-pichette"
         ],
         "gay": [
+            "coming-out-poem-by-fritz-wolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "18-the-first-to-know-by-patrigue",
@@ -17191,6 +17216,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "coming-out-poem-by-fritz-wolf",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "18-echo-by-shutaro-highwind-part-1-of-2",
             "the-eyes-of-a-ghost-by-klayton-mccoy",
@@ -17286,6 +17312,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "coming-out-poem-by-fritz-wolf",
             "nil-inultum-remanebit-by-rob-macwolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
@@ -18111,6 +18138,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "coming-out-poem-by-fritz-wolf",
             "nil-inultum-remanebit-by-rob-macwolf",
             "remind-me-who-i-am-by-ritter",
             "18-last-chance-by-norman-torchart",
@@ -18656,6 +18684,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "coming-out-poem-by-fritz-wolf",
             "remind-me-who-i-am-by-ritter",
             "18-poor-queer-paradise-by-wyatt-m",
             "tom-an-mac-by-corran-orreaux",
@@ -18870,6 +18899,7 @@
             "masseur-with-benefits-by-fayinga-18"
         ],
         "pride-month": [
+            "coming-out-poem-by-fritz-wolf",
             "nil-inultum-remanebit-by-rob-macwolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "remind-me-who-i-am-by-ritter",
@@ -18994,6 +19024,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "coming-out-poem-by-fritz-wolf",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",

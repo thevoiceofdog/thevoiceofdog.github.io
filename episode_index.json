@@ -420,6 +420,20 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a527ffe3-1ff2-46e2-8f4c-306c7d2924aa/Beat-to-Plowshares-by-Whale-the-Boar.mp3",
+            "published_date": "2026-07-04T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cBeat to Plowshares\u201d a poem by <u><a href=\"https://bsky.app/profile/whaletheboar.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Whale the Boar</a></u>, whose other poem \u201cBoars (Three Different Kinds)\u201d you may have heard before on The Voice of Dog. You can find more of their insomniac poetry on Bluesky, hashtag #whalesong.</p><p>Read by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "beat-to-plowshares-by-whale-the-boar",
+            "summary": null,
+            "tags": [
+                "poem",
+                "narrator:rhubarb",
+                "by:whale-the-boar"
+            ],
+            "title": "\u201cBeat to Plowshares\u201d by Whale the Boar (read by Rhubarb)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ef512671-57fd-4d52-af97-8bb0fd611ae2/18-Victor-Tremblay-in-The-Three-Lakes-Incident-by-Pascal-Farful.mp3",
             "published_date": "2026-06-30T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Tremblay is in over his head, with two different secretive groups trying to get under his skin, forcing the detective to get physical...</em></p><p>Today\u2019s story is the second and final part of \u201cVictor Tremblay in: The Three Lakes Incident\u201d by <u><a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">AuthorName With Link</a></u>, who has been featured in three anthologies by the <u><a href=\"https://fhfs.ink/\" rel=\"noopener noreferrer\" target=\"_blank\">Furry Historical Fiction Society</a></u>, and you can find more of his stories on <u><a href=\"http://link\" rel=\"noopener noreferrer\" target=\"_blank\">his SoFurry page</a></u>.</p><p>{{snippet-3}}</p><p>That concludes, for this year, Pride Month. Next week we begin our Summer Reading schedule, in which you can expect two episodes a week while summer lasts. Please come back then, for another story, another time.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15691,6 +15705,7 @@
             "these-are-the-days-of-our-lives-by-weasel-18"
         ],
         "by:whale-the-boar": [
+            "beat-to-plowshares-by-whale-the-boar",
             "boars-three-different-kinds-by-whale-the-boar"
         ],
         "by:writer": [
@@ -18217,6 +18232,7 @@
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw"
         ],
         "narrator:rhubarb": [
+            "beat-to-plowshares-by-whale-the-boar",
             "winterfall-butterflies-by-lauren-rivers",
             "shifting-winds-a-red-vixen-adventures-story-by-lauren-rivers",
             "the-dragonslayers-quest-by-ryx"
@@ -18777,6 +18793,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "beat-to-plowshares-by-whale-the-boar",
             "coming-out-poem-by-fritz-wolf",
             "remind-me-who-i-am-by-ritter",
             "18-poor-queer-paradise-by-wyatt-m",

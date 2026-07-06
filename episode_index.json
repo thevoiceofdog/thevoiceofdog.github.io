@@ -420,6 +420,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f463fd29-a386-4435-b6b6-a97f99270d94/Visage-of-a-Vermin-Vandal-by-Malcolm-F-Cross-part-1-of-2.mp3",
+            "published_date": "2026-07-06T09:50:00.000Z",
+            "shownotes": "<p><em>Rick\u2019s boss thinks he was genetically engineered to clean future-sewage, but Rick\u2019s boss is wrong. Rick could be far more than a janitor.</em></p><p>Today\u2019s story was recorded in front of a live audience at Furlandia 2026.</p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://scribbles.malcolmfcross.com/visage-of-a-vermin-vandal-vermin-vandal-veritas.html\" rel=\"noopener noreferrer\" target=\"_blank\">Visage of a Vermin Vandal</a></u>\u201d by <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Malcolm F. Cross</a></u>, who has been writing stories in the same setting as this story for more than a decade, including two novels \u2013 <u><a href=\"https://sinisbeautiful.com/dog-country/\" rel=\"noopener noreferrer\" target=\"_blank\">Dog Country</a></u>, and <u><a href=\"https://sinisbeautiful.com/mouse-cage/\" rel=\"noopener noreferrer\" target=\"_blank\">Mouse Cage</a></u>. You can catch up with them at their website, <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SinIsBeautiful.com</a></u>, or on <u><a href=\"https://bsky.app/profile/foozzzball.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "speculative",
+                "sci-fi",
+                "drama",
+                "gore",
+                "slice-of-life",
+                "live",
+                "narrator:rob-macwolf\n",
+                "by:malcolm-f-cross"
+            ],
+            "title": "\u201cVisage of a Vermin Vandal\u201d by Malcolm F. Cross (read Live at Furlandia, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a527ffe3-1ff2-46e2-8f4c-306c7d2924aa/Beat-to-Plowshares-by-Whale-the-Boar.mp3",
             "published_date": "2026-07-04T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cBeat to Plowshares\u201d a poem by <u><a href=\"https://bsky.app/profile/whaletheboar.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Whale the Boar</a></u>, whose other poem \u201cBoars (Three Different Kinds)\u201d you may have heard before on The Voice of Dog. You can find more of their insomniac poetry on Bluesky, hashtag #whalesong.</p><p>Read by Rhubarb, Feathered Starfarer.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15194,6 +15213,9 @@
             "milkshakes-and-foxes-by-madison-scott-clary",
             "the-fool-by-madison-scott-clary"
         ],
+        "by:malcolm-f-cross": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2"
+        ],
         "by:marcus-heckinberry": [
             "please-dont-fail-me-for-this-by-marcus-heckinberry"
         ],
@@ -16379,6 +16401,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "18-last-chance-by-norman-torchart",
             "the-embrace-by-lou-le-loup-part-2-of-2",
@@ -17050,6 +17073,7 @@
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf"
         ],
         "gore": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
             "of-heart-and-stone-by-solomon-harries",
@@ -17592,6 +17616,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "live": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "carcinographic-classifieds-by-chase-anderson-live"
         ],
         "m/m": [
@@ -18451,6 +18476,9 @@
             "remembering-the-forgotten-by-h-j-pang",
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18",
             "bad-dog-by-rob-baird"
+        ],
+        "narrator:rob-macwolf\n": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2"
         ],
         "narrator:royce-day": [
             "18-housing-crisis-by-royce-day"
@@ -19539,6 +19567,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
@@ -19589,11 +19618,13 @@
             "date-night-by-kayode-lycaon"
         ],
         "slice-of-life": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "i-remember-you-by-kohitsuji",
             "the-healers-quarters-by-pendoggo",
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",
             "i-dont-want-to-have-to-be-brave-by-nighteyes-dayspring",

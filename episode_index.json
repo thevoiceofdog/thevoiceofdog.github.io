@@ -420,6 +420,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67028ede-1d66-404f-a8f9-eba8f4884bd1/Visage-of-a-Vermin-Vandal-by-Malcolm-F-Cross-part-2-of-2.mp3",
+            "published_date": "2026-07-10T09:50:00.000Z",
+            "shownotes": "<p><em>Some people think all a rat could ever be is a janitor, but, as Rick discovers, he could be something else, too \u2013 an inspired artist.</em></p><p>Today\u2019s story was recorded in front of a live audience at Furlandia 2026.</p><p>Today\u2019s Story is the second and final part of \u201c<u><a href=\"https://scribbles.malcolmfcross.com/visage-of-a-vermin-vandal-vermin-vandal-veritas.html\" rel=\"noopener noreferrer\" target=\"_blank\">Visage of a Vermin Vandal</a></u>\u201d by <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Malcolm F. Cross</a></u>, who has been writing stories in the same setting as this story for more than a decade, including two novels \u2013 <u><a href=\"https://sinisbeautiful.com/dog-country/\" rel=\"noopener noreferrer\" target=\"_blank\">Dog Country</a></u>, and <u><a href=\"https://sinisbeautiful.com/mouse-cage/\" rel=\"noopener noreferrer\" target=\"_blank\">Mouse Cage</a></u>. You can catch up with them at their website, <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SinIsBeautiful.com</a></u>, or on <u><a href=\"https://bsky.app/profile/foozzzball.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u>.</p><p>Last time, Rick Larue, genetically engineered rat, was denied a promotion because his boss was convinced a rat\u2019s happy place was cleaning bioreactor sewage. Rick was convinced too, up until he encountered a beautiful mural on the side of a Hindu Mandir, depicting the goddess Karni Mata, and the rats she holds sacred...</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "speculative",
+                "sci-fi",
+                "drama",
+                "gore",
+                "slice-of-life",
+                "live",
+                "narrator:rob-macwolf",
+                "by:malcolm-f-cross"
+            ],
+            "title": "\u201cVisage of a Vermin Vandal\u201d by Malcolm F Cross (read Live at Furlandia, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f463fd29-a386-4435-b6b6-a97f99270d94/Visage-of-a-Vermin-Vandal-by-Malcolm-F-Cross-part-1-of-2.mp3",
             "published_date": "2026-07-06T09:50:00.000Z",
             "shownotes": "<p><em>Rick\u2019s boss thinks he was genetically engineered to clean future-sewage, but Rick\u2019s boss is wrong. Rick could be far more than a janitor.</em></p><p>Today\u2019s story was recorded in front of a live audience at Furlandia 2026.</p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://scribbles.malcolmfcross.com/visage-of-a-vermin-vandal-vermin-vandal-veritas.html\" rel=\"noopener noreferrer\" target=\"_blank\">Visage of a Vermin Vandal</a></u>\u201d by <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Malcolm F. Cross</a></u>, who has been writing stories in the same setting as this story for more than a decade, including two novels \u2013 <u><a href=\"https://sinisbeautiful.com/dog-country/\" rel=\"noopener noreferrer\" target=\"_blank\">Dog Country</a></u>, and <u><a href=\"https://sinisbeautiful.com/mouse-cage/\" rel=\"noopener noreferrer\" target=\"_blank\">Mouse Cage</a></u>. You can catch up with them at their website, <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SinIsBeautiful.com</a></u>, or on <u><a href=\"https://bsky.app/profile/foozzzball.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15214,6 +15233,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "by:malcolm-f-cross": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2"
         ],
         "by:marcus-heckinberry": [
@@ -16401,6 +16421,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "18-last-chance-by-norman-torchart",
@@ -17073,6 +17094,7 @@
             "a-sweet-october-night-by-pascal-farful-read-by-rob-macwolf"
         ],
         "gore": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-1-of-2",
@@ -17616,6 +17638,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "live": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "carcinographic-classifieds-by-chase-anderson-live"
         ],
@@ -18268,6 +18291,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
             "coming-out-poem-by-fritz-wolf",
@@ -19567,6 +19591,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
@@ -19618,12 +19643,14 @@
             "date-night-by-kayode-lycaon"
         ],
         "slice-of-life": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "i-remember-you-by-kohitsuji",
             "the-healers-quarters-by-pendoggo",
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
             "coffee-and-free-fall-by-s-park-part-1-of-2",

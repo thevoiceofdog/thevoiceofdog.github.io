@@ -420,6 +420,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a860d57-477f-4936-adee-7cb16da17d17/And-Through-the-Cracks-the-Flowers-by-Aether-Breeze-SFX-PASS.mp3",
+            "published_date": "2026-07-13T09:50:00.000Z",
+            "shownotes": "<p><em>On the last day of its life, the Elysian Phasmid decided it would be seen.</em></p><p>Today\u2019s story is \u201cAnd Through the Cracks, the Flowers\u201d by <u><a href=\"https://aetherbreeze.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Aether Breeze</a></u>, who hopes you\u2019re having a comfortable day, and thinks we could all stand to be a little more like cryptids. You can find his stories, including an interactive version of this very story, at <u><a href=\"http://aetherbreeze.com\" rel=\"noopener noreferrer\" target=\"_blank\">aetherbreeze.com</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "and-through-the-cracks-the-flowers-by-aether-breeze",
+            "summary": null,
+            "tags": [
+                "fairy-tale",
+                "cw:death by:aether-breeze",
+                "narrator:rob-macwolf",
+                "by:aether-breeze"
+            ],
+            "title": "\u201cAnd Through the Cracks, the Flowers\u201d by Aether Breeze"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/67028ede-1d66-404f-a8f9-eba8f4884bd1/Visage-of-a-Vermin-Vandal-by-Malcolm-F-Cross-part-2-of-2.mp3",
             "published_date": "2026-07-10T09:50:00.000Z",
             "shownotes": "<p><em>Some people think all a rat could ever be is a janitor, but, as Rick discovers, he could be something else, too \u2013 an inspired artist.</em></p><p>Today\u2019s story was recorded in front of a live audience at Furlandia 2026.</p><p>Today\u2019s Story is the second and final part of \u201c<u><a href=\"https://scribbles.malcolmfcross.com/visage-of-a-vermin-vandal-vermin-vandal-veritas.html\" rel=\"noopener noreferrer\" target=\"_blank\">Visage of a Vermin Vandal</a></u>\u201d by <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Malcolm F. Cross</a></u>, who has been writing stories in the same setting as this story for more than a decade, including two novels \u2013 <u><a href=\"https://sinisbeautiful.com/dog-country/\" rel=\"noopener noreferrer\" target=\"_blank\">Dog Country</a></u>, and <u><a href=\"https://sinisbeautiful.com/mouse-cage/\" rel=\"noopener noreferrer\" target=\"_blank\">Mouse Cage</a></u>. You can catch up with them at their website, <u><a href=\"https://sinisbeautiful.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SinIsBeautiful.com</a></u>, or on <u><a href=\"https://bsky.app/profile/foozzzball.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Bluesky</a></u>.</p><p>Last time, Rick Larue, genetically engineered rat, was denied a promotion because his boss was convinced a rat\u2019s happy place was cleaning bioreactor sewage. Rick was convinced too, up until he encountered a beautiful mural on the side of a Hindu Mandir, depicting the goddess Karni Mata, and the rats she holds sacred...</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14558,6 +14573,7 @@
             "a-class-act-by-aero-dragneel-18"
         ],
         "by:aether-breeze": [
+            "and-through-the-cracks-the-flowers-by-aether-breeze",
             "firekeepers-by-aether-breeze"
         ],
         "by:aetherwolf76": [
@@ -16408,6 +16424,9 @@
         "cw:deadnaming": [
             "winterfall-butterflies-by-lauren-rivers"
         ],
+        "cw:death by:aether-breeze": [
+            "and-through-the-cracks-the-flowers-by-aether-breeze"
+        ],
         "cw:slur": [
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "the-embrace-by-lou-le-loup-part-1-of-2"
@@ -16771,6 +16790,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "fairy-tale": [
+            "and-through-the-cracks-the-flowers-by-aether-breeze",
             "red-by-itomaisfuzzy"
         ],
         "family-saga": [
@@ -18291,6 +18311,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "and-through-the-cracks-the-flowers-by-aether-breeze",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",

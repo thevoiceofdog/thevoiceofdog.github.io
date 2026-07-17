@@ -382,6 +382,7 @@
             "coming-out",
             "contemorary",
             "cw:deadnaming",
+            "cw:death",
             "cw:death by:aether-breeze",
             "cw:slur",
             "cw:suicide",
@@ -427,10 +428,9 @@
             "slug": "anthrocon-2026-by-ritter",
             "summary": null,
             "tags": [
-                "check-tags",
                 "poem",
-                "by:ritter",
-                "narrator:rob-macwolf"
+                "narrator:rob-macwolf",
+                "by:ritter"
             ],
             "title": "\u201cAnthrocon 2026\u201d by Ritter"
         },
@@ -443,7 +443,7 @@
             "summary": null,
             "tags": [
                 "fairy-tale",
-                "cw:death by:aether-breeze",
+                "cw:death",
                 "narrator:rob-macwolf",
                 "by:aether-breeze"
             ],
@@ -14027,6 +14027,7 @@
         "cozy": "Cozy",
         "crime": "Crime",
         "cw:deadnaming": "Cw: Deadnaming",
+        "cw:death": "Cw: Death",
         "cw:death by:aether-breeze": "Cw: Death Author: Aether Breeze",
         "cw:slur": "Cw: Slur",
         "cw:suicide": "Cw: Suicide",
@@ -15804,7 +15805,6 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
-            "anthrocon-2026-by-ritter",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -16443,7 +16443,7 @@
         "cw:deadnaming": [
             "winterfall-butterflies-by-lauren-rivers"
         ],
-        "cw:death by:aether-breeze": [
+        "cw:death": [
             "and-through-the-cracks-the-flowers-by-aether-breeze"
         ],
         "cw:slur": [

@@ -421,6 +421,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ffde9043-9db4-4d7d-be94-b2b0ae4bd831/Anthrocon-2026-by-Ritter.mp3",
+            "published_date": "2026-07-17T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201c<u><a href=\"https://bsky.app/profile/ritterreiter.bsky.social/post/3mpxfd7vkj223\" rel=\"noopener noreferrer\" target=\"_blank\">Anthrocon 2026</a></u>\u201d a poem by Ritter, a musical retriever with a passion for literature. You can find more of his stories, including the Loom of Hours story cycle, on <u><a href=\"https://archiveofourown.org/users/ritter_reiter\" rel=\"noopener noreferrer\" target=\"_blank\">AO3</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "anthrocon-2026-by-ritter",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "poem",
+                "by:ritter",
+                "narrator:rob-macwolf"
+            ],
+            "title": "\u201cAnthrocon 2026\u201d by Ritter"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/5a860d57-477f-4936-adee-7cb16da17d17/And-Through-the-Cracks-the-Flowers-by-Aether-Breeze-SFX-PASS.mp3",
             "published_date": "2026-07-13T09:50:00.000Z",
             "shownotes": "<p><em>On the last day of its life, the Elysian Phasmid decided it would be seen.</em></p><p>Today\u2019s story is \u201cAnd Through the Cracks, the Flowers\u201d by <u><a href=\"https://aetherbreeze.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Aether Breeze</a></u>, who hopes you\u2019re having a comfortable day, and thinks we could all stand to be a little more like cryptids. You can find his stories, including an interactive version of this very story, at <u><a href=\"http://aetherbreeze.com\" rel=\"noopener noreferrer\" target=\"_blank\">aetherbreeze.com</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15426,6 +15441,7 @@
             "the-wishing-tree-by-renee-carter-hall"
         ],
         "by:ritter": [
+            "anthrocon-2026-by-ritter",
             "remind-me-who-i-am-by-ritter",
             "because-i-could-not-wait-for-death-a-poem-by-ritter",
             "kinwa-and-the-engineer-by-ritter",
@@ -15788,6 +15804,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "anthrocon-2026-by-ritter",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -18313,6 +18330,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "anthrocon-2026-by-ritter",
             "and-through-the-cracks-the-flowers-by-aether-breeze",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
@@ -18868,6 +18886,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "anthrocon-2026-by-ritter",
             "beat-to-plowshares-by-whale-the-boar",
             "coming-out-poem-by-fritz-wolf",
             "remind-me-who-i-am-by-ritter",

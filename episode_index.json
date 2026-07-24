@@ -422,6 +422,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/44e5abcf-c4a4-4744-9b9c-11c273fd06a8/18-Slingtail-and-Taren-by-ArcticMage-part-2-of-2.mp3",
+            "published_date": "2026-07-24T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>After realizing their love for each other, Taren and Slingtail get hot and heavy in the captain\u2019s bed. As the captain drifts off to sleep, he is haunted by the ghosts of his past\u2026</em></p><p>Today\u2019s story is the second and final part of \u201cSlingtail and Taren\u201d by <u><a href=\"https://bsky.app/profile/arcticmage.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">ArcticMage</a></u>, who is an aspiring writer and is currently writing their first series.</p><p>Last time, Captain Slingtail and his healer Taren were having a tender heart to heart in the captain\u2019s quarters, and the captain had asked his healer an exceptionally bold question.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "slingtail-and-taren-by-arcticmage-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "fantasy",
+                "romance",
+                "action/adventure",
+                "nsfw",
+                "narrator:rob-macwolf",
+                "by:arcticmage"
+            ],
+            "title": "[18+] \u201cSlingtail and Taren\u201d by ArcticMage (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4e14bb7f-8fa9-4d80-ba6b-572a1a589237/18-Slingtail-and-Taren-by-ArcticMage-part-1-of-2.mp3",
             "published_date": "2026-07-20T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>After a skirmish, Captain Slingtail is recovering from injury. His healer visits in the night\u2026could something be brewing between the two?</em></p><p>Today\u2019s story is the first of two parts of \u201cSlingtail and Taren\u201d by <u><a href=\"https://bsky.app/profile/arcticmage.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">ArcticMage</a></u>, who is an aspiring writer currently writing their first series.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14189,6 +14206,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
             "grey-cats-and-white-hounds-by-huskyteer",
@@ -14688,6 +14706,7 @@
             "event-horizon-by-arcane-reno"
         ],
         "by:arcticmage": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2"
         ],
         "by:ardy-hart": [
@@ -16900,6 +16919,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "red-by-itomaisfuzzy",
             "i-once-fell-in-love-with-a-jackalope-by-chase-anderson",
@@ -18354,6 +18374,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "anthrocon-2026-by-ritter",
             "and-through-the-cracks-the-flowers-by-aether-breeze",
@@ -18717,6 +18738,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -19414,6 +19436,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",

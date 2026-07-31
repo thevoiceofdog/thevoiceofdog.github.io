@@ -422,6 +422,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/089714ce-f96e-4858-93f3-04ee58fec941/18-Concert-Movement-Number-Four-by-Kandrel-part-2-of-2.mp3",
+            "published_date": "2026-07-31T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>Remember, your heroes are still people, too.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://www.sofurry.com/view/1120560\" rel=\"noopener noreferrer\" target=\"_blank\">Concert Movement Number Four</a></u>\u201d by <u><a href=\"https://kandrel.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Kandrel</a></u>, who heard them play Thrust when they played in Philly, no, seriously, he did! And <u><a href=\"https://furplanet.com/shop/itemreview.aspx?itemid=1168\" rel=\"noopener noreferrer\" target=\"_blank\">Bringing Down Upworld</a></u>, their most recent delve into dystopia, is available on Furplanet. You can find more of his stories on <u><a href=\"https://kandrel.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u>.</p><p>Last time, Mark met Rex and Val after their performance, and Rex decided he liked the bunny enough for the ultimate rock tour experience.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-concert-movement-number-four-by-kandrel-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "drugs/alcohol",
+                "by:kandrel",
+                "narrator:rob-macwolf"
+            ],
+            "title": "[18+] \u201cConcert Movement Number Four\u201d by Kandrel (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1a8e0b1c-eda0-4740-9255-8954ab2c0e5f/18-Concert-Movement-Number-Four-by-Kandrel-part-1-of-2.mp3",
             "published_date": "2026-07-27T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>Sometimes, meet your heroes.</em></p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://www.sofurry.com/view/1120560\" rel=\"noopener noreferrer\" target=\"_blank\">Concert Movement Number Four</a></u>\u201d by <u><a href=\"https://kandrel.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Kandrel</a></u>, who is the world\u2019s biggest Rex fan. And <u><a href=\"https://furplanet.com/shop/itemreview.aspx?itemid=1168\" rel=\"noopener noreferrer\" target=\"_blank\">Bringing Down Upworld</a></u>, their most recent delve into dystopia, is available on Furplanet. You can find more of his stories on <u><a href=\"https://kandrel.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15192,6 +15208,7 @@
             "sound-check-by-k-c-shaw"
         ],
         "by:kandrel": [
+            "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "18-shell-game-by-kandrel-part-2-of-2",
             "18-shell-game-by-kandrel-part-1-of-2",
@@ -15866,6 +15883,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -16743,6 +16761,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -18397,6 +18416,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
@@ -19461,6 +19481,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",

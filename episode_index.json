@@ -425,6 +425,20 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ee23d7d0-146b-4d3f-a5a7-b28b35019d92/Night-Train-by-Ardy-Hart.mp3",
+            "published_date": "2026-08-10T09:50:00.000Z",
+            "shownotes": "<p><em>A train takes Leyton away from everything she knew\u2026</em></p><p>Today\u2019s story is \u201cNight Train\u201d by <u><a href=\"https://bsky.app/profile/ardyhart.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Ardy Hart</a></u>, a multimedia content creator on a mission to show others the beauty of the world through community, entertainment, and storytelling, and you can find more of his stories on <u><a href=\"https://ardyhart.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u>.</p><p>Read by Vivian, Lycanthropic Cat.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "night-train-by-ardy-hart-read-by-vivian",
+            "summary": null,
+            "tags": [
+                "fantasy",
+                "narrator:vivian",
+                "by:ardy-hart"
+            ],
+            "title": "\u201cNight Train\u201d by Ardy Hart (read by Vivian)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9a530f00-b01a-45b3-930c-a093cf144ce7/And-Still-He-Runs-by-Rob-MacWolf-part-2-of-2.mp3",
             "published_date": "2026-08-07T09:50:00.000Z",
             "shownotes": "<p><em>But the domestication of the dog is hardly history\u2019s last turning point.</em></p><p>Today\u2019s story is the first of two parts of \u201cAnd Still He Runs\u201d by <u><a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, which you can find with other wolf stories in <u><a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Spirit of the Wolf</a></u>, from Wolfsinger Publications, proceeds of which go to support a wolf sanctuary. You can get his most recent book, \u201c<u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Game of Life</a></u>,\u201d from Doppelfoxx Publications, and find more of his stories from <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a></u> and on <u><a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">SubcribeStar</a></u>.</p><p>Last time, we brought you an expansion of a fable you may recognize, of a dog who wishes his brother would come in from the cold, and a wolf who holds that it is better to starve in freedom than to live in chains. The ages saw them become only the more convinced, but what is there that cannot change, given ages enough?</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14771,6 +14785,7 @@
             "slingtail-and-taren-by-arcticmage-part-1-of-2"
         ],
         "by:ardy-hart": [
+            "night-train-by-ardy-hart-read-by-vivian",
             "reunion-by-ardy-hart-18"
         ],
         "by:ari-yena": [
@@ -16985,6 +17000,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "night-train-by-ardy-hart-read-by-vivian",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "red-by-itomaisfuzzy",
@@ -18774,6 +18790,9 @@
         "narrator:true": [
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-1-of-2"
+        ],
+        "narrator:vivian": [
+            "night-train-by-ardy-hart-read-by-vivian"
         ],
         "narrator:william-dingo": [
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",

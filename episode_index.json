@@ -215,6 +215,8 @@
             "by:taylor-fox",
             "by:tehrasha-darkon",
             "by:televassi",
+            "by:temo",
+            "by:tempe-o'kun",
             "by:tempe-o-kun",
             "by:tempo",
             "by:thomas-\"faux\"-steele",
@@ -339,7 +341,6 @@
             "narrator:solomon-harries",
             "narrator:ta'kom-ironhoof",
             "narrator:ta-kom-ironhoof",
-            "narrator:tempe-o-kun",
             "narrator:tempo",
             "narrator:the-author",
             "narrator:the-poet",
@@ -378,6 +379,7 @@
             "western"
         ],
         "uncategorized": [
+            "",
             " holiday",
             "alcohol",
             "bi",
@@ -392,6 +394,7 @@
             "death",
             "drama queerphobia",
             "fairy-tale",
+            "family saga",
             "folktale",
             "human",
             "live",
@@ -401,6 +404,7 @@
             "political",
             "pulift",
             "queerphobia nsfw",
+            "sci-fi by:tempe-o'kun",
             "sci-fi by:tempe-o-kun",
             "scifi",
             "superhero by:buddy-goodboy",
@@ -1421,7 +1425,7 @@
                 "narrator:carrizo",
                 "by:tempe-o-kun"
             ],
-            "title": "\u201cWith All Faults\u201d by Tempe O\u2019Kun (read by Apollo and Carrizo)"
+            "title": "spooky, family saga, drama, speculative, by:anhedral, narrator:apollo-brightflank"
         },
         {
             "episode_art": null,
@@ -3243,6 +3247,7 @@
                 "thriller/suspense",
                 "action/adventure",
                 "sci-fi",
+                "",
                 "narrator:tempo",
                 "by:tempo"
             ],
@@ -4064,7 +4069,7 @@
             "tags": [
                 "pulift",
                 "sci-fi",
-                "narrator:tempe-o-kun",
+                "narrator:tempo",
                 "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space - The Most Dangerous Place in the Universe\u201d by Tempe O'Kun (read by the author)"
@@ -7311,8 +7316,8 @@
             "summary": "",
             "tags": [
                 "puplift",
-                "sci-fi by:tempe-o-kun",
-                "narrator:tempe-o-kun",
+                "sci-fi by:tempe-o'kun",
+                "narrator:tempo",
                 "by:tempo"
             ],
             "title": "\u201cPuplift: A Dog's Guide to Space, Chapter 3\u201d by Tempe O'Kun (read by the author)"
@@ -9666,6 +9671,7 @@
             "tags": [
                 "puplift",
                 "sci-fi",
+                "speculative",
                 "narrator:tempo",
                 "by:tempo"
             ],
@@ -13873,6 +13879,7 @@
         }
     ],
     "tagnames": {
+        "": "",
         " holiday": " Holiday",
         "action/adventure": "Action/Adventure",
         "adult": "Adult",
@@ -14096,6 +14103,8 @@
         "by:taylor-fox": "Author: Taylor Fox",
         "by:tehrasha-darkon": "Author: Tehrasha Darkon",
         "by:televassi": "Author: Televassi",
+        "by:temo": "Author: Temo",
+        "by:tempe-o'kun": "Author: Tempe O'Kun",
         "by:tempe-o-kun": "Author: Tempe O\u2019Kun",
         "by:tempo": "Author: Tempo",
         "by:thomas-\"faux\"-steele": "Author: Thomas \"Faux\" Steele",
@@ -14150,6 +14159,7 @@
         "f/f": "F/F",
         "f/m": "F/M",
         "fairy-tale": "Fairy Tale",
+        "family saga": "Family Saga",
         "family-saga": "Family Saga",
         "fantasy": "Fantasy",
         "fireside-meeting": "Fireside Meeting",
@@ -14223,7 +14233,6 @@
         "narrator:solomon-harries": "Narrator: Solomon Harries",
         "narrator:ta'kom-ironhoof": "Narrator: Ta'Kom Ironhoof",
         "narrator:ta-kom-ironhoof": "Narrator: Ta\u2019Kom Ironhoof",
-        "narrator:tempe-o-kun": "Narrator: Tempe O Kun",
         "narrator:tempo": "Narrator: Tempo",
         "narrator:the-author": "Narrator: the author",
         "narrator:the-poet": "Narrator: The Poet",
@@ -14257,6 +14266,7 @@
         "renaissance": "Renaissance",
         "romance": "Romance",
         "sci-fi": "Sci-fi",
+        "sci-fi by:tempe-o'kun": "Sci Fi Author: Tempe O'Kun",
         "sci-fi by:tempe-o-kun": "Sci Fi Author: Tempe O Kun",
         "scifi": "Scifi",
         "self-harm": "Self-Harm",
@@ -14276,6 +14286,9 @@
         "western": "Western"
     },
     "tags": {
+        "": [
+            "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author"
+        ],
         " holiday": [
             "the-whole-moon-by-k-c-shaw"
         ],
@@ -18770,14 +18783,12 @@
             "keep-to-the-path-by-dirt-coyote-part-1-of-2",
             "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof"
         ],
-        "narrator:tempe-o-kun": [
-            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
-            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
-        ],
         "narrator:tempo": [
             "puplift-a-dogs-guide-to-space-the-go-somewhere-else-button-by-tempo-read-by-the-author",
+            "puplift-a-dogs-guide-to-space-the-most-dangerous-place-in-the-universe-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-5-by-tempe-okun",
             "puplift-a-dogs-guide-to-space-chapter-4-by-tempe-okun",
+            "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
@@ -19808,7 +19819,7 @@
             "monkeyshines-by-j-b-rockwell-part-1-of-2",
             "edge-of-the-universe-by-domus-vocis"
         ],
-        "sci-fi by:tempe-o-kun": [
+        "sci-fi by:tempe-o'kun": [
             "puplift-a-dogs-guide-to-space-chapter-3-by-tempe-okun-read-by-the-author"
         ],
         "scifi": [
@@ -19847,6 +19858,7 @@
             "secession-by-madison-scott-clary-read-by-the-author",
             "wild-thing-by-dirt-coyote-part-1-of-2-18",
             "qoheleth-by-madison-scott-clary-an-excerpt-read-by-the-author-herself",
+            "puplift-a-dogs-guide-to-space-chapter-2-by-tempe-okun-read-by-the-author",
             "your-lancer-adored-by-cardigan-part-1-of-2-18",
             "aurora-borealis-by-blouie-the-blue-heeler",
             "edge-of-the-universe-by-domus-vocis",

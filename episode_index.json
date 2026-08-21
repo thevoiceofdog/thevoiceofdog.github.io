@@ -433,6 +433,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/87db8058-2cca-4028-bf14-ad9e1765dc26/Would-by-Packwolf-Lupestripe-part-2-of-2.mp3",
+            "published_date": "2026-08-21T09:50:00.000Z",
+            "shownotes": "<p><em>The day of the Prop 9 vote draws near, yet Greystoke is torn between campaigning and longing for Aspatria. Can love thrive, both for them and queer people across Oregon?</em></p><p>Today\u2019s story is the second of two parts of \u201c<u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">Would?</a></u>\u201d by Packwolf Lupestripe. This story featured in the <u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">\u2018Wild Hearts\u2019 anthology</a></u> published by Armoured Fox Press in 2025. You can find more of her stories on her website <u><a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://lupestripe.com/</a></u></p><p>Last time, Greystoke\u2019s feelings for her former flame, Aspatria Caldbeck, reignited when she went to one of her gigs on campus. After the show, they hooked up in the college canteen where they reminisced about the past and looked to the future.</p><p>This concludes, for this year, our Summer Reading Program schedule. Starting next week, we return to our ordinary time schedule, during which you can expect a new episode every Monday.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "would-by-packwolf-lupestripe-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "lgbtq+",
+                "queer",
+                "lesbian",
+                "romance",
+                "drama",
+                "historical",
+                "narrator:rob-macwolf",
+                "by:packwolf-lupestripe"
+            ],
+            "title": "\u201cWould?\u201d by Packwolf Lupestripe (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/99053982-ffed-41f7-8515-8b7c1dac12f9/Would-by-Packwolf-Lupestripe-part-1-of-2.mp3",
             "published_date": "2026-08-17T09:50:00.000Z",
             "shownotes": "<p><em>Fall \u201892. Grunge is at its peak, but all eyes are on Prop 9 in Oregon. Can Greystoke unite with former flame Aspatria Caldbeck to defeat this anti-queer law?</em></p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">Would?</a></u>\u201d by Packwolf Lupestripe. This story featured in the <u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">\u2018Wild Hearts\u2019 anthology</a></u> published by Armoured Fox Press in 2025. You can find more of her stories on her website <u><a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">lupestripe.com</a></u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15540,6 +15559,7 @@
             "food-feuds-and-fake-flora-by-ocean-tigrox"
         ],
         "by:packwolf-lupestripe": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "scooped-up-by-packwolf-lupestripe",
@@ -16635,6 +16655,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
@@ -17366,6 +17387,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -17673,6 +17695,7 @@
             "the-fastest-blade-by-bill-ricardi"
         ],
         "lesbian": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "fight-or-flight-a-tail-of-two-mares-by-takom-ironhoof",
             "my-super-illegal-san-francisco-marriage-twenty-years-later-by-beachfox",
@@ -17680,6 +17703,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -18518,6 +18542,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "posh-werewolves-by-danath",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
@@ -19431,6 +19456,7 @@
             "puplift-a-dogs-guide-to-space-chapter-1-by-tempe-okun-read-by-the-author"
         ],
         "queer": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -19588,6 +19614,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",

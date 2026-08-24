@@ -433,6 +433,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/61a2b35c-a628-4603-a911-d520352b9800/Endangered-Species-by-Roscoe-G-Beetle.mp3",
+            "published_date": "2026-08-24T09:50:00.000Z",
+            "shownotes": "<p><em>An ill-fated Cervan ball is infiltrated by a member of the rebellion in order to capture the architect of a genocide. A story taking place in the same universe as Helkite.</em></p><p>Today\u2019s story is \u201cEndangered Species\u201d by <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Roscoe G. Beetle</a></u>, a kobold, because he\u2019s always a little horny. Author of sci-fi, fantasy, and horror, including the erotic sci-fi romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Thorns</a></u> and the upcoming horror-romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Fangs of the Bayou</a></u> at <u><a href=\"https://bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere books</a></u>, the sci-fi Mecha novel Helkite, to which this story is a prequel, at <u><a href=\"https://doppelfoxxpublishing.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Doppelfox Publishing</a></u>, as well as short stories in many different anthologies, both horny and not. For a list of all of his major projects, you can check out his <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">website</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "endangered-species-by-roscoe-g-beetle",
+            "summary": null,
+            "tags": [
+                "sci-fi",
+                "epic",
+                "military",
+                "cw:gore",
+                "cw:violence",
+                "cw:bone-fracture",
+                "narrator:rob-macwolf",
+                "by:roscoe-g-beetle"
+            ],
+            "title": "\u201cEndangered Species\u201d by Roscoe G. Beetle"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/87db8058-2cca-4028-bf14-ad9e1765dc26/Would-by-Packwolf-Lupestripe-part-2-of-2.mp3",
             "published_date": "2026-08-21T09:50:00.000Z",
             "shownotes": "<p><em>The day of the Prop 9 vote draws near, yet Greystoke is torn between campaigning and longing for Aspatria. Can love thrive, both for them and queer people across Oregon?</em></p><p>Today\u2019s story is the second of two parts of \u201c<u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">Would?</a></u>\u201d by Packwolf Lupestripe. This story featured in the <u><a href=\"https://www.amazon.de/-/en/Anastasia-Spinet/dp/1775151468/ref=sr_1_1\" rel=\"noopener noreferrer\" target=\"_blank\">\u2018Wild Hearts\u2019 anthology</a></u> published by Armoured Fox Press in 2025. You can find more of her stories on her website <u><a href=\"https://lupestripe.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://lupestripe.com/</a></u></p><p>Last time, Greystoke\u2019s feelings for her former flame, Aspatria Caldbeck, reignited when she went to one of her gigs on campus. After the show, they hooked up in the college canteen where they reminisced about the past and looked to the future.</p><p>This concludes, for this year, our Summer Reading Program schedule. Starting next week, we return to our ordinary time schedule, during which you can expect a new episode every Monday.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15712,6 +15731,7 @@
             "variables-by-roland-jovaik-part-1-of-2"
         ],
         "by:roscoe-g-beetle": [
+            "endangered-species-by-roscoe-g-beetle",
             "18-salisbury-by-roscoe-g-beetle-part-2-of-2",
             "18-salisbury-by-roscoe-g-beetle-part-1-of-2"
         ],
@@ -16636,11 +16656,17 @@
             "gibbous-moon-waning-by-altivo-overo",
             "bad-dog-by-rob-baird"
         ],
+        "cw:bone-fracture": [
+            "endangered-species-by-roscoe-g-beetle"
+        ],
         "cw:deadnaming": [
             "winterfall-butterflies-by-lauren-rivers"
         ],
         "cw:death": [
             "and-through-the-cracks-the-flowers-by-aether-breeze"
+        ],
+        "cw:gore": [
+            "endangered-species-by-roscoe-g-beetle"
         ],
         "cw:slur": [
             "the-embrace-by-lou-le-loup-part-2-of-2",
@@ -16649,6 +16675,9 @@
         "cw:suicide": [
             "the-embrace-by-lou-le-loup-part-2-of-2",
             "the-embrace-by-lou-le-loup-part-1-of-2"
+        ],
+        "cw:violence": [
+            "endangered-species-by-roscoe-g-beetle"
         ],
         "death": [
             "18-votive-by-packwolf-lupestripe",
@@ -16957,6 +16986,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "endangered-species-by-roscoe-g-beetle",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "rapture-by-shiloh-skye-part-1-of-2",
             "dicking-around-by-dirt-coyote",
@@ -17940,6 +17970,7 @@
             "harvest-home-by-altivo-overo"
         ],
         "military": [
+            "endangered-species-by-roscoe-g-beetle",
             "winterfall-butterflies-by-lauren-rivers",
             "aces-high-by-j-daniel-phillips-part-2-of-2",
             "aces-high-by-j-daniel-phillips-part-1-of-2",
@@ -18542,6 +18573,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "endangered-species-by-roscoe-g-beetle",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "posh-werewolves-by-danath",
@@ -19865,6 +19897,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "endangered-species-by-roscoe-g-beetle",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",

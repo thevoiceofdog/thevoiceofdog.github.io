@@ -433,6 +433,20 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/679d43f8-fde1-423d-ba72-24f178bfd9b7/Epitaph-by-Dave-Callum.mp3",
+            "published_date": "2026-08-31T09:50:00.000Z",
+            "shownotes": "<p>Today we present \u201cEpitaph\u201d a poem by <u><a href=\"http://dave.drgn.dad\" rel=\"noopener noreferrer\" target=\"_blank\">Dave Callum</a></u>.</p><p>Read by Herr Wozzeck, As A Gift.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "epitaph-by-dave-callum",
+            "summary": null,
+            "tags": [
+                "poem",
+                "narrator:herr-wozzeck",
+                "by:dave-callum"
+            ],
+            "title": "\u201cEpitaph\u201d by Dave Callum"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cfb8a117-e0be-430d-82e2-2da7c84d7607/Endangered-Species-by-Roscoe-G-Beetle.mp3",
             "published_date": "2026-08-24T09:50:00.000Z",
             "shownotes": "<p><em>An ill-fated Cervan ball is infiltrated by a member of the rebellion in order to capture the architect of a genocide. A story taking place in the same universe as Helkite.</em></p><p>Today\u2019s story is \u201cEndangered Species\u201d by <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Roscoe G. Beetle</a></u>, a kobold, because he\u2019s always a little horny. Author of sci-fi, fantasy, and horror, including the erotic sci-fi romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Thorns</a></u> and the upcoming horror-romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Fangs of the Bayou</a></u> at <u><a href=\"https://bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere books</a></u>, the sci-fi Mecha novel Helkite, to which this story is a prequel, at <u><a href=\"https://doppelfoxxpublishing.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Doppelfox Publishing</a></u>, as well as short stories in many different anthologies, both horny and not. For a list of all of his major projects, you can check out his <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">website</a></u>.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15035,6 +15049,9 @@
         "by:dark-end": [
             "the-aviatrix-by-dark-end"
         ],
+        "by:dave-callum": [
+            "epitaph-by-dave-callum"
+        ],
         "by:dire": [
             "mischief-makers-by-dire"
         ],
@@ -18202,6 +18219,7 @@
             "spooklunking-by-tana-simensis"
         ],
         "narrator:herr-wozzeck": [
+            "epitaph-by-dave-callum",
             "it-only-takes-a-moment-by-herr-wozzeck-part-2-of-2",
             "it-only-takes-a-moment-by-herrwozzeck-part-1-of-2"
         ],
@@ -19141,6 +19159,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "epitaph-by-dave-callum",
             "posh-werewolves-by-danath",
             "anthrocon-2026-by-ritter",
             "beat-to-plowshares-by-whale-the-boar",

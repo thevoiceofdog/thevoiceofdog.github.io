@@ -435,6 +435,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4fb5f4e2-f94f-4f2b-ab10-7f977574c9b9/Banlieue-Blues-by-Anhedral.mp3",
+            "published_date": "2026-09-07T09:50:00.000Z",
+            "shownotes": "<p><em>In post-apocalypse Paris, a teenaged werewolf in her first Hunt chases a lone miscreant through the ruins of the suburbs.</em></p><p>Today\u2019s story is \u201cBanlieue Blues\u201d by <u><a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Anhedral</a></u>, a music teacher and writer whose work has appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his stories on his <u><a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "banlieue-blues-by-anhedral",
+            "summary": null,
+            "tags": [
+                "family saga",
+                "speculative",
+                "survival",
+                "spooky",
+                "stone-age",
+                "narrator:apollo-brightflank",
+                "by:anhedral"
+            ],
+            "title": "\u201cBanlieue Blues\u201d by Anhedral (read by Apollo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/679d43f8-fde1-423d-ba72-24f178bfd9b7/Epitaph-by-Dave-Callum.mp3",
             "published_date": "2026-08-31T09:50:00.000Z",
             "shownotes": "<p>Today we present \u201cEpitaph\u201d a poem by <u><a href=\"http://dave.drgn.dad\" rel=\"noopener noreferrer\" target=\"_blank\">Dave Callum</a></u>.</p><p>Read by Herr Wozzeck, As A Gift.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14878,6 +14896,7 @@
             "18-icarus-dreams-a-glass-heart-and-slippers-to-take-me-home-by-andrew-french"
         ],
         "by:anhedral": [
+            "banlieue-blues-by-anhedral",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "the-fourth-lunation-by-anhedral-part-1-of-2",
             "18-unchained-by-anhedral",
@@ -17065,6 +17084,9 @@
             "and-through-the-cracks-the-flowers-by-aether-breeze",
             "red-by-itomaisfuzzy"
         ],
+        "family saga": [
+            "banlieue-blues-by-anhedral"
+        ],
         "family-saga": [
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
@@ -18083,6 +18105,7 @@
             "18-unchained-by-anhedral"
         ],
         "narrator:apollo-brightflank": [
+            "banlieue-blues-by-anhedral",
             "catch-them-all-by-squidpizza",
             "with-all-faults-by-tempe-okun",
             "dandelion-fox-by-domus-vocis-part-2-of-2",
@@ -19980,6 +20003,7 @@
             "winterfall-beyond-the-white-by-lauren-rivers"
         ],
         "speculative": [
+            "banlieue-blues-by-anhedral",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",
             "coffee-and-free-fall-by-s-park-part-2-of-2",
@@ -20002,6 +20026,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "banlieue-blues-by-anhedral",
             "posh-werewolves-by-danath",
             "the-fourth-lunation-by-anhedral-part-2-of-2",
             "hindsight-by-jim-redfoot",
@@ -20142,6 +20167,7 @@
             "once-we-were-meerkats-by-huskyteer"
         ],
         "stone-age": [
+            "banlieue-blues-by-anhedral",
             "rites-of-wood-and-bone-by-utunu",
             "reflections-by-sakarafox-rob-macwolf",
             "18-my-initiation-to-the-wolf-way-by-tannihn",
@@ -20165,6 +20191,7 @@
             "merry-christmas-professor-nemesis-by-buddy-goodboy"
         ],
         "survival": [
+            "banlieue-blues-by-anhedral",
             "twenty-miles-to-mcnair-by-mekyro",
             "love-like-echoed-fire-by-js-hawthorne",
             "event-horizon-by-arcane-reno",

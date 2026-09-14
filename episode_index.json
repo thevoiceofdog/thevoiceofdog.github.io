@@ -437,6 +437,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1f2c6466-39e1-49e5-8a4b-23c098de189a/For-the-Love-of-Soup-by-Vixyy-Fox.mp3",
+            "published_date": "2026-09-14T09:50:00.000Z",
+            "shownotes": "<p><em>Are you lonely? Do you feel you feel like you could use a friend? If you\u2019re thinking of an AI partner, you might like to reconsider.</em></p><p>Today\u2019s story is \u201cFor the Love of Soup\u201d by <u><a href=\"https://www.furaffinity.net/user/vixyyfox/\" rel=\"noopener noreferrer\" target=\"_blank\">Vixyy Fox</a></u>, who has been seriously writing since the turn of the century. She is a Fox, and always has been. You can find more of her stories by dropping by to her <u><a href=\"https://www.furaffinity.net/user/vixyyfox/\" rel=\"noopener noreferrer\" target=\"_blank\">page on Fur Affinity</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
+            "summary": null,
+            "tags": [
+                "sci-fi",
+                "drama",
+                "contemporary",
+                "narrator:carrizo",
+                "by:vixyy-fox"
+            ],
+            "title": "\u201cFor the Love of Soup\u201d by Vixyy Fox (read by Carrizo)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4fb5f4e2-f94f-4f2b-ab10-7f977574c9b9/Banlieue-Blues-by-Anhedral.mp3",
             "published_date": "2026-09-07T09:50:00.000Z",
             "shownotes": "<p><em>In post-apocalypse Paris, a teenaged werewolf in her first Hunt chases a lone miscreant through the ruins of the suburbs.</em></p><p>Today\u2019s story is \u201cBanlieue Blues\u201d by <u><a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Anhedral</a></u>, a music teacher and writer whose work has appeared in ROAR, Werewolves Versus, and Wolves Dot Gay. You can find more of his stories on his <u><a href=\"https://www.furaffinity.net/user/anhedral/\" rel=\"noopener noreferrer\" target=\"_blank\">Furaffinity</a></u>.</p><p>Read by Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14068,7 +14084,7 @@
         "by:dukeferret": "Author: DukeFerret",
         "by:dwale": "Author: Dwale",
         "by:earbender": "Author: Earbender",
-        "by:emil-kj-lhede": "Author: Emil Kj\u00f8lhede",
+        "by:emil-kj-lhede": "Author: Emil Kj Lhede",
         "by:emil-kjolhede": "Author: Emil Kj\u00f8lhede",
         "by:equine-essayist": "Author: Equine Essayist",
         "by:et-al": "Author: \u00c6 et al",
@@ -16029,6 +16045,7 @@
             "justice-is-brewing-by-vincenzo-pasquarella-part-1-of-2"
         ],
         "by:vixyy-fox": [
+            "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "18-love-by-vixyy-fox",
             "anarchy-by-vixyy-fox-read-by-carrizo",
             "unconditional-love-by-vixyy-fox-read-by-carrizo",
@@ -16494,6 +16511,7 @@
             "feeling-by-juniper"
         ],
         "contemporary": [
+            "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
             "mating-net-by-caesar",
@@ -16728,6 +16746,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
@@ -18149,6 +18168,7 @@
             "the-embrace-by-lou-le-loup-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "love-song-for-the-moon-by-janice-rider",
             "tail-dream-by-a-griffin",
             "with-all-faults-by-tempe-okun",
@@ -19950,6 +19970,7 @@
             "gibbous-moon-waning-by-altivo-overo"
         ],
         "sci-fi": [
+            "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "endangered-species-by-roscoe-g-beetle",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-part-2-of-2",
             "visage-of-a-vermin-vandal-by-malcolm-f-cross-read-live-at-furlandia-part-1-of-2",

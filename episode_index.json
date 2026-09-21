@@ -438,6 +438,21 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/59ebe51b-b7f8-43a2-8d9c-926b0f62167c/Is-pet-a-doing-word-by-Emil-Kj-lhede.mp3",
+            "published_date": "2026-09-21T09:50:00.000Z",
+            "shownotes": "<p><em>If it isn\u2019t degradation or discipline that makes a person embody a dog, what is it then?</em></p><p>Today we present \u201c<u><a href=\"https://emilkjoelhede.art/is-pet-a-doing-word-1\" rel=\"noopener noreferrer\" target=\"_blank\">Is Pet A Doing-Word</a></u>\u201d a poem by <u><a href=\"http://emilkjoelhede.art\" rel=\"noopener noreferrer\" target=\"_blank\">Emil Kj\u00f8lhede</a></u>, who hails from Denmark and likes to make furry art. You can see and hear this stuff on <u><a href=\"https://emilkjoelhede.art/\" rel=\"noopener noreferrer\" target=\"_blank\">their website</a></u>. They wrote this poem after discovering the local pup-play community.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "is-pet-a-doing-word-by-emil-kjlhede",
+            "summary": null,
+            "tags": [
+                "romance",
+                "poem",
+                "narrator:rob-macwolf",
+                "by:emil-kjolhede"
+            ],
+            "title": "\u201cIs pet a doing-word\u201d by Emil Kj\u00f8lhede"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/1f2c6466-39e1-49e5-8a4b-23c098de189a/For-the-Love-of-Soup-by-Vixyy-Fox.mp3",
             "published_date": "2026-09-14T09:50:00.000Z",
             "shownotes": "<p><em>Are you lonely? Do you feel you feel like you could use a friend? If you\u2019re thinking of an AI partner, you might like to reconsider.</em></p><p>Today\u2019s story is \u201cFor the Love of Soup\u201d by <u><a href=\"https://www.furaffinity.net/user/vixyyfox/\" rel=\"noopener noreferrer\" target=\"_blank\">Vixyy Fox</a></u>, who has been seriously writing since the turn of the century. She is a Fox, and always has been. You can find more of her stories by dropping by to her <u><a href=\"https://www.furaffinity.net/user/vixyyfox/\" rel=\"noopener noreferrer\" target=\"_blank\">page on Fur Affinity</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15172,6 +15187,9 @@
             "nuthin-but-a-houn-dog-by-earbender-part-2-of-2-18",
             "nuthin-but-a-houn-dog-by-earbender-part-1-of-2-18"
         ],
+        "by:emil-kjolhede": [
+            "is-pet-a-doing-word-by-emil-kjlhede"
+        ],
         "by:equine-essayist": [
             "otter-ways-to-build-confidence-by-equine-essayist"
         ],
@@ -18644,6 +18662,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "is-pet-a-doing-word-by-emil-kjlhede",
             "endangered-species-by-roscoe-g-beetle",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
@@ -19212,6 +19231,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "is-pet-a-doing-word-by-emil-kjlhede",
             "epitaph-by-dave-callum",
             "posh-werewolves-by-danath",
             "anthrocon-2026-by-ritter",
@@ -19721,6 +19741,7 @@
             "loving-you-is-wrong-by-nighteyes-dayspring-18"
         ],
         "romance": [
+            "is-pet-a-doing-word-by-emil-kjlhede",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",

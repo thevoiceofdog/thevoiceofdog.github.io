@@ -440,6 +440,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ae5d2161-c85e-4345-8400-8d3032f43eee/There-is-Something-I-Must-Do-by-Caesar.mp3",
+            "published_date": "2026-10-02T09:50:00.000Z",
+            "shownotes": "<p><em>...there is something I must do there is something I must do there is something I must do there is something I must do there is something I must...</em></p><p>Welcome back, to The Ghost of Dog on the Voice of Dog.</p><p>Tonight's story is \u201cThere is Something I Must Do\u201d by <u><a href=\"https://bsky.app/profile/caesarsays.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Caesar</a></u>, who just needs the dreams to stop. Oh god, why won\u2019t they stop. You can find more of his stories on <u><a href=\"http://marginalia-oscure.neocities.org\" rel=\"noopener noreferrer\" target=\"_blank\">his blog.</a></u></p><p>Read by Radium, your Dear Deer Friend.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "there-is-something-i-must-do-by-caesar",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "blood",
+                "by:caesar",
+                "narrator:radium"
+            ],
+            "title": "\u201cThere is Something I Must Do\u201d by Caesar (read by Radium)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/14bacc21-5559-4cb4-9d25-72145ffbfcaf/18-Finally-by-Fritz-Wolf.mp3",
             "published_date": "2026-09-28T09:50:00.000Z",
             "shownotes": "<p>[18+] Today we present \u201c<u><a href=\"https://fritzwolfpoetry.wordpress.com/finally/\" rel=\"noopener noreferrer\" target=\"_blank\">Finally</a></u>\u201d a poem by <u><a href=\"https://fritzwolfpoetry.wordpress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Fritz Wolf</a></u>.  You can find more of his poetry on <u><a href=\"https://fritzwolfpoetry.wordpress.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website.</a></u></p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14768,6 +14785,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "there-is-something-i-must-do-by-caesar",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -15044,6 +15062,7 @@
             "a-day-with-the-skaraks-by-c-f-becker"
         ],
         "by:caesar": [
+            "there-is-something-i-must-do-by-caesar",
             "mating-net-by-caesar"
         ],
         "by:caliope-sparks": [
@@ -16127,6 +16146,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "there-is-something-i-must-do-by-caesar",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -17406,6 +17426,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "there-is-something-i-must-do-by-caesar",
             "code-white-by-madison-rye-progress",
             "18-beyond-the-forest-by-ziegenbock-part-2-of-2",
             "18-beyond-the-forest-by-ziegenbock-part-1-of-2",
@@ -18674,6 +18695,7 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:radium": [
+            "there-is-something-i-must-do-by-caesar",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw"
         ],
         "narrator:rhubarb": [
@@ -20108,6 +20130,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "there-is-something-i-must-do-by-caesar",
             "banlieue-blues-by-anhedral",
             "posh-werewolves-by-danath",
             "the-fourth-lunation-by-anhedral-part-2-of-2",

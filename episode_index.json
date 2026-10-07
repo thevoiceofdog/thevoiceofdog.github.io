@@ -440,6 +440,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/d51d2de3-188d-4239-ae09-20d50da904b2/Switch-Hitter-by-J-S-Hawthorne-part-2-of-2.mp3",
+            "published_date": "2026-10-07T09:50:00.000Z",
+            "shownotes": "<p><em>David Steward is New York\u2019s premier supernatural detective, but he\u2019s learned that he\u2019s not the first Steward to protect Gotham from all the things that go bump in the night. Fifty years ago, his grandmother, Helen Steward, once saved not just the Big Apple, but America\u2019s Pastime itself from the sinister forces of evil. This is that story.</em></p><p>Tonight\u2019s story is the second and final part of \u201cSwitch Hitter\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society and casual L.A. Dodgers fan. You can find her most recent story, The Cusp Of All Broken Things, in The <u><a href=\"https://tfpublishing.squarespace.com/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">Wideness of the World</a></u> by <u><a href=\"https://tfpublishing.squarespace.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Transcendent Fiction Publishing</a></u>, as well as the other Furry Historical Fiction Society anthologies.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "switch-hitter-by-j-s-hawthorne-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "gothic",
+                "crime",
+                "historical",
+                "cw:blood",
+                "cw:bigotry",
+                "narrator:rob-macwolf",
+                "by:j-s-hawthorne"
+            ],
+            "title": "\u201cSwitch Hitter\u201d by J.S. Hawthorne (part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/192c1dc0-65aa-46d3-9066-2ce62d845145/Switch-Hitter-by-J-S-Hawthorne-part-1-of-2.mp3",
             "published_date": "2026-10-05T09:50:00.000Z",
             "shownotes": "<p><em>David Steward is New York\u2019s premier supernatural detective, but fifty years before he protected Manhattan, his grandmother, Helen Steward, was tasked with that same job. In the fall of 1957, Helen finds herself working to prevent a grave threat to very fabric of America itself: an attack on the institution of baseball.</em></p><p>Tonight\u2019s story is the first of two parts of \u201cSwitch Hitter\u201d by J.S. Hawthorne, a proud member of the Furry Historical Fiction Society and casual L.A. Dodgers fan. You can find her most recent story, The Cusp Of All Broken Things, in The <u><a href=\"https://tfpublishing.squarespace.com/store/the-wideness-of-the-world-ebook\" rel=\"noopener noreferrer\" target=\"_blank\">Wideness of the World</a></u> by <u><a href=\"https://tfpublishing.squarespace.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Transcendent Fiction Publishing</a></u>, as well as the other Furry Historical Fiction Society anthologies.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15424,6 +15444,7 @@
             "lights-in-the-sky-by-j-fr-coates-part-1-of-2"
         ],
         "by:j-s-hawthorne": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
@@ -16749,6 +16770,7 @@
             "nudging-the-sky-by-utunu"
         ],
         "crime": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -16806,9 +16828,11 @@
             "bad-dog-by-rob-baird"
         ],
         "cw:bigotry": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2"
         ],
         "cw:blood": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2"
         ],
         "cw:bone-fracture": [
@@ -17454,6 +17478,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "there-is-something-i-must-do-by-caesar",
             "code-white-by-madison-rye-progress",
@@ -17552,6 +17577,7 @@
             "kenyak-s-saga-by-mikasiwolf-part-2-of-2"
         ],
         "gothic": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "18-good-bones-by-galen-lk-part-2-of-2",
             "machine-learning-by-kohitsugi",
@@ -17579,6 +17605,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
@@ -18741,6 +18768,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "18-finally-by-fritz-wolf",
             "is-pet-a-doing-word-by-emil-kjlhede",
@@ -20162,6 +20190,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "there-is-something-i-must-do-by-caesar",
             "banlieue-blues-by-anhedral",

@@ -441,6 +441,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0c15a293-9d2c-46fe-a318-9b9f00fadf30/18-Blow-in-the-Dark-by-Tempe-O-Kun.mp3",
+            "published_date": "2026-10-12T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>In a town obsessed with spooky things year-round, how's an otter to celebrate Halloween with her hunky, nerdy boyfriend?</em></p><p>Tonight's story is \u201c<u><a href=\"https://www.furaffinity.net/view/18182589/\" rel=\"noopener noreferrer\" target=\"_blank\">Blow in the Dark</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/tempo321/\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a></u>, staff writer at Furry Film Burrow and author of the Sixes Wild, Windfall, and Puplift series. This story previously appeared in Windfall: An Otter-Body Experience, which you can find, along with more of the author\u2019s work, from <u><a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a></u>, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> or <u><a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a></u>.</p><p>Read by Kergiby, a Full Time Panther.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
+            "summary": null,
+            "tags": [
+                "lgbtq+",
+                "ghost-of-dog",
+                "spooky",
+                "historical",
+                "nsfw",
+                "blood",
+                "violence",
+                "narrator:kergiby",
+                "by:tempe-o-kun"
+            ],
+            "title": "[18+] \u201cBlow in the Dark\u201d by Tempe O'Kun (read by Kergiby)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/83be499b-2533-496c-aec8-70c3aa6772d4/Barometz-by-Roscoe-G-Beetle.mp3",
             "published_date": "2026-10-09T09:50:00.000Z",
             "shownotes": "<p><em>After a storm, a strange thing out in the barn captivates a farmer and his husband with promises of what they could never have.</em></p><p>Tonight\u2019s story is \u201cBarometz\u201d by <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Roscoe G. Beetle</a></u>, a kobold, because he\u2019s always a little horny. Author of sci-fi, fantasy, and horror, including the erotic sci-fi romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Thorns</a></u> and the upcoming horror-romance <u><a href=\"https://bewere.net/order.php?s=Roscoe\" rel=\"noopener noreferrer\" target=\"_blank\">Fangs of the Bayou</a></u> at <u><a href=\"https://bewere.net/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere books</a></u>, the sci-fi Mecha novel Helkite at <u><a href=\"https://doppelfoxxpublishing.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Doppelfox Publishing</a></u>, as well as short stories in many different anthologies, both horny and not. For a list of all of his major projects, you can check out his <u><a href=\"https://roscoegbeetle.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\">website here</a></u>.</p><p>Read by Cider, Library Marten.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14847,6 +14867,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "there-is-something-i-must-do-by-caesar",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
@@ -16083,6 +16104,7 @@
             "counter-culture-by-televassi"
         ],
         "by:tempe-o-kun": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "with-all-faults-by-tempe-okun"
         ],
         "by:tempo": [
@@ -17504,6 +17526,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
@@ -17632,6 +17655,7 @@
             "let-them-have-cake-by-spottystuff"
         ],
         "historical": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "would-by-packwolf-lupestripe-part-2-of-2",
@@ -17951,6 +17975,7 @@
             "theres-a-place-in-the-great-pack-for-you-by-rob-macwolf-part-2-of-2"
         ],
         "lgbtq+": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "18-finally-by-fritz-wolf",
             "would-by-packwolf-lupestripe-part-2-of-2",
@@ -18457,6 +18482,7 @@
             "unmasking-pride-by-tiberiusrings-fruitz-part-1-of-2"
         ],
         "narrator:kergiby": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "18-the-first-to-know-by-patrigue",
             "code-white-by-madison-rye-progress",
             "18-just-another-echo-between-rest-stops-by-domus-vocis",
@@ -19173,6 +19199,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "18-finally-by-fritz-wolf",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
@@ -20220,6 +20247,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
@@ -20468,6 +20496,7 @@
             "flying-rat-by-dan-leinir-turthra-jensen"
         ],
         "violence": [
+            "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "gemini-lunae-by-aelius",
             "code-white-by-madison-rye-progress",

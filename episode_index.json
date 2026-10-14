@@ -441,6 +441,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bd8fc6ac-8811-4e7d-b673-e1188ce37939/Testimony-on-Charges-of-Obscenity-Hypnotism-and-Unnatural-Trans.mp3",
+            "published_date": "2026-10-14T09:50:00.000Z",
+            "shownotes": "<p><em>The court will come to order, and call the alleged victim to the stand. Perhaps, in hindsight, the court should have hesitated to do such things.</em></p><p>Tonight we present \u201cTestimony on Charges of Obscenity, Hypnotism, and Unnatural Transformations\u201d a poem by <u><a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who asserts his right not to testify in this matter, you can find his books from both <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a></u> and <u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Doppelfoxx Publishing</a></u>, and you can find preview chapters of his upcoming work <u><a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">on his SubscribeStar</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
+            "summary": null,
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "poem",
+                "narrator:carrizo",
+                "by:rob-macwolf"
+            ],
+            "title": "\u201cTestimony on Charges of Obscenity, Hypnotism, and Unnatural Transformations\u201d by Rob MacWolf"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/0c15a293-9d2c-46fe-a318-9b9f00fadf30/18-Blow-in-the-Dark-by-Tempe-O-Kun.mp3",
             "published_date": "2026-10-12T09:50:00.000Z",
             "shownotes": "<p>[18+] <em>In a town obsessed with spooky things year-round, how's an otter to celebrate Halloween with her hunky, nerdy boyfriend?</em></p><p>Tonight's story is \u201c<u><a href=\"https://www.furaffinity.net/view/18182589/\" rel=\"noopener noreferrer\" target=\"_blank\">Blow in the Dark</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/tempo321/\" rel=\"noopener noreferrer\" target=\"_blank\">Tempe O'Kun</a></u>, staff writer at Furry Film Burrow and author of the Sixes Wild, Windfall, and Puplift series. This story previously appeared in Windfall: An Otter-Body Experience, which you can find, along with more of the author\u2019s work, from <u><a href=\"https://furplanet.com/shop/category.aspx?catid=219\" rel=\"noopener noreferrer\" target=\"_blank\">FurPlanet Productions</a></u>, and you can find more of his stories on <u><a href=\"https://www.furaffinity.net/user/tempo321\" rel=\"noopener noreferrer\" target=\"_blank\">FurAffinity</a></u> or <u><a href=\"https://tempo.sofurry.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Sofurry</a></u>.</p><p>Read by Kergiby, a Full Time Panther.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15883,6 +15899,7 @@
             "bad-dog-by-rob-baird"
         ],
         "by:rob-macwolf": [
+            "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "nil-inultum-remanebit-by-rob-macwolf",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
@@ -17526,6 +17543,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
@@ -18347,6 +18365,7 @@
             "the-embrace-by-lou-le-loup-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "love-song-for-the-moon-by-janice-rider",
             "tail-dream-by-a-griffin",
@@ -19398,6 +19417,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-finally-by-fritz-wolf",
             "is-pet-a-doing-word-by-emil-kjlhede",
             "epitaph-by-dave-callum",
@@ -20247,6 +20267,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",

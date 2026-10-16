@@ -441,6 +441,22 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9360e0fd-d114-478f-bf41-89f0078ef88a/Amor-Ranarum-by-Packwolf-Lupestripe.mp3",
+            "published_date": "2026-10-16T09:50:00.000Z",
+            "shownotes": "<p><em>One year on after the death of the Princess, she comes back to exact her revenge on the Frog Prince who caused it.</em></p><p>Tonight\u2019s story is \u201cAmor Ranarum\u201d by Packwolf Lupestripe, who wrote this specially for Ghost of Dog. You can check out more of Lupestripe\u2019s stories on <u><a href=\"https://sofurry.com/u/lupestripe\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u> while <u><a href=\"http://lupestripe.com\" rel=\"noopener noreferrer\" target=\"_blank\">lupestripe.com</a></u> has more information on their writing.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "amor-ranarum-by-packwolf-lupestripe",
+            "summary": null,
+            "tags": [
+                "horror",
+                "ghost-of-dog",
+                "spooky",
+                "narrator:rob-macwolf",
+                "by:packwolf-lupestripe"
+            ],
+            "title": "\u201cAmor Ranarum\u201d by Packwolf Lupestripe"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/bd8fc6ac-8811-4e7d-b673-e1188ce37939/Testimony-on-Charges-of-Obscenity-Hypnotism-and-Unnatural-Trans.mp3",
             "published_date": "2026-10-14T09:50:00.000Z",
             "shownotes": "<p><em>The court will come to order, and call the alleged victim to the stand. Perhaps, in hindsight, the court should have hesitated to do such things.</em></p><p>Tonight we present \u201cTestimony on Charges of Obscenity, Hypnotism, and Unnatural Transformations\u201d a poem by <u><a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, who asserts his right not to testify in this matter, you can find his books from both <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a></u> and <u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Doppelfoxx Publishing</a></u>, and you can find preview chapters of his upcoming work <u><a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">on his SubscribeStar</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15804,6 +15820,7 @@
             "food-feuds-and-fake-flora-by-ocean-tigrox"
         ],
         "by:packwolf-lupestripe": [
+            "amor-ranarum-by-packwolf-lupestripe",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
@@ -17543,6 +17560,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
@@ -17876,6 +17894,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "amor-ranarum-by-packwolf-lupestripe",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz",
@@ -18843,6 +18862,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "amor-ranarum-by-packwolf-lupestripe",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
             "18-finally-by-fritz-wolf",
@@ -20267,6 +20287,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",

@@ -441,6 +441,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a93fdc78-6df2-476e-b1fc-9d00cdff08fd/The-Old-Mouse-of-Dovershire-by-Nenekiri-Bookwyrm-part-1-of-2.mp3",
+            "published_date": "2026-10-19T09:50:00.000Z",
+            "shownotes": "<p><em>Constable Cornwall will make sure that mousekind is avenged. Only one dragon left to kill, and his investigation will see to that.</em></p><p>Tonight\u2019s story is the first of two parts of \u201cThe Old Mouse of Dovershire\u201d by <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a></u>, who writes a lot of dragon stories and has a whole book filled with them in <u><a href=\"https://www.fenrispublishing.com/product.php?id=1120\" rel=\"noopener noreferrer\" target=\"_blank\">Tales of Scales</a></u> published by <u><a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a></u>, and you can find more of his stories on <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website, nenekiri.com</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "horror",
+                "death",
+                "ghost-of-dog",
+                "spooky",
+                "epic",
+                "fantasy",
+                "blood",
+                "narrator:carrizo",
+                "by:nenekiri-bookwyrm"
+            ],
+            "title": "\u201cThe Old Mouse of Dovershire\u201d by Nenekiri Bookwyrm (read by Carrizo, part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/9360e0fd-d114-478f-bf41-89f0078ef88a/Amor-Ranarum-by-Packwolf-Lupestripe.mp3",
             "published_date": "2026-10-16T09:50:00.000Z",
             "shownotes": "<p><em>One year on after the death of the Princess, she comes back to exact her revenge on the Frog Prince who caused it.</em></p><p>Tonight\u2019s story is \u201cAmor Ranarum\u201d by Packwolf Lupestripe, who wrote this specially for Ghost of Dog. You can check out more of Lupestripe\u2019s stories on <u><a href=\"https://sofurry.com/u/lupestripe\" rel=\"noopener noreferrer\" target=\"_blank\">SoFurry</a></u> while <u><a href=\"http://lupestripe.com\" rel=\"noopener noreferrer\" target=\"_blank\">lupestripe.com</a></u> has more information on their writing.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14899,6 +14919,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "there-is-something-i-must-do-by-caesar",
@@ -15784,6 +15805,7 @@
             "the-first-shall-not-be-last-by-nalz"
         ],
         "by:nenekiri-bookwyrm": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm",
@@ -16939,6 +16961,7 @@
             "endangered-species-by-roscoe-g-beetle"
         ],
         "death": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz"
         ],
@@ -17247,6 +17270,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "endangered-species-by-roscoe-g-beetle",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "rapture-by-shiloh-skye-part-1-of-2",
@@ -17375,6 +17399,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "night-train-by-ardy-hart-read-by-vivian",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
@@ -17560,6 +17585,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
@@ -17894,6 +17920,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "18-votive-by-packwolf-lupestripe",
@@ -18384,6 +18411,7 @@
             "the-embrace-by-lou-le-loup-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "love-song-for-the-moon-by-janice-rider",
@@ -20287,6 +20315,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",

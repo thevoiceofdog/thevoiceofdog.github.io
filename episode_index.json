@@ -441,6 +441,26 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cce52953-b6e6-4433-ae50-98e83e5d554e/The-Old-Mouse-of-Dovershire-by-Nenekiri-Bookwyrm-part-2-of-2.mp3",
+            "published_date": "2026-10-21T09:50:00.000Z",
+            "shownotes": "<p><em>Filigro tries desperately to prove his innocence to Cornwall while the investigation takes a turn for the worse. </em></p><p>Tonight\u2019s story is the second and final part of \u201cThe Old Mouse of Dovershire\u201d by <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a></u>, who writes a lot of dragon stories and has a whole book filled with them in <u><a href=\"https://www.fenrispublishing.com/product.php?id=1120\" rel=\"noopener noreferrer\" target=\"_blank\">Tales of Scales</a></u> published by <u><a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a></u>, and you can find more of his stories on <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website, nenekiri.com</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "horror",
+                "death",
+                "ghost-of-dog",
+                "spooky",
+                "epic",
+                "fantasy",
+                "blood",
+                "narrator:carrizo",
+                "by:nenekiri-bookwyrm"
+            ],
+            "title": "\u201cThe Old Mouse of Dovershire\u201d by Nenekiri Bookwyrm (read by Carrizo, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a93fdc78-6df2-476e-b1fc-9d00cdff08fd/The-Old-Mouse-of-Dovershire-by-Nenekiri-Bookwyrm-part-1-of-2.mp3",
             "published_date": "2026-10-19T09:50:00.000Z",
             "shownotes": "<p><em>Constable Cornwall will make sure that mousekind is avenged. Only one dragon left to kill, and his investigation will see to that.</em></p><p>Tonight\u2019s story is the first of two parts of \u201cThe Old Mouse of Dovershire\u201d by <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a></u>, who writes a lot of dragon stories and has a whole book filled with them in <u><a href=\"https://www.fenrispublishing.com/product.php?id=1120\" rel=\"noopener noreferrer\" target=\"_blank\">Tales of Scales</a></u> published by <u><a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a></u>, and you can find more of his stories on <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website, nenekiri.com</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14919,6 +14939,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "barometz-by-roscoe-g-beetle-read-by-cider",
@@ -15805,6 +15826,7 @@
             "the-first-shall-not-be-last-by-nalz"
         ],
         "by:nenekiri-bookwyrm": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "no-one-is-worthy-by-nenekiri-bookwyrm",
             "18-diagnosis-code-z7253-by-nenekiri-bookwyrm",
@@ -16961,6 +16983,7 @@
             "endangered-species-by-roscoe-g-beetle"
         ],
         "death": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "18-votive-by-packwolf-lupestripe",
             "faju-by-tiberiusrings-fruitz"
@@ -17270,6 +17293,7 @@
             "games-at-g-tterd-mmerung-by-rob-baird-18"
         ],
         "epic": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "endangered-species-by-roscoe-g-beetle",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
@@ -17399,6 +17423,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fantasy": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "night-train-by-ardy-hart-read-by-vivian",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
@@ -17585,6 +17610,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
@@ -17920,6 +17946,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "barometz-by-roscoe-g-beetle-read-by-cider",
@@ -18411,6 +18438,7 @@
             "the-embrace-by-lou-le-loup-part-1-of-2"
         ],
         "narrator:carrizo": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
@@ -20315,6 +20343,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",

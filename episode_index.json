@@ -441,6 +441,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/decb3223-e448-4364-850d-0aa3e44e7330/A-Darker-Night-There-Hasn-t-Been-by-Danath.mp3",
+            "published_date": "2026-10-23T09:50:00.000Z",
+            "shownotes": "<p>Tonight we present \u201c<u><a href=\"https://sofurry.com/s/ZeqGpOAn\" rel=\"noopener noreferrer\" target=\"_blank\">A Darker Night There Hasn't Been</a></u>\u201d a poem by <u><a href=\"https://sofurry.com/u/danath\" rel=\"noopener noreferrer\" target=\"_blank\">Danath</a></u>, who has written furry stories and poems for over 25 years and is the author of <u><a href=\"https://www.bewere.net/product.php?id=1018\" rel=\"noopener noreferrer\" target=\"_blank\">Posh Werewolves and Other Erotic Furry Poems</a></u>.</p><p>Read by Cider, Library Marten.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
+            "summary": null,
+            "tags": [
+                "humor",
+                "ghost-of-dog",
+                "spooky",
+                "poem",
+                "narrator:cider",
+                "by:danath"
+            ],
+            "title": "\u201cA Darker Night There Hasn\u2019t Been\u201d by Danath (read by Cider)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/cce52953-b6e6-4433-ae50-98e83e5d554e/The-Old-Mouse-of-Dovershire-by-Nenekiri-Bookwyrm-part-2-of-2.mp3",
             "published_date": "2026-10-21T09:50:00.000Z",
             "shownotes": "<p><em>Filigro tries desperately to prove his innocence to Cornwall while the investigation takes a turn for the worse. </em></p><p>Tonight\u2019s story is the second and final part of \u201cThe Old Mouse of Dovershire\u201d by <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nenekiri Bookwyrm</a></u>, who writes a lot of dragon stories and has a whole book filled with them in <u><a href=\"https://www.fenrispublishing.com/product.php?id=1120\" rel=\"noopener noreferrer\" target=\"_blank\">Tales of Scales</a></u> published by <u><a href=\"https://www.fenrispublishing.com/order.php\" rel=\"noopener noreferrer\" target=\"_blank\">Fenris Publishing</a></u>, and you can find more of his stories on <u><a href=\"https://nenekiri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">his website, nenekiri.com</a></u>.</p><p>Read by Carrizo, your Coyote in the Court.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15292,6 +15309,7 @@
             "no-peas-in-my-garden-by-dan-leinir-turthra-jensen"
         ],
         "by:danath": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "posh-werewolves-by-danath"
         ],
         "by:danny-wolf": [
@@ -17610,6 +17628,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
@@ -17967,6 +17986,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "coming-out-poem-by-fritz-wolf",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
             "18-echo-by-shutaro-highwind-part-1-of-2",
@@ -18456,6 +18476,7 @@
             "unconditional-love-by-vixyy-fox-read-by-carrizo"
         ],
         "narrator:cider": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "feeling-by-juniper",
             "ink-on-paws-by-nighteyes-dayspring",
@@ -19493,6 +19514,7 @@
             "a-pride-at-pride-by-darius-davis"
         ],
         "poem": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
             "18-finally-by-fritz-wolf",
             "is-pet-a-doing-word-by-emil-kjlhede",
@@ -20343,6 +20365,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",

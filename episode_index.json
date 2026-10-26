@@ -441,6 +441,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/364ca2ce-a7c9-408e-972b-2c236810814e/Fireside-Meeting-At-the-End-by-Rob-MacWolf.mp3",
+            "published_date": "2026-10-26T09:50:00.000Z",
+            "shownotes": "<p>Tonight\u2019s story is a collaborative piece with stories contributed by <u><a href=\"https://bsky.app/profile/sakarafox.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">SakaraFox</a></u>, <u><a href=\"https://chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a></u>, and <u><a href=\"https://pawpals.place/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>.</p><p>Read by Radium, your Dear Deer Friend, Rob MacWolf, Werewolf Hitchhiker, and Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "fireside-meeting",
+                "family-saga",
+                "drama",
+                "post-apocalyptic",
+                "by:friends-of-the-fireplace",
+                "narrator:radium"
+            ],
+            "title": "\u201cFireside Meeting in the Abandoned Park\u201d by Friends of the Fireplace."
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/decb3223-e448-4364-850d-0aa3e44e7330/A-Darker-Night-There-Hasn-t-Been-by-Danath.mp3",
             "published_date": "2026-10-23T09:50:00.000Z",
             "shownotes": "<p>Tonight we present \u201c<u><a href=\"https://sofurry.com/s/ZeqGpOAn\" rel=\"noopener noreferrer\" target=\"_blank\">A Darker Night There Hasn't Been</a></u>\u201d a poem by <u><a href=\"https://sofurry.com/u/danath\" rel=\"noopener noreferrer\" target=\"_blank\">Danath</a></u>, who has written furry stories and poems for over 25 years and is the author of <u><a href=\"https://www.bewere.net/product.php?id=1018\" rel=\"noopener noreferrer\" target=\"_blank\">Posh Werewolves and Other Erotic Furry Poems</a></u>.</p><p>Read by Cider, Library Marten.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15467,6 +15485,7 @@
             "where-stories-are-told-by-khaki-and-friends"
         ],
         "by:friends-of-the-fireplace": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
@@ -16330,6 +16349,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "there-is-something-i-must-do-by-caesar",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
@@ -17007,6 +17027,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "would-by-packwolf-lupestripe-part-2-of-2",
@@ -17375,6 +17396,7 @@
             "banlieue-blues-by-anhedral"
         ],
         "family-saga": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "slingtail-and-taren-by-arcticmage-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
@@ -17542,6 +17564,7 @@
             "bad-dog-by-rob-baird"
         ],
         "fireside-meeting": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "18-fireside-meeting-at-the-isles-of-the-blest-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-cumuliform-arches-by-friends-of-the-fireplace",
             "fireside-meeting-at-the-pride-festival-by-friends-of-the-fireplace",
@@ -18924,6 +18947,7 @@
             "sea-and-sky-by-k-c-shaw-read-by-nenekiri-bookwyrm"
         ],
         "narrator:radium": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "there-is-something-i-must-do-by-caesar",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw"
         ],
@@ -19720,6 +19744,7 @@
             "banlieue-blues-by-anhedral"
         ],
         "post-apocalyptic": [
+            "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "antiherd-tendencies-by-bighorn-bill",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-the-creation-of-water-by-leuna",

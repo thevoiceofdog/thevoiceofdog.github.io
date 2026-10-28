@@ -441,6 +441,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ba12e583-a867-4e28-8c03-624f9e4c954c/I-Joined-a-Cult-by-Flash-Kitterson.mp3",
+            "published_date": "2026-10-28T09:50:00.000Z",
+            "shownotes": "<p><em>In a small town where disappearances happen, a vixen mother is unaware and only focused on work and caring for her son.</em></p><p>Tonight\u2019s story is \u201c<u><a href=\"https://www.wattpad.com/1394309021-create-chaos-not-order-i-joined-a-cult\" rel=\"noopener noreferrer\" target=\"_blank\">I Joined A Cult</a></u>\u201d by <u><a href=\"https://furrywritersguild.com/flash-kitterson/\" rel=\"noopener noreferrer\" target=\"_blank\">Flash Kitterson</a></u>, who writes Fantasy and Dark Fantasy furry stories. You can find more of their stories and works at <u><a href=\"https://linktr.ee/flxshwrld\" rel=\"noopener noreferrer\" target=\"_blank\">their linktree.</a></u></p><p>Read by B. P. Rugger, the Ineffable Moo Moon.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "i-joined-a-cult-by-flash-kitterson",
+            "summary": null,
+            "tags": [
+                "horror",
+                "ghost-of-dog",
+                "spooky",
+                "blood",
+                "narrator:b-p-rugger",
+                "by:flash-kitterson"
+            ],
+            "title": "\u201cI Joined a Cult\u201d by Flash Kitterson (read by B.P. Rugger)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/a5f0dc06-b1ba-4418-87ca-97a3abb025be/Fireside-Meeting-in-the-Abandoned-Park.mp3",
             "published_date": "2026-10-26T09:50:00.000Z",
             "shownotes": "<p>Tonight\u2019s story is a collaborative piece with stories contributed by <u><a href=\"https://bsky.app/profile/sakarafox.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">SakaraFox</a></u>, <u><a href=\"https://chasej.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Chase Anderson</a></u>, and <u><a href=\"https://pawpals.place/robmacwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>.</p><p>Read by Radium, your Dear Deer Friend, Rob MacWolf, Werewolf Hitchhiker, and Apollo Brightflank, who Still Returns to the Prairie.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14974,6 +14991,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "i-joined-a-cult-by-flash-kitterson",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
@@ -15462,6 +15480,9 @@
             "mouse-your-house-by-field-t-mouse-18",
             "the-squirrel-next-door-by-field-t-mouse-18",
             "a-little-distraction-by-field-t-mouse-18"
+        ],
+        "by:flash-kitterson": [
+            "i-joined-a-cult-by-flash-kitterson"
         ],
         "by:fopfox": [
             "a-city-wolf-joins-the-pack-by-fopfox-part-2-of-2-18",
@@ -17651,6 +17672,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
@@ -17988,6 +18010,7 @@
             "bounty-hunter-uncle-by-domus-vocis"
         ],
         "horror": [
+            "i-joined-a-cult-by-flash-kitterson",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
             "amor-ranarum-by-packwolf-lupestripe",
@@ -18460,6 +18483,7 @@
             "growth-by-madison-scott-clary-read-by-ardy-hart"
         ],
         "narrator:b-p-rugger": [
+            "i-joined-a-cult-by-flash-kitterson",
             "the-application-of-lycanthropy-as-a-novel-treatment-for-gender-dysphoria-by-chase-anderson",
             "fair-and-square-by-madison-scott-clary",
             "a-pride-at-pride-by-darius-davis",
@@ -20390,6 +20414,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",

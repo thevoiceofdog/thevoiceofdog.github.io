@@ -441,6 +441,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c00e2743-d8e7-497a-8b96-701734175101/From-the-Sea-the-Ghosts-by-Alex-Vance.mp3",
+            "published_date": "2026-10-29T09:50:00.000Z",
+            "shownotes": "<p><em>On a cold moonlit beach beside a lighthouse, four foxes sit around a fire, all of them alive. </em></p><p><em>For now. </em></p><p>Tonight\u2019s story is \u201cFrom the Sea, the Ghosts\u201d by <u><a href=\"https://bsky.app/profile/khaki.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Alex Vance</a></u>, who founded Bad Dog Books, edited the first three volumes of the FANG anthology and won an Ursa Major Award for Heathen City in 2008. His new novel \u201c<u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Game of Life</a></u>\u201d, co-written with your humble host, was recently published by Doppelfoxx Publishing, also as an <u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">audiobook</a></u>.</p><p>{{snippet-1}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "from-the-sea-the-ghosts-by-alex-vance",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "ghost-of-dog",
+                "spooky",
+                "action/adventure",
+                "drugs/alcohol",
+                "by:alex-vance",
+                "narrator:khaki"
+            ],
+            "title": "\u201cFrom the Sea, the Ghosts\u201d by Alex Vance"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/ba12e583-a867-4e28-8c03-624f9e4c954c/I-Joined-a-Cult-by-Flash-Kitterson.mp3",
             "published_date": "2026-10-28T09:50:00.000Z",
             "shownotes": "<p><em>In a small town where disappearances happen, a vixen mother is unaware and only focused on work and caring for her son.</em></p><p>Tonight\u2019s story is \u201c<u><a href=\"https://www.wattpad.com/1394309021-create-chaos-not-order-i-joined-a-cult\" rel=\"noopener noreferrer\" target=\"_blank\">I Joined A Cult</a></u>\u201d by <u><a href=\"https://furrywritersguild.com/flash-kitterson/\" rel=\"noopener noreferrer\" target=\"_blank\">Flash Kitterson</a></u>, who writes Fantasy and Dark Fantasy furry stories. You can find more of their stories and works at <u><a href=\"https://linktr.ee/flxshwrld\" rel=\"noopener noreferrer\" target=\"_blank\">their linktree.</a></u></p><p>Read by B. P. Rugger, the Ineffable Moo Moon.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14691,6 +14709,7 @@
             "the-whole-moon-by-k-c-shaw"
         ],
         "action/adventure": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "winterfall-butterflies-by-lauren-rivers",
@@ -15149,6 +15168,9 @@
             "distant-quantifiable-victory-a-poem-by-alex-t-dragonson",
             "distant-cousins-by-alex-katz",
             "chump-change-by-alex-katz"
+        ],
+        "by:alex-vance": [
+            "from-the-sea-the-ghosts-by-alex-vance"
         ],
         "by:alice-clawford": [
             "moon-me-up-cyrille-by-alice-clawford-18-read-by-takom-ironhoof",
@@ -16370,6 +16392,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "there-is-something-i-must-do-by-caesar",
             "theodore-has-a-boyfriend-now-by-cardigan",
@@ -17276,6 +17299,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
@@ -17672,6 +17696,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
@@ -18658,6 +18683,7 @@
             "hey-buddy-by-dirt-coyote-read-by-kergiby"
         ],
         "narrator:khaki": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "toad-toad-hall-by-tempo",
@@ -20414,6 +20440,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",

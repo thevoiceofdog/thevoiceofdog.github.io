@@ -441,6 +441,25 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6dbf5300-b67f-44b0-9975-236ffc804d3b/His-Best-Friend-Stan-by-Royce-Day.mp3",
+            "published_date": "2026-10-30T09:50:00.000Z",
+            "shownotes": "<p><em>Meet Phillip Mouscovy, a young mouse desperate enough make a literal deal with the Devil, and Stan, the devil in question, who makes a point of always honoring his contract. Though his soul is accounted for, Phillip has a plan to beat Stan at his own game. But is he doing exactly what Stan wants?</em></p><p>Tonight\u2019s story is \u201c<u><a href=\"https://www.deviantart.com/sir-talen/art/His-Best-Friend-Stan-896937110\" rel=\"noopener noreferrer\" target=\"_blank\">His Best Friend, Stan\u201d</a></u> by <u><a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a></u>, creator of <u><a href=\"https://a.co/d/07ZKzHNo\" rel=\"noopener noreferrer\" target=\"_blank\">The Red Vixen Adventures</a></u> and <u><a href=\"https://a.co/d/0h1JmGpD\" rel=\"noopener noreferrer\" target=\"_blank\">Meeting Dominique</a></u>, and you can find more of his stories on his Patreon.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "his-best-friend-stan-by-royce-day",
+            "summary": null,
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "drama",
+                "contemporary",
+                "blood",
+                "trauma",
+                "narrator:rob-macwolf",
+                "by:royce-day"
+            ],
+            "title": "\u201cHis Best Friend, Stan\u201d by Royce Day"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/c00e2743-d8e7-497a-8b96-701734175101/From-the-Sea-the-Ghosts-by-Alex-Vance.mp3",
             "published_date": "2026-10-29T09:50:00.000Z",
             "shownotes": "<p><em>On a cold moonlit beach beside a lighthouse, four foxes sit around a fire, all of them alive. </em></p><p><em>For now. </em></p><p>Tonight\u2019s story is \u201cFrom the Sea, the Ghosts\u201d by <u><a href=\"https://bsky.app/profile/khaki.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Alex Vance</a></u>, who founded Bad Dog Books, edited the first three volumes of the FANG anthology and won an Ursa Major Award for Heathen City in 2008. His new novel \u201c<u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Game of Life</a></u>\u201d, co-written with your humble host, was recently published by Doppelfoxx Publishing, also as an <u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">audiobook</a></u>.</p><p>{{snippet-1}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15010,6 +15029,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "his-best-friend-stan-by-royce-day",
             "i-joined-a-cult-by-flash-kitterson",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-1-of-2",
@@ -16108,6 +16128,7 @@
             "furta-sacra-by-rose-lacroix"
         ],
         "by:royce-day": [
+            "his-best-friend-stan-by-royce-day",
             "18-housing-crisis-by-royce-day",
             "solstice-gifts-by-royce-day",
             "silence-and-sword-by-royce-day-part-2-of-2",
@@ -16824,6 +16845,7 @@
             "feeling-by-juniper"
         ],
         "contemporary": [
+            "his-best-friend-stan-by-royce-day",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "18-a-tale-of-two-whirlwinds-by-herr-wozzeck-part-2-of-2",
@@ -17071,6 +17093,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "his-best-friend-stan-by-royce-day",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "barometz-by-roscoe-g-beetle-read-by-cider",
             "for-the-love-of-soup-by-vixyy-fox-read-by-carrizo",
@@ -17696,6 +17719,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "his-best-friend-stan-by-royce-day",
             "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
@@ -19013,6 +19037,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "his-best-friend-stan-by-royce-day",
             "amor-ranarum-by-packwolf-lupestripe",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
             "switch-hitter-by-j-s-hawthorne-part-1-of-2",
@@ -20440,6 +20465,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "his-best-friend-stan-by-royce-day",
             "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
@@ -20675,6 +20701,7 @@
             "the-fool-by-madison-scott-clary"
         ],
         "trauma": [
+            "his-best-friend-stan-by-royce-day",
             "code-white-by-madison-rye-progress",
             "18-housing-crisis-by-royce-day",
             "18-cozy-beginnings-by-herr-wozzeck-part-2-of-2",

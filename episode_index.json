@@ -441,6 +441,23 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/4352b18c-afce-422b-bfb7-63b314454cd0/18-Wherefore-Art-Thou-by-Puptree.mp3",
+            "published_date": "2026-10-31T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>From forth the fatal loins of these two foes, a pair of star-crossed lovers take their life.</em></p><p>Tonight\u2019s story is \u201cWherefore Art Thou? By PupTree, who is neither a pup nor a tree. You can find more stories on his <u><a href=\"https://www.furaffinity.net/user/puptree\" rel=\"noopener noreferrer\" target=\"_blank\">Fur Affinity Page</a></u>.</p><p>{{snippet-3}}</p><p>With that, we lay to rest, for another year, the Ghost of Dog. As of next week, we resume our ordinary time schedule, during which you can expect an episode every Monday.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-wherefore-art-thou-by-puptree",
+            "summary": null,
+            "tags": [
+                "ghost-of-dog",
+                "spooky",
+                "blood",
+                "nsfw",
+                "narrator:rob-macwolf",
+                "by:puptree"
+            ],
+            "title": "[18+] \u201cWherefore Art Thou?\u201d by Puptree"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/6dbf5300-b67f-44b0-9975-236ffc804d3b/His-Best-Friend-Stan-by-Royce-Day.mp3",
             "published_date": "2026-10-30T09:50:00.000Z",
             "shownotes": "<p><em>Meet Phillip Mouscovy, a young mouse desperate enough make a literal deal with the Devil, and Stan, the devil in question, who makes a point of always honoring his contract. Though his soul is accounted for, Phillip has a plan to beat Stan at his own game. But is he doing exactly what Stan wants?</em></p><p>Tonight\u2019s story is \u201c<u><a href=\"https://www.deviantart.com/sir-talen/art/His-Best-Friend-Stan-896937110\" rel=\"noopener noreferrer\" target=\"_blank\">His Best Friend, Stan\u201d</a></u> by <u><a href=\"https://www.deviantart.com/sir-talen\" rel=\"noopener noreferrer\" target=\"_blank\">Royce Day</a></u>, creator of <u><a href=\"https://a.co/d/07ZKzHNo\" rel=\"noopener noreferrer\" target=\"_blank\">The Red Vixen Adventures</a></u> and <u><a href=\"https://a.co/d/0h1JmGpD\" rel=\"noopener noreferrer\" target=\"_blank\">Meeting Dominique</a></u>, and you can find more of his stories on his Patreon.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15029,6 +15046,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "i-joined-a-cult-by-flash-kitterson",
             "the-old-mouse-of-dovershire-by-nenekiri-bookwyrm-read-by-carrizo-part-2-of-2",
@@ -16020,6 +16038,9 @@
         ],
         "by:psydrosis": [
             "do-not-disturb-by-psydrosis"
+        ],
+        "by:puptree": [
+            "18-wherefore-art-thou-by-puptree"
         ],
         "by:raynarde": [
             "i-was-there-by-raynarde"
@@ -17719,6 +17740,7 @@
             "agent-friendzone-by-kyell-gold"
         ],
         "ghost-of-dog": [
+            "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",
@@ -19037,6 +19059,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "amor-ranarum-by-packwolf-lupestripe",
             "switch-hitter-by-j-s-hawthorne-part-2-of-2",
@@ -19414,6 +19437,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-wherefore-art-thou-by-puptree",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "18-finally-by-fritz-wolf",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
@@ -20465,6 +20489,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "from-the-sea-the-ghosts-by-alex-vance",
             "i-joined-a-cult-by-flash-kitterson",

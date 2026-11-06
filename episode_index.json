@@ -156,6 +156,7 @@
             "by:metassus",
             "by:michel-vincent-corbeaux",
             "by:mikasiwolf",
+            "by:misto",
             "by:mog-moogle",
             "by:nachtfangen",
             "by:nalz",
@@ -332,6 +333,7 @@
             "narrator:leuna",
             "narrator:madison-scott-clary",
             "narrator:mary-e-lowd",
+            "narrator:misto",
             "narrator:nenekiri",
             "narrator:nenekiri-bookworm",
             "narrator:nenekiri-bookwyrm",
@@ -446,7 +448,15 @@
             "shownotes": "<p><em>The Volnic Empire, the enemies of Stargazer and her employer, have historically been slow to adapt. But this time, the trap is set for her.</em></p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://radicalden.com/static/files/sidestories/worldsapart/worldsapart.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Worlds Apart</a></u>\u201d by <u><a href=\"https://bsky.app/profile/mistowrites.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Misto</a></u>, the lead writer of the Furry Sci-Fi creative collective <u><a href=\"https://bsky.app/profile/radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">Rad Den Studios</a></u>. This is one of their debut works in the <em>Foxxoverse</em> narrative canon, and you can find more at their website <u><a href=\"http://radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">RadicalDen.com</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
             "slug": "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "summary": null,
-            "tags": null,
+            "tags": [
+                "check-tags",
+                "spooky",
+                "drama",
+                "medieval",
+                "blood",
+                "by:misto",
+                "narrator:misto"
+            ],
             "title": "\u201cWorlds Apart\u201d by Misto (read by the Author, part 1 of 2)"
         },
         {
@@ -899,7 +909,13 @@
             "shownotes": "<p><em>But the domestication of the dog is hardly history\u2019s last turning point.</em></p><p>Today\u2019s story is the first of two parts of \u201cAnd Still He Runs\u201d by <u><a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, which you can find with other wolf stories in <u><a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Spirit of the Wolf</a></u>, from Wolfsinger Publications, proceeds of which go to support a wolf sanctuary. You can get his most recent book, \u201c<u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Game of Life</a></u>,\u201d from Doppelfoxx Publications, and find more of his stories from <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a></u> and on <u><a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">SubcribeStar</a></u>.</p><p>Last time, we brought you an expansion of a fable you may recognize, of a dog who wishes his brother would come in from the cold, and a wolf who holds that it is better to starve in freedom than to live in chains. The ages saw them become only the more convinced, but what is there that cannot change, given ages enough?</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
             "slug": "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
             "summary": null,
-            "tags": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "post-apocalyptic",
+                "by:rob-macwolf",
+                "narrator:rob-macwolf"
+            ],
             "title": "\u201cAnd Still He Runs\u201d by Rob MacWolf (read by the Author, part 2 of 2)"
         },
         {
@@ -909,7 +925,13 @@
             "shownotes": "<p><em>They say the domestication of the dog is one of history\u2019s greatest turning points.</em></p><p>Today\u2019s story is the first of two parts of \u201cAnd Still He Runs\u201d by <u><a href=\"https://bsky.app/profile/robmacwolf.thevoice.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Rob MacWolf</a></u>, which you can find with other wolf stories in <u><a href=\"https://www.wolfsingerpubs.com/product-page/spirit-of-the-wolf\" rel=\"noopener noreferrer\" target=\"_blank\">Spirit of the Wolf</a></u>, from Wolfsinger Publications, proceeds of which go to support a wolf sanctuary. You can get his most recent book, \u201c<u><a href=\"https://doppelfoxxpublishing.com/products/game-of-life\" rel=\"noopener noreferrer\" target=\"_blank\">Game of Life</a></u>,\u201d from Doppelfoxx Publications, and find more of his stories from <u><a href=\"https://www.bewere.net/order.php?s=rob%20macwolf\" rel=\"noopener noreferrer\" target=\"_blank\">Bewere Books</a></u> and on <u><a href=\"https://subscribestar.adult/werewolfhitchhiker\" rel=\"noopener noreferrer\" target=\"_blank\">SubcribeStar</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
             "slug": "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "summary": null,
-            "tags": null,
+            "tags": [
+                "check-tags",
+                "romance",
+                "post-apocalyptic",
+                "by:rob-macwolf",
+                "narrator:rob-macwolf"
+            ],
             "title": "\u201cAnd Still He Runs\u201d by Rob MacWolf (read by the Author, part 1 of 2)"
         },
         {
@@ -14495,6 +14517,7 @@
         "by:metassus": "Author: Metassus",
         "by:michel-vincent-corbeaux": "Author: Michel-Vincent Corbeaux",
         "by:mikasiwolf": "Author: MikasiWolf",
+        "by:misto": "Author: Misto",
         "by:mog-moogle": "Author: Mog Moogle",
         "by:nachtfangen": "Author: Nachtfangen",
         "by:nalz": "Author: Nalz",
@@ -14680,6 +14703,7 @@
         "narrator:leuna": "Narrator: Leuna",
         "narrator:madison-scott-clary": "Narrator: Madison Scott-Clary",
         "narrator:mary-e-lowd": "Narrator: Mary E. Lowd",
+        "narrator:misto": "Narrator: Misto",
         "narrator:nenekiri": "Narrator: Nenekiri",
         "narrator:nenekiri-bookworm": "Narrator: Nenekiri Bookworm",
         "narrator:nenekiri-bookwyrm": "Narrator: Nenekiri Bookwyrm",
@@ -15056,6 +15080,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "i-joined-a-cult-by-flash-kitterson",
@@ -15944,6 +15969,9 @@
             "a-leap-forward-by-mikasiwolf-part-2-of-3",
             "a-leap-forward-by-mikasiwolf-part-1-of-3"
         ],
+        "by:misto": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2"
+        ],
         "by:mog-moogle": [
             "over-the-top-by-mog-moogle"
         ],
@@ -16092,6 +16120,8 @@
         ],
         "by:rob-macwolf": [
             "testimony-on-charges-of-obscenity-hypnotism-and-unnatural-transformations-by-rob-macwolf",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "nil-inultum-remanebit-by-rob-macwolf",
             "to-the-last-memory-of-john-and-syd-by-rob-macwolf",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
@@ -16444,9 +16474,12 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "there-is-something-i-must-do-by-caesar",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "theodore-has-a-boyfriend-now-by-cardigan",
             "cmon-no-ones-lookin-by-tiberiusrings-edouard-part-2-of-2",
             "love-song-for-the-moon-by-janice-rider",
@@ -17124,6 +17157,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "his-best-friend-stan-by-royce-day",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
             "barometz-by-roscoe-g-beetle-read-by-cider",
@@ -18424,6 +18458,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "hope-by-russell-knight",
             "the-lament-of-the-batavii-by-j-s-hawthorne-part-2-of-2",
@@ -19036,6 +19071,9 @@
             "hero-worship-by-metassus-read-by-madison-scott-clary",
             "disappearance-by-madison-scott-clary-18"
         ],
+        "narrator:misto": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2"
+        ],
         "narrator:nenekiri": [
             "ill-try-to-pencil-you-in-by-nenekiri-bookwyrm"
         ],
@@ -19080,6 +19118,8 @@
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
             "posh-werewolves-by-danath",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
@@ -19854,6 +19894,8 @@
         ],
         "post-apocalyptic": [
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "antiherd-tendencies-by-bighorn-bill",
             "there-was-a-lock-on-the-door-by-rob-macwolf",
             "18-the-creation-of-water-by-leuna",
@@ -20165,6 +20207,8 @@
             "is-pet-a-doing-word-by-emil-kjlhede",
             "would-by-packwolf-lupestripe-part-2-of-2",
             "would-by-packwolf-lupestripe-part-1-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-2-of-2",
+            "and-still-he-runs-by-rob-macwolf-read-by-the-author-part-1-of-2",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
             "slingtail-and-taren-by-arcticmage-part-2-of-2",
@@ -20499,6 +20543,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "from-the-sea-the-ghosts-by-alex-vance",

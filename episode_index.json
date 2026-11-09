@@ -443,6 +443,24 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/903cc90e-3d32-46e4-b066-65b15dec3bdb/Worlds-Apart-by-Misto-part-2-of-2.mp3",
+            "published_date": "2026-11-09T09:50:00.000Z",
+            "shownotes": "<p><em>Stargazer and the Imperial Inquisitor face off with one another. Bringing Stargazer face to face with her greatest sin, and deepest guilt.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://radicalden.com/static/files/sidestories/worldsapart/worldsapart.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Worlds Apart</a></u>\u201d by <u><a href=\"https://bsky.app/profile/mistowrites.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Misto</a></u>, the lead writer of the Furry Sci-Fi creative collective <u><a href=\"https://bsky.app/profile/radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">Rad Den Studios</a></u>. This is one of their debut works in the <em>Foxxoverse</em> narrative canon, and you can find more at their website <u><a href=\"http://radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">RadicalDen.com</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "spooky",
+                "drama",
+                "medieval",
+                "blood",
+                "by:misto",
+                "narrator:misto"
+            ],
+            "title": "\u201cWorlds Apart\u201d by Misto (read by the Author, part 2 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/f9286d86-fb39-47fe-81b6-d587df2622b8/Worlds-Apart-by-Misto-part-1-of-2.mp3",
             "published_date": "2026-11-02T09:50:00.000Z",
             "shownotes": "<p><em>The Volnic Empire, the enemies of Stargazer and her employer, have historically been slow to adapt. But this time, the trap is set for her.</em></p><p>Today\u2019s story is the first of two parts of \u201c<u><a href=\"https://radicalden.com/static/files/sidestories/worldsapart/worldsapart.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Worlds Apart</a></u>\u201d by <u><a href=\"https://bsky.app/profile/mistowrites.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Misto</a></u>, the lead writer of the Furry Sci-Fi creative collective <u><a href=\"https://bsky.app/profile/radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">Rad Den Studios</a></u>. This is one of their debut works in the <em>Foxxoverse</em> narrative canon, and you can find more at their website <u><a href=\"http://radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">RadicalDen.com</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15080,6 +15098,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
@@ -15970,6 +15989,7 @@
             "a-leap-forward-by-mikasiwolf-part-1-of-3"
         ],
         "by:misto": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2"
         ],
         "by:mog-moogle": [
@@ -16474,6 +16494,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
@@ -17157,6 +17178,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "his-best-friend-stan-by-royce-day",
             "fireside-meeting-in-the-abandoned-park-by-friends-of-the-fireplace-",
@@ -18458,6 +18480,7 @@
             "the-last-journey-of-theodore-vulcek-leader-beloved-husband-and-pack-brother-by-rob-macwolf-18"
         ],
         "medieval": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "not-to-this-retreat-of-mine-by-rob-macwolf",
             "hope-by-russell-knight",
@@ -19072,6 +19095,7 @@
             "disappearance-by-madison-scott-clary-18"
         ],
         "narrator:misto": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2"
         ],
         "narrator:nenekiri": [
@@ -20543,6 +20567,7 @@
             "counter-culture-by-televassi"
         ],
         "spooky": [
+            "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",

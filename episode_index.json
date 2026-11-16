@@ -443,6 +443,20 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e6dd6621-4b2d-4ba8-8f21-dff492151e7b/Have-You-Considered-Being-a-Capybara-by-Geo-Holms.mp3",
+            "published_date": "2026-11-16T09:50:00.000Z",
+            "shownotes": "<p><em>One day, a woman answers her door to find a pair of capybaras sitting there, who ask her an intriguing question\u2026</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/59495787/\" rel=\"noopener noreferrer\" target=\"_blank\">\"Have You Considered Being a Capybara?\"</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/geoholms\" rel=\"noopener noreferrer\" target=\"_blank\">Geo Holms</a></u>, who is a raccoon from the internet occasionally writing quirky tales, where inevitably some character is turned from one thing into another. You can find his tales on his FurAffinity @ GeoHolms, along with his collab tales written with a certain spiffin\u2019 bard fox.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "have-you-considered-being-a-capybara-by-geo-holms",
+            "summary": null,
+            "tags": [
+                "humor",
+                "narrator:rob-macwolf",
+                "by:geo-holms"
+            ],
+            "title": "\u201cHave You Considered Being a Capybara?\u201d by Geo Holms"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/903cc90e-3d32-46e4-b066-65b15dec3bdb/Worlds-Apart-by-Misto-part-2-of-2.mp3",
             "published_date": "2026-11-09T09:50:00.000Z",
             "shownotes": "<p><em>Stargazer and the Imperial Inquisitor face off with one another. Bringing Stargazer face to face with her greatest sin, and deepest guilt.</em></p><p>Today\u2019s story is the second and final part of \u201c<u><a href=\"https://radicalden.com/static/files/sidestories/worldsapart/worldsapart.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Worlds Apart</a></u>\u201d by <u><a href=\"https://bsky.app/profile/mistowrites.bsky.social\" rel=\"noopener noreferrer\" target=\"_blank\">Misto</a></u>, the lead writer of the Furry Sci-Fi creative collective <u><a href=\"https://bsky.app/profile/radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">Rad Den Studios</a></u>. This is one of their debut works in the <em>Foxxoverse</em> narrative canon, and you can find more at their website <u><a href=\"http://radicalden.com\" rel=\"noopener noreferrer\" target=\"_blank\">RadicalDen.com</a></u>.</p><p>Read by the Author.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -15646,6 +15660,7 @@
             "exile-from-the-land-of-giant-turtles-by-gar-sahoni-atkins"
         ],
         "by:geo-holms": [
+            "have-you-considered-being-a-capybara-by-geo-holms",
             "coming-ott-by-geo-holms",
             "a-gnollble-quest-by-lappi-t-fox-and-geo-holms"
         ],
@@ -18169,6 +18184,7 @@
             "the-pwca-by-holly-a-morrison-18"
         ],
         "humor": [
+            "have-you-considered-being-a-capybara-by-geo-holms",
             "a-darker-night-there-hasnt-been-by-danath-read-by-cider",
             "coming-out-poem-by-fritz-wolf",
             "18-welcome-to-the-rainbow-parade-by-rykar-thornpaw",
@@ -19131,6 +19147,7 @@
             "neon-bruises-by-domus-vocis-part-1-of-2"
         ],
         "narrator:rob-macwolf": [
+            "have-you-considered-being-a-capybara-by-geo-holms",
             "18-wherefore-art-thou-by-puptree",
             "his-best-friend-stan-by-royce-day",
             "amor-ranarum-by-packwolf-lupestripe",

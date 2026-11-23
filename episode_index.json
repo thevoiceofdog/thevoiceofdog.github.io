@@ -443,6 +443,27 @@
     "episodes": [
         {
             "episode_art": null,
+            "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/960db3af-5e8b-4230-a1e5-e4be021c13f3/18-A-Constellation-of-Black-on-Black-by-Alex-Vance-part-1-of-2.mp3",
+            "published_date": "2026-11-23T09:50:00.000Z",
+            "shownotes": "<p>[18+] <em>A solitary criminal without remorse or a reason to live meets a rebellious young noble who yearns for a wilder life. Their passion becomes a dangerous game, but whose life is it that hangs in the balance?</em></p><p>Today\u2019s story is the first of two parts of <u><a href=\"https://sofurry.com/s/e5RR2x8m\" rel=\"noopener noreferrer\" target=\"_blank\">\u201cA Constellation of Black on Black\u201d</a></u> by <u><a href=\"https://bsky.app/profile/khaki.dog\" rel=\"noopener noreferrer\" target=\"_blank\">Alex Vance</a></u>, first published in FurNation Magazine in 2008, set in the world of Kyell Gold\u2019s novel \u201cVolle\u201d. Alex Vance was the founder of Bad Dog Books, editor of the first three volumes of the FANG anthology and won an Ursa Major Award for Heathen City in 2008. His new novel \u201cGame of Life\u201d, co-written with your humble host, was recently published by Doppelfoxx Publishing, also as an audiobook.</p><p>Read for you by Khaki, your faithful fireside companion.</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
+            "slug": "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
+            "summary": null,
+            "tags": [
+                "check-tags",
+                "adult",
+                "thriller/suspense",
+                "drama",
+                "political/espionage",
+                "blood",
+                "drugs/alcohol",
+                "nsfw",
+                "by:alex-vance",
+                "narrator:khaki"
+            ],
+            "title": "[18+] \u201cA Constellation of Black on Black\u201d by Alex Vance (part 1 of 2)"
+        },
+        {
+            "episode_art": null,
             "media_url": "https://chtbl.com/track/E29313/podcasts.captivate.fm/media/e6dd6621-4b2d-4ba8-8f21-dff492151e7b/Have-You-Considered-Being-a-Capybara-by-Geo-Holms.mp3",
             "published_date": "2026-11-16T09:50:00.000Z",
             "shownotes": "<p><em>One day, a woman answers her door to find a pair of capybaras sitting there, who ask her an intriguing question\u2026</em></p><p>Today\u2019s story is \u201c<u><a href=\"https://www.furaffinity.net/view/59495787/\" rel=\"noopener noreferrer\" target=\"_blank\">\"Have You Considered Being a Capybara?\"</a></u>\u201d by <u><a href=\"https://www.furaffinity.net/user/geoholms\" rel=\"noopener noreferrer\" target=\"_blank\">Geo Holms</a></u>, who is a raccoon from the internet occasionally writing quirky tales, where inevitably some character is turned from one thing into another. You can find his tales on his FurAffinity @ GeoHolms, along with his collab tales written with a certain spiffin\u2019 bard fox.</p><p>{{snippet-3}}</p><p>{{snippet-4}}</p><p>{{d-episode-link}}</p>",
@@ -14912,6 +14933,7 @@
             "the-rat-s-gift-by-carrizo-kitfox"
         ],
         "adult": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "18-finally-by-fritz-wolf",
             "18victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-2-of-2",
             "18-victor-tremblay-in-the-three-lakes-incident-by-pascal-farful-part-1-of-2",
@@ -15112,6 +15134,7 @@
             "going-both-ways-by-mikasiwolf-18"
         ],
         "blood": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
@@ -15276,6 +15299,7 @@
             "chump-change-by-alex-katz"
         ],
         "by:alex-vance": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance"
         ],
         "by:alice-clawford": [
@@ -16509,6 +16533,7 @@
             "confluence-by-ziegenbock-18"
         ],
         "check-tags": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance",
@@ -17193,6 +17218,7 @@
             "faju-by-tiberiusrings-fruitz"
         ],
         "drama": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-2-of-2",
             "worlds-apart-by-misto-read-by-the-author-part-1-of-2",
             "his-best-friend-stan-by-royce-day",
@@ -17424,6 +17450,7 @@
             "same-as-me-by-nighteyes-dayspring"
         ],
         "drugs/alcohol": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance",
             "18-concert-movement-number-four-by-kandrel-part-2-of-2",
             "18-concert-movement-number-four-by-kandrel-part-1-of-2",
@@ -18813,6 +18840,7 @@
             "hey-buddy-by-dirt-coyote-read-by-kergiby"
         ],
         "narrator:khaki": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "from-the-sea-the-ghosts-by-alex-vance",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
@@ -19528,6 +19556,7 @@
             "your-family-and-mine-by-alex-t-dragonson"
         ],
         "nsfw": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "18-wherefore-art-thou-by-puptree",
             "18-blow-in-the-dark-by-tempe-okun-read-by-kergiby",
             "18-finally-by-fritz-wolf",
@@ -19892,6 +19921,7 @@
             "somebodys-gotta-do-the-dirty-work-by-spottystuff-part-1-of-2"
         ],
         "political/espionage": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "dicking-around-by-dirt-coyote",
             "a-fox-walks-into-a-bar-by-spottystuff-part-2-of-2",
@@ -20775,6 +20805,7 @@
             "fireside-meeting-after-the-holiday-feast-by-friends-of-the-fireplace-part-1-of-2"
         ],
         "thriller/suspense": [
+            "18-a-constellation-of-black-on-black-by-alex-vance-part-1-of-2",
             "spy-games-by-j-s-hawthorne-part-2-of-2",
             "spy-games-by-j-s-hawthorne-part-1-of-2",
             "chase-the-pride-by-d-j-fahl-part-2-of-2",
